@@ -1,0 +1,112 @@
+{
+  "name": "Aprova Ita",
+  "repo": "AprovaIta",
+  "tagline": "Estude para a Câmara de Itanhaém direto do celular.",
+  "urls": {
+    "demo": "https://aprovaita.vercel.app"
+  },
+  "stack": [
+    {
+      "pkg": "next"
+    },
+    {
+      "pkg": "react"
+    },
+    {
+      "pkg": "typescript"
+    },
+    {
+      "pkg": "tailwindcss"
+    },
+    "react-markdown",
+    "remark-gfm",
+    "gray-matter",
+    "tsx",
+    {
+      "pkg": "eslint"
+    }
+  ],
+  "badges_extra": [
+    {
+      "alt": "Dados no navegador",
+      "label": "dados",
+      "message": "só no seu navegador",
+      "color": "0a6b7c"
+    }
+  ],
+  "features": [
+    {
+      "title": "Funcionalidade 01",
+      "desc": "Estudar por área. 47 tópicos em Português, Matemática, Legislação e Específicos, cada um com explicação e questões."
+    },
+    {
+      "title": "Funcionalidade 02",
+      "desc": "Quiz por tópico. Quiz A com questões autorais e Quiz B com questões reais da VUNESP, com gabarito comentado."
+    },
+    {
+      "title": "Funcionalidade 03",
+      "desc": "Simulados. Prova de 40 questões com cronômetro de 3h, pausa, marcação para revisar e folha de respostas."
+    },
+    {
+      "title": "Funcionalidade 04",
+      "desc": "Nota como no edital. Acertos × 100 ÷ 40, com aviso de habilitação (nota mínima 50)."
+    },
+    {
+      "title": "Funcionalidade 05",
+      "desc": "Caderno de erros. Tudo o que você errou fica guardado. Acertou ao refazer? A questão sai do caderno."
+    },
+    {
+      "title": "Funcionalidade 06",
+      "desc": "Progresso. Tópicos vistos e dominados, desempenho por área, pontos fracos e próximo passo sugerido."
+    },
+    {
+      "title": "Funcionalidade 07",
+      "desc": "Contagem regressiva. Quantos dias faltam para a prova, na tela inicial."
+    },
+    {
+      "title": "Funcionalidade 08",
+      "desc": "Tema claro e escuro. Segue o tema do aparelho e dá para trocar na hora."
+    }
+  ],
+  "banner": {
+    "shot": {
+      "file": "docs/screenshots/principal-dark.png"
+    },
+    "chips": 4
+  },
+  "demo": {
+    "note": "Capturas com progresso fictício, só para demonstração.",
+    "layout": "stack",
+    "shots": [
+      {
+        "file": "docs/screenshots/principal-dark.png",
+        "file_light": "docs/screenshots/principal-light.png",
+        "title": "/",
+        "alt": "Tela inicial do Aprova Ita: contagem regressiva para a prova, progresso geral e áreas de estudo"
+      },
+      {
+        "file": "docs/screenshots/estudar.png",
+        "title": "/conteudo",
+        "alt": "Lista de tópicos de Língua Portuguesa com o status de cada um: dominado, visto ou não visto",
+        "caption": "<b>Estudar</b>: os tópicos de cada área, com o seu status."
+      },
+      {
+        "file": "docs/screenshots/progresso.png",
+        "title": "/progresso",
+        "alt": "Painel de progresso com próximo passo sugerido e desempenho por área",
+        "caption": "<b>Progresso</b>: desempenho por área e o próximo passo sugerido."
+      },
+      {
+        "files": [
+          "docs/screenshots/topico.png",
+          "docs/screenshots/simulado.png"
+        ],
+        "title": "No celular",
+        "alt": "Página de um tópico no celular, com botões para marcar como visto ou dominado, e simulado no celular com cronômetro, questão e alternativas",
+        "caption": "<b>Tópico no celular</b>: explicação objetiva, com a barra de abas embaixo. <b>Simulado</b>: cronômetro, questão e alternativas ao alcance do polegar."
+      }
+    ]
+  },
+  "footer": "Feito com 💚 para quem estuda no ônibus, na fila e na hora do almoço.",
+  "credits": []
+}
