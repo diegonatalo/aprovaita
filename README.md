@@ -1,7 +1,7 @@
 <!-- Arquivo gerado pelo readme-kit. Não edite aqui: altere docs/readme/ e rode "readme-kit build". -->
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="Aprova Ita: Estude para a Câmara de Itanhaém direto do celular. github.com/diegonatalo/AprovaIta. Stack: Next.js 16, React 19, TypeScript 5, Tailwind CSS 4" width="100%" />
+<img src="docs/assets/banner.svg" alt="Aprova Ita: Estude para a Câmara de Itanhaém direto do celular. github.com/diegonatalo/AprovaIta. Stack: Next.js 16, React 19, TypeScript 6, Tailwind CSS 4" width="100%" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript_5-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript_6-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Dados no navegador](https://img.shields.io/badge/dados-s%C3%B3_no_seu_navegador-0a6b7c?style=flat-square)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-16a34a?style=flat-square)
@@ -106,7 +106,7 @@ São 40 questões: 8 de Português, 5 de Matemática, 3 de Legislação Municipa
 
 <div align="center">
 
-<img src="docs/assets/stack.svg" alt="Stack: Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, react-markdown, remark-gfm, gray-matter, tsx, ESLint 9" width="100%" />
+<img src="docs/assets/stack.svg" alt="Stack: Next.js 16, React 19, TypeScript 6, Tailwind CSS 4, react-markdown, remark-gfm, gray-matter, tsx, ESLint 9" width="100%" />
 
 </div>
 
