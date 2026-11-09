@@ -17,18 +17,18 @@ interface Destino {
 // Barra inferior (mobile): 5 destinos principais.
 const ABAS: Destino[] = [
   { href: "/", rotulo: "Início", icone: "casa" },
-  { href: "/conteudo/", rotulo: "Estudar", icone: "livro", prefixo: "/conteudo" },
-  { href: "/simulado/", rotulo: "Simulado", icone: "prova", prefixo: "/simulado" },
-  { href: "/revisao/", rotulo: "Erros", icone: "revisao", prefixo: "/revisao" },
-  { href: "/progresso/", rotulo: "Progresso", icone: "grafico", prefixo: "/progresso" },
+  { href: "/conteudo", rotulo: "Estudar", icone: "livro", prefixo: "/conteudo" },
+  { href: "/simulado", rotulo: "Simulado", icone: "prova", prefixo: "/simulado" },
+  { href: "/revisao", rotulo: "Erros", icone: "revisao", prefixo: "/revisao" },
+  { href: "/progresso", rotulo: "Progresso", icone: "grafico", prefixo: "/progresso" },
 ];
 
 // Barra lateral (desktop): áreas aparecem como subitens de "Estudar".
 const AREAS_LATERAL: Destino[] = [
-  { href: "/conteudo/especificos/", rotulo: "Específicos", icone: "pasta", prefixo: "/conteudo/especificos" },
-  { href: "/conteudo/portugues/", rotulo: "Português", icone: "letras", prefixo: "/conteudo/portugues" },
-  { href: "/conteudo/matematica/", rotulo: "Matemática", icone: "calc", prefixo: "/conteudo/matematica" },
-  { href: "/conteudo/legislacao/", rotulo: "Legislação", icone: "balanca", prefixo: "/conteudo/legislacao" },
+  { href: "/conteudo/especificos", rotulo: "Específicos", icone: "pasta", prefixo: "/conteudo/especificos" },
+  { href: "/conteudo/portugues", rotulo: "Português", icone: "letras", prefixo: "/conteudo/portugues" },
+  { href: "/conteudo/matematica", rotulo: "Matemática", icone: "calc", prefixo: "/conteudo/matematica" },
+  { href: "/conteudo/legislacao", rotulo: "Legislação", icone: "balanca", prefixo: "/conteudo/legislacao" },
 ];
 
 function assinarTema(f: () => void) {
@@ -99,7 +99,7 @@ export function Nav() {
           {ABAS.map((d) => (
             <div key={d.href}>
               <ItemLateral d={d} ativo={ativo(caminho, d)} />
-              {d.href === "/conteudo/" && (
+              {d.href === "/conteudo" && (
                 <div className="mb-1 ml-5 mt-1 space-y-0.5 border-l border-borda pl-3">
                   {AREAS_LATERAL.map((a) => (
                     <Link

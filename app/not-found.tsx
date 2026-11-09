@@ -18,12 +18,12 @@ export default function NaoEncontrada() {
       </Link>
       <nav aria-label="Áreas de estudo" className="flex flex-wrap justify-center gap-2 text-sm">
         {AREAS.map((a) => (
-          <Link key={a} href={`/conteudo/${a}/`} className="chip">
+          <Link key={a} href={`/conteudo/${a}`} className="chip">
             {NOMES_AREA[a]}
           </Link>
         ))}
-        <Link href="/simulado/" className="chip">Simulado</Link>
-        <Link href="/progresso/" className="chip">Progresso</Link>
+        <Link href="/simulado" className="chip">Simulado</Link>
+        <Link href="/progresso" className="chip">Progresso</Link>
       </nav>
     </div>
   );

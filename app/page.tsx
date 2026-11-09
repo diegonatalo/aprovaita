@@ -29,11 +29,11 @@ export default function Home() {
             <Countdown alvoISO={PROVA.dataProva} />
           </div>
           <div className="flex flex-wrap gap-2.5">
-            <Link href="/simulado/" className="btn bg-white text-[#0c3d52] hover:bg-white/90">
+            <Link href="/simulado" className="btn bg-white text-[#0c3d52] hover:bg-white/90">
               <Icone nome="prova" className="h-[1.1rem] w-[1.1rem]" />
               Fazer simulado
             </Link>
-            <Link href="/revisao/" className="btn border border-white/35 text-white hover:bg-white/10">
+            <Link href="/revisao" className="btn border border-white/35 text-white hover:bg-white/10">
               Meus erros
             </Link>
           </div>
@@ -51,7 +51,7 @@ export default function Home() {
             <strong className="text-foreground">{PROVA.totalQuestoes} questões</strong> · {PROVA.banca} ·{" "}
             {PROVA.duracaoMinutos / 60}h. Habilitado com nota ≥ {PROVA.notaCorte} (20 acertos).
           </p>
-          <Link href="/progresso/" className="inline-flex items-center gap-1.5 text-sm font-semibold text-acento">
+          <Link href="/progresso" className="inline-flex items-center gap-1.5 text-sm font-semibold text-acento">
             Ver meu desempenho <Icone nome="seta" className="h-4 w-4" />
           </Link>
         </div>

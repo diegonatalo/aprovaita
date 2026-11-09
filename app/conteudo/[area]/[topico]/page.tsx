@@ -24,7 +24,7 @@ export default async function PaginaTopico({
   return (
     <article className="space-y-10">
       <header className="space-y-3">
-        <Link href={`/conteudo/${t.area}/`} className="inline-flex items-center gap-1 text-sm font-medium text-acento">
+        <Link href={`/conteudo/${t.area}`} className="inline-flex items-center gap-1 text-sm font-medium text-acento">
           <span aria-hidden>←</span> {NOMES_AREA[t.area as Area]}
         </Link>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl">{t.titulo}</h1>

@@ -18,7 +18,7 @@ export default async function PaginaArea({ params }: { params: Promise<{ area: s
   return (
     <div className="space-y-6">
       <header>
-        <Link href="/conteudo/" className="mb-3 inline-flex items-center gap-1 text-sm font-medium text-acento">
+        <Link href="/conteudo" className="mb-3 inline-flex items-center gap-1 text-sm font-medium text-acento">
           <span aria-hidden>←</span> Estudar
         </Link>
         <h1 className="font-display text-3xl font-extrabold">{NOMES_AREA[a]}</h1>
@@ -33,7 +33,7 @@ export default async function PaginaArea({ params }: { params: Promise<{ area: s
           {topicos.map((t) => (
             <li key={t.slug}>
               <Link
-                href={`/conteudo/${t.area}/${t.slug}/`}
+                href={`/conteudo/${t.area}/${t.slug}`}
                 className="card card-link flex items-start justify-between gap-3 p-4"
               >
                 <span>

@@ -76,7 +76,7 @@ export function PainelProgresso({ topicos }: { topicos: TopicoResumo[] }) {
         <h2 className="mb-2 font-bold">Próximo passo</h2>
         {sugestao ? (
           <p className="text-sm">
-            <Link href={`/conteudo/${sugestao.t.area}/${sugestao.t.slug}/`} className="font-semibold text-acento underline">
+            <Link href={`/conteudo/${sugestao.t.area}/${sugestao.t.slug}`} className="font-semibold text-acento underline">
               {sugestao.t.titulo}
             </Link>{" "}
             <span className="text-muted">({NOMES_AREA[sugestao.t.area]}): {sugestao.motivo}</span>
@@ -87,7 +87,7 @@ export function PainelProgresso({ topicos }: { topicos: TopicoResumo[] }) {
         {p.erros.length > 0 && (
           <p className="mt-2 text-sm text-muted">
             Você tem {p.erros.length} questão(ões) no{" "}
-            <Link href="/revisao/" className="text-acento underline">caderno de erros</Link>.
+            <Link href="/revisao" className="text-acento underline">caderno de erros</Link>.
           </p>
         )}
       </section>
@@ -114,7 +114,7 @@ export function PainelProgresso({ topicos }: { topicos: TopicoResumo[] }) {
           <ul className="space-y-1 text-sm">
             {fracos.map((t) => (
               <li key={t.chave} className="flex flex-wrap justify-between gap-2">
-                <Link href={`/conteudo/${t.area}/${t.slug}/`} className="text-acento underline">{t.titulo}</Link>
+                <Link href={`/conteudo/${t.area}/${t.slug}`} className="text-acento underline">{t.titulo}</Link>
                 <span className="text-muted">{t.acertos}/{t.total} ({pct(t.acertos, t.total)}%)</span>
               </li>
             ))}
