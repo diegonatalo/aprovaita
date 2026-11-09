@@ -3,6 +3,6 @@ export const SITE = {
   nome: "Aprova Ita",
   descricao:
     "Estudos para o Concurso nº 01/2026 da Câmara de Itanhaém (Agente Administrativo, VUNESP): conteúdo, questões, simulados e progresso.",
-  // VERIFICAR: confirme o endereço real após o deploy na Vercel.
-  url: "https://aprovaita.vercel.app",
+  // Para publicar em outro domínio, defina NEXT_PUBLIC_SITE_URL no build.
+  url: (process.env.NEXT_PUBLIC_SITE_URL ?? "https://aprovaita.vercel.app").replace(/\/+$/, ""),
 } as const;
