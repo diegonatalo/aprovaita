@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { exportProgress, importProgress } from "@/lib/storage";
 
-export function Backup() {
+export const Backup = () => {
   const [message, setMessage] = useState("");
 
   function exportData() {
@@ -40,4 +40,4 @@ export function Backup() {
       {message && <p role="status" className="text-sm">{message}</p>}
     </section>
   );
-}
+};

@@ -7,13 +7,13 @@ import { recordMistakes, useProgress } from "@/lib/storage";
 import type { TopicInfo } from "@/lib/bank";
 import type { Area, Question } from "@/types";
 
-export function ReviewApp({
+export const ReviewApp = ({
   questions,
   info,
 }: {
   questions: Question[];
   info: Record<string, TopicInfo>;
-}) {
+}) => {
   const { mistakes } = useProgress();
   const [area, setArea] = useState<Area | "todas">("todas");
   const [topic, setTopic] = useState("todos");
@@ -150,4 +150,4 @@ export function ReviewApp({
       )}
     </div>
   );
-}
+};

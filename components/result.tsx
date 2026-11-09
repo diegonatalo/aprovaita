@@ -9,7 +9,7 @@ import type { TopicInfo } from "@/lib/bank";
 import type { Attempt } from "@/lib/storage";
 import type { Area, Question } from "@/types";
 
-function Bar({ correct, total }: { correct: number; total: number }) {
+const Bar = ({ correct, total }: { correct: number; total: number }) => {
   const pct = total ? (correct / total) * 100 : 0;
   return (
     <div className="flex items-center gap-2">
@@ -21,9 +21,9 @@ function Bar({ correct, total }: { correct: number; total: number }) {
       </span>
     </div>
   );
-}
+};
 
-export function Result({
+export const Result = ({
   attempt,
   bank,
   info,
@@ -33,7 +33,7 @@ export function Result({
   bank: Record<string, Question>;
   info: Record<string, TopicInfo>;
   onBack: () => void;
-}) {
+}) => {
   const [filter, setFilter] = useState<"todas" | "erradas" | "branco">("todas");
   const questions = attempt.order.map((id) => bank[id]).filter(Boolean);
   const c = grade(questions, attempt.answers);
@@ -124,4 +124,4 @@ export function Result({
       </section>
     </div>
   );
-}
+};

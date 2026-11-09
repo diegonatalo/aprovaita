@@ -1,6 +1,6 @@
 import { formatTime } from "@/lib/format";
 
-export function ExamTimer({
+export const ExamTimer = ({
   remaining,
   paused,
   onTogglePause,
@@ -8,7 +8,7 @@ export function ExamTimer({
   remaining: number;
   paused: boolean;
   onTogglePause: () => void;
-}) {
+}) => {
   const alert = remaining <= 600;
   return (
     <div className="flex items-center gap-3">
@@ -24,4 +24,4 @@ export function ExamTimer({
       </button>
     </div>
   );
-}
+};

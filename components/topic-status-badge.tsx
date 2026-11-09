@@ -11,10 +11,10 @@ const COLOR: Record<TopicStatus, string> = {
   mastered: "border-acerto/50 bg-acerto/10 text-acerto",
 };
 
-export function TopicStatusBadge({ status }: { status: TopicStatus }) {
+export const TopicStatusBadge = ({ status }: { status: TopicStatus }) => {
   return (
     <span className={`inline-block shrink-0 whitespace-nowrap rounded-full border px-2.5 py-0.5 text-xs font-semibold ${COLOR[status]}`}>
       {LABEL[status]}
     </span>
   );
-}
+};

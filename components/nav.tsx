@@ -58,7 +58,7 @@ function active(path: string, d: Destination) {
   return path.startsWith(d.prefix ?? d.href);
 }
 
-function ThemeButton({ className = "" }: { className?: string }) {
+const ThemeButton = ({ className = "" }: { className?: string }) => {
   const { dark, toggle } = useTheme();
   return (
     <button
@@ -69,9 +69,9 @@ function ThemeButton({ className = "" }: { className?: string }) {
       <Icon name={dark ? "sun" : "moon"} className="h-[1.15rem] w-[1.15rem]" />
     </button>
   );
-}
+};
 
-export function Nav() {
+export const Nav = () => {
   const path = usePathname();
 
   return (
@@ -151,9 +151,9 @@ export function Nav() {
       </nav>
     </>
   );
-}
+};
 
-function SidebarItem({ d, active: a }: { d: Destination; active: boolean }) {
+const SidebarItem = ({ d, active: a }: { d: Destination; active: boolean }) => {
   return (
     <Link
       href={d.href}
@@ -164,4 +164,4 @@ function SidebarItem({ d, active: a }: { d: Destination; active: boolean }) {
       {d.label === "Erros" ? "Caderno de erros" : d.label}
     </Link>
   );
-}
+};

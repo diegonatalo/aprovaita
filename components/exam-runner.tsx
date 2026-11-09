@@ -15,7 +15,7 @@ import {
 } from "@/lib/storage";
 import type { Question } from "@/types";
 
-export function ExamRunner({
+export const ExamRunner = ({
   initial,
   bank,
   onFinished,
@@ -23,7 +23,7 @@ export function ExamRunner({
   initial: ExamSession;
   bank: Record<string, Question>;
   onFinished: (t: Attempt) => void;
-}) {
+}) => {
   const questions = initial.order.map((id) => bank[id]).filter(Boolean);
   const [answers, setAnswers] = useState(initial.answers);
   const [flagged, setFlagged] = useState(initial.flagged);
@@ -211,4 +211,4 @@ export function ExamRunner({
       )}
     </div>
   );
-}
+};

@@ -6,7 +6,7 @@ import { recordQuiz, useProgress } from "@/lib/storage";
 import type { Question } from "@/types";
 
 /** Quiz de um tópico (A = autoral, B = banca). Slot B vazio mostra aviso claro. */
-export function QuizCard({
+export const QuizCard = ({
   topicKey,
   quiz,
   questions,
@@ -14,7 +14,7 @@ export function QuizCard({
   topicKey: string; // "area/slug"
   quiz: "A" | "B";
   questions: Question[];
-}) {
+}) => {
   const progress = useProgress();
   const previous = progress.quizzes[topicKey]?.[quiz];
   const [answers, setAnswers] = useState<(number | null)[]>(() => questions.map(() => null));
@@ -88,4 +88,4 @@ export function QuizCard({
       )}
     </section>
   );
-}
+};

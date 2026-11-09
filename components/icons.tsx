@@ -53,7 +53,7 @@ const PATHS: Record<IconName, React.ReactNode> = {
   check: <path d="m5 12.5 4.5 4.5L19 7.5" />,
 };
 
-export function Icon({ name, className = "h-5 w-5", ...rest }: { name: IconName } & SVGProps<SVGSVGElement>) {
+export const Icon = ({ name, className = "h-5 w-5", ...rest }: { name: IconName } & SVGProps<SVGSVGElement>) => {
   return (
     <svg
       viewBox="0 0 24 24"
@@ -69,10 +69,10 @@ export function Icon({ name, className = "h-5 w-5", ...rest }: { name: IconName 
       {PATHS[name]}
     </svg>
   );
-}
+};
 
 /** Marca do app: quadrado do mar com sol e um "check" de aprovação. */
-export function Logo({ size = 36 }: { size?: number }) {
+export const Logo = ({ size = 36 }: { size?: number }) => {
   // id único: a marca aparece duas vezes (topo mobile e lateral desktop) e um deles fica oculto
   const gradient = useId();
   return (
@@ -89,4 +89,4 @@ export function Logo({ size = 36 }: { size?: number }) {
       <path d="M8 52c6-4 10-4 16 0s10 4 16 0 10-4 16 0" fill="none" stroke="#ffffff55" strokeWidth="3" strokeLinecap="round" />
     </svg>
   );
-}
+};

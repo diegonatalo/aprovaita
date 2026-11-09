@@ -14,7 +14,7 @@ const ICON: Record<Area, IconName> = {
 const ORDER: Area[] = ["especificos", "portugues", "matematica", "legislacao"];
 
 /** Grade com as quatro áreas da prova e o progresso de cada uma. */
-export function AreaCards() {
+export const AreaCards = () => {
   const topics = listTopics();
   return (
     <div className="grid gap-3 sm:grid-cols-2">
@@ -40,4 +40,4 @@ export function AreaCards() {
       })}
     </div>
   );
-}
+};

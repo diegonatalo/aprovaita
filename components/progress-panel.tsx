@@ -18,7 +18,7 @@ const WEAK_THRESHOLD = 0.7;
 
 const pct = (a: number, t: number) => (t ? Math.round((a / t) * 100) : 0);
 
-function Bar({ value, label }: { value: number; label: string }) {
+const Bar = ({ value, label }: { value: number; label: string }) => {
   return (
     <div
       role="progressbar"
@@ -31,9 +31,9 @@ function Bar({ value, label }: { value: number; label: string }) {
       <div className="h-full rounded-full bg-acento" style={{ width: `${value}%` }} />
     </div>
   );
-}
+};
 
-export function ProgressPanel({ topics }: { topics: TopicSummary[] }) {
+export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
   const p = useProgress();
 
   // desempenho nos quizzes por tópico (A + B somados)
@@ -157,4 +157,4 @@ export function ProgressPanel({ topics }: { topics: TopicSummary[] }) {
       </p>
     </div>
   );
-}
+};

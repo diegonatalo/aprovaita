@@ -25,13 +25,13 @@ type Screen =
 const ORIGIN: Record<"A" | "B", Origin> = { A: "authored", B: "exam" };
 const TITLE = { A: "Simulado A — questões autorais", B: "Simulado B — questões reais da banca" };
 
-export function MockExamApp({
+export const MockExamApp = ({
   questions,
   info,
 }: {
   questions: Question[];
   info: Record<string, TopicInfo>;
-}) {
+}) => {
   const [screen, setScreen] = useState<Screen>({ kind: "home" });
   const progress = useProgress();
   const examSession = useExamSession();
@@ -186,4 +186,4 @@ export function MockExamApp({
       </section>
     </div>
   );
-}
+};

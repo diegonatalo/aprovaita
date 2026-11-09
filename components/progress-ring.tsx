@@ -1,4 +1,4 @@
-export function ProgressRing({
+export const ProgressRing = ({
   value,
   size = 72,
   label,
@@ -6,7 +6,7 @@ export function ProgressRing({
   value: number; // 0–100
   size?: number;
   label?: string;
-}) {
+}) => {
   const r = 16;
   const c = 2 * Math.PI * r;
   const v = Math.max(0, Math.min(100, value));
@@ -34,4 +34,4 @@ export function ProgressRing({
       <span className="absolute font-display text-sm font-bold">{Math.round(v)}%</span>
     </div>
   );
-}
+};

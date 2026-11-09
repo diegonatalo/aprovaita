@@ -2,7 +2,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
 /** Renderiza Markdown (explicações e enunciados). Tabelas ganham rolagem horizontal no celular. */
-export function Markdown({
+export const Markdown = ({
   children,
   className = "",
   inline = false,
@@ -11,7 +11,7 @@ export function Markdown({
   className?: string;
   /** Sem parágrafos: para trechos curtos dentro de outro elemento (alternativas). */
   inline?: boolean;
-}) {
+}) => {
   const Root = inline ? "span" : "div";
   return (
     <Root className={className}>
@@ -34,4 +34,4 @@ export function Markdown({
       </ReactMarkdown>
     </Root>
   );
-}
+};

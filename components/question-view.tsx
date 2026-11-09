@@ -6,7 +6,7 @@ import type { Question } from "@/types";
 const LETTERS = ["A", "B", "C", "D", "E"] as const;
 
 /** Mostra uma questão. Com `revelar`, destaca gabarito e exibe o comentário. */
-export function QuestionView({
+export const QuestionView = ({
   question,
   number,
   choice,
@@ -20,7 +20,7 @@ export function QuestionView({
   onChoose?: (i: number) => void;
   reveal: boolean;
   showStatus?: boolean;
-}) {
+}) => {
   const name = `q-${question.id}`;
   return (
     <fieldset className="card p-4 sm:p-5">
@@ -99,4 +99,4 @@ export function QuestionView({
       )}
     </fieldset>
   );
-}
+};

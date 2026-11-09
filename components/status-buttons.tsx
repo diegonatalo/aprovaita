@@ -4,7 +4,7 @@ import { setTopicStatus, useProgress } from "@/lib/storage";
 import { TopicStatusBadge } from "./topic-status-badge";
 import type { TopicStatus } from "@/types";
 
-export function StatusButtons({ topicKey }: { topicKey: string }) {
+export const StatusButtons = ({ topicKey }: { topicKey: string }) => {
   const status: TopicStatus = useProgress().topics[topicKey] ?? "unseen";
   const button = (target: TopicStatus, label: string) => (
     <button
@@ -22,10 +22,10 @@ export function StatusButtons({ topicKey }: { topicKey: string }) {
       {button("mastered", "Marcar como dominado")}
     </div>
   );
-}
+};
 
 /** Badge que lê o status salvo (para listas). */
-export function TopicStatusLabel({ topicKey }: { topicKey: string }) {
+export const TopicStatusLabel = ({ topicKey }: { topicKey: string }) => {
   const status: TopicStatus = useProgress().topics[topicKey] ?? "unseen";
   return <TopicStatusBadge status={status} />;
-}
+};

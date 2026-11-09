@@ -3,7 +3,7 @@
 import type { Question } from "@/types";
 
 /** Folha de respostas: um botão por questão, com estado (respondida, marcada para revisar, atual). */
-export function AnswerSheet({
+export const AnswerSheet = ({
   questions,
   answers,
   flagged,
@@ -15,7 +15,7 @@ export function AnswerSheet({
   flagged: string[];
   current: number;
   onGo: (i: number) => void;
-}) {
+}) => {
   return (
     <div>
       <div className="grid grid-cols-8 gap-1.5 sm:grid-cols-5">
@@ -43,4 +43,4 @@ export function AnswerSheet({
       </p>
     </div>
   );
-}
+};

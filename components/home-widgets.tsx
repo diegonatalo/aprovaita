@@ -10,7 +10,7 @@ function subscribeClock(f: () => void) {
 }
 
 /** Contagem regressiva grande, pensada para o fundo escuro do herói da Home. */
-export function Countdown({ targetISO }: { targetISO: string }) {
+export const Countdown = ({ targetISO }: { targetISO: string }) => {
   // arredonda ao minuto para o snapshot ser estável entre leituras
   const now = useSyncExternalStore(
     subscribeClock,
@@ -29,9 +29,9 @@ export function Countdown({ targetISO }: { targetISO: string }) {
       <span className="text-base opacity-75">e {hours}h</span>
     </p>
   );
-}
+};
 
-export function OverallProgress({ topicKeys }: { topicKeys: string[] }) {
+export const OverallProgress = ({ topicKeys }: { topicKeys: string[] }) => {
   const p = useProgress();
   const seenTopics = topicKeys.filter((c) => (p.topics[c] ?? "unseen") !== "unseen").length;
   const masteredTopics = topicKeys.filter((c) => p.topics[c] === "mastered").length;
@@ -46,10 +46,10 @@ export function OverallProgress({ topicKeys }: { topicKeys: string[] }) {
       </p>
     </div>
   );
-}
+};
 
 /** Barra fina de tópicos vistos em um conjunto (usada nos cartões de área). */
-export function AreaBar({ topicKeys }: { topicKeys: string[] }) {
+export const AreaBar = ({ topicKeys }: { topicKeys: string[] }) => {
   const p = useProgress();
   const seenTopics = topicKeys.filter((c) => (p.topics[c] ?? "unseen") !== "unseen").length;
   const pct = topicKeys.length ? (seenTopics / topicKeys.length) * 100 : 0;
@@ -70,4 +70,4 @@ export function AreaBar({ topicKeys }: { topicKeys: string[] }) {
       </p>
     </div>
   );
-}
+};
