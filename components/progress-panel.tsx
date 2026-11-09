@@ -6,12 +6,12 @@ import { useProgress } from "@/lib/storage";
 import { formatDate, formatScore } from "@/lib/format";
 import type { Area } from "@/types";
 
-export interface TopicSummary {
+export type TopicSummary = {
   topicKey: string; // "area/slug"
   area: Area;
   slug: string;
   title: string;
-}
+};
 
 const AREAS: Area[] = ["especificos", "portugues", "matematica", "legislacao"];
 const WEAK_THRESHOLD = 0.7;

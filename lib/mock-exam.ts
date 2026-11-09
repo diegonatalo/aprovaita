@@ -15,12 +15,12 @@ export function quotas(): { area: Area; subarea?: Subarea; amount: number }[] {
   return list;
 }
 
-export interface Gap {
+export type Gap = {
   area: Area;
   subarea?: Subarea;
   required: number;
   isAvailable: number;
-}
+};
 
 /** Quantas questões faltam no banco para montar um simulado completo. */
 export function gaps(bank: Question[], origin: Origin): Gap[] {

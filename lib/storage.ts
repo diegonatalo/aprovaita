@@ -6,13 +6,13 @@ import type { TopicStatus } from "@/types";
 const STORAGE_KEY = "concurso-itanhaem:progresso";
 export const SCHEMA_VERSION = 2;
 
-export interface QuizResult {
+export type QuizResult = {
   correct: number;
   total: number;
   data: string; // ISO
-}
+};
 
-export interface Attempt {
+export type Attempt = {
   id: string;
   mockExam: "A" | "B";
   startedAt: string;
@@ -25,10 +25,10 @@ export interface Attempt {
   partial: boolean; // simulado reduzido (banco incompleto)
   qualified: boolean | null;
   byArea: Record<string, { correct: number; total: number }>;
-}
+};
 
 /** Prova em andamento (sobrevive a recarregar a página). */
-export interface ExamSession {
+export type ExamSession = {
   mockExam: "A" | "B";
   startedAt: string;
   order: string[];
@@ -37,15 +37,15 @@ export interface ExamSession {
   remainingSeconds: number;
   durationSeconds: number;
   current: number;
-}
+};
 
-export interface Progress {
+export type Progress = {
   version: number;
   topics: Record<string, TopicStatus>; // "area/slug"
   quizzes: Record<string, { A?: QuizResult; B?: QuizResult }>;
   mistakes: string[]; // ids de questões erradas (caderno de erros)
   attempts: Attempt[];
-}
+};
 
 const EMPTY: Progress = {
   version: SCHEMA_VERSION,

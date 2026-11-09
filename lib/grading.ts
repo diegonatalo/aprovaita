@@ -3,12 +3,12 @@ import type { Area, Question } from "@/types";
 
 export type Answers = Record<string, number | null>;
 
-export interface Performance {
+export type Performance = {
   correct: number;
   total: number;
-}
+};
 
-export interface Grading {
+export type Grading = {
   correct: number;
   mistakes: number;
   blank: number;
@@ -19,7 +19,7 @@ export interface Grading {
   qualified: boolean | null; // null em simulado reduzido
   byArea: Record<Area, Performance>;
   byTopic: Record<string, Performance>; // "area/slug"
-}
+};
 
 export function grade(questions: Question[], answers: Answers): Grading {
   const byArea: Record<string, Performance> = {};

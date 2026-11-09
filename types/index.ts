@@ -7,16 +7,16 @@ export type Origin = "authored" | "exam";
 export type TopicStatus = "unseen" | "seen" | "mastered";
 export type SourceStatus = "ok" | "PENDING_SOURCE";
 
-export interface ExamSource {
+export type ExamSource = {
   agency: string;
   year: number;
   position: string;
   number: number;
   /** Documento oficial de onde veio o gabarito (edital de divulgação etc.) e sua condição. */
   answerKeySource: string;
-}
+};
 
-export interface Question {
+export type Question = {
   id: string;
   area: Area;
   subarea?: Subarea;
@@ -27,9 +27,9 @@ export interface Question {
   choices: [string, string, string, string, string]; // A–E
   answerKey: 0 | 1 | 2 | 3 | 4;
   explanation: string; // por que a certa está certa e as outras erradas
-}
+};
 
-export interface Topic {
+export type Topic = {
   area: Area;
   subarea?: Subarea;
   slug: string;
@@ -40,4 +40,4 @@ export interface Topic {
   content: string; // markdown
   authored: Question[];
   exam: Question[];
-}
+};

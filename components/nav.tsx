@@ -6,13 +6,13 @@ import { useSyncExternalStore } from "react";
 import { Icon, Logo, type IconName } from "./icons";
 import { SITE } from "@/lib/site";
 
-interface Destination {
+type Destination = {
   href: string;
   label: string;
   icon: IconName;
   /** Prefixo que mantém o item ativo (ex.: /conteudo/ vale para todas as áreas). */
   prefix?: string;
-}
+};
 
 // Barra inferior (mobile): 5 destinos principais.
 const ABAS: Destination[] = [

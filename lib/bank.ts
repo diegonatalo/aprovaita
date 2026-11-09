@@ -1,11 +1,11 @@
 import { listTopics } from "./content";
 import type { Area, Question, Subarea } from "@/types";
 
-export interface TopicInfo {
+export type TopicInfo = {
   title: string;
   area: Area;
   subarea?: Subarea;
-}
+};
 
 /** Banco completo (autorais + banca) e títulos dos tópicos, para passar a componentes client. */
 export function loadBank() {
