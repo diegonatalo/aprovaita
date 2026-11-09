@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useSyncExternalStore } from "react";
 import { Icone, Logo, type NomeIcone } from "./Icones";
-import { SITE } from "../../config/site";
+import { SITE } from "@/config/site";
 
 interface Destino {
   href: string;

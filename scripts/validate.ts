@@ -1,8 +1,8 @@
 // npm run validate — falha (exit 1) se o conteúdo violar as regras do projeto.
 import { PROVA } from "../config/prova";
-import { listarTopicos } from "../src/lib/content";
-import { lacunas } from "../src/lib/simulado";
-import type { Questao } from "../src/lib/tipos";
+import { listarTopicos } from "../lib/content";
+import { lacunas } from "../lib/simulado";
+import type { Questao } from "../lib/tipos";
 
 const ESTRITO = process.argv.includes("--strict"); // exige banco completo p/ montar simulados
 const erros: string[] = [];

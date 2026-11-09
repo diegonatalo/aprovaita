@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { NOMES_AREA, PROVA } from "../../config/prova";
+import { NOMES_AREA, PROVA } from "@/config/prova";
 import { useProgresso } from "@/lib/storage";
 import { formatarData, formatarNota } from "@/lib/formato";
 import type { Area } from "@/lib/tipos";

@@ -1,5 +1,5 @@
 // Fonte única dos parâmetros da prova (Edital 01/2026, Retificação nº 01).
-import type { Area, Subarea } from "../src/lib/tipos";
+import type { Area, Subarea } from "../lib/tipos";
 
 export const PROVA = {
   orgao: "Câmara Municipal da Estância Balneária de Itanhaém",

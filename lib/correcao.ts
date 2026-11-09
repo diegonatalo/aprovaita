@@ -1,4 +1,4 @@
-import { PROVA } from "../../config/prova";
+import { PROVA } from "@/config/prova";
 import type { Area, Questao } from "./tipos";
 
 export type Respostas = Record<string, number | null>;

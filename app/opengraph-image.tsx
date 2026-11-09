@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
-import { PROVA } from "../../config/prova";
-import { SITE } from "../../config/site";
+import { PROVA } from "@/config/prova";
+import { SITE } from "@/config/site";
 
 export const dynamic = "force-static"; // necessário com output: "export"
 export const alt = `${SITE.nome}: estudos para Agente Administrativo da Câmara de Itanhaém`;

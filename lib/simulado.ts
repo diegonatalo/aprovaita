@@ -1,4 +1,4 @@
-import { PROVA } from "../../config/prova";
+import { PROVA } from "@/config/prova";
 import type { Area, Origem, Questao, Subarea } from "./tipos";
 
 /** Cotas por (área, subárea) para um simulado. */

@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { PROVA } from "../../config/prova";
-import { SITE } from "../../config/site";
+import { PROVA } from "@/config/prova";
+import { SITE } from "@/config/site";
 import { listarTopicos } from "@/lib/content";
 import { Countdown, ProgressoGeral } from "@/components/HomeWidgets";
 import { CartoesArea } from "@/components/CartoesArea";

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { QuestionView } from "./QuestionView";
-import { NOMES_AREA, PROVA } from "../../config/prova";
+import { NOMES_AREA, PROVA } from "@/config/prova";
 import { corrigir } from "@/lib/correcao";
 import { formatarNota, formatarTempo } from "@/lib/formato";
 import type { InfoTopico } from "@/lib/banco";

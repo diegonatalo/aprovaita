@@ -144,7 +144,6 @@ pnpm dev        # http://localhost:3000
 </div>
 
 ```text
-src/
 ├── app/          rotas: início, conteúdo, simulado, revisão e progresso
 ├── components/   interface: navegação, questões, prova, painéis
 └── lib/          carga do conteúdo, correção, simulados e armazenamento local

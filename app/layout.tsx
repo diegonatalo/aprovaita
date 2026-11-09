@@ -3,7 +3,7 @@ import { Bricolage_Grotesque, Figtree } from "next/font/google";
 import "./globals.css";
 import { Nav } from "@/components/Nav";
 import { RegistrarSW } from "@/components/RegistrarSW";
-import { SITE } from "../../config/site";
+import { SITE } from "@/config/site";
 
 const corpo = Figtree({ variable: "--font-corpo", subsets: ["latin"] });
 const titulo = Bricolage_Grotesque({ variable: "--font-titulo", subsets: ["latin"] });

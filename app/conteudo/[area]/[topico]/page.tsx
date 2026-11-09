@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { NOMES_AREA } from "../../../../../config/prova";
+import { NOMES_AREA } from "@/config/prova";
 import { acharTopico, listarTopicos } from "@/lib/content";
 import { Markdown } from "@/components/Markdown";
 import { QuizCard } from "@/components/QuizCard";

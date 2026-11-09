@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { NOMES_AREA, PROVA } from "../../config/prova";
+import { NOMES_AREA, PROVA } from "@/config/prova";
 import { listarTopicos } from "@/lib/content";
 import { BarraArea } from "./HomeWidgets";
 import { Icone, type NomeIcone } from "./Icones";

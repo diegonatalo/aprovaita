@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export", // site 100% est√°tico (Vercel ou qualquer hospedagem)
+  output: "export", // site 100% est·tico (Vercel ou qualquer hospedagem)
   trailingSlash: true,
   images: { unoptimized: true },
   turbopack: {

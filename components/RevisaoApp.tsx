@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { QuestionView } from "./QuestionView";
-import { NOMES_AREA } from "../../config/prova";
+import { NOMES_AREA } from "@/config/prova";
 import { registrarErros, useProgresso } from "@/lib/storage";
 import type { InfoTopico } from "@/lib/banco";
 import type { Area, Questao } from "@/lib/tipos";
