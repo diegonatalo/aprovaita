@@ -118,22 +118,22 @@ São 40 questões: 8 de Português, 5 de Matemática, 3 de Legislação Municipa
 
 </div>
 
-Requer [Node.js](https://nodejs.org) e npm.
+Requer [Node.js](https://nodejs.org) e [pnpm](https://pnpm.io).
 
 ```bash
 git clone https://github.com/diegonatalo/aprovaita.git
 cd aprovaita
-npm install
-npm run dev        # http://localhost:3000
+pnpm install
+pnpm dev        # http://localhost:3000
 ```
 
 | Comando | O que faz |
 |---|---|
-| `npm run dev` | Servidor de desenvolvimento |
-| `npm run build` | Gera o site estático em `out/` |
-| `npm run lint` | Roda o ESLint |
-| `npm run validate` | Confere o conteúdo: fontes, gabaritos e alternativas (`validate:strict` trata avisos como erros) |
-| `npm run test:motor` | Testa a correção e a montagem dos simulados |
+| `pnpm dev` | Servidor de desenvolvimento |
+| `pnpm build` | Gera o site estático em `out/` |
+| `pnpm lint` | Roda o ESLint |
+| `pnpm validate` | Confere o conteúdo: fontes, gabaritos e alternativas (`validate:strict` trata avisos como erros) |
+| `pnpm test:motor` | Testa a correção e a montagem dos simulados |
 
 <br />
 
@@ -201,7 +201,7 @@ exporte um arquivo JSON e importe no outro lugar.
 1. Crie a pasta `content/<area>/<topico>/` (em Específicos, dentro da subárea).
 2. Escreva `explicacao.mdx` com `titulo`, `ordem` e `resumo` no cabeçalho.
 3. Adicione `questoes-autorais.json` (Quiz A) e, se houver prova real com fonte, `questoes-banca.json` (Quiz B).
-4. Rode `npm run validate` e corrija o que ele apontar.
+4. Rode `pnpm validate` e corrija o que ele apontar.
 
 </details>
 

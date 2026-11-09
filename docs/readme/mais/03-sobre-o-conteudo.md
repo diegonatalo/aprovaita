@@ -18,6 +18,6 @@
 1. Crie a pasta `content/<area>/<topico>/` (em Específicos, dentro da subárea).
 2. Escreva `explicacao.mdx` com `titulo`, `ordem` e `resumo` no cabeçalho.
 3. Adicione `questoes-autorais.json` (Quiz A) e, se houver prova real com fonte, `questoes-banca.json` (Quiz B).
-4. Rode `npm run validate` e corrija o que ele apontar.
+4. Rode `pnpm validate` e corrija o que ele apontar.
 
 </details>
