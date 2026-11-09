@@ -1,5 +1,5 @@
 import { PROVA } from "@/lib/prova";
-import type { Area, Questao } from "../types";
+import type { Area, Questao } from "@/types";
 
 export type Respostas = Record<string, number | null>;
 

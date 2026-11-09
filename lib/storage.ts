@@ -1,7 +1,7 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
-import type { StatusTopico } from "../types";
+import type { StatusTopico } from "@/types";
 
 const CHAVE = "concurso-itanhaem:progresso";
 export const VERSAO_SCHEMA = 1;

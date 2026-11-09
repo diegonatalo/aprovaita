@@ -1,5 +1,5 @@
 import { listarTopicos } from "./content";
-import type { Area, Questao, Subarea } from "../types";
+import type { Area, Questao, Subarea } from "@/types";
 
 export interface InfoTopico {
   titulo: string;
