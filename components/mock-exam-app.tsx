@@ -109,7 +109,8 @@ export function MockExamApp({
         {(["A", "B"] as const).map((which) => {
           const missing = gaps(questions, ORIGIN[which]);
           const available = questions.filter((q) => q.origin === ORIGIN[which]).length;
-          const reduced = buildMockExam(questions, ORIGIN[which], { partial: true }).length;
+          // só o tamanho importa aqui; rand fixo evita sortear a cada renderização
+          const reduced = buildMockExam(questions, ORIGIN[which], { partial: true, rand: () => 0 }).length;
           return (
             <section key={which} className="space-y-3 card p-4">
               <h2 className="font-bold">{TITLE[which]}</h2>
