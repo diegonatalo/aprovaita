@@ -3,7 +3,7 @@
 import { useSyncExternalStore } from "react";
 import type { TopicStatus } from "@/types";
 
-const STORAGE_KEY = "concurso-itanhaem:progresso";
+const STORAGE_KEY = "aprovaita:progress:v1";
 export const SCHEMA_VERSION = 2;
 
 export type QuizResult = {
@@ -183,7 +183,7 @@ export function saveAttempt(t: Attempt) {
 }
 
 // --- prova em andamento (chave separada; gravar não notifica, para não re-renderizar a cada tique) ---
-const EXAM_SESSION_STORAGE_KEY = "concurso-itanhaem:andamento";
+const EXAM_SESSION_STORAGE_KEY = "aprovaita:exam-session:v1";
 const examSessionListeners = new Set<() => void>();
 let examSessionText: string | null | undefined;
 let examSessionObject: ExamSession | null = null;

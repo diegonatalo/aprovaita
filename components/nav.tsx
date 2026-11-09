@@ -47,7 +47,7 @@ function useTheme() {
     const nextDark = !document.documentElement.classList.contains("dark");
     document.documentElement.classList.toggle("dark", nextDark);
     try {
-      localStorage.setItem("tema", nextDark ? "dark" : "light");
+      localStorage.setItem("aprovaita:theme:v1", nextDark ? "dark" : "light");
     } catch {}
   }
   return { dark, toggle };

@@ -36,7 +36,7 @@ export const viewport: Viewport = { themeColor: [
   ] as unknown as Viewport["themeColor"] };
 
 // Aplica o tema salvo antes da pintura para evitar flash.
-const THEME_SCRIPT = `try{var t=localStorage.getItem('tema');if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.classList.add('dark')}catch(e){}`;
+const THEME_SCRIPT = `try{var t=localStorage.getItem('aprovaita:theme:v1');if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.classList.add('dark')}catch(e){}`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
