@@ -41,7 +41,7 @@ yarn-error.log*
 next-env.d.ts
 
 # materiais de estudo e provas de terceiros (direitos autorais); ficam só na máquina local
-/fontes/
+/docs/fontes/
 
 # configuração local do Claude Code
 /.claude/
