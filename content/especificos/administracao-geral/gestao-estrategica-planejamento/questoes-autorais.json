@@ -3,85 +3,85 @@
     "id": "AG-ESTRAT-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "autoral",
-    "enunciado": "O planejamento que abrange toda a organização, tem horizonte de longo prazo, é conduzido pela alta administração e trata da relação da organização com o ambiente é denominado",
-    "alternativas": [
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "authored",
+    "statement": "O planejamento que abrange toda a organização, tem horizonte de longo prazo, é conduzido pela alta administração e trata da relação da organização com o ambiente é denominado",
+    "choices": [
       "operacional.",
       "tático.",
       "estratégico.",
       "departamental.",
       "rotineiro."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O planejamento estratégico é de longo prazo, envolve toda a organização, é feito pela alta direção e considera o ambiente. A: operacional é de curto prazo e trata de tarefas e rotinas. B: tático é de médio prazo e trata de áreas. D e E: não são níveis clássicos de planejamento."
+    "answerKey": 2,
+    "explanation": "Correta: C. O planejamento estratégico é de longo prazo, envolve toda a organização, é feito pela alta direção e considera o ambiente. A: operacional é de curto prazo e trata de tarefas e rotinas. B: tático é de médio prazo e trata de áreas. D e E: não são níveis clássicos de planejamento."
   },
   {
     "id": "AG-ESTRAT-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "autoral",
-    "enunciado": "A declaração \"Ser reconhecida, até 2030, como a câmara municipal mais transparente da região\" expressa, na identidade organizacional, a",
-    "alternativas": [
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "authored",
+    "statement": "A declaração \"Ser reconhecida, até 2030, como a câmara municipal mais transparente da região\" expressa, na identidade organizacional, a",
+    "choices": [
       "missão.",
       "visão.",
       "política.",
       "meta operacional.",
       "regra de conduta."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A visão descreve o futuro desejado, aonde a organização quer chegar. A: a missão trata da razão de ser (o que faz, para quem e por quê). C e E: valores e regras de conduta tratam dos princípios que orientam o comportamento. D: uma meta operacional seria específica e de curto prazo."
+    "answerKey": 1,
+    "explanation": "Correta: B. A visão descreve o futuro desejado, aonde a organização quer chegar. A: a missão trata da razão de ser (o que faz, para quem e por quê). C e E: valores e regras de conduta tratam dos princípios que orientam o comportamento. D: uma meta operacional seria específica e de curto prazo."
   },
   {
     "id": "AG-ESTRAT-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "autoral",
-    "enunciado": "Em uma análise SWOT de um órgão público, foram listados: (1) equipe qualificada e estável; (2) sistemas de informação obsoletos; (3) nova legislação que amplia as possibilidades de serviços digitais; (4) cortes previstos no orçamento do próximo ano. Em relação ao ambiente, os itens (2) e (3) são, respectivamente,",
-    "alternativas": [
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "authored",
+    "statement": "Em uma análise SWOT de um órgão público, foram listados: (1) equipe qualificada e estável; (2) sistemas de informação obsoletos; (3) nova legislação que amplia as possibilidades de serviços digitais; (4) cortes previstos no orçamento do próximo ano. Em relação ao ambiente, os itens (2) e (3) são, respectivamente,",
+    "choices": [
       "fraqueza e oportunidade.",
       "força e ameaça.",
       "ameaça e força.",
       "oportunidade e fraqueza.",
       "fraqueza e ameaça."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Sistemas obsoletos são fator interno que prejudica, ou seja, fraqueza. A nova legislação é fator externo favorável, ou seja, oportunidade. O item (1) seria força e o item (4), ameaça. B, C, D e E: classificam incorretamente a origem (interna ou externa) ou o efeito (favorável ou desfavorável)."
+    "answerKey": 0,
+    "explanation": "Correta: A. Sistemas obsoletos são fator interno que prejudica, ou seja, fraqueza. A nova legislação é fator externo favorável, ou seja, oportunidade. O item (1) seria força e o item (4), ameaça. B, C, D e E: classificam incorretamente a origem (interna ou externa) ou o efeito (favorável ou desfavorável)."
   },
   {
     "id": "AG-ESTRAT-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "autoral",
-    "enunciado": "O Balanced Scorecard (BSC) traduz a estratégia em objetivos e indicadores organizados em quatro perspectivas. Fazem parte dessas perspectivas",
-    "alternativas": [
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "authored",
+    "statement": "O Balanced Scorecard (BSC) traduz a estratégia em objetivos e indicadores organizados em quatro perspectivas. Fazem parte dessas perspectivas",
+    "choices": [
       "financeira, de clientes, de processos internos e de aprendizado e crescimento.",
       "política, social, econômica e tecnológica.",
       "forças, fraquezas, oportunidades e ameaças.",
       "planejamento, organização, direção e controle.",
       "missão, visão, valores e metas."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. As quatro perspectivas do BSC são financeira, clientes, processos internos e aprendizado e crescimento. B: lembra a análise do ambiente externo (PEST). C: é a SWOT. D: são as funções administrativas. E: compõem a identidade e o direcionamento estratégico."
+    "answerKey": 0,
+    "explanation": "Correta: A. As quatro perspectivas do BSC são financeira, clientes, processos internos e aprendizado e crescimento. B: lembra a análise do ambiente externo (PEST). C: é a SWOT. D: são as funções administrativas. E: compõem a identidade e o direcionamento estratégico."
   },
   {
     "id": "AG-ESTRAT-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "autoral",
-    "enunciado": "Entre as cinco forças competitivas descritas por Michael Porter, inclui-se",
-    "alternativas": [
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "authored",
+    "statement": "Entre as cinco forças competitivas descritas por Michael Porter, inclui-se",
+    "choices": [
       "a missão da organização.",
       "o poder de barganha dos fornecedores.",
       "o ciclo de vida do produto.",
       "a estrutura organizacional.",
       "a cultura organizacional."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. As cinco forças são: ameaça de novos entrantes, poder de barganha dos fornecedores, poder de barganha dos clientes, ameaça de substitutos e rivalidade entre concorrentes. A, C, D e E: são conceitos de gestão que não fazem parte do modelo."
+    "answerKey": 1,
+    "explanation": "Correta: B. As cinco forças são: ameaça de novos entrantes, poder de barganha dos fornecedores, poder de barganha dos clientes, ameaça de substitutos e rivalidade entre concorrentes. A, C, D e E: são conceitos de gestão que não fazem parte do modelo."
   }
 ]

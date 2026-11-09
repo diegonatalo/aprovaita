@@ -133,7 +133,7 @@ pnpm dev        # http://localhost:3000
 | `pnpm build` | Gera o build de produção |
 | `pnpm lint` | Roda o ESLint |
 | `pnpm validate` | Confere o conteúdo: fontes, gabaritos e alternativas (`validate:strict` trata avisos como erros) |
-| `pnpm test:motor` | Testa a correção e a montagem dos simulados |
+| `pnpm test:engine` | Testa a correção e a montagem dos simulados |
 
 <br />
 
@@ -146,7 +146,7 @@ pnpm dev        # http://localhost:3000
 ```text
 ├── app/          rotas: início, conteúdo, simulado, revisão e progresso
 ├── components/   interface: navegação, questões, prova, painéis
-├── lib/          carga do conteúdo, correção, simulados, armazenamento local, parâmetros da prova (prova.ts) e identidade do site (site.ts)
+├── lib/          carga do conteúdo, correção, simulados, armazenamento local, parâmetros da prova (exam.ts) e identidade do site (site.ts)
 └── types/        tipos do domínio
 content/          um tópico por pasta: explicação e questões
 scripts/          validação do conteúdo e testes do motor
@@ -191,14 +191,14 @@ exporte um arquivo JSON e importe no outro lugar.
 - **Questões autorais** são identificadas como tal na tela.
 - **Legislação municipal:** ainda não há questões reais da banca para esse grupo.
 - **Divisão dos 24 Específicos** entre Administração Geral (10), Arquivologia (6) e Administração Pública (8)
-  é uma suposição, porque o edital não informa. Ela fica em `lib/prova.ts` e pode ser mudada.
+  é uma suposição, porque o edital não informa. Ela fica em `lib/exam.ts` e pode ser mudada.
 - Alguns tópicos estão marcados como "fora do programa do edital" e ficam sinalizados no site.
 
 <details>
 <summary><b>Como adicionar um tópico</b></summary>
 
 1. Crie a pasta `content/<area>/<topico>/` (em Específicos, dentro da subárea).
-2. Escreva `explicacao.mdx` com `titulo`, `ordem` e `resumo` no cabeçalho.
+2. Escreva `explicacao.mdx` com `title`, `order` e `summary` no cabeçalho.
 3. Adicione `questoes-autorais.json` (Quiz A) e, se houver prova real com fonte, `questoes-banca.json` (Quiz B).
 4. Rode `pnpm validate` e corrija o que ele apontar.
 

@@ -3,144 +3,144 @@
     "id": "B-TREM-27",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 27,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 27,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A liderança situacional, criada por Paul Hersey e Ken Blanchard, parte da premissa de que não existe um estilo único de liderança eficaz em todas as circunstâncias. Essa teoria centra seu foco sobre os liderados. Os autores identificam quatro comportamentos específicos dos líderes, do estilo mais diretivo ao mais laissez-faire. De acordo com a liderança situacional, o líder utilizará um estilo apoiador e participativo se os liderados forem",
-    "alternativas": [
+    "statement": "A liderança situacional, criada por Paul Hersey e Ken Blanchard, parte da premissa de que não existe um estilo único de liderança eficaz em todas as circunstâncias. Essa teoria centra seu foco sobre os liderados. Os autores identificam quatro comportamentos específicos dos líderes, do estilo mais diretivo ao mais laissez-faire. De acordo com a liderança situacional, o líder utilizará um estilo apoiador e participativo se os liderados forem",
+    "choices": [
       "capazes mas estiverem desmotivados.",
       "incapazes ou estiverem desmotivados.",
       "capazes e estiverem motivados.",
       "incapazes mas estiverem motivados.",
       "altamente incapazes e altamente motivados."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. No modelo de Hersey e Blanchard, o estilo apoiador/participativo cabe a liderados com capacidade, mas com motivação ou confiança baixa. Incapazes pedem estilos mais diretivos (B, D, E) e liderados capazes e motivados pedem delegação (C)."
+    "answerKey": 0,
+    "explanation": "Correta: A. No modelo de Hersey e Blanchard, o estilo apoiador/participativo cabe a liderados com capacidade, mas com motivação ou confiança baixa. Incapazes pedem estilos mais diretivos (B, D, E) e liderados capazes e motivados pedem delegação (C)."
   },
   {
     "id": "B-PAUL-26",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 26,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 26,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No mesmo órgão público, o líder Antônio busca equilíbrio entre a preocupação com os liderados e a preocupação com as tarefas. Já a líder Ana demonstra pouca preocupação com os liderados e muita preocupação com as tarefas do seu departamento.\n\nCom base no Grid Gerencial de Liderança de Blake e Mouton, no qual a preocupação com as tarefas é representada no eixo horizontal e a preocupação com as pessoas é representada no eixo vertical, esses líderes encontram-se, respectivamente, nos quadrantes",
-    "alternativas": [
+    "statement": "No mesmo órgão público, o líder Antônio busca equilíbrio entre a preocupação com os liderados e a preocupação com as tarefas. Já a líder Ana demonstra pouca preocupação com os liderados e muita preocupação com as tarefas do seu departamento.\n\nCom base no Grid Gerencial de Liderança de Blake e Mouton, no qual a preocupação com as tarefas é representada no eixo horizontal e a preocupação com as pessoas é representada no eixo vertical, esses líderes encontram-se, respectivamente, nos quadrantes",
+    "choices": [
       "(1,1) e (1,9).",
       "(1,1) e (9,1).",
       "(9,1) e (1,1).",
       "(5,5) e (1,9).",
       "(5,5) e (9,1)."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Cada ponto é (tarefas, pessoas), de 1 a 9. Equilíbrio entre pessoas e tarefas é o meio-termo, (5,5). Muita tarefa e pouca pessoa é (9,1). (1,9) seria o inverso, e (1,1) é o líder omisso."
+    "answerKey": 4,
+    "explanation": "Correta: E. Cada ponto é (tarefas, pessoas), de 1 a 9. Equilíbrio entre pessoas e tarefas é o meio-termo, (5,5). Muita tarefa e pouca pessoa é (9,1). (1,9) seria o inverso, e (1,1) é o líder omisso."
   },
   {
     "id": "B-PAUL-27",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 27,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 27,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A diretora de Gestão de Pessoas de um órgão municipal vem levantando estratégias de motivação para os servidores públicos daquele local.\n\nAo retomar a teoria dos dois fatores de Herzberg, ela verificou que se insere(m) como fator(es) motivacional(is) ou satisfaciente(s) (intrínseco(s))",
-    "alternativas": [
+    "statement": "A diretora de Gestão de Pessoas de um órgão municipal vem levantando estratégias de motivação para os servidores públicos daquele local.\n\nAo retomar a teoria dos dois fatores de Herzberg, ela verificou que se insere(m) como fator(es) motivacional(is) ou satisfaciente(s) (intrínseco(s))",
+    "choices": [
       "o conteúdo do cargo.",
       "os salários e benefícios.",
       "a qualidade das lideranças.",
       "as políticas adotadas pelo órgão.",
       "as condições físicas do órgão."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Para Herzberg, os fatores motivacionais são intrínsecos e ligados ao próprio trabalho: conteúdo do cargo, realização, reconhecimento e responsabilidade. Salários, relações com a liderança, políticas da organização e condições físicas são fatores higiênicos: evitam insatisfação, mas não motivam."
+    "answerKey": 0,
+    "explanation": "Correta: A. Para Herzberg, os fatores motivacionais são intrínsecos e ligados ao próprio trabalho: conteúdo do cargo, realização, reconhecimento e responsabilidade. Salários, relações com a liderança, políticas da organização e condições físicas são fatores higiênicos: evitam insatisfação, mas não motivam."
   },
   {
     "id": "B-SJRP-44",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 44,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 44,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No ambiente de trabalho, seja ele público ou privado, lideranças e liderados podem relacionar-se em redes formais e/ou informais.\n\nUm exemplo da manifestação da rede informal diz respeito",
-    "alternativas": [
+    "statement": "No ambiente de trabalho, seja ele público ou privado, lideranças e liderados podem relacionar-se em redes formais e/ou informais.\n\nUm exemplo da manifestação da rede informal diz respeito",
+    "choices": [
       "à comunicação entre pessoas de diferentes departamentos pelos corredores.",
       "ao encaminhamento de um ofício a outro órgão.",
       "ao recebimento de um orçamento por meio do e-mail corporativo.",
       "à convocação de reunião para ser realizada no mesmo dia.",
       "ao uso de dispositivos de videochamada."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A rede informal nasce das relações espontâneas entre pessoas, fora dos canais oficiais, como a conversa de corredor. Ofício, e-mail corporativo, convocação de reunião e videochamada são canais formais da organização."
+    "answerKey": 0,
+    "explanation": "Correta: A. A rede informal nasce das relações espontâneas entre pessoas, fora dos canais oficiais, como a conversa de corredor. Ofício, e-mail corporativo, convocação de reunião e videochamada são canais formais da organização."
   },
   {
     "id": "B-VAAL-29",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 29,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 29,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Na relação entre lideranças e liderados em um determinado órgão público, quanto mais maduro o seguidor mostrar-se, menos intenso é o uso da autoridade pelo líder e mais intensa a orientação para o relacionamento. Por outro lado, a imaturidade do seguidor é gerenciada por meio do uso forte da autoridade pelo líder, com pouca ênfase no relacionamento. Em que pesem as críticas possíveis de serem feitas ao modelo, com base nessas características, a teoria de liderança situacional adotada é a de",
-    "alternativas": [
+    "statement": "Na relação entre lideranças e liderados em um determinado órgão público, quanto mais maduro o seguidor mostrar-se, menos intenso é o uso da autoridade pelo líder e mais intensa a orientação para o relacionamento. Por outro lado, a imaturidade do seguidor é gerenciada por meio do uso forte da autoridade pelo líder, com pouca ênfase no relacionamento. Em que pesem as críticas possíveis de serem feitas ao modelo, com base nessas características, a teoria de liderança situacional adotada é a de",
+    "choices": [
       "Traços da Liderança.",
       "Tannenbaum e Schmidt.",
       "Fiedler.",
       "Hersey e Blanchard.",
       "Autocracia."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Na liderança situacional de Hersey e Blanchard, o estilo do líder depende da maturidade (prontidão) dos liderados. A: a teoria dos traços busca características da personalidade do líder. C: Fiedler (contingência) diz que o resultado depende do ajuste entre estilo e situação, mas não ajusta o estilo à maturidade do seguidor."
+    "answerKey": 3,
+    "explanation": "Correta: D. Na liderança situacional de Hersey e Blanchard, o estilo do líder depende da maturidade (prontidão) dos liderados. A: a teoria dos traços busca características da personalidade do líder. C: Fiedler (contingência) diz que o resultado depende do ajuste entre estilo e situação, mas não ajusta o estilo à maturidade do seguidor."
   },
   {
     "id": "B-VAAL-32",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 32,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 32,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Entre as técnicas motivacionais contemporâneas que podem ser utilizadas em busca do aumento da produtividade e da satisfação dos servidores públicos, aquela que diz respeito à delegação de autoridade da liderança para os subordinados é denominada",
-    "alternativas": [
+    "statement": "Entre as técnicas motivacionais contemporâneas que podem ser utilizadas em busca do aumento da produtividade e da satisfação dos servidores públicos, aquela que diz respeito à delegação de autoridade da liderança para os subordinados é denominada",
+    "choices": [
       "rotatividade de cargo.",
       "expansão de cargo.",
       "enriquecimento de cargo.",
       "equidade.",
       "empoderamento."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Empoderamento (empowerment) é dar aos subordinados autoridade e autonomia para decidir. Rotatividade, expansão e enriquecimento de cargo mexem no conteúdo do trabalho; equidade é a teoria de Adams, que trata da comparação entre o que se dá e o que se recebe."
+    "answerKey": 4,
+    "explanation": "Correta: E. Empoderamento (empowerment) é dar aos subordinados autoridade e autonomia para decidir. Rotatividade, expansão e enriquecimento de cargo mexem no conteúdo do trabalho; equidade é a teoria de Adams, que trata da comparação entre o que se dá e o que se recebe."
   }
 ]

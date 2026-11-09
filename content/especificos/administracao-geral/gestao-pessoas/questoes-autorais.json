@@ -3,85 +3,85 @@
     "id": "AG-PESS-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "autoral",
-    "enunciado": "Na gestão por competências, a competência de um servidor é composta por três elementos, que são",
-    "alternativas": [
+    "topicSlug": "gestao-pessoas",
+    "origin": "authored",
+    "statement": "Na gestão por competências, a competência de um servidor é composta por três elementos, que são",
+    "choices": [
       "conhecimentos, habilidades e atitudes.",
       "cargos, funções e salários.",
       "metas, prazos e recursos.",
       "objetivos, estratégias e planos.",
       "estrutura, hierarquia e normas."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A competência é entendida como CHA: conhecimentos (saber), habilidades (saber fazer) e atitudes (querer fazer). B, C, D e E: não compõem o conceito de competência individual."
+    "answerKey": 0,
+    "explanation": "Correta: A. A competência é entendida como CHA: conhecimentos (saber), habilidades (saber fazer) e atitudes (querer fazer). B, C, D e E: não compõem o conceito de competência individual."
   },
   {
     "id": "AG-PESS-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "autoral",
-    "enunciado": "Em um processo de avaliação de desempenho, o avaliador atribuiu notas altas a todos os subordinados em todos os critérios, porque um deles se destacou em pontualidade. Esse erro é conhecido como efeito",
-    "alternativas": [
+    "topicSlug": "gestao-pessoas",
+    "origin": "authored",
+    "statement": "Em um processo de avaliação de desempenho, o avaliador atribuiu notas altas a todos os subordinados em todos os critérios, porque um deles se destacou em pontualidade. Esse erro é conhecido como efeito",
+    "choices": [
       "de recenticidade.",
       "de tendência central.",
       "de estereótipo.",
       "de rigor.",
       "halo."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. No efeito halo, uma característica (aqui, a pontualidade) contamina o julgamento dos demais critérios. A: recenticidade dá peso excessivo aos fatos recentes. B: tendência central agrupa todos na média. C: estereótipo julga por preconceitos de grupo. D: rigor atribui notas baixas sistematicamente."
+    "answerKey": 4,
+    "explanation": "Correta: E. No efeito halo, uma característica (aqui, a pontualidade) contamina o julgamento dos demais critérios. A: recenticidade dá peso excessivo aos fatos recentes. B: tendência central agrupa todos na média. C: estereótipo julga por preconceitos de grupo. D: rigor atribui notas baixas sistematicamente."
   },
   {
     "id": "AG-PESS-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "autoral",
-    "enunciado": "Uma avaliação em que o desempenho do servidor é julgado por seu chefe, por colegas, por subordinados e pelos usuários dos serviços é conhecida como avaliação",
-    "alternativas": [
+    "topicSlug": "gestao-pessoas",
+    "origin": "authored",
+    "statement": "Uma avaliação em que o desempenho do servidor é julgado por seu chefe, por colegas, por subordinados e pelos usuários dos serviços é conhecida como avaliação",
+    "choices": [
       "por escala gráfica.",
       "por incidentes críticos.",
       "de 360 graus.",
       "unilateral.",
       "por comparação binária."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A avaliação de 360 graus reúne a percepção de chefe, pares, subordinados e clientes ou usuários. A: a escala gráfica é um método com graus em critérios. B: incidentes críticos registra fatos marcantes. D: unilateral é a feita por uma só pessoa. E: a comparação binária compara avaliados entre si dois a dois."
+    "answerKey": 2,
+    "explanation": "Correta: C. A avaliação de 360 graus reúne a percepção de chefe, pares, subordinados e clientes ou usuários. A: a escala gráfica é um método com graus em critérios. B: incidentes críticos registra fatos marcantes. D: unilateral é a feita por uma só pessoa. E: a comparação binária compara avaliados entre si dois a dois."
   },
   {
     "id": "AG-PESS-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "autoral",
-    "enunciado": "No modelo de mudança organizacional de Kurt Lewin, as três fases, em ordem, são",
-    "alternativas": [
+    "topicSlug": "gestao-pessoas",
+    "origin": "authored",
+    "statement": "No modelo de mudança organizacional de Kurt Lewin, as três fases, em ordem, são",
+    "choices": [
       "planejar, executar e controlar.",
       "descongelar, mudar e recongelar.",
       "diagnosticar, treinar e avaliar.",
       "formar, conflitar e normatizar.",
       "iniciar, desenvolver e encerrar."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Lewin propõe descongelar (preparar para a mudança), mudar (implementar) e recongelar (consolidar o novo padrão). A: lembra as funções administrativas. C: não é o modelo de Lewin. D: são estágios de desenvolvimento de grupos de Tuckman. E: lembra fases de projeto."
+    "answerKey": 1,
+    "explanation": "Correta: B. Lewin propõe descongelar (preparar para a mudança), mudar (implementar) e recongelar (consolidar o novo padrão). A: lembra as funções administrativas. C: não é o modelo de Lewin. D: são estágios de desenvolvimento de grupos de Tuckman. E: lembra fases de projeto."
   },
   {
     "id": "AG-PESS-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "autoral",
-    "enunciado": "Em um conflito entre dois setores por causa de espaço físico, as chefias decidiram ceder parcialmente, cada uma abrindo mão de parte do que pretendia, para chegar a uma solução intermediária. Esse estilo de lidar com o conflito é o de",
-    "alternativas": [
+    "topicSlug": "gestao-pessoas",
+    "origin": "authored",
+    "statement": "Em um conflito entre dois setores por causa de espaço físico, as chefias decidiram ceder parcialmente, cada uma abrindo mão de parte do que pretendia, para chegar a uma solução intermediária. Esse estilo de lidar com o conflito é o de",
+    "choices": [
       "competição.",
       "colaboração.",
       "esquiva.",
       "acomodação.",
       "compromisso."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. No compromisso, cada parte cede um pouco para alcançar uma solução intermediária. A: competição busca vencer. B: colaboração busca solução que atenda plenamente aos dois lados. C: esquiva evita o conflito. D: acomodação cede aos interesses do outro."
+    "answerKey": 4,
+    "explanation": "Correta: E. No compromisso, cada parte cede um pouco para alcançar uma solução intermediária. A: competição busca vencer. B: colaboração busca solução que atenda plenamente aos dois lados. C: esquiva evita o conflito. D: acomodação cede aos interesses do outro."
   }
 ]

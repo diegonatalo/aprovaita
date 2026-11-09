@@ -2,81 +2,81 @@
   {
     "id": "MAT-POR-A1",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "autoral",
-    "enunciado": "Um produto que custava R$ 250,00 foi vendido com 20% de desconto. O preço final foi de",
-    "alternativas": [
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "authored",
+    "statement": "Um produto que custava R$ 250,00 foi vendido com 20% de desconto. O preço final foi de",
+    "choices": [
       "R$ 150,00.",
       "R$ 175,00.",
       "R$ 190,00.",
       "R$ 200,00.",
       "R$ 230,00."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Desconto de 20%: 250 × 0,80 = 200. As demais alternativas apresentam descontos diferentes: B (30%), A (40%), C (24%) e E (8%)."
+    "answerKey": 3,
+    "explanation": "Correta: D. Desconto de 20%: 250 × 0,80 = 200. As demais alternativas apresentam descontos diferentes: B (30%), A (40%), C (24%) e E (8%)."
   },
   {
     "id": "MAT-POR-A2",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "autoral",
-    "enunciado": "Um servidor que ganhava R$ 2.500,00 recebeu aumento de 8%. Seu novo salário é de",
-    "alternativas": [
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "authored",
+    "statement": "Um servidor que ganhava R$ 2.500,00 recebeu aumento de 8%. Seu novo salário é de",
+    "choices": [
       "R$ 2.700,00.",
       "R$ 2.650,00.",
       "R$ 2.750,00.",
       "R$ 2.800,00.",
       "R$ 2.580,00."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. 8% de 2.500 = 200, e 2.500 + 200 = 2.700. As demais alternativas correspondem a aumentos diferentes de 8%."
+    "answerKey": 0,
+    "explanation": "Correta: A. 8% de 2.500 = 200, e 2.500 + 200 = 2.700. As demais alternativas correspondem a aumentos diferentes de 8%."
   },
   {
     "id": "MAT-POR-A3",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "autoral",
-    "enunciado": "Em um setor com 180 processos, 45 foram arquivados. O percentual de processos arquivados é de",
-    "alternativas": [
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "authored",
+    "statement": "Em um setor com 180 processos, 45 foram arquivados. O percentual de processos arquivados é de",
+    "choices": [
       "20%.",
       "22,5%.",
       "30%.",
       "35%.",
       "25%."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. 45/180 = 0,25 = 25%. As demais alternativas apresentam percentuais que não resultam da divisão."
+    "answerKey": 4,
+    "explanation": "Correta: E. 45/180 = 0,25 = 25%. As demais alternativas apresentam percentuais que não resultam da divisão."
   },
   {
     "id": "MAT-POR-A4",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "autoral",
-    "enunciado": "Um capital de R$ 2.000,00 foi aplicado a juros simples, à taxa de 3% ao mês, por 5 meses. O valor dos juros obtidos foi de",
-    "alternativas": [
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "authored",
+    "statement": "Um capital de R$ 2.000,00 foi aplicado a juros simples, à taxa de 3% ao mês, por 5 meses. O valor dos juros obtidos foi de",
+    "choices": [
       "R$ 150,00.",
       "R$ 240,00.",
       "R$ 300,00.",
       "R$ 330,00.",
       "R$ 600,00."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. J = 2.000 × 0,03 × 5 = 300. O montante seria de R$ 2.300,00. As demais alternativas erram a taxa, o tempo ou a fórmula."
+    "answerKey": 2,
+    "explanation": "Correta: C. J = 2.000 × 0,03 × 5 = 300. O montante seria de R$ 2.300,00. As demais alternativas erram a taxa, o tempo ou a fórmula."
   },
   {
     "id": "MAT-POR-A5",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "autoral",
-    "enunciado": "O preço de um material sofreu dois aumentos sucessivos de 10%. O aumento acumulado foi de",
-    "alternativas": [
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "authored",
+    "statement": "O preço de um material sofreu dois aumentos sucessivos de 10%. O aumento acumulado foi de",
+    "choices": [
       "20%.",
       "21%.",
       "22%.",
       "19%.",
       "10%."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. 1,10 × 1,10 = 1,21, ou seja, 21%. A: soma os percentuais, o que é incorreto em variações sucessivas. As demais alternativas não resultam do cálculo."
+    "answerKey": 1,
+    "explanation": "Correta: B. 1,10 × 1,10 = 1,21, ou seja, 21%. A: soma os percentuais, o que é incorreto em variações sucessivas. As demais alternativas não resultam do cálculo."
   }
 ]

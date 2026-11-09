@@ -3,85 +3,85 @@
     "id": "AP-CONT-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "autoral",
-    "enunciado": "Após uma enchente, a Câmara Municipal contratou diretamente, por dispensa de licitação fundamentada em emergência, uma empresa para recuperar o telhado danificado. Terminado o prazo, o gestor quis prorrogar o contrato e, depois, contratar novamente a mesma empresa com o mesmo fundamento. À luz da Lei nº 14.133/2021, essa pretensão",
-    "alternativas": [
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "authored",
+    "statement": "Após uma enchente, a Câmara Municipal contratou diretamente, por dispensa de licitação fundamentada em emergência, uma empresa para recuperar o telhado danificado. Terminado o prazo, o gestor quis prorrogar o contrato e, depois, contratar novamente a mesma empresa com o mesmo fundamento. À luz da Lei nº 14.133/2021, essa pretensão",
+    "choices": [
       "é possível, desde que haja justificativa por escrito do gestor.",
       "é possível apenas para a recontratação, e não para a prorrogação.",
       "é possível apenas para a prorrogação, e não para a recontratação.",
       "é vedada, pois no caso de emergência são vedadas a prorrogação do contrato e a recontratação da mesma empresa com base nesse fundamento.",
       "é possível, pois a emergência dispensa qualquer limite de prazo."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O art. 75, VIII, limita a dispensa por emergência a parcelas que possam ser concluídas em até 1 ano e veda a prorrogação dos contratos e a recontratação da empresa já contratada com base nesse inciso. A, B, C e E: nenhuma dessas possibilidades existe, nem com justificativa."
+    "answerKey": 3,
+    "explanation": "Correta: D. O art. 75, VIII, limita a dispensa por emergência a parcelas que possam ser concluídas em até 1 ano e veda a prorrogação dos contratos e a recontratação da empresa já contratada com base nesse inciso. A, B, C e E: nenhuma dessas possibilidades existe, nem com justificativa."
   },
   {
     "id": "AP-CONT-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "autoral",
-    "enunciado": "Um contrato administrativo de compra de equipamentos, no valor inicial atualizado de R$ 200.000,00, será alterado unilateralmente pela Administração, para acréscimo quantitativo do objeto. Nesse caso, o contratado é obrigado a aceitar acréscimo de, no máximo,",
-    "alternativas": [
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "authored",
+    "statement": "Um contrato administrativo de compra de equipamentos, no valor inicial atualizado de R$ 200.000,00, será alterado unilateralmente pela Administração, para acréscimo quantitativo do objeto. Nesse caso, o contratado é obrigado a aceitar acréscimo de, no máximo,",
+    "choices": [
       "R$ 20.000,00.",
       "R$ 25.000,00.",
       "R$ 100.000,00.",
       "R$ 40.000,00.",
       "R$ 50.000,00."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O art. 125 fixa em 25% do valor inicial atualizado o limite para acréscimos ou supressões unilaterais em obras, serviços e compras: 25% de R$ 200.000,00 = R$ 50.000,00. C: R$ 100.000,00 equivaleria a 50%, limite que só vale para acréscimos em reforma de edifício ou de equipamento, o que não é o caso. A, B e D: não correspondem a nenhum limite legal."
+    "answerKey": 4,
+    "explanation": "Correta: E. O art. 125 fixa em 25% do valor inicial atualizado o limite para acréscimos ou supressões unilaterais em obras, serviços e compras: 25% de R$ 200.000,00 = R$ 50.000,00. C: R$ 100.000,00 equivaleria a 50%, limite que só vale para acréscimos em reforma de edifício ou de equipamento, o que não é o caso. A, B e D: não correspondem a nenhum limite legal."
   },
   {
     "id": "AP-CONT-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "autoral",
-    "enunciado": "Em relação às prerrogativas da Administração nos contratos regidos pela Lei nº 14.133/2021, assinale a alternativa correta.",
-    "alternativas": [
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "authored",
+    "statement": "Em relação às prerrogativas da Administração nos contratos regidos pela Lei nº 14.133/2021, assinale a alternativa correta.",
+    "choices": [
       "A Administração pode alterar as cláusulas econômico-financeiras do contrato sem concordância do contratado.",
       "A Administração não pode fiscalizar a execução do contrato, por limitação da autonomia do contratado.",
       "A Administração pode extinguir unilateralmente o contrato nos casos especificados em lei.",
       "A Administração está proibida de aplicar sanções por inexecução parcial do ajuste.",
       "A Administração pode modificar unilateralmente o contrato, desprezando os direitos do contratado."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O art. 104, II, confere à Administração a prerrogativa de extinguir unilateralmente o contrato nos casos previstos em lei. A: o art. 104, §1º, veda alterar as cláusulas econômico-financeiras e monetárias sem prévia concordância do contratado. B: fiscalizar é prerrogativa (art. 104, III). D: aplicar sanções motivadas é prerrogativa (art. 104, IV). E: a modificação unilateral deve respeitar os direitos do contratado."
+    "answerKey": 2,
+    "explanation": "Correta: C. O art. 104, II, confere à Administração a prerrogativa de extinguir unilateralmente o contrato nos casos previstos em lei. A: o art. 104, §1º, veda alterar as cláusulas econômico-financeiras e monetárias sem prévia concordância do contratado. B: fiscalizar é prerrogativa (art. 104, III). D: aplicar sanções motivadas é prerrogativa (art. 104, IV). E: a modificação unilateral deve respeitar os direitos do contratado."
   },
   {
     "id": "AP-CONT-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "autoral",
-    "enunciado": "Uma empresa contratada pela Câmara Municipal deu causa à inexecução parcial do contrato. Entre as sanções administrativas previstas na Lei nº 14.133/2021, NÃO se inclui a",
-    "alternativas": [
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "authored",
+    "statement": "Uma empresa contratada pela Câmara Municipal deu causa à inexecução parcial do contrato. Entre as sanções administrativas previstas na Lei nº 14.133/2021, NÃO se inclui a",
+    "choices": [
       "advertência.",
       "multa.",
       "impedimento de licitar e contratar.",
       "suspensão temporária de participação em licitação, nos moldes da lei anterior.",
       "declaração de inidoneidade para licitar ou contratar."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O art. 156 prevê quatro sanções: advertência, multa, impedimento de licitar e contratar e declaração de inidoneidade. A 'suspensão temporária de participação em licitação' era sanção da Lei 8.666/1993, substituída pelo impedimento de licitar e contratar. A, B, C e E: constam do art. 156."
+    "answerKey": 3,
+    "explanation": "Correta: D. O art. 156 prevê quatro sanções: advertência, multa, impedimento de licitar e contratar e declaração de inidoneidade. A 'suspensão temporária de participação em licitação' era sanção da Lei 8.666/1993, substituída pelo impedimento de licitar e contratar. A, B, C e E: constam do art. 156."
   },
   {
     "id": "AP-CONT-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "autoral",
-    "enunciado": "A Câmara Municipal mantém contrato de serviço contínuo de limpeza, com previsão em edital de prorrogações sucessivas e com vantagem econômica atestada pela autoridade competente. Segundo a Lei nº 14.133/2021, a vigência máxima dessas prorrogações sucessivas é de",
-    "alternativas": [
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "authored",
+    "statement": "A Câmara Municipal mantém contrato de serviço contínuo de limpeza, com previsão em edital de prorrogações sucessivas e com vantagem econômica atestada pela autoridade competente. Segundo a Lei nº 14.133/2021, a vigência máxima dessas prorrogações sucessivas é de",
+    "choices": [
       "2 anos.",
       "5 anos.",
       "8 anos.",
       "10 anos.",
       "20 anos."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O art. 107 permite prorrogações sucessivas de serviços e fornecimentos contínuos, respeitada a vigência máxima decenal, ou seja, 10 anos. B: 5 anos é o prazo máximo do contrato inicial para serviços contínuos (art. 106). A, C e E: não correspondem a limites da lei."
+    "answerKey": 3,
+    "explanation": "Correta: D. O art. 107 permite prorrogações sucessivas de serviços e fornecimentos contínuos, respeitada a vigência máxima decenal, ou seja, 10 anos. B: 5 anos é o prazo máximo do contrato inicial para serviços contínuos (art. 106). A, C e E: não correspondem a limites da lei."
   }
 ]

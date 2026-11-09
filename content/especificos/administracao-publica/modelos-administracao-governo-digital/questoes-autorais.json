@@ -3,85 +3,85 @@
     "id": "AP-MOD-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "autoral",
-    "enunciado": "Em um município, o chefe do Executivo trata os bens e os cargos públicos como extensão de seu patrimônio pessoal, nomeando parentes e amigos sem critério de mérito. Essa prática é característica do modelo de Administração Pública denominado",
-    "alternativas": [
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "authored",
+    "statement": "Em um município, o chefe do Executivo trata os bens e os cargos públicos como extensão de seu patrimônio pessoal, nomeando parentes e amigos sem critério de mérito. Essa prática é característica do modelo de Administração Pública denominado",
+    "choices": [
       "gerencial.",
       "burocrático.",
       "societal.",
       "patrimonialista.",
       "weberiano."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O patrimonialismo se caracteriza pela confusão entre o patrimônio público e o do governante, com nepotismo e clientelismo. A: gerencial valoriza resultados. B e E: o modelo burocrático (weberiano) nasceu justamente para combater essas práticas, com impessoalidade e mérito. C: societal enfatiza a participação social."
+    "answerKey": 3,
+    "explanation": "Correta: D. O patrimonialismo se caracteriza pela confusão entre o patrimônio público e o do governante, com nepotismo e clientelismo. A: gerencial valoriza resultados. B e E: o modelo burocrático (weberiano) nasceu justamente para combater essas práticas, com impessoalidade e mérito. C: societal enfatiza a participação social."
   },
   {
     "id": "AP-MOD-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "autoral",
-    "enunciado": "Um servidor critica o excesso de formulários, carimbos e etapas de um processo, que atrasam a entrega do serviço ao cidadão, ainda que todas as normas sejam cumpridas. Essa crítica refere-se a uma disfunção típica do modelo",
-    "alternativas": [
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "authored",
+    "statement": "Um servidor critica o excesso de formulários, carimbos e etapas de um processo, que atrasam a entrega do serviço ao cidadão, ainda que todas as normas sejam cumpridas. Essa crítica refere-se a uma disfunção típica do modelo",
+    "choices": [
       "patrimonialista.",
       "burocrático.",
       "gerencial.",
       "societal.",
       "de governo digital."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O apego excessivo às normas e aos procedimentos, com formalismo e lentidão, é a disfunção clássica do modelo burocrático. A: o patrimonialismo se caracteriza pela confusão entre público e privado. C: o gerencial busca justamente reduzir o foco nos processos para priorizar resultados. D: o societal trata de participação social. E: governo digital não é um modelo de administração, mas um conjunto de princípios e instrumentos da Lei 14.129/2021."
+    "answerKey": 1,
+    "explanation": "Correta: B. O apego excessivo às normas e aos procedimentos, com formalismo e lentidão, é a disfunção clássica do modelo burocrático. A: o patrimonialismo se caracteriza pela confusão entre público e privado. C: o gerencial busca justamente reduzir o foco nos processos para priorizar resultados. D: o societal trata de participação social. E: governo digital não é um modelo de administração, mas um conjunto de princípios e instrumentos da Lei 14.129/2021."
   },
   {
     "id": "AP-MOD-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "autoral",
-    "enunciado": "A reforma administrativa dos anos 1990 no Brasil, que culminou na Emenda Constitucional nº 19/1998, orientou-se por um modelo que privilegia",
-    "alternativas": [
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "authored",
+    "statement": "A reforma administrativa dos anos 1990 no Brasil, que culminou na Emenda Constitucional nº 19/1998, orientou-se por um modelo que privilegia",
+    "choices": [
       "a preservação do patrimônio do governante.",
       "o controle rígido dos meios, com ênfase na hierarquia e no formalismo.",
       "a participação direta da população em todas as decisões administrativas.",
       "o abandono da legalidade em favor da conveniência dos gestores.",
       "o foco em resultados, na eficiência e no controle por metas e indicadores."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A reforma gerencial de 1995, ligada à EC 19/1998, priorizou resultados, eficiência (princípio incluído no art. 37) e controle por metas. A: é o patrimonialismo. B: é o burocrático. C: é o societal, em sua versão mais forte. D: o gerencial não abandona a legalidade."
+    "answerKey": 4,
+    "explanation": "Correta: E. A reforma gerencial de 1995, ligada à EC 19/1998, priorizou resultados, eficiência (princípio incluído no art. 37) e controle por metas. A: é o patrimonialismo. B: é o burocrático. C: é o societal, em sua versão mais forte. D: o gerencial não abandona a legalidade."
   },
   {
     "id": "AP-MOD-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "autoral",
-    "enunciado": "Segundo a Lei nº 14.129/2021 (Lei do Governo Digital), a expressão \"autosserviço\" designa o",
-    "alternativas": [
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "authored",
+    "statement": "Segundo a Lei nº 14.129/2021 (Lei do Governo Digital), a expressão \"autosserviço\" designa o",
+    "choices": [
       "atendimento prestado exclusivamente por servidores, em guichê presencial.",
       "acesso do cidadão a serviço público prestado por meio digital, sem necessidade de mediação humana.",
       "serviço prestado pelo servidor a si mesmo, em horário de expediente.",
       "serviço terceirizado a empresas privadas por meio de licitação.",
       "formato de arquivo não proprietário, com especificação pública."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O art. 4º, II, define autosserviço como o acesso pelo cidadão a serviço público por meio digital, sem mediação humana. A: é o atendimento presencial. C e D: não correspondem a nenhuma definição da lei. E: define formato aberto (art. 4º, VI)."
+    "answerKey": 1,
+    "explanation": "Correta: B. O art. 4º, II, define autosserviço como o acesso pelo cidadão a serviço público por meio digital, sem mediação humana. A: é o atendimento presencial. C e D: não correspondem a nenhuma definição da lei. E: define formato aberto (art. 4º, VI)."
   },
   {
     "id": "AP-MOD-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "autoral",
-    "enunciado": "A Câmara Municipal publicou, em seu portal, a relação de contratos e despesas do mês, sem que ninguém tivesse feito qualquer pedido. Segundo a Lei nº 14.129/2021, essa prática corresponde à",
-    "alternativas": [
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "authored",
+    "statement": "A Câmara Municipal publicou, em seu portal, a relação de contratos e despesas do mês, sem que ninguém tivesse feito qualquer pedido. Segundo a Lei nº 14.129/2021, essa prática corresponde à",
+    "choices": [
       "transparência passiva.",
       "transparência ativa.",
       "classificação de sigilo.",
       "prova de conceito.",
       "autotutela."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Transparência ativa é a disponibilização de dados pela Administração independentemente de solicitações (art. 4º, XI). A: transparência passiva é o atendimento a pedidos de informação. C: classificação de sigilo restringe o acesso. D: prova de conceito é teste de conformidade de proposta em licitação. E: autotutela é a revisão dos próprios atos."
+    "answerKey": 1,
+    "explanation": "Correta: B. Transparência ativa é a disponibilização de dados pela Administração independentemente de solicitações (art. 4º, XI). A: transparência passiva é o atendimento a pedidos de informação. C: classificação de sigilo restringe o acesso. D: prova de conceito é teste de conformidade de proposta em licitação. E: autotutela é a revisão dos próprios atos."
   }
 ]

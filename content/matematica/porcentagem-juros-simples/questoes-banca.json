@@ -2,116 +2,116 @@
   {
     "id": "B-TREM-14",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 14,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 14,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Um departamento tem 60 funcionários, dos quais 40% são homens. Após uma reestruturação em que foram contratadas apenas mulheres, o número de homens passou a representar apenas 30% do novo total de funcionários. O número de mulheres contratadas durante aquela reestruturação foi igual a",
-    "alternativas": [
+    "statement": "Um departamento tem 60 funcionários, dos quais 40% são homens. Após uma reestruturação em que foram contratadas apenas mulheres, o número de homens passou a representar apenas 30% do novo total de funcionários. O número de mulheres contratadas durante aquela reestruturação foi igual a",
+    "choices": [
       "4.",
       "10.",
       "15.",
       "20.",
       "24."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Homens: 40% de 60 = 24. Eles passam a ser 30% do novo total T: 24 = 0,30 × T, então T = 80. Foram contratadas 80 − 60 = 20 mulheres."
+    "answerKey": 3,
+    "explanation": "Correta: D. Homens: 40% de 60 = 24. Eles passam a ser 30% do novo total T: 24 = 0,30 × T, então T = 80. Foram contratadas 80 − 60 = 20 mulheres."
   },
   {
     "id": "B-PIRA-18",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 18,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 18,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "A final do futebol americano, chamada de Super Bowl, é um dos eventos esportivos mais assistidos no mundo. A emissora que transmitiu o evento em 2019 cobrou um preço recorde de 5,25 milhões de dólares por uma propaganda de 30 segundos. Esse valor é 75% maior do que o valor cobrado por uma propaganda com o mesmo tempo de exposição no ano de 2009.\n\nNo ano de 2009, o custo de uma propaganda com 30 segundos de duração foi igual a",
-    "alternativas": [
+    "statement": "A final do futebol americano, chamada de Super Bowl, é um dos eventos esportivos mais assistidos no mundo. A emissora que transmitiu o evento em 2019 cobrou um preço recorde de 5,25 milhões de dólares por uma propaganda de 30 segundos. Esse valor é 75% maior do que o valor cobrado por uma propaganda com o mesmo tempo de exposição no ano de 2009.\n\nNo ano de 2009, o custo de uma propaganda com 30 segundos de duração foi igual a",
+    "choices": [
       "1,3 milhão de dólares.",
       "3,0 milhões de dólares.",
       "3,9 milhões de dólares.",
       "4,2 milhões de dólares.",
       "4,5 milhões de dólares."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Se o valor de 2019 é 75% maior, ele corresponde a 175% do de 2009: 1,75 × V = 5,25, então V = 3,0 milhões. Erro comum: tirar 75% de 5,25 (dá 1,3 milhão, alternativa A)."
+    "answerKey": 1,
+    "explanation": "Correta: B. Se o valor de 2019 é 75% maior, ele corresponde a 175% do de 2009: 1,75 × V = 5,25, então V = 3,0 milhões. Erro comum: tirar 75% de 5,25 (dá 1,3 milhão, alternativa A)."
   },
   {
     "id": "B-SJRP-19",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 19,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 19,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Cláudia trocou uma mesa de tampo retangular, com 0,8 m de largura e 1,5 m de comprimento, por outra mesa de tampo retangular, cuja largura e comprimento, comparados com o tampo da mesa anterior, são maiores em 25% e 20%, respectivamente. A área do tampo da mesa nova, em comparação com a área do tampo da mesa antiga, é maior em",
-    "alternativas": [
+    "statement": "Cláudia trocou uma mesa de tampo retangular, com 0,8 m de largura e 1,5 m de comprimento, por outra mesa de tampo retangular, cuja largura e comprimento, comparados com o tampo da mesa anterior, são maiores em 25% e 20%, respectivamente. A área do tampo da mesa nova, em comparação com a área do tampo da mesa antiga, é maior em",
+    "choices": [
       "45%.",
       "47,5%.",
       "52,5%.",
       "50%.",
       "55%."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Os fatores são 1,25 (largura) e 1,20 (comprimento). A área fica multiplicada por 1,25 × 1,20 = 1,50, ou seja, aumenta 50%. Somar 25% + 20% = 45% (alternativa A) ignora que o aumento incide sobre as duas dimensões."
+    "answerKey": 3,
+    "explanation": "Correta: D. Os fatores são 1,25 (largura) e 1,20 (comprimento). A área fica multiplicada por 1,25 × 1,20 = 1,50, ou seja, aumenta 50%. Somar 25% + 20% = 45% (alternativa A) ignora que o aumento incide sobre as duas dimensões."
   },
   {
     "id": "B-VAAL-14",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 14,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 14,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Alice iniciou a leitura de um livro no dia 1º de março e leu 30 páginas nesse dia. Nos 10 dias seguintes, ela leu 20 páginas por dia, de maneira que, após esses 11 primeiros dias de leitura, Alice já tinha lido 40% das páginas do livro. Se Alice continuar lendo diariamente, mas agora 15 páginas por dia, ela terminará a leitura desse livro no dia",
-    "alternativas": [
+    "statement": "Alice iniciou a leitura de um livro no dia 1º de março e leu 30 páginas nesse dia. Nos 10 dias seguintes, ela leu 20 páginas por dia, de maneira que, após esses 11 primeiros dias de leitura, Alice já tinha lido 40% das páginas do livro. Se Alice continuar lendo diariamente, mas agora 15 páginas por dia, ela terminará a leitura desse livro no dia",
+    "choices": [
       "28 de março.",
       "31 de março.",
       "3 de abril.",
       "6 de abril.",
       "7 de abril."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Lidas em 11 dias: 30 + 10 × 20 = 230 páginas, que são 40% do livro, então o livro tem 230 ÷ 0,4 = 575. Faltam 345 páginas, que a 15 por dia levam 23 dias. Os dias de leitura vão de 12 de março até o 34º dia do mês; como março tem 31 dias, o último é 3 de abril."
+    "answerKey": 2,
+    "explanation": "Correta: C. Lidas em 11 dias: 30 + 10 × 20 = 230 páginas, que são 40% do livro, então o livro tem 230 ÷ 0,4 = 575. Faltam 345 páginas, que a 15 por dia levam 23 dias. Os dias de leitura vão de 12 de março até o 34º dia do mês; como março tem 31 dias, o último é 3 de abril."
   },
   {
     "id": "B-ITAN17-19",
     "area": "matematica",
-    "topicoSlug": "porcentagem-juros-simples",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 19
+    "topicSlug": "porcentagem-juros-simples",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 19
     },
-    "enunciado": "Um escritório dispõe de um total de 125 envelopes de papel, dos quais 40% são brancos e os demais são amarelos. Parte desses envelopes foram inutilizados, sendo 14% dos brancos e x% dos amarelos. Se, do número total de envelopes, 8% foram inutilizados, o valor de x é",
-    "alternativas": [
+    "statement": "Um escritório dispõe de um total de 125 envelopes de papel, dos quais 40% são brancos e os demais são amarelos. Parte desses envelopes foram inutilizados, sendo 14% dos brancos e x% dos amarelos. Se, do número total de envelopes, 8% foram inutilizados, o valor de x é",
+    "choices": [
       "7.",
       "6.",
       "5.",
       "4.",
       "3."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Brancos: 40% de 125 = 50; amarelos: 75. Inutilizados no total: 8% de 125 = 10. Brancos inutilizados: 14% de 50 = 7. Restam 3 amarelos inutilizados: x% de 75 = 3, logo x = 3 ÷ 75 = 4%."
+    "answerKey": 3,
+    "explanation": "Correta: D. Brancos: 40% de 125 = 50; amarelos: 75. Inutilizados no total: 8% de 125 = 10. Brancos inutilizados: 14% de 50 = 7. Restam 3 amarelos inutilizados: x% de 75 = 3, logo x = 3 ÷ 75 = 4%."
   }
 ]

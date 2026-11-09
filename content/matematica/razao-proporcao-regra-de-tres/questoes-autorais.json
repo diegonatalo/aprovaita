@@ -2,113 +2,113 @@
   {
     "id": "MAT-RAZ-A1",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "autoral",
-    "enunciado": "Uma máquina produz 120 cópias em 8 minutos. No mesmo ritmo, em 20 minutos produzirá",
-    "alternativas": [
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "authored",
+    "statement": "Uma máquina produz 120 cópias em 8 minutos. No mesmo ritmo, em 20 minutos produzirá",
+    "choices": [
       "240 cópias.",
       "300 cópias.",
       "320 cópias.",
       "360 cópias.",
       "400 cópias."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Regra de três direta: 120/8 = 15 cópias por minuto, e 15 × 20 = 300. As demais alternativas apresentam valores que não resultam do cálculo."
+    "answerKey": 1,
+    "explanation": "Correta: B. Regra de três direta: 120/8 = 15 cópias por minuto, e 15 × 20 = 300. As demais alternativas apresentam valores que não resultam do cálculo."
   },
   {
     "id": "MAT-RAZ-A2",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "autoral",
-    "enunciado": "Seis servidores concluem uma tarefa em 12 dias. Mantido o mesmo ritmo, nove servidores concluirão a mesma tarefa em",
-    "alternativas": [
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "authored",
+    "statement": "Seis servidores concluem uma tarefa em 12 dias. Mantido o mesmo ritmo, nove servidores concluirão a mesma tarefa em",
+    "choices": [
       "6 dias.",
       "7 dias.",
       "9 dias.",
       "8 dias.",
       "10 dias."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Regra de três inversa: 6 × 12 = 72 servidor-dias, e 72/9 = 8. A e B: não resultam do produto constante. C e E: tratam a relação como direta ou erram a conta."
+    "answerKey": 3,
+    "explanation": "Correta: D. Regra de três inversa: 6 × 12 = 72 servidor-dias, e 72/9 = 8. A e B: não resultam do produto constante. C e E: tratam a relação como direta ou erram a conta."
   },
   {
     "id": "MAT-RAZ-A3",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "autoral",
-    "enunciado": "Em um setor, a razão entre o número de homens e o de mulheres é 3 : 5. Se o setor tem 40 pessoas, o número de homens é",
-    "alternativas": [
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "authored",
+    "statement": "Em um setor, a razão entre o número de homens e o de mulheres é 3 : 5. Se o setor tem 40 pessoas, o número de homens é",
+    "choices": [
       "15.",
       "16.",
       "24.",
       "25.",
       "12."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. As partes somam 3 + 5 = 8, e cada parte vale 40/8 = 5; homens: 3 × 5 = 15. D: 25 é o número de mulheres (5 × 5). As demais alternativas não resultam do cálculo."
+    "answerKey": 0,
+    "explanation": "Correta: A. As partes somam 3 + 5 = 8, e cada parte vale 40/8 = 5; homens: 3 × 5 = 15. D: 25 é o número de mulheres (5 × 5). As demais alternativas não resultam do cálculo."
   },
   {
     "id": "MAT-RAZ-A4",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "autoral",
-    "enunciado": "Em um mapa com escala 1 : 50.000, a distância entre duas localidades é 4 cm. A distância real é de",
-    "alternativas": [
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "authored",
+    "statement": "Em um mapa com escala 1 : 50.000, a distância entre duas localidades é 4 cm. A distância real é de",
+    "choices": [
       "0,2 km.",
       "20 km.",
       "4 km.",
       "200 km.",
       "2 km."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. 4 cm × 50.000 = 200.000 cm = 2.000 m = 2 km. As demais alternativas erram a conversão de unidades."
+    "answerKey": 4,
+    "explanation": "Correta: E. 4 cm × 50.000 = 200.000 cm = 2.000 m = 2 km. As demais alternativas erram a conversão de unidades."
   },
   {
     "id": "MAT-RAZ-A5",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "autoral",
-    "enunciado": "Dividindo-se R$ 1.800,00 em partes diretamente proporcionais a 2, 3 e 4, a maior parte será de",
-    "alternativas": [
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "authored",
+    "statement": "Dividindo-se R$ 1.800,00 em partes diretamente proporcionais a 2, 3 e 4, a maior parte será de",
+    "choices": [
       "R$ 600,00.",
       "R$ 700,00.",
       "R$ 800,00.",
       "R$ 900,00.",
       "R$ 1.000,00."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A soma das razões é 2 + 3 + 4 = 9, e cada parte vale 1.800/9 = 200; a maior parte é 4 × 200 = 800. A: é a parte intermediária. As demais alternativas não resultam do cálculo."
+    "answerKey": 2,
+    "explanation": "Correta: C. A soma das razões é 2 + 3 + 4 = 9, e cada parte vale 1.800/9 = 200; a maior parte é 4 × 200 = 800. A: é a parte intermediária. As demais alternativas não resultam do cálculo."
   },
   {
     "id": "MAT-RAZ-A6",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "autoral",
-    "enunciado": "Quatro pedreiros, trabalhando 6 horas por dia, constroem um muro em 15 dias. Seis pedreiros, trabalhando 5 horas por dia, constroem o mesmo muro em",
-    "alternativas": [
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "authored",
+    "statement": "Quatro pedreiros, trabalhando 6 horas por dia, constroem um muro em 15 dias. Seis pedreiros, trabalhando 5 horas por dia, constroem o mesmo muro em",
+    "choices": [
       "12 dias.",
       "10 dias.",
       "14 dias.",
       "18 dias.",
       "20 dias."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Trabalho total: 4 × 6 × 15 = 360 pedreiro·hora·dia. Com 6 pedreiros e 5 h por dia: 360 ÷ (6 × 5) = 12 dias. B: ignora a mudança de horas. C, D e E: tratam alguma grandeza como direta em vez de inversa."
+    "answerKey": 0,
+    "explanation": "Correta: A. Trabalho total: 4 × 6 × 15 = 360 pedreiro·hora·dia. Com 6 pedreiros e 5 h por dia: 360 ÷ (6 × 5) = 12 dias. B: ignora a mudança de horas. C, D e E: tratam alguma grandeza como direta em vez de inversa."
   },
   {
     "id": "MAT-RAZ-A7",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "autoral",
-    "enunciado": "Em uma gráfica, 3 máquinas iguais imprimem 4.500 folhas em 5 horas. Mantendo o mesmo ritmo, 5 dessas máquinas imprimirão 9.000 folhas em",
-    "alternativas": [
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "authored",
+    "statement": "Em uma gráfica, 3 máquinas iguais imprimem 4.500 folhas em 5 horas. Mantendo o mesmo ritmo, 5 dessas máquinas imprimirão 9.000 folhas em",
+    "choices": [
       "6 horas.",
       "5 horas.",
       "7 horas.",
       "8 horas.",
       "9 horas."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Cada máquina imprime 4.500 ÷ (3 × 5) = 300 folhas por hora. Cinco máquinas imprimem 1.500 por hora, e 9.000 ÷ 1.500 = 6 horas. B: esquece que são mais folhas. As demais não resultam do cálculo."
+    "answerKey": 0,
+    "explanation": "Correta: A. Cada máquina imprime 4.500 ÷ (3 × 5) = 300 folhas por hora. Cinco máquinas imprimem 1.500 por hora, e 9.000 ÷ 1.500 = 6 horas. B: esquece que são mais folhas. As demais não resultam do cálculo."
   }
 ]

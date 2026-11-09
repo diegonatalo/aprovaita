@@ -3,85 +3,85 @@
     "id": "AG-DIR-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "autoral",
-    "enunciado": "Uma gestora toma todas as decisões sozinha, define as tarefas de cada servidor e controla de perto a execução, sem ouvir a equipe. Esse estilo de liderança, segundo a classificação de Lewin, é",
-    "alternativas": [
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "authored",
+    "statement": "Uma gestora toma todas as decisões sozinha, define as tarefas de cada servidor e controla de perto a execução, sem ouvir a equipe. Esse estilo de liderança, segundo a classificação de Lewin, é",
+    "choices": [
       "democrático.",
       "liberal.",
       "autocrático.",
       "situacional.",
       "transformacional."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. No estilo autocrático, o líder centraliza as decisões e controla a execução. A: o democrático envolve a equipe nas decisões. B: o liberal dá liberdade total ao grupo. D e E: não fazem parte da classificação de Lewin."
+    "answerKey": 2,
+    "explanation": "Correta: C. No estilo autocrático, o líder centraliza as decisões e controla a execução. A: o democrático envolve a equipe nas decisões. B: o liberal dá liberdade total ao grupo. D e E: não fazem parte da classificação de Lewin."
   },
   {
     "id": "AG-DIR-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "autoral",
-    "enunciado": "Segundo a teoria dos dois fatores, de Herzberg, o salário, as condições físicas de trabalho e o relacionamento com os colegas são fatores",
-    "alternativas": [
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "authored",
+    "statement": "Segundo a teoria dos dois fatores, de Herzberg, o salário, as condições físicas de trabalho e o relacionamento com os colegas são fatores",
+    "choices": [
       "motivacionais, pois geram satisfação plena.",
       "higiênicos, que evitam a insatisfação, mas não necessariamente motivam.",
       "de autorrealização.",
       "irrelevantes para a insatisfação no trabalho.",
       "equivalentes ao reconhecimento e à responsabilidade."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Para Herzberg, salário, condições de trabalho e relações são fatores higiênicos: evitam a insatisfação, mas não geram motivação. A e E: reconhecimento e responsabilidade são motivacionais. C: autorrealização é termo de Maslow. D: os fatores higiênicos são relevantes para evitar insatisfação."
+    "answerKey": 1,
+    "explanation": "Correta: B. Para Herzberg, salário, condições de trabalho e relações são fatores higiênicos: evitam a insatisfação, mas não geram motivação. A e E: reconhecimento e responsabilidade são motivacionais. C: autorrealização é termo de Maslow. D: os fatores higiênicos são relevantes para evitar insatisfação."
   },
   {
     "id": "AG-DIR-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "autoral",
-    "enunciado": "Um gestor acredita que as pessoas gostam naturalmente de trabalhar, buscam responsabilidade e são capazes de se autodirigir, sendo desnecessário controlá-las de perto. Essa visão corresponde à Teoria",
-    "alternativas": [
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "authored",
+    "statement": "Um gestor acredita que as pessoas gostam naturalmente de trabalhar, buscam responsabilidade e são capazes de se autodirigir, sendo desnecessário controlá-las de perto. Essa visão corresponde à Teoria",
+    "choices": [
       "X, de McGregor.",
       "Y, de McGregor.",
       "da hierarquia das necessidades, de Maslow.",
       "da equidade, de Adams.",
       "dos dois fatores, de Herzberg."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A Teoria Y, de McGregor, pressupõe que o trabalho é natural, que as pessoas buscam responsabilidade e se autodirigem. A: a Teoria X supõe que as pessoas evitam o trabalho e precisam de controle. C, D e E: são outras teorias da motivação."
+    "answerKey": 1,
+    "explanation": "Correta: B. A Teoria Y, de McGregor, pressupõe que o trabalho é natural, que as pessoas buscam responsabilidade e se autodirigem. A: a Teoria X supõe que as pessoas evitam o trabalho e precisam de controle. C, D e E: são outras teorias da motivação."
   },
   {
     "id": "AG-DIR-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "autoral",
-    "enunciado": "Na pirâmide de Maslow, a necessidade de reconhecimento, status e autoestima é classificada como necessidade de",
-    "alternativas": [
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "authored",
+    "statement": "Na pirâmide de Maslow, a necessidade de reconhecimento, status e autoestima é classificada como necessidade de",
+    "choices": [
       "fisiológica.",
       "segurança.",
       "social.",
       "autorrealização.",
       "estima."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Reconhecimento, status e autoestima correspondem às necessidades de estima. A: fisiológicas são básicas, como alimentação. B: segurança trata de proteção e estabilidade. C: sociais tratam de pertencimento e relacionamentos. D: autorrealização é o desenvolvimento do potencial."
+    "answerKey": 4,
+    "explanation": "Correta: E. Reconhecimento, status e autoestima correspondem às necessidades de estima. A: fisiológicas são básicas, como alimentação. B: segurança trata de proteção e estabilidade. C: sociais tratam de pertencimento e relacionamentos. D: autorrealização é o desenvolvimento do potencial."
   },
   {
     "id": "AG-DIR-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "direcao-lideranca-motivacao",
-    "origem": "autoral",
-    "enunciado": "Um órgão aplicou uma pesquisa para medir a percepção dos servidores sobre o ambiente de trabalho no último semestre, abrangendo satisfação, relacionamento e liderança. Esse levantamento avalia, principalmente, o(a)",
-    "alternativas": [
+    "topicSlug": "direcao-lideranca-motivacao",
+    "origin": "authored",
+    "statement": "Um órgão aplicou uma pesquisa para medir a percepção dos servidores sobre o ambiente de trabalho no último semestre, abrangendo satisfação, relacionamento e liderança. Esse levantamento avalia, principalmente, o(a)",
+    "choices": [
       "cultura organizacional, entendida como pressupostos básicos e invisíveis.",
       "estrutura organizacional.",
       "clima organizacional.",
       "planejamento estratégico.",
       "poder coercitivo."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O clima organizacional é a percepção dos membros sobre o ambiente de trabalho em dado momento, medida por pesquisas de clima. A: a cultura envolve valores e pressupostos duradouros e é mais profunda. B e D: não são avaliados por essa pesquisa. E: poder coercitivo é um tipo de poder, e não objeto de pesquisa de clima."
+    "answerKey": 2,
+    "explanation": "Correta: C. O clima organizacional é a percepção dos membros sobre o ambiente de trabalho em dado momento, medida por pesquisas de clima. A: a cultura envolve valores e pressupostos duradouros e é mais profunda. B e D: não são avaliados por essa pesquisa. E: poder coercitivo é um tipo de poder, e não objeto de pesquisa de clima."
   }
 ]

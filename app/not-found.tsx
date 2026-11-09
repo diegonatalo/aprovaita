@@ -1,11 +1,11 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { NOMES_AREA } from "@/lib/prova";
+import { AREA_NAMES } from "@/lib/exam";
 import { AREAS } from "@/lib/content";
 
 export const metadata: Metadata = { title: "Página não encontrada" };
 
-export default function NaoEncontrada() {
+export default function NotFoundPage() {
   return (
     <div className="mx-auto max-w-xl space-y-6 py-10 text-center">
       <p className="font-display text-8xl font-extrabold text-acento" aria-hidden="true">404</p>
@@ -19,7 +19,7 @@ export default function NaoEncontrada() {
       <nav aria-label="Áreas de estudo" className="flex flex-wrap justify-center gap-2 text-sm">
         {AREAS.map((a) => (
           <Link key={a} href={`/conteudo/${a}`} className="chip">
-            {NOMES_AREA[a]}
+            {AREA_NAMES[a]}
           </Link>
         ))}
         <Link href="/simulado" className="chip">Simulado</Link>

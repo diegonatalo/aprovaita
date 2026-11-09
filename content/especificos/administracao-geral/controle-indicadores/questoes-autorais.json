@@ -3,85 +3,85 @@
     "id": "AG-CTRL-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "autoral",
-    "enunciado": "A cada despesa, o setor financeiro exige a autorização formal do ordenador antes de qualquer pagamento, com o objetivo de impedir pagamentos indevidos. Esse procedimento caracteriza o controle",
-    "alternativas": [
+    "topicSlug": "controle-indicadores",
+    "origin": "authored",
+    "statement": "A cada despesa, o setor financeiro exige a autorização formal do ordenador antes de qualquer pagamento, com o objetivo de impedir pagamentos indevidos. Esse procedimento caracteriza o controle",
+    "choices": [
       "corretivo.",
       "posterior.",
       "concomitante.",
       "retroativo.",
       "preventivo."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O controle preventivo (prévio) atua antes da ação para evitar desvios, como a autorização anterior ao pagamento. A, B e D: o corretivo, posterior e retroativo ocorrem depois da ação. C: o concomitante ocorre durante a execução."
+    "answerKey": 4,
+    "explanation": "Correta: E. O controle preventivo (prévio) atua antes da ação para evitar desvios, como a autorização anterior ao pagamento. A, B e D: o corretivo, posterior e retroativo ocorrem depois da ação. C: o concomitante ocorre durante a execução."
   },
   {
     "id": "AG-CTRL-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "autoral",
-    "enunciado": "No processo de controle, após estabelecer os padrões e medir o desempenho, a etapa seguinte é",
-    "alternativas": [
+    "topicSlug": "controle-indicadores",
+    "origin": "authored",
+    "statement": "No processo de controle, após estabelecer os padrões e medir o desempenho, a etapa seguinte é",
+    "choices": [
       "demitir os responsáveis pelos desvios.",
       "comparar o desempenho com o padrão.",
       "redefinir imediatamente toda a estratégia.",
       "arquivar os resultados.",
       "eliminar os padrões."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. As etapas são: estabelecer padrões, medir o desempenho, comparar o realizado com o padrão e agir para corrigir desvios. A: não é etapa do controle. C: a revisão da estratégia só ocorre se a comparação indicar a necessidade. D e E: não fazem parte do processo."
+    "answerKey": 1,
+    "explanation": "Correta: B. As etapas são: estabelecer padrões, medir o desempenho, comparar o realizado com o padrão e agir para corrigir desvios. A: não é etapa do controle. C: a revisão da estratégia só ocorre se a comparação indicar a necessidade. D e E: não fazem parte do processo."
   },
   {
     "id": "AG-CTRL-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "autoral",
-    "enunciado": "Um programa municipal de capacitação cumpriu a meta de formar 500 pessoas, dentro do orçamento previsto. Entretanto, uma pesquisa posterior mostrou que a empregabilidade dos participantes não melhorou. Em relação ao programa, é correto afirmar que houve",
-    "alternativas": [
+    "topicSlug": "controle-indicadores",
+    "origin": "authored",
+    "statement": "Um programa municipal de capacitação cumpriu a meta de formar 500 pessoas, dentro do orçamento previsto. Entretanto, uma pesquisa posterior mostrou que a empregabilidade dos participantes não melhorou. Em relação ao programa, é correto afirmar que houve",
+    "choices": [
       "eficácia na meta de formação, mas baixa efetividade.",
       "alta efetividade e baixa eficácia.",
       "baixa eficiência e alta efetividade.",
       "alta efetividade, pois a meta foi cumprida.",
       "economicidade nula, pois o orçamento foi respeitado."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A meta (500 pessoas) foi alcançada, o que mostra eficácia. Contudo, o impacto desejado (melhora da empregabilidade) não ocorreu, o que indica baixa efetividade. B, C e D: invertem ou confundem os conceitos. E: respeitar o orçamento é indicativo de economia, e não de economicidade nula."
+    "answerKey": 0,
+    "explanation": "Correta: A. A meta (500 pessoas) foi alcançada, o que mostra eficácia. Contudo, o impacto desejado (melhora da empregabilidade) não ocorreu, o que indica baixa efetividade. B, C e D: invertem ou confundem os conceitos. E: respeitar o orçamento é indicativo de economia, e não de economicidade nula."
   },
   {
     "id": "AG-CTRL-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "autoral",
-    "enunciado": "O indicador que mede o número de certidões emitidas por um setor em um mês é, em regra, um indicador de",
-    "alternativas": [
+    "topicSlug": "controle-indicadores",
+    "origin": "authored",
+    "statement": "O indicador que mede o número de certidões emitidas por um setor em um mês é, em regra, um indicador de",
+    "choices": [
       "impacto.",
       "insumo.",
       "produto.",
       "efetividade.",
       "clima organizacional."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O número de certidões emitidas mede o que foi entregue, ou seja, o produto (output). A e D: impacto e efetividade tratam do efeito sobre a sociedade. B: insumos são os recursos consumidos (horas, dinheiro). E: clima mede percepção dos servidores."
+    "answerKey": 2,
+    "explanation": "Correta: C. O número de certidões emitidas mede o que foi entregue, ou seja, o produto (output). A e D: impacto e efetividade tratam do efeito sobre a sociedade. B: insumos são os recursos consumidos (horas, dinheiro). E: clima mede percepção dos servidores."
   },
   {
     "id": "AG-CTRL-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "autoral",
-    "enunciado": "O conceito que se refere à capacidade de fazer as coisas de maneira correta, utilizando bem os recursos disponíveis, com foco em processos e meios, é o de",
-    "alternativas": [
+    "topicSlug": "controle-indicadores",
+    "origin": "authored",
+    "statement": "O conceito que se refere à capacidade de fazer as coisas de maneira correta, utilizando bem os recursos disponíveis, com foco em processos e meios, é o de",
+    "choices": [
       "eficácia.",
       "efetividade.",
       "eficiência.",
       "equidade.",
       "legitimidade."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Eficiência é fazer certo, aproveitando bem os recursos, com foco nos meios e processos. A: eficácia é alcançar o resultado planejado. B: efetividade é o impacto real. D e E: não são o conceito pedido."
+    "answerKey": 2,
+    "explanation": "Correta: C. Eficiência é fazer certo, aproveitando bem os recursos, com foco nos meios e processos. A: eficácia é alcançar o resultado planejado. B: efetividade é o impacto real. D e E: não são o conceito pedido."
   }
 ]

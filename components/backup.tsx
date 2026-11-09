@@ -1,13 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import { exportarProgresso, importarProgresso } from "@/lib/storage";
+import { exportProgress, importProgress } from "@/lib/storage";
 
 export function Backup() {
-  const [msg, setMsg] = useState("");
+  const [message, setMessage] = useState("");
 
-  function exportar() {
-    const blob = new Blob([exportarProgresso()], { type: "application/json" });
+  function exportData() {
+    const blob = new Blob([exportProgress()], { type: "application/json" });
     const a = document.createElement("a");
     a.href = URL.createObjectURL(blob);
     a.download = `progresso-concurso-${new Date().toISOString().slice(0, 10)}.json`;
@@ -15,10 +15,10 @@ export function Backup() {
     URL.revokeObjectURL(a.href);
   }
 
-  async function importar(arquivo: File | undefined) {
-    if (!arquivo) return;
-    const r = importarProgresso(await arquivo.text());
-    setMsg(r.ok ? "Progresso importado." : (r.erro ?? "Falha ao importar."));
+  async function importData(file: File | undefined) {
+    if (!file) return;
+    const r = importProgress(await file.text());
+    setMessage(r.ok ? "Progresso importado." : (r.error ?? "Falha ao importar."));
   }
 
   return (
@@ -29,15 +29,15 @@ export function Backup() {
         levar ao celular.
       </p>
       <div className="flex flex-wrap items-center gap-3">
-        <button onClick={exportar} className="btn btn-primary">
+        <button onClick={exportData} className="btn btn-primary">
           Exportar JSON
         </button>
         <label className="cursor-pointer btn btn-ghost">
           Importar JSON (substitui o atual)
-          <input type="file" accept="application/json" className="sr-only" onChange={(e) => importar(e.target.files?.[0])} />
+          <input type="file" accept="application/json" className="sr-only" onChange={(e) => importData(e.target.files?.[0])} />
         </label>
       </div>
-      {msg && <p role="status" className="text-sm">{msg}</p>}
+      {message && <p role="status" className="text-sm">{message}</p>}
     </section>
   );
 }

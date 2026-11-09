@@ -2,81 +2,81 @@
   {
     "id": "MAT-EQ-A1",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "autoral",
-    "enunciado": "O valor de x na equação 3x + 7 = 28 é",
-    "alternativas": [
+    "topicSlug": "equacoes-sistemas",
+    "origin": "authored",
+    "statement": "O valor de x na equação 3x + 7 = 28 é",
+    "choices": [
       "7.",
       "8.",
       "9.",
       "10.",
       "6."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. 3x = 28 − 7 = 21, logo x = 7. As demais alternativas resultam de erros na transposição ou na divisão."
+    "answerKey": 0,
+    "explanation": "Correta: A. 3x = 28 − 7 = 21, logo x = 7. As demais alternativas resultam de erros na transposição ou na divisão."
   },
   {
     "id": "MAT-EQ-A2",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "autoral",
-    "enunciado": "A soma de dois números é 50 e a diferença entre eles é 12. O maior dos números é",
-    "alternativas": [
+    "topicSlug": "equacoes-sistemas",
+    "origin": "authored",
+    "statement": "A soma de dois números é 50 e a diferença entre eles é 12. O maior dos números é",
+    "choices": [
       "29.",
       "30.",
       "31.",
       "32.",
       "38."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Somando as equações, 2x = 62 e x = 31; o menor é 19. Verificação: 31 + 19 = 50 e 31 − 19 = 12. As demais alternativas não satisfazem as duas condições."
+    "answerKey": 2,
+    "explanation": "Correta: C. Somando as equações, 2x = 62 e x = 31; o menor é 19. Verificação: 31 + 19 = 50 e 31 − 19 = 12. As demais alternativas não satisfazem as duas condições."
   },
   {
     "id": "MAT-EQ-A3",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "autoral",
-    "enunciado": "Pensei em um número, multipliquei-o por 4 e subtraí 6, obtendo 30. O número que pensei é",
-    "alternativas": [
+    "topicSlug": "equacoes-sistemas",
+    "origin": "authored",
+    "statement": "Pensei em um número, multipliquei-o por 4 e subtraí 6, obtendo 30. O número que pensei é",
+    "choices": [
       "6.",
       "7.",
       "8.",
       "10.",
       "9."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. 4x − 6 = 30, então 4x = 36 e x = 9. Verificação: 4 × 9 − 6 = 30. As demais alternativas não satisfazem a equação."
+    "answerKey": 4,
+    "explanation": "Correta: E. 4x − 6 = 30, então 4x = 36 e x = 9. Verificação: 4 × 9 − 6 = 30. As demais alternativas não satisfazem a equação."
   },
   {
     "id": "MAT-EQ-A4",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "autoral",
-    "enunciado": "Duas canetas e três cadernos custam R$ 31,00. Uma caneta e dois cadernos custam R$ 19,00. O preço de um caderno é",
-    "alternativas": [
+    "topicSlug": "equacoes-sistemas",
+    "origin": "authored",
+    "statement": "Duas canetas e três cadernos custam R$ 31,00. Uma caneta e dois cadernos custam R$ 19,00. O preço de um caderno é",
+    "choices": [
       "R$ 5,00.",
       "R$ 7,00.",
       "R$ 8,00.",
       "R$ 9,00.",
       "R$ 6,00."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. De c + 2d = 19, c = 19 − 2d; em 2c + 3d = 31: 38 − 4d + 3d = 31, logo d = 7 e c = 5. A: é o preço da caneta. As demais alternativas não satisfazem o sistema."
+    "answerKey": 1,
+    "explanation": "Correta: B. De c + 2d = 19, c = 19 − 2d; em 2c + 3d = 31: 38 − 4d + 3d = 31, logo d = 7 e c = 5. A: é o preço da caneta. As demais alternativas não satisfazem o sistema."
   },
   {
     "id": "MAT-EQ-A5",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "autoral",
-    "enunciado": "A soma das raízes da equação x² − 5x + 6 = 0 é",
-    "alternativas": [
+    "topicSlug": "equacoes-sistemas",
+    "origin": "authored",
+    "statement": "A soma das raízes da equação x² − 5x + 6 = 0 é",
+    "choices": [
       "1.",
       "2.",
       "6.",
       "5.",
       "−5."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A soma das raízes é −b/a = 5; de fato, as raízes são 2 e 3. C: 6 é o produto das raízes. E: erra o sinal. As demais alternativas não resultam do cálculo."
+    "answerKey": 3,
+    "explanation": "Correta: D. A soma das raízes é −b/a = 5; de fato, as raízes são 2 e 3. C: 6 é o produto das raízes. E: erra o sinal. As demais alternativas não resultam do cálculo."
   }
 ]

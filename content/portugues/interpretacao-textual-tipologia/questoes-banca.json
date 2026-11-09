@@ -2,47 +2,47 @@
   {
     "id": "B-VAAL-04",
     "area": "portugues",
-    "topicoSlug": "interpretacao-textual-tipologia",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 4,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "interpretacao-textual-tipologia",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 4,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Assinale a alternativa em que o vocábulo destacado foi empregado em sentido figurado.",
-    "alternativas": [
+    "statement": "Assinale a alternativa em que o vocábulo destacado foi empregado em sentido figurado.",
+    "choices": [
       "… estão em cargos altamente expostos às **mudanças** geradas pela IA – contra seis a cada dez homens. (2º parágrafo)",
       "… referindo-se a áreas como administração, vendas e ciências sociais, que podem sofrer **transformações** profundas. (3º parágrafo)",
       "… um outro **estudo** realizado por uma empresa britânica aponta uma diferença… (4º parágrafo)",
       "Enquanto 54% dos homens britânicos estão **abraçando** a IA no seu cotidiano pessoal… (4º parágrafo)",
       "… McNeilly prevê que o contato humano deve se tornar cada vez mais **importante**… (5º parágrafo)"
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. “Abraçando a IA” é metáfora: no sentido figurado, significa adotar, aceitar a tecnologia. O sentido próprio de abraçar é envolver com os braços. Nas demais, as palavras estão em sentido literal."
+    "answerKey": 3,
+    "explanation": "Correta: D. “Abraçando a IA” é metáfora: no sentido figurado, significa adotar, aceitar a tecnologia. O sentido próprio de abraçar é envolver com os braços. Nas demais, as palavras estão em sentido literal."
   },
   {
     "id": "B-ITAN17-03",
     "area": "portugues",
-    "topicoSlug": "interpretacao-textual-tipologia",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 3
+    "topicSlug": "interpretacao-textual-tipologia",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 3
     },
-    "enunciado": "Assinale a alternativa que contém trecho com emprego figurado de palavra(s). (Trechos de reportagem sobre a marquesa de Santos.)",
-    "alternativas": [
+    "statement": "Assinale a alternativa que contém trecho com emprego figurado de palavra(s). (Trechos de reportagem sobre a marquesa de Santos.)",
+    "choices": [
       "… a marquesa de Santos, célebre amante de dom Pedro I, aos poucos deixa o rodapé da história para ganhar personalidade, ambição e protagonismo mais nítidos.",
       "O mais significativo, em termos históricos, é o diário que confirma a existência do primeiro dos cinco filhos dos dois amantes…",
       "… um menino sobre o qual se especulava haver nascido, mas de quem não se tinha notícia de ter sobrevivido.",
       "Frequentava seus saraus todo mundo que era importante.",
       "A paixão de Domitila e dom Pedro ficou registrada em cartas não recomendáveis para menores."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Deixa o rodapé da história” é metáfora: o rodapé, parte secundária da página, representa um papel secundário na história. Nas demais as palavras têm sentido próprio: o diário confirma um fato, “especulava” e “notícia” são literais, “saraus” e “frequentava” também, e “cartas não recomendáveis para menores” indica conteúdo impróprio, sem imagem."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Deixa o rodapé da história” é metáfora: o rodapé, parte secundária da página, representa um papel secundário na história. Nas demais as palavras têm sentido próprio: o diário confirma um fato, “especulava” e “notícia” são literais, “saraus” e “frequentava” também, e “cartas não recomendáveis para menores” indica conteúdo impróprio, sem imagem."
   }
 ]

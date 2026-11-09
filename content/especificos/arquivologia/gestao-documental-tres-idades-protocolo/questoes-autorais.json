@@ -3,85 +3,85 @@
     "id": "ARQ-GD-A1",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "autoral",
-    "enunciado": "A teoria das três idades divide o ciclo de vida dos documentos em fases denominadas",
-    "alternativas": [
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "authored",
+    "statement": "A teoria das três idades divide o ciclo de vida dos documentos em fases denominadas",
+    "choices": [
       "ativa, passiva e extinta.",
       "corrente, intermediária e permanente.",
       "setorial, central e geral.",
       "primária, secundária e terciária, todas com mesmo valor.",
       "pública, privada e mista."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. As três idades são corrente, intermediária e permanente. A: não é a terminologia usual. C: refere-se à extensão de atuação dos arquivos. D: valor primário e secundário são conceitos distintos, e não designam fases de mesmo valor. E: refere-se à natureza da entidade."
+    "answerKey": 1,
+    "explanation": "Correta: B. As três idades são corrente, intermediária e permanente. A: não é a terminologia usual. C: refere-se à extensão de atuação dos arquivos. D: valor primário e secundário são conceitos distintos, e não designam fases de mesmo valor. E: refere-se à natureza da entidade."
   },
   {
     "id": "ARQ-GD-A2",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "autoral",
-    "enunciado": "A passagem dos documentos do arquivo corrente para o arquivo intermediário é denominada",
-    "alternativas": [
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "authored",
+    "statement": "A passagem dos documentos do arquivo corrente para o arquivo intermediário é denominada",
+    "choices": [
       "eliminação.",
       "recolhimento.",
       "autuação.",
       "descrição.",
       "transferência."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Transferência é a passagem do corrente para o intermediário. B: recolhimento é a passagem do intermediário para o permanente. A: eliminação é a destruição. C: autuação é a formação do processo. D: descrição é a elaboração de instrumentos de pesquisa."
+    "answerKey": 4,
+    "explanation": "Correta: E. Transferência é a passagem do corrente para o intermediário. B: recolhimento é a passagem do intermediário para o permanente. A: eliminação é a destruição. C: autuação é a formação do processo. D: descrição é a elaboração de instrumentos de pesquisa."
   },
   {
     "id": "ARQ-GD-A3",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "autoral",
-    "enunciado": "No arquivo intermediário ficam os documentos que",
-    "alternativas": [
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "authored",
+    "statement": "No arquivo intermediário ficam os documentos que",
+    "choices": [
       "não têm uso frequente no órgão produtor e aguardam a eliminação ou o recolhimento para guarda permanente.",
       "estão em tramitação diária.",
       "já têm valor histórico definitivamente reconhecido e são consultados todos os dias.",
       "devem ser eliminados imediatamente após a produção.",
       "pertencem apenas a entidades privadas."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, em linha com o art. 8º, § 2º, da Lei 8.159. B: descreve documentos correntes. C: documentos de valor histórico vão ao permanente. D: a eliminação depende de prazos e autorização. E: a classificação por fase vale para qualquer arquivo."
+    "answerKey": 0,
+    "explanation": "Correta: A, em linha com o art. 8º, § 2º, da Lei 8.159. B: descreve documentos correntes. C: documentos de valor histórico vão ao permanente. D: a eliminação depende de prazos e autorização. E: a classificação por fase vale para qualquer arquivo."
   },
   {
     "id": "ARQ-GD-A4",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "autoral",
-    "enunciado": "Entre as atividades típicas de um setor de protocolo está",
-    "alternativas": [
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "authored",
+    "statement": "Entre as atividades típicas de um setor de protocolo está",
+    "choices": [
       "a eliminação definitiva de documentos permanentes.",
       "a restauração de documentos danificados.",
       "o registro e o controle da tramitação de documentos e processos.",
       "a elaboração do plano de preservação digital.",
       "a decisão sobre o valor histórico dos documentos."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O protocolo registra e controla a movimentação de documentos e processos. A: documentos permanentes não são eliminados. B: restauração é tarefa de conservação. D e E: pertencem a outras funções arquivísticas, como preservação e avaliação."
+    "answerKey": 2,
+    "explanation": "Correta: C. O protocolo registra e controla a movimentação de documentos e processos. A: documentos permanentes não são eliminados. B: restauração é tarefa de conservação. D e E: pertencem a outras funções arquivísticas, como preservação e avaliação."
   },
   {
     "id": "ARQ-GD-A5",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "autoral",
-    "enunciado": "Ao documento que, cumprido o prazo de guarda e avaliado, tem valor histórico, probatório ou informativo, a destinação adequada é",
-    "alternativas": [
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "authored",
+    "statement": "Ao documento que, cumprido o prazo de guarda e avaliado, tem valor histórico, probatório ou informativo, a destinação adequada é",
+    "choices": [
       "a eliminação.",
       "o retorno ao arquivo corrente por tempo indeterminado.",
       "a venda a particulares.",
       "o recolhimento ao arquivo permanente.",
       "a transferência ao arquivo setorial de qualquer órgão."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Documentos de valor secundário (histórico, probatório, informativo) são recolhidos ao arquivo permanente. A: eliminação é para documentos sem valor permanente. B e E: não são destinações previstas. C: documentos permanentes são inalienáveis (Lei 8.159, art. 10)."
+    "answerKey": 3,
+    "explanation": "Correta: D. Documentos de valor secundário (histórico, probatório, informativo) são recolhidos ao arquivo permanente. A: eliminação é para documentos sem valor permanente. B e E: não são destinações previstas. C: documentos permanentes são inalienáveis (Lei 8.159, art. 10)."
   }
 ]

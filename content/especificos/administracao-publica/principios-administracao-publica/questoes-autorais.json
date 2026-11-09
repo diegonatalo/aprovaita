@@ -3,85 +3,85 @@
     "id": "AP-PRINC-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "principios-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Uma prefeitura divulgou, em outdoors e nas redes oficiais, uma campanha sobre a inauguração de uma unidade de saúde. As peças destacavam o nome e a fotografia do prefeito, com o slogan de sua gestão. A conduta contraria, de modo mais direto, o princípio da",
-    "alternativas": [
+    "topicSlug": "principios-administracao-publica",
+    "origin": "authored",
+    "statement": "Uma prefeitura divulgou, em outdoors e nas redes oficiais, uma campanha sobre a inauguração de uma unidade de saúde. As peças destacavam o nome e a fotografia do prefeito, com o slogan de sua gestão. A conduta contraria, de modo mais direto, o princípio da",
+    "choices": [
       "eficiência.",
       "legalidade estrita.",
       "continuidade do serviço público.",
       "impessoalidade.",
       "autotutela."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A publicidade oficial deve ter caráter educativo, informativo ou de orientação social, sem nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades. Isso decorre da impessoalidade. A: eficiência trata de resultados e desempenho. B: o enunciado não descreve ato sem base legal. C: não houve interrupção de serviço. E: autotutela é o poder de a Administração rever os próprios atos."
+    "answerKey": 3,
+    "explanation": "Correta: D. A publicidade oficial deve ter caráter educativo, informativo ou de orientação social, sem nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades. Isso decorre da impessoalidade. A: eficiência trata de resultados e desempenho. B: o enunciado não descreve ato sem base legal. C: não houve interrupção de serviço. E: autotutela é o poder de a Administração rever os próprios atos."
   },
   {
     "id": "AP-PRINC-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "principios-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Sobre o princípio da legalidade, é correto afirmar que",
-    "alternativas": [
+    "topicSlug": "principios-administracao-publica",
+    "origin": "authored",
+    "statement": "Sobre o princípio da legalidade, é correto afirmar que",
+    "choices": [
       "o particular só pode fazer o que a lei expressamente autoriza.",
       "a Administração Pública pode fazer tudo o que a lei não proíbe.",
       "a Administração Pública só pode fazer o que a lei autoriza.",
       "a legalidade dispensa a observância da moralidade administrativa.",
       "o agente público pode deixar de cumprir a lei quando entender que o ato é conveniente."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Para a Administração, vale a legalidade estrita: só se pode agir quando e como a lei autoriza. A e B: invertem as regras, pois quem pode fazer tudo o que a lei não proíbe é o particular. D: legalidade e moralidade são princípios cumulativos do art. 37, caput. E: conveniência não afasta o dever de cumprir a lei."
+    "answerKey": 2,
+    "explanation": "Correta: C. Para a Administração, vale a legalidade estrita: só se pode agir quando e como a lei autoriza. A e B: invertem as regras, pois quem pode fazer tudo o que a lei não proíbe é o particular. D: legalidade e moralidade são princípios cumulativos do art. 37, caput. E: conveniência não afasta o dever de cumprir a lei."
   },
   {
     "id": "AP-PRINC-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "principios-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Entre os princípios a seguir, aquele que foi expressamente incluído no caput do art. 37 da Constituição Federal pela Emenda Constitucional nº 19/1998 é o da",
-    "alternativas": [
+    "topicSlug": "principios-administracao-publica",
+    "origin": "authored",
+    "statement": "Entre os princípios a seguir, aquele que foi expressamente incluído no caput do art. 37 da Constituição Federal pela Emenda Constitucional nº 19/1998 é o da",
+    "choices": [
       "razoabilidade.",
       "motivação.",
       "supremacia do interesse público.",
       "segurança jurídica.",
       "eficiência."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A EC 19/1998 acrescentou a eficiência aos princípios de legalidade, impessoalidade, moralidade e publicidade. A, B, C e D: são princípios reconhecidos pela doutrina, pela jurisprudência ou por leis (como a Lei 9.784/1999), mas não constam no caput do art. 37."
+    "answerKey": 4,
+    "explanation": "Correta: E. A EC 19/1998 acrescentou a eficiência aos princípios de legalidade, impessoalidade, moralidade e publicidade. A, B, C e D: são princípios reconhecidos pela doutrina, pela jurisprudência ou por leis (como a Lei 9.784/1999), mas não constam no caput do art. 37."
   },
   {
     "id": "AP-PRINC-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "principios-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Ao perceber que um ato administrativo praticado por sua própria equipe foi editado com vício de legalidade, o órgão decidiu anulá-lo por conta própria, sem recorrer ao Poder Judiciário. Essa prerrogativa decorre do princípio da",
-    "alternativas": [
+    "topicSlug": "principios-administracao-publica",
+    "origin": "authored",
+    "statement": "Ao perceber que um ato administrativo praticado por sua própria equipe foi editado com vício de legalidade, o órgão decidiu anulá-lo por conta própria, sem recorrer ao Poder Judiciário. Essa prerrogativa decorre do princípio da",
+    "choices": [
       "publicidade.",
       "autotutela.",
       "impessoalidade.",
       "continuidade.",
       "indisponibilidade do interesse público."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A autotutela permite à Administração controlar os próprios atos: anular os ilegais e revogar os inconvenientes ou inoportunos (Súmulas 346 e 473 do STF). A: publicidade trata da transparência. C: impessoalidade trata do tratamento isonômico e da finalidade. D: continuidade trata de serviços essenciais. E: indisponibilidade diz que o agente não pode abrir mão do interesse público, o que não explica a anulação."
+    "answerKey": 1,
+    "explanation": "Correta: B. A autotutela permite à Administração controlar os próprios atos: anular os ilegais e revogar os inconvenientes ou inoportunos (Súmulas 346 e 473 do STF). A: publicidade trata da transparência. C: impessoalidade trata do tratamento isonômico e da finalidade. D: continuidade trata de serviços essenciais. E: indisponibilidade diz que o agente não pode abrir mão do interesse público, o que não explica a anulação."
   },
   {
     "id": "AP-PRINC-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "principios-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Um concurso público foi homologado com prazo de validade de 1 (um) ano. Nos termos do art. 37 da Constituição Federal, esse prazo",
-    "alternativas": [
+    "topicSlug": "principios-administracao-publica",
+    "origin": "authored",
+    "statement": "Um concurso público foi homologado com prazo de validade de 1 (um) ano. Nos termos do art. 37 da Constituição Federal, esse prazo",
+    "choices": [
       "não pode ser prorrogado em nenhuma hipótese.",
       "pode ser prorrogado quantas vezes a Administração entender necessário.",
       "pode ser prorrogado uma vez, por até 1 (um) ano, igual período ao original.",
       "pode ser prorrogado uma vez, por até 2 (dois) anos, independentemente do prazo original.",
       "pode ser prorrogado por 6 (seis) meses a cada vez, sem limite de prorrogações."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O art. 37, III, prevê validade de até 2 anos, prorrogável uma vez, por igual período. Como o prazo original foi de 1 ano, a prorrogação é de até 1 ano. A: a prorrogação é prevista. B e E: a prorrogação é única. D: 'igual período' significa período igual ao original (aqui, 1 ano), e não 2 anos."
+    "answerKey": 2,
+    "explanation": "Correta: C. O art. 37, III, prevê validade de até 2 anos, prorrogável uma vez, por igual período. Como o prazo original foi de 1 ano, a prorrogação é de até 1 ano. A: a prorrogação é prevista. B e E: a prorrogação é única. D: 'igual período' significa período igual ao original (aqui, 1 ano), e não 2 anos."
   }
 ]

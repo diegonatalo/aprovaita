@@ -3,85 +3,85 @@
     "id": "AG-MAT-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "autoral",
-    "enunciado": "Na classificação ABC de materiais em estoque, os itens da classe A caracterizam-se por serem",
-    "alternativas": [
+    "topicSlug": "gestao-materiais",
+    "origin": "authored",
+    "statement": "Na classificação ABC de materiais em estoque, os itens da classe A caracterizam-se por serem",
+    "choices": [
       "numerosos e de baixo valor de consumo.",
       "poucos e de maior valor de consumo, exigindo controle mais rigoroso.",
       "todos perecíveis.",
       "os de menor giro e menor importância.",
       "os que dispensam qualquer controle."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Na curva ABC, a classe A reúne poucos itens que respondem pela maior parte do valor de consumo, e por isso exige controle mais rigoroso. A: descreve a classe C. C, D e E: não têm relação com o critério de valor da curva ABC."
+    "answerKey": 1,
+    "explanation": "Correta: B. Na curva ABC, a classe A reúne poucos itens que respondem pela maior parte do valor de consumo, e por isso exige controle mais rigoroso. A: descreve a classe C. C, D e E: não têm relação com o critério de valor da curva ABC."
   },
   {
     "id": "AG-MAT-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "autoral",
-    "enunciado": "O almoxarifado de um órgão tem consumo médio de 20 unidades por dia de determinado material, prazo de reposição de 5 dias e estoque de segurança de 30 unidades. O ponto de pedido, em unidades, é de",
-    "alternativas": [
+    "topicSlug": "gestao-materiais",
+    "origin": "authored",
+    "statement": "O almoxarifado de um órgão tem consumo médio de 20 unidades por dia de determinado material, prazo de reposição de 5 dias e estoque de segurança de 30 unidades. O ponto de pedido, em unidades, é de",
+    "choices": [
       "100.",
       "50.",
       "30.",
       "130.",
       "150."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Ponto de pedido = consumo médio × tempo de reposição + estoque de segurança = 20 × 5 + 30 = 130. A: 100 ignora o estoque de segurança. B, C e E: não resultam da fórmula."
+    "answerKey": 3,
+    "explanation": "Correta: D. Ponto de pedido = consumo médio × tempo de reposição + estoque de segurança = 20 × 5 + 30 = 130. A: 100 ignora o estoque de segurança. B, C e E: não resultam da fórmula."
   },
   {
     "id": "AG-MAT-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "autoral",
-    "enunciado": "Para controlar o estoque de medicamentos e outros itens com prazo de validade, o almoxarifado adotou o critério pelo qual os itens mais antigos são os primeiros a sair. Esse critério é conhecido pela sigla",
-    "alternativas": [
+    "topicSlug": "gestao-materiais",
+    "origin": "authored",
+    "statement": "Para controlar o estoque de medicamentos e outros itens com prazo de validade, o almoxarifado adotou o critério pelo qual os itens mais antigos são os primeiros a sair. Esse critério é conhecido pela sigla",
+    "choices": [
       "UEPS.",
       "PEPS.",
       "ABC.",
       "LEC.",
       "WIP."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. No PEPS (primeiro que entra, primeiro que sai), os itens mais antigos saem primeiro, o que é adequado a perecíveis. A: UEPS faz sair primeiro os mais recentes. C: ABC é classificação por valor. D: LEC é o lote econômico de compra. E: WIP é trabalho em andamento."
+    "answerKey": 1,
+    "explanation": "Correta: B. No PEPS (primeiro que entra, primeiro que sai), os itens mais antigos saem primeiro, o que é adequado a perecíveis. A: UEPS faz sair primeiro os mais recentes. C: ABC é classificação por valor. D: LEC é o lote econômico de compra. E: WIP é trabalho em andamento."
   },
   {
     "id": "AG-MAT-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "autoral",
-    "enunciado": "O registro de um bem permanente no patrimônio do órgão, com atribuição de um número de identificação, geralmente fixado em uma plaqueta, é denominado",
-    "alternativas": [
+    "topicSlug": "gestao-materiais",
+    "origin": "authored",
+    "statement": "O registro de um bem permanente no patrimônio do órgão, com atribuição de um número de identificação, geralmente fixado em uma plaqueta, é denominado",
+    "choices": [
       "baixa patrimonial.",
       "depreciação.",
       "desfazimento.",
       "tombamento.",
       "requisição."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Tombamento (registro patrimonial) é o registro do bem permanente com número de identificação (plaqueta). A e C: baixa e desfazimento retiram o bem do patrimônio. B: depreciação é a redução do valor do bem. E: requisição é o pedido de saída de material."
+    "answerKey": 3,
+    "explanation": "Correta: D. Tombamento (registro patrimonial) é o registro do bem permanente com número de identificação (plaqueta). A e C: baixa e desfazimento retiram o bem do patrimônio. B: depreciação é a redução do valor do bem. E: requisição é o pedido de saída de material."
   },
   {
     "id": "AG-MAT-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "autoral",
-    "enunciado": "A quantidade de estoque mantida como proteção contra variações no consumo e atrasos na entrega dos fornecedores é chamada de estoque",
-    "alternativas": [
+    "topicSlug": "gestao-materiais",
+    "origin": "authored",
+    "statement": "A quantidade de estoque mantida como proteção contra variações no consumo e atrasos na entrega dos fornecedores é chamada de estoque",
+    "choices": [
       "máximo.",
       "de segurança (mínimo).",
       "de obsolescência.",
       "em trânsito.",
       "inativo."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O estoque de segurança (ou mínimo) protege contra variações de consumo e atrasos de entrega. A: o estoque máximo é o limite superior para evitar excesso. C e E: tratam de itens sem uso. D: estoque em trânsito é o que está sendo transportado."
+    "answerKey": 1,
+    "explanation": "Correta: B. O estoque de segurança (ou mínimo) protege contra variações de consumo e atrasos de entrega. A: o estoque máximo é o limite superior para evitar excesso. C e E: tratam de itens sem uso. D: estoque em trânsito é o que está sendo transportado."
   }
 ]

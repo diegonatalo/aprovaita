@@ -3,85 +3,85 @@
     "id": "ARQ-L8159-A1",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "lei-8159-politica-nacional-arquivos",
-    "origem": "autoral",
-    "enunciado": "Nos termos da Lei nº 8.159/1991, considera-se gestão de documentos o conjunto de procedimentos e operações técnicas referentes à produção, à tramitação, ao uso, à avaliação e ao arquivamento",
-    "alternativas": [
+    "topicSlug": "lei-8159-politica-nacional-arquivos",
+    "origin": "authored",
+    "statement": "Nos termos da Lei nº 8.159/1991, considera-se gestão de documentos o conjunto de procedimentos e operações técnicas referentes à produção, à tramitação, ao uso, à avaliação e ao arquivamento",
+    "choices": [
       "somente em fase permanente, visando à preservação histórica.",
       "em fase corrente e intermediária, visando à eliminação ou ao recolhimento para guarda permanente.",
       "em fase intermediária e permanente, visando à digitalização.",
       "em qualquer fase, desde que o suporte seja papel.",
       "em fase corrente, visando exclusivamente à consulta pelo órgão produtor."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o art. 3º. A: a gestão vai até a fase intermediária e visa eliminar ou recolher; a guarda permanente é destino. C: não menciona digitalização. D: a lei vale para qualquer suporte (art. 2º). E: a gestão abrange também a fase intermediária."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o art. 3º. A: a gestão vai até a fase intermediária e visa eliminar ou recolher; a guarda permanente é destino. C: não menciona digitalização. D: a lei vale para qualquer suporte (art. 2º). E: a gestão abrange também a fase intermediária."
   },
   {
     "id": "ARQ-L8159-A2",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "lei-8159-politica-nacional-arquivos",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei nº 8.159/1991, os documentos de valor permanente são",
-    "alternativas": [
+    "topicSlug": "lei-8159-politica-nacional-arquivos",
+    "origin": "authored",
+    "statement": "De acordo com a Lei nº 8.159/1991, os documentos de valor permanente são",
+    "choices": [
       "alienáveis, desde que haja autorização do órgão produtor.",
       "alienáveis e prescritíveis após trinta anos.",
       "passíveis de eliminação após o prazo da tabela de temporalidade.",
       "inalienáveis e imprescritíveis.",
       "de acesso sempre irrestrito, sem exceções."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, conforme o art. 10. A, B e C: contrariam a inalienabilidade e a imprescritibilidade; documentos permanentes são preservados definitivamente. E: a lei ressalva o sigilo necessário no art. 4º."
+    "answerKey": 3,
+    "explanation": "Correta: D, conforme o art. 10. A, B e C: contrariam a inalienabilidade e a imprescritibilidade; documentos permanentes são preservados definitivamente. E: a lei ressalva o sigilo necessário no art. 4º."
   },
   {
     "id": "ARQ-L8159-A3",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "lei-8159-politica-nacional-arquivos",
-    "origem": "autoral",
-    "enunciado": "A eliminação de documentos produzidos por instituições públicas e de caráter público será realizada",
-    "alternativas": [
+    "topicSlug": "lei-8159-politica-nacional-arquivos",
+    "origin": "authored",
+    "statement": "A eliminação de documentos produzidos por instituições públicas e de caráter público será realizada",
+    "choices": [
       "mediante autorização da instituição arquivística pública, na sua específica esfera de competência.",
       "livremente, após cinco anos do arquivamento.",
       "por decisão do chefe do setor produtor, sem outras formalidades.",
       "somente após a digitalização de todos os documentos.",
       "apenas por ordem judicial."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 9º. B e C: não existe eliminação livre. D: a lei não condiciona a eliminação à digitalização. E: a lei não exige ordem judicial."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 9º. B e C: não existe eliminação livre. D: a lei não condiciona a eliminação à digitalização. E: a lei não exige ordem judicial."
   },
   {
     "id": "ARQ-L8159-A4",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "lei-8159-politica-nacional-arquivos",
-    "origem": "autoral",
-    "enunciado": "Conforme a Lei nº 8.159/1991, são arquivos municipais",
-    "alternativas": [
+    "topicSlug": "lei-8159-politica-nacional-arquivos",
+    "origin": "authored",
+    "statement": "Conforme a Lei nº 8.159/1991, são arquivos municipais",
+    "choices": [
       "apenas o arquivo do Poder Executivo.",
       "apenas o arquivo do Poder Legislativo.",
       "os arquivos dos Poderes Executivo, Legislativo e Judiciário.",
       "os arquivos do Arquivo Nacional.",
       "o arquivo do Poder Executivo e o arquivo do Poder Legislativo."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E, conforme o art. 17, § 4º. A e B: omitem um dos Poderes. C: o Judiciário não é municipal. D: o Arquivo Nacional é federal."
+    "answerKey": 4,
+    "explanation": "Correta: E, conforme o art. 17, § 4º. A e B: omitem um dos Poderes. C: o Judiciário não é municipal. D: o Arquivo Nacional é federal."
   },
   {
     "id": "ARQ-L8159-A5",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "lei-8159-politica-nacional-arquivos",
-    "origem": "autoral",
-    "enunciado": "O Conselho Nacional de Arquivos (CONARQ), criado pela Lei nº 8.159/1991, é",
-    "alternativas": [
+    "topicSlug": "lei-8159-politica-nacional-arquivos",
+    "origin": "authored",
+    "statement": "O Conselho Nacional de Arquivos (CONARQ), criado pela Lei nº 8.159/1991, é",
+    "choices": [
       "órgão vinculado ao Supremo Tribunal Federal.",
       "órgão exclusivo do Poder Legislativo.",
       "órgão vinculado ao Arquivo Nacional, órgão central do Sistema Nacional de Arquivos (SINAR).",
       "entidade privada de caráter científico.",
       "órgão responsável por eliminar documentos de todos os entes."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 26. A e B: não é vinculado ao STF nem ao Legislativo. D: é órgão público. E: define a política nacional de arquivos; a lei não lhe atribui a eliminação."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 26. A e B: não é vinculado ao STF nem ao Legislativo. D: é órgão público. E: define a política nacional de arquivos; a lei não lhe atribui a eliminação."
   }
 ]

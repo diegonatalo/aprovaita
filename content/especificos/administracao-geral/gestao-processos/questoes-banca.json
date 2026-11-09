@@ -3,72 +3,72 @@
     "id": "B-TREM-34",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 34,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-processos",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 34,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Com a evolução dos Serviços e aumento da sua participação no PIB dos países, notoriamente a partir dos anos 2000, o conceito da Cadeia de Valor também foi amplamente aplicado em organizações prestadoras de serviços, inclusive organizações públicas. *(https://www.gov.br/cnpq/pt-br)*\n\nConsiderando o exposto, é correto afirmar que uma cadeia de valor é dividida em dois grandes fluxos de processos, que são",
-    "alternativas": [
+    "statement": "Com a evolução dos Serviços e aumento da sua participação no PIB dos países, notoriamente a partir dos anos 2000, o conceito da Cadeia de Valor também foi amplamente aplicado em organizações prestadoras de serviços, inclusive organizações públicas. *(https://www.gov.br/cnpq/pt-br)*\n\nConsiderando o exposto, é correto afirmar que uma cadeia de valor é dividida em dois grandes fluxos de processos, que são",
+    "choices": [
       "atividades-fim e processos de apoio ou de suporte.",
       "atividades primárias e processos estruturais.",
       "atividades secundárias e processos de monitoramento.",
       "atividades-meio e processos internos e externos.",
       "atividades complementares e processos de avaliação."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A cadeia de valor separa as atividades-fim (primárias, que geram valor direto ao cliente) dos processos de apoio ou suporte. As demais combinações inventam pares que não são os dois fluxos clássicos."
+    "answerKey": 0,
+    "explanation": "Correta: A. A cadeia de valor separa as atividades-fim (primárias, que geram valor direto ao cliente) dos processos de apoio ou suporte. As demais combinações inventam pares que não são os dois fluxos clássicos."
   },
   {
     "id": "B-TREM-35",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 35,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-processos",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 35,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O desenho de processos é uma ferramenta que permite mapear, analisar e aprimorar os fluxos de trabalho de uma organização, contribuindo para a eficiência operacional. Rafael, assistente administrativo de uma instituição pública, sabe que “as raias de natação”, um dos elementos básicos no desenho de processos, representam",
-    "alternativas": [
+    "statement": "O desenho de processos é uma ferramenta que permite mapear, analisar e aprimorar os fluxos de trabalho de uma organização, contribuindo para a eficiência operacional. Rafael, assistente administrativo de uma instituição pública, sabe que “as raias de natação”, um dos elementos básicos no desenho de processos, representam",
+    "choices": [
       "os dados ou informações utilizadas durante a execução do processo.",
       "a direção do fluxo de execução ou comunicação do processo.",
       "as unidades organizacionais ou os papéis envolvidos na execução do processo.",
       "a divergência e convergência do fluxo, servindo como pontos de decisão.",
       "a condição que precisa ser avaliada como verdadeira para que o fluxo do processo continue."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. As raias (swimlanes) separam visualmente quem executa cada atividade: unidades organizacionais ou papéis. A: objetos de dados. B: setas (fluxo). D e E: gateways/decisões."
+    "answerKey": 2,
+    "explanation": "Correta: C. As raias (swimlanes) separam visualmente quem executa cada atividade: unidades organizacionais ou papéis. A: objetos de dados. B: setas (fluxo). D e E: gateways/decisões."
   },
   {
     "id": "B-TREM-36",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 36,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-processos",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 36,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Solicitou-se ao agente administrativo de uma instituição municipal que elaborasse um fluxograma para esclarecer a estrutura de geração de relatórios do seu departamento. Dentre os símbolos que ele utilizou para realizar o trabalho, destacam-se a seta e o retângulo que significam, correta e respectivamente,",
-    "alternativas": [
+    "statement": "Solicitou-se ao agente administrativo de uma instituição municipal que elaborasse um fluxograma para esclarecer a estrutura de geração de relatórios do seu departamento. Dentre os símbolos que ele utilizou para realizar o trabalho, destacam-se a seta e o retângulo que significam, correta e respectivamente,",
+    "choices": [
       "dados e decisão.",
       "linha de fluxo e processo.",
       "preparação e processo padrão.",
       "dados e conector.",
       "terminação e comentário."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. No fluxograma, a seta indica a linha de fluxo (sentido da sequência) e o retângulo representa uma atividade ou processo. Decisão é o losango; dados costumam ser o paralelogramo; terminação é a forma arredondada."
+    "answerKey": 1,
+    "explanation": "Correta: B. No fluxograma, a seta indica a linha de fluxo (sentido da sequência) e o retângulo representa uma atividade ou processo. Decisão é o losango; dados costumam ser o paralelogramo; terminação é a forma arredondada."
   }
 ]

@@ -3,85 +3,85 @@
     "id": "ARQ-CONC-A1",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "conceitos-principios-arquivisticos",
-    "origem": "autoral",
-    "enunciado": "O princípio arquivístico segundo o qual os documentos de uma entidade produtora não devem ser misturados aos de outra é o da",
-    "alternativas": [
+    "topicSlug": "conceitos-principios-arquivisticos",
+    "origin": "authored",
+    "statement": "O princípio arquivístico segundo o qual os documentos de uma entidade produtora não devem ser misturados aos de outra é o da",
+    "choices": [
       "cumulatividade.",
       "unicidade.",
       "proveniência.",
       "ordem alfabética.",
       "indexação."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O princípio da proveniência, ou respeito aos fundos, manda manter separados os documentos de produtores diferentes. A: cumulatividade trata da formação progressiva do arquivo. B: unicidade trata do caráter único do documento no seu contexto. D e E: não são princípios."
+    "answerKey": 2,
+    "explanation": "Correta: C. O princípio da proveniência, ou respeito aos fundos, manda manter separados os documentos de produtores diferentes. A: cumulatividade trata da formação progressiva do arquivo. B: unicidade trata do caráter único do documento no seu contexto. D e E: não são princípios."
   },
   {
     "id": "ARQ-CONC-A2",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "conceitos-principios-arquivisticos",
-    "origem": "autoral",
-    "enunciado": "O princípio da organicidade estabelece que os documentos de arquivo",
-    "alternativas": [
+    "topicSlug": "conceitos-principios-arquivisticos",
+    "origin": "authored",
+    "statement": "O princípio da organicidade estabelece que os documentos de arquivo",
+    "choices": [
       "refletem a estrutura, as funções e as atividades da entidade produtora, mantendo relações entre si.",
       "devem ser organizados exclusivamente por ordem alfabética.",
       "perdem valor quando passam à fase intermediária.",
       "devem ser separados por suporte, independentemente do produtor.",
       "podem ser descartados após a digitalização."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A organicidade indica que as relações entre os documentos refletem a estrutura e as atividades do produtor. B: o princípio não impõe método de ordenação. C: a passagem de fase não elimina o valor. D: o princípio de proveniência contraria separar por suporte. E: nada tem a ver com descarte."
+    "answerKey": 0,
+    "explanation": "Correta: A. A organicidade indica que as relações entre os documentos refletem a estrutura e as atividades do produtor. B: o princípio não impõe método de ordenação. C: a passagem de fase não elimina o valor. D: o princípio de proveniência contraria separar por suporte. E: nada tem a ver com descarte."
   },
   {
     "id": "ARQ-CONC-A3",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "conceitos-principios-arquivisticos",
-    "origem": "autoral",
-    "enunciado": "Na terminologia arquivística, o conjunto de documentos de mesma proveniência, isto é, acumulados por uma mesma entidade produtora, denomina-se",
-    "alternativas": [
+    "topicSlug": "conceitos-principios-arquivisticos",
+    "origin": "authored",
+    "statement": "Na terminologia arquivística, o conjunto de documentos de mesma proveniência, isto é, acumulados por uma mesma entidade produtora, denomina-se",
+    "choices": [
       "série.",
       "dossiê.",
       "item documental.",
       "espécie.",
       "fundo."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Fundo é o conjunto de documentos de mesma proveniência. A: série reúne documentos da mesma espécie ou função. B: dossiê reúne documentos sobre um assunto ou pessoa. C: item é a menor unidade. D: espécie é a configuração do documento."
+    "answerKey": 4,
+    "explanation": "Correta: E. Fundo é o conjunto de documentos de mesma proveniência. A: série reúne documentos da mesma espécie ou função. B: dossiê reúne documentos sobre um assunto ou pessoa. C: item é a menor unidade. D: espécie é a configuração do documento."
   },
   {
     "id": "ARQ-CONC-A4",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "conceitos-principios-arquivisticos",
-    "origem": "autoral",
-    "enunciado": "Ata, ofício, relatório e requerimento são exemplos de",
-    "alternativas": [
+    "topicSlug": "conceitos-principios-arquivisticos",
+    "origin": "authored",
+    "statement": "Ata, ofício, relatório e requerimento são exemplos de",
+    "choices": [
       "fundos documentais.",
       "espécies documentais.",
       "séries documentais.",
       "dossiês.",
       "arquivos setoriais."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Espécie documental é a configuração que o documento assume conforme a disposição e a natureza das informações, como ata, ofício e relatório. A: fundo é o conjunto de documentos de um produtor. C: série é o conjunto de documentos de mesma espécie ou função. D: dossiê reúne documentos sobre um assunto. E: arquivo setorial é o que fica nos setores."
+    "answerKey": 1,
+    "explanation": "Correta: B. Espécie documental é a configuração que o documento assume conforme a disposição e a natureza das informações, como ata, ofício e relatório. A: fundo é o conjunto de documentos de um produtor. C: série é o conjunto de documentos de mesma espécie ou função. D: dossiê reúne documentos sobre um assunto. E: arquivo setorial é o que fica nos setores."
   },
   {
     "id": "ARQ-CONC-A5",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "conceitos-principios-arquivisticos",
-    "origem": "autoral",
-    "enunciado": "Pelo princípio da unicidade, um documento de arquivo",
-    "alternativas": [
+    "topicSlug": "conceitos-principios-arquivisticos",
+    "origin": "authored",
+    "statement": "Pelo princípio da unicidade, um documento de arquivo",
+    "choices": [
       "não pode ter cópias.",
       "deve ser guardado em um único local físico.",
       "só pode ser produzido em um único suporte.",
       "conserva seu caráter único em função do contexto em que foi produzido, ainda que existam cópias.",
       "perde o valor probatório quando duplicado."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Pela unicidade, o documento é único no contexto em que foi produzido, mesmo havendo cópias. A: o princípio admite cópias. B, C e E: não decorrem do princípio."
+    "answerKey": 3,
+    "explanation": "Correta: D. Pela unicidade, o documento é único no contexto em que foi produzido, mesmo havendo cópias. A: o princípio admite cópias. B, C e E: não decorrem do princípio."
   }
 ]

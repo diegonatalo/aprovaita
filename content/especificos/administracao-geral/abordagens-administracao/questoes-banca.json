@@ -3,24 +3,24 @@
     "id": "B-VAAL-26",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "abordagens-administracao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 26,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "abordagens-administracao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 26,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Henri Fayol, no início do século XX, formulou 14 princípios básicos de Administração, que podem ser aplicados em qualquer organização. Entre esses princípios, aquele que preconiza que as tarefas e realizações com um mesmo propósito devem ser lideradas por uma única pessoa é denominado",
-    "alternativas": [
+    "statement": "Henri Fayol, no início do século XX, formulou 14 princípios básicos de Administração, que podem ser aplicados em qualquer organização. Entre esses princípios, aquele que preconiza que as tarefas e realizações com um mesmo propósito devem ser lideradas por uma única pessoa é denominado",
+    "choices": [
       "divisão do trabalho.",
       "unidade de direção.",
       "autoridade e responsabilidade.",
       "unidade de comando.",
       "estabilidade."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Unidade de direção: um chefe e um plano para o conjunto de atividades que visam ao mesmo objetivo. Não confundir com unidade de comando (D), segundo a qual cada empregado recebe ordens de um único superior."
+    "answerKey": 1,
+    "explanation": "Correta: B. Unidade de direção: um chefe e um plano para o conjunto de atividades que visam ao mesmo objetivo. Não confundir com unidade de comando (D), segundo a qual cada empregado recebe ordens de um único superior."
   }
 ]

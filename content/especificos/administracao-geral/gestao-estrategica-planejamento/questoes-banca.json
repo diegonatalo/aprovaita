@@ -3,96 +3,96 @@
     "id": "B-TREM-26",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 26,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 26,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Paulo, agente administrativo de uma prefeitura, tem ciência de que o processo contínuo e integrado que auxilia a administração no gerenciamento de todos os recursos da organização, visando o alcance de objetivos e metas estabelecidos, para a obtenção de resultado, refere-se à Administração",
-    "alternativas": [
+    "statement": "Paulo, agente administrativo de uma prefeitura, tem ciência de que o processo contínuo e integrado que auxilia a administração no gerenciamento de todos os recursos da organização, visando o alcance de objetivos e metas estabelecidos, para a obtenção de resultado, refere-se à Administração",
+    "choices": [
       "por Objetivos.",
       "Sistêmica.",
       "Contingencial.",
       "Estratégica.",
       "por Resultados."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D (gabarito oficial). O enunciado descreve um processo contínuo e integrado que gerencia todos os recursos da organização para atingir objetivos e metas, que é a ideia de Administração Estratégica. As demais opções designam outras abordagens (por objetivos, sistêmica, contingencial, por resultados)."
+    "answerKey": 3,
+    "explanation": "Correta: D (gabarito oficial). O enunciado descreve um processo contínuo e integrado que gerencia todos os recursos da organização para atingir objetivos e metas, que é a ideia de Administração Estratégica. As demais opções designam outras abordagens (por objetivos, sistêmica, contingencial, por resultados)."
   },
   {
     "id": "B-PAUL-22",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 22,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 22,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Em dado município, as secretarias municipais elaboram e utilizam seus respectivos planos estratégicos, entre outras finalidades, para subsidiar a gestão do prefeito eleito ou reeleito.\n\nUma das características do planejamento estratégico diz respeito",
-    "alternativas": [
+    "statement": "Em dado município, as secretarias municipais elaboram e utilizam seus respectivos planos estratégicos, entre outras finalidades, para subsidiar a gestão do prefeito eleito ou reeleito.\n\nUma das características do planejamento estratégico diz respeito",
+    "choices": [
       "ao foco em tarefas rotineiras.",
       "à análise de oportunidades e ameaças.",
       "à orientação para o médio prazo.",
       "ao detalhamento de atividades por departamentos.",
       "aos objetivos e metas de curto prazo."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O planejamento estratégico olha o ambiente externo (oportunidades e ameaças) e interno (forças e fraquezas) e define rumos de longo prazo. A, D e E descrevem planejamento operacional (tarefas rotineiras, detalhamento por departamento, curto prazo). C: o estratégico é de longo prazo, e o médio prazo é do tático."
+    "answerKey": 1,
+    "explanation": "Correta: B. O planejamento estratégico olha o ambiente externo (oportunidades e ameaças) e interno (forças e fraquezas) e define rumos de longo prazo. A, D e E descrevem planejamento operacional (tarefas rotineiras, detalhamento por departamento, curto prazo). C: o estratégico é de longo prazo, e o médio prazo é do tático."
   },
   {
     "id": "B-VAAL-30",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 30,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 30,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Ao reconhecer os seus diversos benefícios, a exemplo dos impactos positivos no desempenho organizacional, uma organização pública iniciará o processo de planejamento estratégico, que tem como uma de suas características",
-    "alternativas": [
+    "statement": "Ao reconhecer os seus diversos benefícios, a exemplo dos impactos positivos no desempenho organizacional, uma organização pública iniciará o processo de planejamento estratégico, que tem como uma de suas características",
+    "choices": [
       "focar em tarefas rotineiras.",
       "definir procedimentos e processos específicos.",
       "focar em departamentos da organização.",
       "orientar-se a curto e médio prazos.",
       "definir objetivos gerais e planos genéricos."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O planejamento estratégico é amplo, abrange a organização como um todo e é de longo prazo: define objetivos gerais e planos mais genéricos. Tarefas rotineiras, procedimentos específicos e foco em departamentos são do planejamento operacional, e curto e médio prazos não caracterizam o estratégico."
+    "answerKey": 4,
+    "explanation": "Correta: E. O planejamento estratégico é amplo, abrange a organização como um todo e é de longo prazo: define objetivos gerais e planos mais genéricos. Tarefas rotineiras, procedimentos específicos e foco em departamentos são do planejamento operacional, e curto e médio prazos não caracterizam o estratégico."
   },
   {
     "id": "B-VAAL-45",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-estrategica-planejamento",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 45,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-estrategica-planejamento",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 45,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "As ações tático-gerenciais são fundamentais para a boa gestão das políticas públicas, desempenhando um papel decisivo entre as estratégias e os procedimentos operacionais.\n\nNeste sentido, é correto afirmar que no plano tático há a tradução das estratégias em",
-    "alternativas": [
+    "statement": "As ações tático-gerenciais são fundamentais para a boa gestão das políticas públicas, desempenhando um papel decisivo entre as estratégias e os procedimentos operacionais.\n\nNeste sentido, é correto afirmar que no plano tático há a tradução das estratégias em",
+    "choices": [
       "processos.",
       "projetos.",
       "atividades.",
       "planos.",
       "programas."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E (gabarito oficial). No nível tático, as estratégias definidas pela alta direção são traduzidas em programas que cada área vai executar, antes de virarem atividades e procedimentos no nível operacional."
+    "answerKey": 4,
+    "explanation": "Correta: E (gabarito oficial). No nível tático, as estratégias definidas pela alta direção são traduzidas em programas que cada área vai executar, antes de virarem atividades e procedimentos no nível operacional."
   }
 ]

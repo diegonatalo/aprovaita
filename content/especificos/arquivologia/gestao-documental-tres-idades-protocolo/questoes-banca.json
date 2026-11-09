@@ -3,72 +3,72 @@
     "id": "B-SJRP-39",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 39,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 39,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A servidora pública Ana, ao acrescentar uma informação a um documento, com o intuito de alterá-lo corrigindo o seu conteúdo, realizou",
-    "alternativas": [
+    "statement": "A servidora pública Ana, ao acrescentar uma informação a um documento, com o intuito de alterá-lo corrigindo o seu conteúdo, realizou",
+    "choices": [
       "aditamento.",
       "autógrafo.",
       "apensação.",
       "arquivamento.",
       "ampliação."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A (gabarito oficial). Aditamento é o acréscimo de informação a um documento para completá-lo ou corrigi-lo. B: autógrafo é o original escrito ou assinado pelo próprio autor. C: apensação é a união definitiva de um processo a outro. D: arquivamento é a guarda ordenada. E: “ampliação” não é termo técnico de protocolo."
+    "answerKey": 0,
+    "explanation": "Correta: A (gabarito oficial). Aditamento é o acréscimo de informação a um documento para completá-lo ou corrigi-lo. B: autógrafo é o original escrito ou assinado pelo próprio autor. C: apensação é a união definitiva de um processo a outro. D: arquivamento é a guarda ordenada. E: “ampliação” não é termo técnico de protocolo."
   },
   {
     "id": "B-SJRP-40",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 40,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 40,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Marina verificou que um documento público perdeu o seu valor administrativo, mas possui valor probatório.\n\nA partir dessa constatação, esse documento será classificado como de",
-    "alternativas": [
+    "statement": "Marina verificou que um documento público perdeu o seu valor administrativo, mas possui valor probatório.\n\nA partir dessa constatação, esse documento será classificado como de",
+    "choices": [
       "5ª idade.",
       "1ª idade.",
       "3ª idade.",
       "2ª idade.",
       "4ª idade."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Sem valor primário (administrativo), mas com valor secundário (probatório ou informativo), o documento vai para guarda permanente: arquivo de 3ª idade. A 1ª idade (corrente) reúne documentos em uso, com valor administrativo vigente, e a 2ª (intermediária) aguarda prazos. Não existem 4ª e 5ª idades na teoria das três idades."
+    "answerKey": 2,
+    "explanation": "Correta: C. Sem valor primário (administrativo), mas com valor secundário (probatório ou informativo), o documento vai para guarda permanente: arquivo de 3ª idade. A 1ª idade (corrente) reúne documentos em uso, com valor administrativo vigente, e a 2ª (intermediária) aguarda prazos. Não existem 4ª e 5ª idades na teoria das três idades."
   },
   {
     "id": "B-SJRP-41",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "gestao-documental-tres-idades-protocolo",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 41,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-documental-tres-idades-protocolo",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 41,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O agente administrativo Pedro precisa movimentar documentos do arquivo corrente para o arquivo intermediário.\n\nO instrumento legal que define e formaliza essa movimentação é denominado termo de",
-    "alternativas": [
+    "statement": "O agente administrativo Pedro precisa movimentar documentos do arquivo corrente para o arquivo intermediário.\n\nO instrumento legal que define e formaliza essa movimentação é denominado termo de",
+    "choices": [
       "transferência.",
       "aceite.",
       "encerramento.",
       "recolhimento.",
       "guarda."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A passagem do arquivo corrente para o intermediário é a transferência. O recolhimento (D) é a passagem do intermediário para o permanente."
+    "answerKey": 0,
+    "explanation": "Correta: A. A passagem do arquivo corrente para o intermediário é a transferência. O recolhimento (D) é a passagem do intermediário para o permanente."
   }
 ]

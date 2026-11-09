@@ -3,24 +3,24 @@
     "id": "B-TREM-33",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "organizacao-estruturas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 33,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "organizacao-estruturas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 33,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A estrutura organizacional, representada em forma de organograma, indica o sistema hierárquico adotado. Os tipos de estrutura organizacional podem ser clássicos e outros inovadores, cada um com seus objetivos, vantagens e desvantagens. Como exemplo de uma estrutura divisional, pode-se citar, corretamente, as empresas",
-    "alternativas": [
+    "statement": "A estrutura organizacional, representada em forma de organograma, indica o sistema hierárquico adotado. Os tipos de estrutura organizacional podem ser clássicos e outros inovadores, cada um com seus objetivos, vantagens e desvantagens. Como exemplo de uma estrutura divisional, pode-se citar, corretamente, as empresas",
+    "choices": [
       "de engenharia, que formam equipes específicas para cada projeto.",
       "inovadoras, que estimulam a autonomia e a comunicação interna.",
       "de calçados, que mantêm o núcleo estratégico e terceirizam parte da produção.",
       "de tecnologia, na qual os colaboradores respondem a dois gestores.",
       "alimentícias, que dividem suas operações por regiões e tipos de produtos."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Na estrutura divisional, a organização é dividida em divisões por produtos, regiões ou clientes. A: estrutura por projetos. C: organização em rede/modular (núcleo estratégico e terceirização). D: matricial (duplo comando). B: não define estrutura."
+    "answerKey": 4,
+    "explanation": "Correta: E. Na estrutura divisional, a organização é dividida em divisões por produtos, regiões ou clientes. A: estrutura por projetos. C: organização em rede/modular (núcleo estratégico e terceirização). D: matricial (duplo comando). B: não define estrutura."
   }
 ]

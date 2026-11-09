@@ -3,85 +3,85 @@
     "id": "AG-ABORD-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "abordagens-administracao",
-    "origem": "autoral",
-    "enunciado": "Em uma fábrica, o gestor cronometra os movimentos dos operários para eliminar gestos desnecessários, padroniza as tarefas e paga prêmios aos que superam a meta de produção. Essas práticas são características da abordagem",
-    "alternativas": [
+    "topicSlug": "abordagens-administracao",
+    "origin": "authored",
+    "statement": "Em uma fábrica, o gestor cronometra os movimentos dos operários para eliminar gestos desnecessários, padroniza as tarefas e paga prêmios aos que superam a meta de produção. Essas práticas são características da abordagem",
+    "choices": [
       "das Relações Humanas.",
       "científica, de Taylor.",
       "contingencial.",
       "sistêmica.",
       "burocrática, de Weber."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Estudo de tempos e movimentos, padronização de tarefas e incentivos salariais ligados à produção são marcas da Administração Científica de Taylor, com ênfase nas tarefas. A: Relações Humanas valoriza grupos e satisfação. C: contingencial diz que a melhor prática depende da situação. D: sistêmica vê a organização como sistema aberto. E: burocrática enfatiza normas e hierarquia."
+    "answerKey": 1,
+    "explanation": "Correta: B. Estudo de tempos e movimentos, padronização de tarefas e incentivos salariais ligados à produção são marcas da Administração Científica de Taylor, com ênfase nas tarefas. A: Relações Humanas valoriza grupos e satisfação. C: contingencial diz que a melhor prática depende da situação. D: sistêmica vê a organização como sistema aberto. E: burocrática enfatiza normas e hierarquia."
   },
   {
     "id": "AG-ABORD-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "abordagens-administracao",
-    "origem": "autoral",
-    "enunciado": "Henri Fayol, expoente da Teoria Clássica, é lembrado por",
-    "alternativas": [
+    "topicSlug": "abordagens-administracao",
+    "origin": "authored",
+    "statement": "Henri Fayol, expoente da Teoria Clássica, é lembrado por",
+    "choices": [
       "estudar tempos e movimentos na linha de produção.",
       "conduzir os experimentos de Hawthorne.",
       "propor funções administrativas e princípios gerais, como a unidade de comando.",
       "formular a Teoria X e a Teoria Y.",
       "criar a administração por objetivos."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Fayol propôs as funções (prever, organizar, comandar, coordenar, controlar) e 14 princípios, entre eles a unidade de comando. A: tempos e movimentos são de Taylor. B: Hawthorne é associado a Mayo. D: Teoria X e Y é de McGregor. E: APO é associada a Drucker."
+    "answerKey": 2,
+    "explanation": "Correta: C. Fayol propôs as funções (prever, organizar, comandar, coordenar, controlar) e 14 princípios, entre eles a unidade de comando. A: tempos e movimentos são de Taylor. B: Hawthorne é associado a Mayo. D: Teoria X e Y é de McGregor. E: APO é associada a Drucker."
   },
   {
     "id": "AG-ABORD-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "abordagens-administracao",
-    "origem": "autoral",
-    "enunciado": "A experiência realizada na fábrica de Hawthorne, que revelou a importância dos grupos informais, da satisfação e da liderança na produtividade, está associada à abordagem",
-    "alternativas": [
+    "topicSlug": "abordagens-administracao",
+    "origin": "authored",
+    "statement": "A experiência realizada na fábrica de Hawthorne, que revelou a importância dos grupos informais, da satisfação e da liderança na produtividade, está associada à abordagem",
+    "choices": [
       "científica.",
       "clássica.",
       "burocrática.",
       "contingencial.",
       "das Relações Humanas."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A experiência de Hawthorne, conduzida por Elton Mayo, deu origem à Escola das Relações Humanas, que enfatiza pessoas e grupos. A, B e C: privilegiam tarefas, estrutura e normas. D: contingencial relaciona a gestão ao ambiente e à situação."
+    "answerKey": 4,
+    "explanation": "Correta: E. A experiência de Hawthorne, conduzida por Elton Mayo, deu origem à Escola das Relações Humanas, que enfatiza pessoas e grupos. A, B e C: privilegiam tarefas, estrutura e normas. D: contingencial relaciona a gestão ao ambiente e à situação."
   },
   {
     "id": "AG-ABORD-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "abordagens-administracao",
-    "origem": "autoral",
-    "enunciado": "Ao afirmar que não existe uma única maneira melhor de organizar e administrar, pois a estrutura e as práticas adequadas dependem das características do ambiente, da tecnologia e do porte da organização, defende-se a abordagem",
-    "alternativas": [
+    "topicSlug": "abordagens-administracao",
+    "origin": "authored",
+    "statement": "Ao afirmar que não existe uma única maneira melhor de organizar e administrar, pois a estrutura e as práticas adequadas dependem das características do ambiente, da tecnologia e do porte da organização, defende-se a abordagem",
+    "choices": [
       "contingencial.",
       "científica.",
       "clássica.",
       "burocrática.",
       "das Relações Humanas."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A abordagem contingencial rejeita o 'one best way' e considera que a melhor forma de gerir é contingente ao contexto. B e C: buscam princípios universais e uma melhor maneira. D: propõe um modelo único de organização racional-legal. E: privilegia pessoas e grupos."
+    "answerKey": 0,
+    "explanation": "Correta: A. A abordagem contingencial rejeita o 'one best way' e considera que a melhor forma de gerir é contingente ao contexto. B e C: buscam princípios universais e uma melhor maneira. D: propõe um modelo único de organização racional-legal. E: privilegia pessoas e grupos."
   },
   {
     "id": "AG-ABORD-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "abordagens-administracao",
-    "origem": "autoral",
-    "enunciado": "Em uma organização, o diretor-presidente dedica a maior parte do tempo a analisar o ambiente externo, definir rumos de longo prazo e enxergar a organização como um todo. Segundo a classificação de Katz, a habilidade que mais predomina nesse nível é a",
-    "alternativas": [
+    "topicSlug": "abordagens-administracao",
+    "origin": "authored",
+    "statement": "Em uma organização, o diretor-presidente dedica a maior parte do tempo a analisar o ambiente externo, definir rumos de longo prazo e enxergar a organização como um todo. Segundo a classificação de Katz, a habilidade que mais predomina nesse nível é a",
+    "choices": [
       "técnica.",
       "operacional.",
       "manual.",
       "conceitual.",
       "burocrática."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. No nível estratégico predomina a habilidade conceitual, a capacidade de enxergar a organização como um todo e as relações com o ambiente. A: a técnica predomina no nível operacional. B, C e E: não são as três habilidades de Katz (técnica, humana e conceitual)."
+    "answerKey": 3,
+    "explanation": "Correta: D. No nível estratégico predomina a habilidade conceitual, a capacidade de enxergar a organização como um todo e as relações com o ambiente. A: a técnica predomina no nível operacional. B, C e E: não são as três habilidades de Katz (técnica, humana e conceitual)."
   }
 ]

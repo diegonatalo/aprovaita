@@ -2,254 +2,254 @@
   {
     "id": "B-TREM-16",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 16,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 16,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Foram realizados dois orçamentos, em lojas distintas, para a compra de cadeiras de certo tipo. Cada cadeira desse tipo custa R$ 80,00 na loja A e R$ 72,00 na loja B. Independentemente do número de cadeiras adquiridas, a loja A cobra R$ 200,00 para entregá-las, e a loja B cobra R$ 320,00. Considerando-se o valor cobrado para a entrega, o custo total nessas duas lojas será o mesmo se o número de cadeiras compradas for igual a",
-    "alternativas": [
+    "statement": "Foram realizados dois orçamentos, em lojas distintas, para a compra de cadeiras de certo tipo. Cada cadeira desse tipo custa R$ 80,00 na loja A e R$ 72,00 na loja B. Independentemente do número de cadeiras adquiridas, a loja A cobra R$ 200,00 para entregá-las, e a loja B cobra R$ 320,00. Considerando-se o valor cobrado para a entrega, o custo total nessas duas lojas será o mesmo se o número de cadeiras compradas for igual a",
+    "choices": [
       "13.",
       "14.",
       "15.",
       "16.",
       "20."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Igualando os custos: 80n + 200 = 72n + 320, logo 8n = 120 e n = 15."
+    "answerKey": 2,
+    "explanation": "Correta: C. Igualando os custos: 80n + 200 = 72n + 320, logo 8n = 120 e n = 15."
   },
   {
     "id": "B-TREM-17",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 17,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 17,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O quadrado do número de protocolos recebidos em um dia somado ao quíntuplo desse mesmo número é igual a 500. Se cada protocolo leva 15 minutos para ser analisado, o tempo total gasto para analisar todos os protocolos recebidos nesse dia específico é igual a",
-    "alternativas": [
+    "statement": "O quadrado do número de protocolos recebidos em um dia somado ao quíntuplo desse mesmo número é igual a 500. Se cada protocolo leva 15 minutos para ser analisado, o tempo total gasto para analisar todos os protocolos recebidos nesse dia específico é igual a",
+    "choices": [
       "5 horas.",
       "5 horas e 30 minutos.",
       "6 horas.",
       "6 horas e 15 minutos.",
       "6 horas e 45 minutos."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. n² + 5n = 500 → n² + 5n − 500 = 0. Δ = 25 + 2.000 = 2.025 e √Δ = 45, então n = (−5 + 45) ÷ 2 = 20 protocolos (a raiz negativa não serve). Tempo: 20 × 15 = 300 min = 5 horas."
+    "answerKey": 0,
+    "explanation": "Correta: A. n² + 5n = 500 → n² + 5n − 500 = 0. Δ = 25 + 2.000 = 2.025 e √Δ = 45, então n = (−5 + 45) ÷ 2 = 20 protocolos (a raiz negativa não serve). Tempo: 20 × 15 = 300 min = 5 horas."
   },
   {
     "id": "B-PIRA-28",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 28,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 28,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Uma professora de música trabalha em uma escola que oferece aos seus alunos um contrato com aulas semanais de 30 minutos ou de 50 minutos. Ao longo de uma semana, essa professora ficou encarregada de 21 horas de aulas.\n\nConsiderando que, para essa professora, o número de aulas de 50 minutos supera o número de aulas de 30 minutos em 6 aulas ao longo da semana, tem-se que o tempo semanal destinado às aulas de 50 minutos totaliza",
-    "alternativas": [
+    "statement": "Uma professora de música trabalha em uma escola que oferece aos seus alunos um contrato com aulas semanais de 30 minutos ou de 50 minutos. Ao longo de uma semana, essa professora ficou encarregada de 21 horas de aulas.\n\nConsiderando que, para essa professora, o número de aulas de 50 minutos supera o número de aulas de 30 minutos em 6 aulas ao longo da semana, tem-se que o tempo semanal destinado às aulas de 50 minutos totaliza",
+    "choices": [
       "10 horas.",
       "12 horas.",
       "15 horas.",
       "16 horas.",
       "18 horas."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Seja x o número de aulas de 30 min; as de 50 min são x + 6. 21 h = 1.260 min: 30x + 50(x + 6) = 1.260 → 80x + 300 = 1.260 → x = 12. Aulas de 50 min: 18, que somam 18 × 50 = 900 min = 15 horas."
+    "answerKey": 2,
+    "explanation": "Correta: C. Seja x o número de aulas de 30 min; as de 50 min são x + 6. 21 h = 1.260 min: 30x + 50(x + 6) = 1.260 → 80x + 300 = 1.260 → x = 12. Aulas de 50 min: 18, que somam 18 × 50 = 900 min = 15 horas."
   },
   {
     "id": "B-SJRP-20",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 20,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 20,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O gerente de uma loja de roupas fez a seguinte encomenda junto ao seu fornecedor: 25 camisetas sem estampa, 35 camisetas com estampa, 18 camisas polo e 22 calças jeans. As camisetas com estampa são R$ 5,00 mais caras do que as camisetas sem estampa, e estas últimas são R$ 18,00 mais baratas do que as camisas polo. As calças jeans custam R$ 30,00 cada uma. Se o valor total dessa compra foi R$ 1.939,00, cada camiseta com estampa custou",
-    "alternativas": [
+    "statement": "O gerente de uma loja de roupas fez a seguinte encomenda junto ao seu fornecedor: 25 camisetas sem estampa, 35 camisetas com estampa, 18 camisas polo e 22 calças jeans. As camisetas com estampa são R$ 5,00 mais caras do que as camisetas sem estampa, e estas últimas são R$ 18,00 mais baratas do que as camisas polo. As calças jeans custam R$ 30,00 cada uma. Se o valor total dessa compra foi R$ 1.939,00, cada camiseta com estampa custou",
+    "choices": [
       "R$ 12,00.",
       "R$ 18,00.",
       "R$ 16,00.",
       "R$ 15,00.",
       "R$ 10,00."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Seja x o preço da camiseta sem estampa: com estampa = x + 5; polo = x + 18. 25x + 35(x + 5) + 18(x + 18) + 22 × 30 = 1.939 → 78x + 175 + 324 + 660 = 1.939 → 78x = 780 → x = 10. A camiseta com estampa custa 10 + 5 = R$ 15,00."
+    "answerKey": 3,
+    "explanation": "Correta: D. Seja x o preço da camiseta sem estampa: com estampa = x + 5; polo = x + 18. 25x + 35(x + 5) + 18(x + 18) + 22 × 30 = 1.939 → 78x + 175 + 324 + 660 = 1.939 → 78x = 780 → x = 10. A camiseta com estampa custa 10 + 5 = R$ 15,00."
   },
   {
     "id": "B-SJRP-21",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 21,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 21,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Um casal vendeu um carro por R$ 21.000,00 e pensou, inicialmente, em repartir esse valor em partes iguais entre certo número n de familiares que estavam precisando de recursos. Porém, ao tomar conhecimento que, além daqueles familiares, 2 conhecidos do casal também estavam passando por dificuldades financeiras, o casal decidiu então repartir o valor da venda do carro entre essas (n + 2) pessoas, e com isso cada pessoa recebeu R$ 2.800,00 a menos do que as n pessoas receberiam, cada uma, inicialmente.\n\nSe instantes antes de fazer o pagamento, mais uma pessoa for incluída na divisão do valor da venda do carro, em partes iguais para todas, cada uma dessas (n + 3) pessoas receberá",
-    "alternativas": [
+    "statement": "Um casal vendeu um carro por R$ 21.000,00 e pensou, inicialmente, em repartir esse valor em partes iguais entre certo número n de familiares que estavam precisando de recursos. Porém, ao tomar conhecimento que, além daqueles familiares, 2 conhecidos do casal também estavam passando por dificuldades financeiras, o casal decidiu então repartir o valor da venda do carro entre essas (n + 2) pessoas, e com isso cada pessoa recebeu R$ 2.800,00 a menos do que as n pessoas receberiam, cada uma, inicialmente.\n\nSe instantes antes de fazer o pagamento, mais uma pessoa for incluída na divisão do valor da venda do carro, em partes iguais para todas, cada uma dessas (n + 3) pessoas receberá",
+    "choices": [
       "R$ 2.625,00.",
       "R$ 3.000,00.",
       "R$ 2.800,00.",
       "R$ 3.225,00.",
       "R$ 3.500,00."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. 21.000/n − 21.000/(n + 2) = 2.800. Simplificando: 21.000 × 2 = 2.800 × n(n + 2), logo n(n + 2) = 15, então n = 3. Com n + 3 = 6 pessoas, cada uma recebe 21.000 ÷ 6 = R$ 3.500,00."
+    "answerKey": 4,
+    "explanation": "Correta: E. 21.000/n − 21.000/(n + 2) = 2.800. Simplificando: 21.000 × 2 = 2.800 × n(n + 2), logo n(n + 2) = 15, então n = 3. Com n + 3 = 6 pessoas, cada uma recebe 21.000 ÷ 6 = R$ 3.500,00."
   },
   {
     "id": "B-SJRP-22",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 22,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 22,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A soma dos números de processos distribuídos no mês passado para duas varas judiciais, A e B, é 246. Ao comparar os registros, verificou-se que a vara B recebeu 18 processos a mais que a vara A.\n\nSe dos processos distribuídos para a vara B, a quarta parte ainda não foi concluída, é correto concluir que o número de processos distribuídos no mês passado para a vara B que já foram concluídos é igual a",
-    "alternativas": [
+    "statement": "A soma dos números de processos distribuídos no mês passado para duas varas judiciais, A e B, é 246. Ao comparar os registros, verificou-se que a vara B recebeu 18 processos a mais que a vara A.\n\nSe dos processos distribuídos para a vara B, a quarta parte ainda não foi concluída, é correto concluir que o número de processos distribuídos no mês passado para a vara B que já foram concluídos é igual a",
+    "choices": [
       "102.",
       "99.",
       "33.",
       "30.",
       "96."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A + B = 246 e B = A + 18, então 2A + 18 = 246 e A = 114, logo B = 132. Concluídos: 3/4 de 132 = 99. Atenção: 33 (alternativa C) é a parte não concluída."
+    "answerKey": 1,
+    "explanation": "Correta: B. A + B = 246 e B = A + 18, então 2A + 18 = 246 e A = 114, logo B = 132. Concluídos: 3/4 de 132 = 99. Atenção: 33 (alternativa C) é a parte não concluída."
   },
   {
     "id": "B-VAAL-13",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 13,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 13,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Alan e Aline são caminhoneiros e, em certo dia, transportavam, cada um, em seu respectivo caminhão, sacos de cimento de 50 kg. Ao compararem suas cargas, Aline disse a Alan: “Se eu passar 29 sacos do meu caminhão para o seu, vamos passar a transportar a mesma quantidade de sacos”. Em seguida, Alan respondeu a Aline: “Bom, se eu passar 1 saco de cimento do meu caminhão para o seu, você vai passar a transportar o dobro de sacos que eu passarei a transportar”. Como nenhuma troca de cargas foi feita por esses caminhoneiros, Aline continuou a transportar um número de sacos de cimento igual a",
-    "alternativas": [
+    "statement": "Alan e Aline são caminhoneiros e, em certo dia, transportavam, cada um, em seu respectivo caminhão, sacos de cimento de 50 kg. Ao compararem suas cargas, Aline disse a Alan: “Se eu passar 29 sacos do meu caminhão para o seu, vamos passar a transportar a mesma quantidade de sacos”. Em seguida, Alan respondeu a Aline: “Bom, se eu passar 1 saco de cimento do meu caminhão para o seu, você vai passar a transportar o dobro de sacos que eu passarei a transportar”. Como nenhuma troca de cargas foi feita por esses caminhoneiros, Aline continuou a transportar um número de sacos de cimento igual a",
+    "choices": [
       "51.",
       "59.",
       "60.",
       "119.",
       "120."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Sejam a os sacos de Aline e b os de Alan. Primeira fala: a − 29 = b + 29, logo a = b + 58. Segunda fala: a + 1 = 2(b − 1). Substituindo: b + 59 = 2b − 2, então b = 61 e a = 119."
+    "answerKey": 3,
+    "explanation": "Correta: D. Sejam a os sacos de Aline e b os de Alan. Primeira fala: a − 29 = b + 29, logo a = b + 58. Segunda fala: a + 1 = 2(b − 1). Substituindo: b + 59 = 2b − 2, então b = 61 e a = 119."
   },
   {
     "id": "B-VAAL-19",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 19,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 19,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Uma das tarefas de uma gincana escolar consistia na arrecadação de leite para doação e foi realizada nos dois períodos em que a escola funciona. No período matutino, cada aluno trouxe 3 garrafas de leite, e, no período vespertino, que tem 420 alunos a menos do que no período matutino, cada aluno trouxe 8 garrafas de leite. Se o número de garrafas de leite arrecadadas pelos alunos do período matutino foi o triplo do número de garrafas arrecadadas pelos alunos do período vespertino, o número total de alunos dessa escola é",
-    "alternativas": [
+    "statement": "Uma das tarefas de uma gincana escolar consistia na arrecadação de leite para doação e foi realizada nos dois períodos em que a escola funciona. No período matutino, cada aluno trouxe 3 garrafas de leite, e, no período vespertino, que tem 420 alunos a menos do que no período matutino, cada aluno trouxe 8 garrafas de leite. Se o número de garrafas de leite arrecadadas pelos alunos do período matutino foi o triplo do número de garrafas arrecadadas pelos alunos do período vespertino, o número total de alunos dessa escola é",
+    "choices": [
       "540.",
       "600.",
       "660.",
       "720.",
       "780."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Seja n o número de alunos do matutino; o vespertino tem n − 420. Garrafas: 3n e 8(n − 420). Como 3n = 3 × 8(n − 420), então n = 8n − 3.360 e n = 480. O vespertino tem 60 alunos. Total: 480 + 60 = 540."
+    "answerKey": 0,
+    "explanation": "Correta: A. Seja n o número de alunos do matutino; o vespertino tem n − 420. Garrafas: 3n e 8(n − 420). Como 3n = 3 × 8(n − 420), então n = 8n − 3.360 e n = 480. O vespertino tem 60 alunos. Total: 480 + 60 = 540."
   },
   {
     "id": "B-ITAN17-20",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 20
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 20
     },
-    "enunciado": "Em um depósito há várias pilhas, cada uma delas com 8 caixas. Com o mesmo número de caixas é possível formar pilhas com 10 caixas em cada uma e, nesse caso, haverá duas pilhas a menos. O número total de caixas empilhadas é",
-    "alternativas": [
+    "statement": "Em um depósito há várias pilhas, cada uma delas com 8 caixas. Com o mesmo número de caixas é possível formar pilhas com 10 caixas em cada uma e, nesse caso, haverá duas pilhas a menos. O número total de caixas empilhadas é",
+    "choices": [
       "70.",
       "80.",
       "90.",
       "100.",
       "110."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Seja n o número de pilhas de 8 caixas: total = 8n. Com pilhas de 10, há n − 2 pilhas: 8n = 10(n − 2) → 8n = 10n − 20 → n = 10. Total: 8 × 10 = 80 caixas (e 10 × 8 = 80 em 8 pilhas de 10)."
+    "answerKey": 1,
+    "explanation": "Correta: B. Seja n o número de pilhas de 8 caixas: total = 8n. Com pilhas de 10, há n − 2 pilhas: 8n = 10(n − 2) → 8n = 10n − 20 → n = 10. Total: 8 × 10 = 80 caixas (e 10 × 8 = 80 em 8 pilhas de 10)."
   },
   {
     "id": "B-ITAN17-23",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 23
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 23
     },
-    "enunciado": "Uma empresa contratou estagiários para os setores A, B e C. O número de estagiários contratados para o setor B é 50% maior que o do setor A, e o número de estagiários contratados para o setor C é o dobro dos contratados para o setor A. Sabendo-se que, no total, foram contratados 18 estagiários, o número de contratados para os setores A e B, juntos, foi",
-    "alternativas": [
+    "statement": "Uma empresa contratou estagiários para os setores A, B e C. O número de estagiários contratados para o setor B é 50% maior que o do setor A, e o número de estagiários contratados para o setor C é o dobro dos contratados para o setor A. Sabendo-se que, no total, foram contratados 18 estagiários, o número de contratados para os setores A e B, juntos, foi",
+    "choices": [
       "6.",
       "8.",
       "10.",
       "12.",
       "14."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Seja A = x: B = 1,5x e C = 2x. Total: x + 1,5x + 2x = 4,5x = 18 → x = 4. Então A = 4, B = 6 e C = 8. A + B = 4 + 6 = 10."
+    "answerKey": 2,
+    "explanation": "Correta: C. Seja A = x: B = 1,5x e C = 2x. Total: x + 1,5x + 2x = 4,5x = 18 → x = 4. Então A = 4, B = 6 e C = 8. A + B = 4 + 6 = 10."
   },
   {
     "id": "B-ITAN17-24",
     "area": "matematica",
-    "topicoSlug": "equacoes-sistemas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 24
+    "topicSlug": "equacoes-sistemas",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 24
     },
-    "enunciado": "A tabela mostra os tipos de itens que precisam ser comprados para uma residência e o respectivo valor pago por eles: tomadas, R$ 20,00; fechaduras, x; lâmpadas, y. O valor a ser pago pelas tomadas e pelas fechaduras, juntas, é igual ao valor a ser pago nas lâmpadas, e o valor a ser pago pelas lâmpadas e pelas tomadas, juntas, é o dobro do valor a ser pago nas fechaduras. O valor total a ser pago na compra de todos os itens da tabela é",
-    "alternativas": [
+    "statement": "A tabela mostra os tipos de itens que precisam ser comprados para uma residência e o respectivo valor pago por eles: tomadas, R$ 20,00; fechaduras, x; lâmpadas, y. O valor a ser pago pelas tomadas e pelas fechaduras, juntas, é igual ao valor a ser pago nas lâmpadas, e o valor a ser pago pelas lâmpadas e pelas tomadas, juntas, é o dobro do valor a ser pago nas fechaduras. O valor total a ser pago na compra de todos os itens da tabela é",
+    "choices": [
       "R$ 180,00.",
       "R$ 160,00.",
       "R$ 140,00.",
       "R$ 120,00.",
       "R$ 100,00."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Do enunciado: 20 + x = y e y + 20 = 2x. Substituindo y: 20 + x + 20 = 2x → x = 40 e y = 60. Total: 20 + 40 + 60 = R$ 120,00."
+    "answerKey": 3,
+    "explanation": "Correta: D. Do enunciado: 20 + x = y e y + 20 = 2x. Substituindo y: 20 + x + 20 = 2x → x = 40 e y = 60. Total: 20 + 40 + 60 = R$ 120,00."
   }
 ]

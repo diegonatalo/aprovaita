@@ -1,13 +1,13 @@
 import Link from "next/link";
-import { PROVA } from "@/lib/prova";
+import { EXAM } from "@/lib/exam";
 import { SITE } from "@/lib/site";
-import { listarTopicos } from "@/lib/content";
-import { Countdown, ProgressoGeral } from "@/components/home-widgets";
-import { CartoesArea } from "@/components/cartoes-area";
-import { Icone } from "@/components/icones";
+import { listTopics } from "@/lib/content";
+import { Countdown, OverallProgress } from "@/components/home-widgets";
+import { AreaCards } from "@/components/area-cards";
+import { Icon } from "@/components/icons";
 
 export default function Home() {
-  const topicos = listarTopicos();
+  const topics = listTopics();
   return (
     <div className="space-y-10">
       <section className="relative overflow-hidden rounded-[1.6rem] bg-gradient-to-br from-[var(--mar-1)] to-[var(--mar-2)] p-6 text-white shadow-[var(--sombra-alta)] sm:p-9">
@@ -18,7 +18,7 @@ export default function Home() {
         <div className="relative space-y-6">
           <div>
             <p className="text-xs font-bold uppercase tracking-[0.14em] text-white/70">
-              {SITE.nome} · Concurso nº 01/2026
+              {SITE.name} · Concurso nº 01/2026
             </p>
             <h1 className="mt-2 max-w-md font-display text-3xl font-extrabold leading-[1.1] sm:text-4xl">
               Agente Administrativo da Câmara de Itanhaém
@@ -26,11 +26,11 @@ export default function Home() {
           </div>
           <div>
             <p className="mb-1 text-sm font-medium text-white/75">Faltam para a prova de 06/12/2026</p>
-            <Countdown alvoISO={PROVA.dataProva} />
+            <Countdown targetISO={EXAM.examDate} />
           </div>
           <div className="flex flex-wrap gap-2.5">
             <Link href="/simulado" className="btn bg-white text-[#0c3d52] hover:bg-white/90">
-              <Icone nome="prova" className="h-[1.1rem] w-[1.1rem]" />
+              <Icon name="exam" className="h-[1.1rem] w-[1.1rem]" />
               Fazer simulado
             </Link>
             <Link href="/revisao" className="btn border border-white/35 text-white hover:bg-white/10">
@@ -43,23 +43,23 @@ export default function Home() {
       <section className="grid gap-3 sm:grid-cols-2">
         <div className="card p-5">
           <h2 className="eyebrow mb-3">Progresso geral</h2>
-          <ProgressoGeral chaves={topicos.map((t) => `${t.area}/${t.slug}`)} />
+          <OverallProgress topicKeys={topics.map((t) => `${t.area}/${t.slug}`)} />
         </div>
         <div className="card flex flex-col justify-between gap-3 p-5">
           <h2 className="eyebrow">A prova</h2>
           <p className="text-sm text-muted">
-            <strong className="text-foreground">{PROVA.totalQuestoes} questões</strong> · {PROVA.banca} ·{" "}
-            {PROVA.duracaoMinutos / 60}h. Habilitado com nota ≥ {PROVA.notaCorte} (20 acertos).
+            <strong className="text-foreground">{EXAM.totalQuestions} questões</strong> · {EXAM.exam} ·{" "}
+            {EXAM.durationMinutes / 60}h. Habilitado com nota ≥ {EXAM.cutoffScore} (20 acertos).
           </p>
           <Link href="/progresso" className="inline-flex items-center gap-1.5 text-sm font-semibold text-acento">
-            Ver meu desempenho <Icone nome="seta" className="h-4 w-4" />
+            Ver meu desempenho <Icon name="arrow" className="h-4 w-4" />
           </Link>
         </div>
       </section>
 
       <section>
         <h2 className="mb-4 font-display text-xl font-bold">Áreas de estudo</h2>
-        <CartoesArea />
+        <AreaCards />
       </section>
     </div>
   );

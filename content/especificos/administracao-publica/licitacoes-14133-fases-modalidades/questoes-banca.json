@@ -3,24 +3,24 @@
     "id": "B-SJRP-37",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "licitacoes-14133-fases-modalidades",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 37,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "licitacoes-14133-fases-modalidades",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 37,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A área de compras públicas de uma prefeitura está finalizando edital por meio do qual irá contratar a prestação de serviço de manutenção de computadores.\n\nPara a contratação de serviços comuns como esse, a modalidade de licitação obrigatória é",
-    "alternativas": [
+    "statement": "A área de compras públicas de uma prefeitura está finalizando edital por meio do qual irá contratar a prestação de serviço de manutenção de computadores.\n\nPara a contratação de serviços comuns como esse, a modalidade de licitação obrigatória é",
+    "choices": [
       "a concorrência.",
       "o leilão.",
       "o concurso.",
       "o pregão.",
       "o diálogo competitivo."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Pelo regime da Lei 14.133/2021, o pregão é a modalidade obrigatória para bens e serviços comuns. Concorrência é para bens e serviços especiais e para obras e serviços de engenharia; leilão é para alienação; concurso é para trabalho técnico, científico ou artístico; diálogo competitivo é para objetos com inovação ou que exijam diálogo."
+    "answerKey": 3,
+    "explanation": "Correta: D. Pelo regime da Lei 14.133/2021, o pregão é a modalidade obrigatória para bens e serviços comuns. Concorrência é para bens e serviços especiais e para obras e serviços de engenharia; leilão é para alienação; concurso é para trabalho técnico, científico ou artístico; diálogo competitivo é para objetos com inovação ou que exijam diálogo."
   }
 ]

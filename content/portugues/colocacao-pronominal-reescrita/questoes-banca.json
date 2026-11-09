@@ -2,116 +2,116 @@
   {
     "id": "B-TREM-08",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 8,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 8,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Considere as passagens a seguir:\n\n- “... alguns deles tão complexos e **empetecados**...” (2º parágrafo)\n- “Era, **de fato**, uma minicoxinha...” (3º parágrafo)\n- “**Em compensação**, tinha Crush, drops Dulcora...” (4º parágrafo)\n\nAs expressões destacadas podem ser, correta e respectivamente, substituídas por:",
-    "alternativas": [
+    "statement": "Considere as passagens a seguir:\n\n- “... alguns deles tão complexos e **empetecados**...” (2º parágrafo)\n- “Era, **de fato**, uma minicoxinha...” (3º parágrafo)\n- “**Em compensação**, tinha Crush, drops Dulcora...” (4º parágrafo)\n\nAs expressões destacadas podem ser, correta e respectivamente, substituídas por:",
+    "choices": [
       "realmente bonitos; assim; em contrapartida.",
       "muito feios; provavelmente; em segundo lugar.",
       "excessivamente artificiais; talvez; ao menos.",
       "bastante estranhos; na verdade; além disso.",
       "exageradamente enfeitados; realmente; por outro lado."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. “Empetecados” é enfeitados em excesso; “de fato” equivale a “realmente”; “em compensação” introduz um contraponto, como “por outro lado”. A: “bonitos” e “assim” não equivalem. B: “muito feios” e “provavelmente” mudam o sentido. C: “talvez” expressa dúvida. D: “além disso” soma ideias em vez de contrapor."
+    "answerKey": 4,
+    "explanation": "Correta: E. “Empetecados” é enfeitados em excesso; “de fato” equivale a “realmente”; “em compensação” introduz um contraponto, como “por outro lado”. A: “bonitos” e “assim” não equivalem. B: “muito feios” e “provavelmente” mudam o sentido. C: “talvez” expressa dúvida. D: “além disso” soma ideias em vez de contrapor."
   },
   {
     "id": "B-PIRA-06",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 6,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 6,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Considere as frases elaboradas a partir das ideias do texto.\n\n- A empresa tem um ambicioso programa de robótica e decidiu **reformular esse ambicioso programa**.\n- Alguns robôs lidam com objetos não familiares, e os pesquisadores analisam como **organizam esses objetos**.\n\nDe acordo com o emprego e a colocação dos pronomes estabelecidos pela norma-padrão, os trechos em destaque podem ser substituídos por:",
-    "alternativas": [
+    "statement": "Considere as frases elaboradas a partir das ideias do texto.\n\n- A empresa tem um ambicioso programa de robótica e decidiu **reformular esse ambicioso programa**.\n- Alguns robôs lidam com objetos não familiares, e os pesquisadores analisam como **organizam esses objetos**.\n\nDe acordo com o emprego e a colocação dos pronomes estabelecidos pela norma-padrão, os trechos em destaque podem ser substituídos por:",
+    "choices": [
       "reformulá-lo; os organizam",
       "reformulá-lo; lhes organizam",
       "o reformular; organizam-lhes",
       "reformular-lhe; os organizam",
       "lhe reformular; organizam-nos"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Reformular” e “organizar” são transitivos diretos, então o pronome é “o/os” (não “lhe/lhes”, que são de objeto indireto). Com infinitivo, a ênclise gera “reformulá-lo” (o “r” cai e o “o” vira “lo”). Depois de “como”, palavra que atrai o pronome, usa-se a próclise: “como os organizam”. B, C, D e E usam “lhe/lhes” indevidamente ou deixam o pronome mal colocado (“organizam-nos” depois de “como”)."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Reformular” e “organizar” são transitivos diretos, então o pronome é “o/os” (não “lhe/lhes”, que são de objeto indireto). Com infinitivo, a ênclise gera “reformulá-lo” (o “r” cai e o “o” vira “lo”). Depois de “como”, palavra que atrai o pronome, usa-se a próclise: “como os organizam”. B, C, D e E usam “lhe/lhes” indevidamente ou deixam o pronome mal colocado (“organizam-nos” depois de “como”)."
   },
   {
     "id": "B-VAAL-09",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 9,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 9,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A alteração da posição do pronome destacado em relação ao trecho original mantém a norma-padrão de colocação pronominal em:",
-    "alternativas": [
+    "statement": "A alteração da posição do pronome destacado em relação ao trecho original mantém a norma-padrão de colocação pronominal em:",
+    "choices": [
       "Com a seriedade que conferiam-**lhe** seus poucos anos a mais (nasceu em março de 1918)… (1º parágrafo)",
       "Sempre mantinha-**se** sóbrio, conta, para cuidar deles. (1º parágrafo)",
       "… encarapitado no arco do viaduto, na postura de quem atiraria-**se** de um trampolim. (1º parágrafo)",
       "Hélio Pellegrino aprazia-**se** em brincar com Etienne. (2º parágrafo)",
       "Nada magoou-**o** mais, no entanto, que as insinuações de que seria ele o inspirador… (4º parágrafo)"
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Com sujeito substantivo (“Hélio Pellegrino”), a ênclise é admitida. A: o pronome relativo “que” atrai o pronome (“que lhe conferiam”). B: o advérbio “sempre” atrai (“sempre se mantinha”). C: com verbo no futuro do pretérito, não se usa ênclise (“se atiraria” ou “atirar-se-ia”). E: o pronome indefinido “nada” atrai (“nada o magoou”)."
+    "answerKey": 3,
+    "explanation": "Correta: D. Com sujeito substantivo (“Hélio Pellegrino”), a ênclise é admitida. A: o pronome relativo “que” atrai o pronome (“que lhe conferiam”). B: o advérbio “sempre” atrai (“sempre se mantinha”). C: com verbo no futuro do pretérito, não se usa ênclise (“se atiraria” ou “atirar-se-ia”). E: o pronome indefinido “nada” atrai (“nada o magoou”)."
   },
   {
     "id": "B-ITAN17-14",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 14
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 14
     },
-    "enunciado": "No texto de Umberto Eco, aparecem as expressões “olhasse para **trás**” e “bateu de **frente**”. A relação de sentido que existe entre as palavras trás e frente está presente também entre",
-    "alternativas": [
+    "statement": "No texto de Umberto Eco, aparecem as expressões “olhasse para **trás**” e “bateu de **frente**”. A relação de sentido que existe entre as palavras trás e frente está presente também entre",
+    "choices": [
       "fatalmente e irremediavelmente.",
       "resisti e impedi.",
       "responsabilidade e comprometimento.",
       "comum e inusitado.",
       "malvado e dissimulado."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. “Trás” e “frente” são antônimos (sentidos opostos). “Comum” e “inusitado” também são antônimos. Nas demais os pares são sinônimos ou próximos: fatalmente/irremediavelmente, resisti/impedi, responsabilidade/comprometimento, malvado/dissimulado."
+    "answerKey": 3,
+    "explanation": "Correta: D. “Trás” e “frente” são antônimos (sentidos opostos). “Comum” e “inusitado” também são antônimos. Nas demais os pares são sinônimos ou próximos: fatalmente/irremediavelmente, resisti/impedi, responsabilidade/comprometimento, malvado/dissimulado."
   },
   {
     "id": "B-ITAN17-15",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 15
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 15
     },
-    "enunciado": "Assinale a alternativa em que os verbos conjugados e a colocação dos pronomes em destaque apresentam-se de acordo com a norma-padrão.",
-    "alternativas": [
+    "statement": "Assinale a alternativa em que os verbos conjugados e a colocação dos pronomes em destaque apresentam-se de acordo com a norma-padrão.",
+    "choices": [
       "Se eu vir uma mulher vindo em minha direção, não **me** desviarei dela.",
       "**Me** esforcei para que a mulher me visse e se desviava de mim.",
       "Talvez eu tinha evitado o choque se tinha desviado-**me** da mulher.",
       "Desviem-**se** das pessoas quando verem que elas vêm em sua direção.",
       "Se **nos** vermos diante de uma pessoa distraída, evitaremos colidir com ela."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Vir” é o futuro do subjuntivo de “ver” (“se eu vir”), e a palavra negativa “não” atrai o pronome (“não me desviarei”). Erros: B) não se inicia oração com pronome oblíquo átono (“Esforcei-me”) e “desviava” não combina com “para que… visse”; C) tempos incorretos (“tivesse evitado… se me tivesse desviado”); D) futuro do subjuntivo de “ver” é “virem” (“quando virem”); E) “se nos virmos”: o futuro do subjuntivo de “ver” é “virmos”, não “vermos”."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Vir” é o futuro do subjuntivo de “ver” (“se eu vir”), e a palavra negativa “não” atrai o pronome (“não me desviarei”). Erros: B) não se inicia oração com pronome oblíquo átono (“Esforcei-me”) e “desviava” não combina com “para que… visse”; C) tempos incorretos (“tivesse evitado… se me tivesse desviado”); D) futuro do subjuntivo de “ver” é “virem” (“quando virem”); E) “se nos virmos”: o futuro do subjuntivo de “ver” é “virmos”, não “vermos”."
   }
 ]

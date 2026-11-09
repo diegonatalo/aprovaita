@@ -2,139 +2,139 @@
   {
     "id": "B-TREM-20",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 20,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "medidas-geometria",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 20,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O piso de uma sala de reuniões, que tem o formato de um hexágono regular com lado medindo 4 metros, será impermeabilizado ao custo de R$ 50,00 por m². Considerando √3 ≈ 1,7, o custo dessa impermeabilização será igual a",
-    "alternativas": [
+    "statement": "O piso de uma sala de reuniões, que tem o formato de um hexágono regular com lado medindo 4 metros, será impermeabilizado ao custo de R$ 50,00 por m². Considerando √3 ≈ 1,7, o custo dessa impermeabilização será igual a",
+    "choices": [
       "R$ 4.140,00.",
       "R$ 3.860,00.",
       "R$ 3.480,00.",
       "R$ 2.720,00.",
       "R$ 2.040,00."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O hexágono regular é formado por 6 triângulos equiláteros de lado 4 m. Cada um tem área (4² × √3) ÷ 4 = 4√3. Área total: 24√3 ≈ 24 × 1,7 = 40,8 m². Custo: 40,8 × 50 = R$ 2.040,00."
+    "answerKey": 4,
+    "explanation": "Correta: E. O hexágono regular é formado por 6 triângulos equiláteros de lado 4 m. Cada um tem área (4² × √3) ÷ 4 = 4√3. Área total: 24√3 ≈ 24 × 1,7 = 40,8 m². Custo: 40,8 × 50 = R$ 2.040,00."
   },
   {
     "id": "B-PAUL-14",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 14,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "medidas-geometria",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 14,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Um arquiteto está projetando uma edificação. Parte dela está representada em uma figura que mostra uma das paredes, no formato de um quadrado ABCD, com 12 m² de área, sobre a qual será construída uma estrutura no formato de um triângulo retângulo ADE, com altura de 2 m, para fins de sustentação do telhado. *(Na figura, o ângulo reto está em A; AE = 2 m é o segmento vertical sobre o lado AD do quadrado; figura fora de escala.)*\n\nA medida do lado DE dessa estrutura é igual a",
-    "alternativas": [
+    "statement": "Um arquiteto está projetando uma edificação. Parte dela está representada em uma figura que mostra uma das paredes, no formato de um quadrado ABCD, com 12 m² de área, sobre a qual será construída uma estrutura no formato de um triângulo retângulo ADE, com altura de 2 m, para fins de sustentação do telhado. *(Na figura, o ângulo reto está em A; AE = 2 m é o segmento vertical sobre o lado AD do quadrado; figura fora de escala.)*\n\nA medida do lado DE dessa estrutura é igual a",
+    "choices": [
       "5,0 m.",
       "4,5 m.",
       "4,2 m.",
       "4,0 m.",
       "3,5 m."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O lado do quadrado é AD = √12 = 2√3 m. No triângulo retângulo ADE (reto em A), DE² = AD² + AE² = 12 + 4 = 16, então DE = 4 m."
+    "answerKey": 3,
+    "explanation": "Correta: D. O lado do quadrado é AD = √12 = 2√3 m. No triângulo retângulo ADE (reto em A), DE² = AD² + AE² = 12 + 4 = 16, então DE = 4 m."
   },
   {
     "id": "B-PIRA-23",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 23,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "medidas-geometria",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 23,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Segundo a Associação Brasileira da Indústria de Café (ABIC), desde 2014 o Brasil assumiu o posto de país que mais consome café no mundo. Segundo uma pesquisa divulgada no site da ABIC, cada brasileiro consome anualmente uma média de 33 litros de café.\n\nConsiderando que uma xícara de café costuma ter em média 40 mL de café, para atingir a média anual de café consumida pelo brasileiro são necessárias",
-    "alternativas": [
+    "statement": "Segundo a Associação Brasileira da Indústria de Café (ABIC), desde 2014 o Brasil assumiu o posto de país que mais consome café no mundo. Segundo uma pesquisa divulgada no site da ABIC, cada brasileiro consome anualmente uma média de 33 litros de café.\n\nConsiderando que uma xícara de café costuma ter em média 40 mL de café, para atingir a média anual de café consumida pelo brasileiro são necessárias",
+    "choices": [
       "1.320 xícaras.",
       "825 xícaras.",
       "725 xícaras.",
       "82 xícaras.",
       "72 xícaras."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. 33 L = 33.000 mL. 33.000 ÷ 40 = 825 xícaras."
+    "answerKey": 1,
+    "explanation": "Correta: B. 33 L = 33.000 mL. 33.000 ÷ 40 = 825 xícaras."
   },
   {
     "id": "B-SJRP-18",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 18,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "medidas-geometria",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 18,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Uma caixa para armazenamento de documentos foi projetada para que tivesse o formato de um cubo com volume de 15.625 cm³. Baseando-se nesse projeto, uma fábrica fez essa caixa de um tipo de papelão que tem 420 g para cada m². Supondo que essa caixa é fechada (ou seja, que possui todas as 6 faces), a massa total dessa caixa, sem nada em seu interior, será de",
-    "alternativas": [
+    "statement": "Uma caixa para armazenamento de documentos foi projetada para que tivesse o formato de um cubo com volume de 15.625 cm³. Baseando-se nesse projeto, uma fábrica fez essa caixa de um tipo de papelão que tem 420 g para cada m². Supondo que essa caixa é fechada (ou seja, que possui todas as 6 faces), a massa total dessa caixa, sem nada em seu interior, será de",
+    "choices": [
       "250,5 g.",
       "268,4 g.",
       "157,5 g.",
       "454,3 g.",
       "656,6 g."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A aresta é ∛15.625 = 25 cm. A área total é 6 × 25² = 3.750 cm² = 0,375 m². Massa: 0,375 × 420 = 157,5 g."
+    "answerKey": 2,
+    "explanation": "Correta: C. A aresta é ∛15.625 = 25 cm. A área total é 6 × 25² = 3.750 cm² = 0,375 m². Massa: 0,375 × 420 = 157,5 g."
   },
   {
     "id": "B-ITAN17-26",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 26
+    "topicSlug": "medidas-geometria",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 26
     },
-    "enunciado": "Uma palestra teve início às 9 horas e 30 minutos e, após 1 hora e 5 minutos, sofreu uma interrupção de 10 minutos, retomando, em seguida, por mais 35 minutos até o intervalo, que durou 25 minutos. Após o intervalo, a palestra continuou por 1 hora e 20 minutos, chegando, assim, ao seu término, que ocorreu às",
-    "alternativas": [
+    "statement": "Uma palestra teve início às 9 horas e 30 minutos e, após 1 hora e 5 minutos, sofreu uma interrupção de 10 minutos, retomando, em seguida, por mais 35 minutos até o intervalo, que durou 25 minutos. Após o intervalo, a palestra continuou por 1 hora e 20 minutos, chegando, assim, ao seu término, que ocorreu às",
+    "choices": [
       "13 horas e 10 minutos.",
       "13 horas e 05 minutos.",
       "12 horas e 50 minutos.",
       "12 horas e 35 minutos.",
       "12 horas e 20 minutos."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Somando em sequência: 9h30 + 1h05 = 10h35; + 10 min = 10h45; + 35 min = 11h20; + 25 min = 11h45; + 1h20 = 13h05. As interrupções e o intervalo contam no relógio, pois o enunciado pergunta o horário do término."
+    "answerKey": 1,
+    "explanation": "Correta: B. Somando em sequência: 9h30 + 1h05 = 10h35; + 10 min = 10h45; + 35 min = 11h20; + 25 min = 11h45; + 1h20 = 13h05. As interrupções e o intervalo contam no relógio, pois o enunciado pergunta o horário do término."
   },
   {
     "id": "B-ITAN17-30",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 30
+    "topicSlug": "medidas-geometria",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 30
     },
-    "enunciado": "Em uma biblioteca foram empilhados 9 livros, todos de mesmas dimensões, com o formato de um prisma reto. A pilha forma um prisma reto de base retangular com 30 cm por 20 cm e altura H (a altura da pilha). Sabendo-se que o volume dessa pilha é de 16 200 cm³, é correto afirmar que a altura de um livro é",
-    "alternativas": [
+    "statement": "Em uma biblioteca foram empilhados 9 livros, todos de mesmas dimensões, com o formato de um prisma reto. A pilha forma um prisma reto de base retangular com 30 cm por 20 cm e altura H (a altura da pilha). Sabendo-se que o volume dessa pilha é de 16 200 cm³, é correto afirmar que a altura de um livro é",
+    "choices": [
       "1 cm.",
       "2 cm.",
       "3 cm.",
       "4 cm.",
       "5 cm."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Volume = área da base × altura: 30 × 20 × H = 16 200 → 600 H = 16 200 → H = 27 cm. Como são 9 livros empilhados, cada um tem 27 ÷ 9 = 3 cm de altura."
+    "answerKey": 2,
+    "explanation": "Correta: C. Volume = área da base × altura: 30 × 20 × H = 16 200 → 600 H = 16 200 → H = 27 cm. Como são 9 livros empilhados, cada um tem 27 ÷ 9 = 3 cm de altura."
   }
 ]

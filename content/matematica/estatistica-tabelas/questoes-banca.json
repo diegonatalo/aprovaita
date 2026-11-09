@@ -2,139 +2,139 @@
   {
     "id": "B-TREM-18",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 18,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estatistica-tabelas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 18,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Uma pesquisa sobre os hobbies preferidos de 1.200 jovens revelou um gráfico de setores. Os ângulos dos setores são: Leitura, 90º; Esportes, 120º; Videogames, 96º; Música, 30º; Outros, 24º. *(Dados transcritos da figura da prova.)*\n\nDe acordo com os dados apresentados, a quantidade de jovens que preferem videogames é igual a",
-    "alternativas": [
+    "statement": "Uma pesquisa sobre os hobbies preferidos de 1.200 jovens revelou um gráfico de setores. Os ângulos dos setores são: Leitura, 90º; Esportes, 120º; Videogames, 96º; Música, 30º; Outros, 24º. *(Dados transcritos da figura da prova.)*\n\nDe acordo com os dados apresentados, a quantidade de jovens que preferem videogames é igual a",
+    "choices": [
       "320.",
       "330.",
       "360.",
       "400.",
       "480."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O círculo completo tem 360º e representa os 1.200 jovens. O setor de videogames tem 96º: 96 ÷ 360 × 1.200 = 320."
+    "answerKey": 0,
+    "explanation": "Correta: A. O círculo completo tem 360º e representa os 1.200 jovens. O setor de videogames tem 96º: 96 ÷ 360 × 1.200 = 320."
   },
   {
     "id": "B-TREM-19",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 19,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estatistica-tabelas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 19,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Em abril, o time de futebol da prefeitura era formado por 20 atletas, sendo a média das suas alturas igual a 1,77 m. Em maio, dois jogadores saíram do time, um com 1,73 m e outro com 1,70 m, e três novos jogadores se juntaram à equipe, sendo suas alturas respectivamente iguais a 1,78 m, 1,80 m e 1,83 m. Com essas mudanças, a média das alturas dos atletas desse time passou a ser igual a",
-    "alternativas": [
+    "statement": "Em abril, o time de futebol da prefeitura era formado por 20 atletas, sendo a média das suas alturas igual a 1,77 m. Em maio, dois jogadores saíram do time, um com 1,73 m e outro com 1,70 m, e três novos jogadores se juntaram à equipe, sendo suas alturas respectivamente iguais a 1,78 m, 1,80 m e 1,83 m. Com essas mudanças, a média das alturas dos atletas desse time passou a ser igual a",
+    "choices": [
       "1,76 m.",
       "1,77 m.",
       "1,78 m.",
       "1,79 m.",
       "1,80 m."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Soma inicial: 20 × 1,77 = 35,40. Saíram 1,73 + 1,70 = 3,43, o que deixa 31,97. Entraram 1,78 + 1,80 + 1,83 = 5,41, e a soma passa a 37,38 com 21 atletas. Média: 37,38 ÷ 21 = 1,78 m."
+    "answerKey": 2,
+    "explanation": "Correta: C. Soma inicial: 20 × 1,77 = 35,40. Saíram 1,73 + 1,70 = 3,43, o que deixa 31,97. Entraram 1,78 + 1,80 + 1,83 = 5,41, e a soma passa a 37,38 com 21 atletas. Média: 37,38 ÷ 21 = 1,78 m."
   },
   {
     "id": "B-PAUL-13",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 13,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estatistica-tabelas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 13,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Uma barra de metal foi sujeita a 3 temperaturas diferentes e, em decorrência disso, ela assumiu 3 medidas de comprimento diferentes, C1, C2 e C3. A média aritmética simples dessas 3 medidas é igual a 8,5 cm. A maior dessas medidas supera a menor em 1,1 cm, e a medida intermediária é 0,7 cm menor do que a maior das medidas. A menor medida que essa barra de metal assumiu é",
-    "alternativas": [
+    "statement": "Uma barra de metal foi sujeita a 3 temperaturas diferentes e, em decorrência disso, ela assumiu 3 medidas de comprimento diferentes, C1, C2 e C3. A média aritmética simples dessas 3 medidas é igual a 8,5 cm. A maior dessas medidas supera a menor em 1,1 cm, e a medida intermediária é 0,7 cm menor do que a maior das medidas. A menor medida que essa barra de metal assumiu é",
+    "choices": [
       "7,9 cm.",
       "8,0 cm.",
       "8,1 cm.",
       "8,2 cm.",
       "8,3 cm."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Seja m a menor medida: a maior é m + 1,1 e a intermediária é (m + 1,1) − 0,7 = m + 0,4. A soma é 3 × 8,5 = 25,5, então m + (m + 0,4) + (m + 1,1) = 25,5, logo 3m = 24 e m = 8,0 cm."
+    "answerKey": 1,
+    "explanation": "Correta: B. Seja m a menor medida: a maior é m + 1,1 e a intermediária é (m + 1,1) − 0,7 = m + 0,4. A soma é 3 × 8,5 = 25,5, então m + (m + 0,4) + (m + 1,1) = 25,5, logo 3m = 24 e m = 8,0 cm."
   },
   {
     "id": "B-SJRP-16",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 16,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estatistica-tabelas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 16,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "André está fazendo o controle de suas despesas mensais com itens não essenciais. Para isso, ele recuperou os registros dos valores mensais gastos com esse tipo de despesa nos 5 meses anteriores, que foram R$ 475,00, R$ 510,00, R$ 505,00, R$ 448,00 e R$ 434,00; ele se perguntou, então, qual o valor X (em reais) que deveria gastar no mês atual, com itens não essenciais, de modo que a média aritmética simples dos gastos mensais nos últimos 6 meses, com itens não essenciais, fosse igual a R$ 400,00.\n\nFeito corretamente esse cálculo, André obteve para X o valor de",
-    "alternativas": [
+    "statement": "André está fazendo o controle de suas despesas mensais com itens não essenciais. Para isso, ele recuperou os registros dos valores mensais gastos com esse tipo de despesa nos 5 meses anteriores, que foram R$ 475,00, R$ 510,00, R$ 505,00, R$ 448,00 e R$ 434,00; ele se perguntou, então, qual o valor X (em reais) que deveria gastar no mês atual, com itens não essenciais, de modo que a média aritmética simples dos gastos mensais nos últimos 6 meses, com itens não essenciais, fosse igual a R$ 400,00.\n\nFeito corretamente esse cálculo, André obteve para X o valor de",
+    "choices": [
       "30,00.",
       "34,00.",
       "32,00.",
       "36,00.",
       "28,00."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Para média 400 em 6 meses, a soma deve ser 6 × 400 = 2.400. Os 5 meses anteriores somam 475 + 510 + 505 + 448 + 434 = 2.372. Logo X = 2.400 − 2.372 = 28."
+    "answerKey": 4,
+    "explanation": "Correta: E. Para média 400 em 6 meses, a soma deve ser 6 × 400 = 2.400. Os 5 meses anteriores somam 475 + 510 + 505 + 448 + 434 = 2.372. Logo X = 2.400 − 2.372 = 28."
   },
   {
     "id": "B-VAAL-18",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 18,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "estatistica-tabelas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 18,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Um condomínio é formado por 5 prédios, e a média do consumo de água por prédio, no mês de fevereiro, foi igual a 620 m³. No mês de março, 3 prédios diminuíram seus consumos, cada um, em 20 m³ e, a soma do aumento do consumo dos outros 2 prédios foi igual a 80 m³. Em março, a média do consumo de água por prédio nesse condomínio foi",
-    "alternativas": [
+    "statement": "Um condomínio é formado por 5 prédios, e a média do consumo de água por prédio, no mês de fevereiro, foi igual a 620 m³. No mês de março, 3 prédios diminuíram seus consumos, cada um, em 20 m³ e, a soma do aumento do consumo dos outros 2 prédios foi igual a 80 m³. Em março, a média do consumo de água por prédio nesse condomínio foi",
+    "choices": [
       "621 m³.",
       "622 m³.",
       "623 m³.",
       "624 m³.",
       "625 m³."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Em fevereiro o total foi 5 × 620 = 3.100 m³. Em março: 3.100 − 3 × 20 + 80 = 3.120 m³. Média: 3.120 ÷ 5 = 624 m³."
+    "answerKey": 3,
+    "explanation": "Correta: D. Em fevereiro o total foi 5 × 620 = 3.100 m³. Em março: 3.100 − 3 × 20 + 80 = 3.120 m³. Média: 3.120 ÷ 5 = 624 m³."
   },
   {
     "id": "B-ITAN17-21",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 21
+    "topicSlug": "estatistica-tabelas",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 21
     },
-    "enunciado": "A tabela mostra o número de DVDs de cada gênero comprados por uma pessoa e o respectivo valor unitário.\n\n| Gênero | Quantidade | Valor unitário |\n|---|---|---|\n| Filmes | 5 | R$ 18,00 |\n| Séries | 8 | R$ 20,00 |\n| Documentários | 2 | ? |\n\nConsiderando-se o número total de DVDs comprados, cada um saiu, na média, por R$ 18,80. O valor de um DVD de documentário é",
-    "alternativas": [
+    "statement": "A tabela mostra o número de DVDs de cada gênero comprados por uma pessoa e o respectivo valor unitário.\n\n| Gênero | Quantidade | Valor unitário |\n|---|---|---|\n| Filmes | 5 | R$ 18,00 |\n| Séries | 8 | R$ 20,00 |\n| Documentários | 2 | ? |\n\nConsiderando-se o número total de DVDs comprados, cada um saiu, na média, por R$ 18,80. O valor de um DVD de documentário é",
+    "choices": [
       "R$ 17,20.",
       "R$ 17,00.",
       "R$ 16,70.",
       "R$ 16,30.",
       "R$ 16,00."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. São 5 + 8 + 2 = 15 DVDs. Total gasto = 15 × 18,80 = 282. Filmes: 5 × 18 = 90; séries: 8 × 20 = 160; soma = 250. Os 2 documentários custaram 282 − 250 = 32, ou seja, R$ 16,00 cada."
+    "answerKey": 4,
+    "explanation": "Correta: E. São 5 + 8 + 2 = 15 DVDs. Total gasto = 15 × 18,80 = 282. Filmes: 5 × 18 = 90; séries: 8 × 20 = 160; soma = 250. Os 2 documentários custaram 282 − 250 = 32, ou seja, R$ 16,00 cada."
   }
 ]

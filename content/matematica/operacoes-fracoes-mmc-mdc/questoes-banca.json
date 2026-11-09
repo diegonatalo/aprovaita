@@ -2,323 +2,323 @@
   {
     "id": "B-TREM-11",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 11,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 11,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Para a organização de um arquivo, uma empresa comprará 12 caixas organizadoras. A papelaria local vende cada caixa avulsa por R$ 12,40 e vende um pacote fechado com 12 unidades dessas caixas por R$ 133,92. Comparando-se o preço unitário de uma caixa no pacote fechado com o preço de uma caixa avulsa, verifica-se que a economia que será feita por caixa, na compra do pacote fechado, será de",
-    "alternativas": [
+    "statement": "Para a organização de um arquivo, uma empresa comprará 12 caixas organizadoras. A papelaria local vende cada caixa avulsa por R$ 12,40 e vende um pacote fechado com 12 unidades dessas caixas por R$ 133,92. Comparando-se o preço unitário de uma caixa no pacote fechado com o preço de uma caixa avulsa, verifica-se que a economia que será feita por caixa, na compra do pacote fechado, será de",
+    "choices": [
       "R$ 1,12.",
       "R$ 1,24.",
       "R$ 1,32.",
       "R$ 1,40.",
       "R$ 1,48."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. No pacote, cada caixa custa 133,92 ÷ 12 = R$ 11,16. A economia por caixa é 12,40 − 11,16 = R$ 1,24."
+    "answerKey": 1,
+    "explanation": "Correta: B. No pacote, cada caixa custa 133,92 ÷ 12 = R$ 11,16. A economia por caixa é 12,40 − 11,16 = R$ 1,24."
   },
   {
     "id": "B-TREM-13",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 13,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 13,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Uma empresa tem 120 funcionários no setor de produção e 96 funcionários no setor de montagem. Esses funcionários serão divididos no maior número possível de grupos mistos, de modo que cada um dos grupos tenha o mesmo número de funcionários do setor da produção e o mesmo número de funcionários do setor da montagem. Nessas condições, o número total de funcionários em cada grupo será igual a",
-    "alternativas": [
+    "statement": "Uma empresa tem 120 funcionários no setor de produção e 96 funcionários no setor de montagem. Esses funcionários serão divididos no maior número possível de grupos mistos, de modo que cada um dos grupos tenha o mesmo número de funcionários do setor da produção e o mesmo número de funcionários do setor da montagem. Nessas condições, o número total de funcionários em cada grupo será igual a",
+    "choices": [
       "4.",
       "5.",
       "6.",
       "8.",
       "9."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O maior número de grupos é o MDC(120, 96) = 24. Cada grupo terá 120 ÷ 24 = 5 da produção e 96 ÷ 24 = 4 da montagem, ou seja, 9 funcionários."
+    "answerKey": 4,
+    "explanation": "Correta: E. O maior número de grupos é o MDC(120, 96) = 24. Cada grupo terá 120 ÷ 24 = 5 da produção e 96 ÷ 24 = 4 da montagem, ou seja, 9 funcionários."
   },
   {
     "id": "B-PAUL-11",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 11,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 11,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Armando e Kátia são sócios em uma empresa e, juntos, compraram alguns itens para a empresa. O valor total da compra desses itens foi R$ 3.051,00, e eles combinaram que, desse valor, Kátia pagaria R$ 1.075,00, e Armando pagaria o restante. Na hora de escolherem a forma de pagamento, ambos optaram pelo parcelamento sem juros, sendo a parte de Armando em 8 parcelas, e a parte de Kátia em 5 parcelas. A diferença entre o valor de cada parcela a ser paga por Armando e por Kátia é igual a",
-    "alternativas": [
+    "statement": "Armando e Kátia são sócios em uma empresa e, juntos, compraram alguns itens para a empresa. O valor total da compra desses itens foi R$ 3.051,00, e eles combinaram que, desse valor, Kátia pagaria R$ 1.075,00, e Armando pagaria o restante. Na hora de escolherem a forma de pagamento, ambos optaram pelo parcelamento sem juros, sendo a parte de Armando em 8 parcelas, e a parte de Kátia em 5 parcelas. A diferença entre o valor de cada parcela a ser paga por Armando e por Kátia é igual a",
+    "choices": [
       "R$ 30,00.",
       "R$ 31,00.",
       "R$ 32,00.",
       "R$ 33,00.",
       "R$ 34,00."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Armando paga 3.051 − 1.075 = 1.976, em 8 parcelas de 247. Kátia paga 1.075 em 5 parcelas de 215. A diferença é 247 − 215 = R$ 32,00."
+    "answerKey": 2,
+    "explanation": "Correta: C. Armando paga 3.051 − 1.075 = 1.976, em 8 parcelas de 247. Kátia paga 1.075 em 5 parcelas de 215. A diferença é 247 − 215 = R$ 32,00."
   },
   {
     "id": "B-PAUL-15",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 15,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 15,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Caio estabeleceu uma rotina rigorosa para aplicar durante certo ano: assistir a 2 filmes aos domingos; ouvir 1 disco às segundas-feiras; assistir a 1 filme às terças-feiras; receber 1 massagem às quartas-feiras; apenas descansar às quintas-feiras; ouvir 1 disco às sextas-feiras; e apenas descansar aos sábados. Ele não repetiria filmes assistidos ou discos ouvidos durante todo o ano. Sabendo que o ano em questão tem 365 dias e que ele se iniciou em uma terça-feira, e supondo que Caio consiga cumprir a rotina estabelecida sem nenhuma falha, qual é o valor da soma dos números de filmes assistidos e de discos ouvidos por Caio durante aquele ano inteiro?",
-    "alternativas": [
+    "statement": "Caio estabeleceu uma rotina rigorosa para aplicar durante certo ano: assistir a 2 filmes aos domingos; ouvir 1 disco às segundas-feiras; assistir a 1 filme às terças-feiras; receber 1 massagem às quartas-feiras; apenas descansar às quintas-feiras; ouvir 1 disco às sextas-feiras; e apenas descansar aos sábados. Ele não repetiria filmes assistidos ou discos ouvidos durante todo o ano. Sabendo que o ano em questão tem 365 dias e que ele se iniciou em uma terça-feira, e supondo que Caio consiga cumprir a rotina estabelecida sem nenhuma falha, qual é o valor da soma dos números de filmes assistidos e de discos ouvidos por Caio durante aquele ano inteiro?",
+    "choices": [
       "156",
       "208",
       "260",
       "261",
       "262"
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Em cada semana ele vê 2 + 1 = 3 filmes e ouve 1 + 1 = 2 discos: 5 itens. O ano tem 365 = 52 × 7 + 1, ou seja, 52 semanas completas (52 × 5 = 260) e 1 dia extra. Como o ano começa na terça-feira, o dia extra é uma terça: mais 1 filme. Total: 261."
+    "answerKey": 3,
+    "explanation": "Correta: D. Em cada semana ele vê 2 + 1 = 3 filmes e ouve 1 + 1 = 2 discos: 5 itens. O ano tem 365 = 52 × 7 + 1, ou seja, 52 semanas completas (52 × 5 = 260) e 1 dia extra. Como o ano começa na terça-feira, o dia extra é uma terça: mais 1 filme. Total: 261."
   },
   {
     "id": "B-PIRA-16",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 16,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 16,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "O colunista de um jornal esteve em São Paulo a trabalho e impressionou-se com a quantidade de vezes que ouviu os motoboys buzinarem. Na reportagem que escreveu, ele aponta ter contabilizado que um motoboy chegou a buzinar 40 vezes em apenas 1 minuto.\n\nConsiderando essa informação, se isso se repetir por 5 horas e meia, sem interrupções, esse motoboy terá buzinado",
-    "alternativas": [
+    "statement": "O colunista de um jornal esteve em São Paulo a trabalho e impressionou-se com a quantidade de vezes que ouviu os motoboys buzinarem. Na reportagem que escreveu, ele aponta ter contabilizado que um motoboy chegou a buzinar 40 vezes em apenas 1 minuto.\n\nConsiderando essa informação, se isso se repetir por 5 horas e meia, sem interrupções, esse motoboy terá buzinado",
+    "choices": [
       "2.120 vezes.",
       "2.200 vezes.",
       "11.000 vezes.",
       "12.720 vezes.",
       "13.200 vezes."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. 5 horas e meia = 5 × 60 + 30 = 330 minutos. 330 × 40 = 13.200 buzinadas."
+    "answerKey": 4,
+    "explanation": "Correta: E. 5 horas e meia = 5 × 60 + 30 = 330 minutos. 330 × 40 = 13.200 buzinadas."
   },
   {
     "id": "B-PIRA-17",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 17,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 17,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "A final do futebol americano, chamada de Super Bowl, é um dos eventos esportivos mais assistidos no mundo. A emissora que transmitiu o evento em 2019 cobrou um preço recorde de 5,25 milhões de dólares por uma propaganda de 30 segundos. Esse valor é 75% maior do que o valor cobrado por uma propaganda com o mesmo tempo de exposição no ano de 2009.\n\nNeste ano de 2019, o custo por segundo da propaganda de 30 segundos no Super Bowl foi igual a",
-    "alternativas": [
+    "statement": "A final do futebol americano, chamada de Super Bowl, é um dos eventos esportivos mais assistidos no mundo. A emissora que transmitiu o evento em 2019 cobrou um preço recorde de 5,25 milhões de dólares por uma propaganda de 30 segundos. Esse valor é 75% maior do que o valor cobrado por uma propaganda com o mesmo tempo de exposição no ano de 2009.\n\nNeste ano de 2019, o custo por segundo da propaganda de 30 segundos no Super Bowl foi igual a",
+    "choices": [
       "175 mil dólares.",
       "165 mil dólares.",
       "17,5 mil dólares.",
       "16,5 mil dólares.",
       "5,7 mil dólares."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. 5.250.000 ÷ 30 = 175.000 dólares por segundo."
+    "answerKey": 0,
+    "explanation": "Correta: A. 5.250.000 ÷ 30 = 175.000 dólares por segundo."
   },
   {
     "id": "B-PIRA-20",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 20,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 20,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "No final do ano passado, o Observatório do Clima lançou uma nota apontando que houve uma queda nas emissões de gases de efeito estufa no ano de 2017 quando comparado ao ano de 2016. Em 2017, o país emitiu 2,071 bilhões de toneladas brutas desses gases, contra 2,119 bilhões de toneladas em 2016. Nesse caso, a diminuição registrada nesse período foi de",
-    "alternativas": [
+    "statement": "No final do ano passado, o Observatório do Clima lançou uma nota apontando que houve uma queda nas emissões de gases de efeito estufa no ano de 2017 quando comparado ao ano de 2016. Em 2017, o país emitiu 2,071 bilhões de toneladas brutas desses gases, contra 2,119 bilhões de toneladas em 2016. Nesse caso, a diminuição registrada nesse período foi de",
+    "choices": [
       "168,0 milhões de toneladas.",
       "48,0 milhões de toneladas.",
       "16,8 milhões de toneladas.",
       "4,8 milhões de toneladas.",
       "1,6 milhões de toneladas."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. 2,119 − 2,071 = 0,048 bilhão. Como 1 bilhão = 1.000 milhões, 0,048 bilhão = 48 milhões de toneladas."
+    "answerKey": 1,
+    "explanation": "Correta: B. 2,119 − 2,071 = 0,048 bilhão. Como 1 bilhão = 1.000 milhões, 0,048 bilhão = 48 milhões de toneladas."
   },
   {
     "id": "B-PIRA-21",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 21,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 21,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Um investidor adquiriu uma ampla sala para transformá-la em um espaço coworking. Para tanto, serão criadas ilhas de trabalho retangulares, medindo 12,0 m de comprimento por 4,8 m de largura cada. Essas ilhas serão divididas em estações quadradas, de maior área possível, de modo a ocupar todo o espaço disponível. Nesse caso, o número de estações que serão criadas em cada ilha de trabalho é igual a",
-    "alternativas": [
+    "statement": "Um investidor adquiriu uma ampla sala para transformá-la em um espaço coworking. Para tanto, serão criadas ilhas de trabalho retangulares, medindo 12,0 m de comprimento por 4,8 m de largura cada. Essas ilhas serão divididas em estações quadradas, de maior área possível, de modo a ocupar todo o espaço disponível. Nesse caso, o número de estações que serão criadas em cada ilha de trabalho é igual a",
+    "choices": [
       "5.",
       "10.",
       "15.",
       "20.",
       "24."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O maior lado de quadrado que cabe exatamente nas duas medidas é o MDC(12,0; 4,8). Em decímetros, MDC(120; 48) = 24 dm = 2,4 m. Ao longo de 12,0 m cabem 5 estações e ao longo de 4,8 m cabem 2: 5 × 2 = 10 estações."
+    "answerKey": 1,
+    "explanation": "Correta: B. O maior lado de quadrado que cabe exatamente nas duas medidas é o MDC(12,0; 4,8). Em decímetros, MDC(120; 48) = 24 dm = 2,4 m. Ao longo de 12,0 m cabem 5 estações e ao longo de 4,8 m cabem 2: 5 × 2 = 10 estações."
   },
   {
     "id": "B-PIRA-22",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 22,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 22,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Há 8 anos, um profissional que reside no interior do estado de São Paulo trabalha como assessor de uma empresa instalada na capital do estado. Ao longo de um ano, ele realiza cerca de 40 visitas nessa empresa e se desloca, considerando ida e volta, 450 km por visita.\n\nPopularmente, as cidades de Oiapoque (AP) e do Chuí (RS) são consideradas os pontos mais extremos do Brasil, sendo que a distância de condução entre essas cidades é de aproximadamente 5.650 km. A quilometragem total percorrida nesses 8 anos por esse profissional para atender somente essa empresa equivale a ir do Oiapoque ao Chuí, aproximadamente,",
-    "alternativas": [
+    "statement": "Há 8 anos, um profissional que reside no interior do estado de São Paulo trabalha como assessor de uma empresa instalada na capital do estado. Ao longo de um ano, ele realiza cerca de 40 visitas nessa empresa e se desloca, considerando ida e volta, 450 km por visita.\n\nPopularmente, as cidades de Oiapoque (AP) e do Chuí (RS) são consideradas os pontos mais extremos do Brasil, sendo que a distância de condução entre essas cidades é de aproximadamente 5.650 km. A quilometragem total percorrida nesses 8 anos por esse profissional para atender somente essa empresa equivale a ir do Oiapoque ao Chuí, aproximadamente,",
+    "choices": [
       "3 vezes.",
       "12 vezes.",
       "19 vezes.",
       "21 vezes.",
       "25 vezes."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Por ano: 40 × 450 = 18.000 km. Em 8 anos: 144.000 km. 144.000 ÷ 5.650 ≈ 25,5, ou seja, aproximadamente 25 vezes."
+    "answerKey": 4,
+    "explanation": "Correta: E. Por ano: 40 × 450 = 18.000 km. Em 8 anos: 144.000 km. 144.000 ÷ 5.650 ≈ 25,5, ou seja, aproximadamente 25 vezes."
   },
   {
     "id": "B-PIRA-25",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 25,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 25,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Uma montadora de carros anunciou que ampliará em 2019 a capacidade de uma de suas fábricas. Com isso, trabalhando cada dia em três turnos de 6 horas, essa fábrica irá elevar a produção atual de 36 para 42 veículos por hora. Dessa forma, a produção total dessa empresa, num período de 30 dias, terá um aumento no número de veículos igual a",
-    "alternativas": [
+    "statement": "Uma montadora de carros anunciou que ampliará em 2019 a capacidade de uma de suas fábricas. Com isso, trabalhando cada dia em três turnos de 6 horas, essa fábrica irá elevar a produção atual de 36 para 42 veículos por hora. Dessa forma, a produção total dessa empresa, num período de 30 dias, terá um aumento no número de veículos igual a",
+    "choices": [
       "3.240.",
       "2.160.",
       "1.080.",
       "540.",
       "180."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Por dia a fábrica funciona 3 × 6 = 18 horas. O aumento é de 42 − 36 = 6 veículos por hora, logo 6 × 18 = 108 por dia. Em 30 dias: 108 × 30 = 3.240."
+    "answerKey": 0,
+    "explanation": "Correta: A. Por dia a fábrica funciona 3 × 6 = 18 horas. O aumento é de 42 − 36 = 6 veículos por hora, logo 6 × 18 = 108 por dia. Em 30 dias: 108 × 30 = 3.240."
   },
   {
     "id": "B-VAAL-11",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 11,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 11,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No início do ano, uma professora recebeu 3 pacotes de 500 folhas cada e 7 pacotes de 100 folhas cada para serem usadas em sua única turma. Em seu planejamento, a professora decidiu que usaria, por dia, 3 folhas por aluno, durante os primeiros 30 dias de aula. Sabendo que o número de alunos da turma era 22 e que nos primeiros 30 dias nenhum aluno faltou, após o 30º dia de aula, o número de folhas que essa professora ainda tinha disponível para a turma era",
-    "alternativas": [
+    "statement": "No início do ano, uma professora recebeu 3 pacotes de 500 folhas cada e 7 pacotes de 100 folhas cada para serem usadas em sua única turma. Em seu planejamento, a professora decidiu que usaria, por dia, 3 folhas por aluno, durante os primeiros 30 dias de aula. Sabendo que o número de alunos da turma era 22 e que nos primeiros 30 dias nenhum aluno faltou, após o 30º dia de aula, o número de folhas que essa professora ainda tinha disponível para a turma era",
+    "choices": [
       "110.",
       "220.",
       "330.",
       "440.",
       "550."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Folhas recebidas: 3 × 500 + 7 × 100 = 2.200. Folhas usadas: 3 × 22 × 30 = 1.980. Sobram 2.200 − 1.980 = 220."
+    "answerKey": 1,
+    "explanation": "Correta: B. Folhas recebidas: 3 × 500 + 7 × 100 = 2.200. Folhas usadas: 3 × 22 × 30 = 1.980. Sobram 2.200 − 1.980 = 220."
   },
   {
     "id": "B-VAAL-16",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 16,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 16,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Adriana fez e cumpriu uma programação de assistir a todos os episódios de duas séries: a série A, que possui 120 episódios, e a série B, que possui 68 episódios. Ela assistiu a 1 episódio da série A, a cada 4 dias, e 1 episódio da série B, a cada 5 dias. No primeiro dia de sua programação, Adriana assistiu, pela primeira vez, a 1 episódio de cada uma das séries. Após assistir, pela segunda vez, a 1 episódio de cada série no mesmo dia, o número de episódios da série B que ainda faltava para ela assistir era",
-    "alternativas": [
+    "statement": "Adriana fez e cumpriu uma programação de assistir a todos os episódios de duas séries: a série A, que possui 120 episódios, e a série B, que possui 68 episódios. Ela assistiu a 1 episódio da série A, a cada 4 dias, e 1 episódio da série B, a cada 5 dias. No primeiro dia de sua programação, Adriana assistiu, pela primeira vez, a 1 episódio de cada uma das séries. Após assistir, pela segunda vez, a 1 episódio de cada série no mesmo dia, o número de episódios da série B que ainda faltava para ela assistir era",
+    "choices": [
       "27.",
       "36.",
       "45.",
       "54.",
       "63."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Os dois episódios coincidem a cada MMC(4, 5) = 20 dias: no dia 1 e de novo no dia 21. A série B foi vista nos dias 1, 6, 11, 16 e 21, ou seja, 5 episódios. Faltam 68 − 5 = 63."
+    "answerKey": 4,
+    "explanation": "Correta: E. Os dois episódios coincidem a cada MMC(4, 5) = 20 dias: no dia 1 e de novo no dia 21. A série B foi vista nos dias 1, 6, 11, 16 e 21, ou seja, 5 episódios. Faltam 68 − 5 = 63."
   },
   {
     "id": "B-ITAN17-16",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 16
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 16
     },
-    "enunciado": "Uma empresa recebeu 160 currículos de candidatos interessados nas vagas disponíveis. Desse total, apenas 1/8 foi chamado para entrevista, e 1/5 dos entrevistados foi contratado. Em relação ao número inicial de candidatos interessados, os contratados correspondem a",
-    "alternativas": [
+    "statement": "Uma empresa recebeu 160 currículos de candidatos interessados nas vagas disponíveis. Desse total, apenas 1/8 foi chamado para entrevista, e 1/5 dos entrevistados foi contratado. Em relação ao número inicial de candidatos interessados, os contratados correspondem a",
+    "choices": [
       "1/5",
       "1/10",
       "1/20",
       "1/30",
       "1/40"
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Fração da fração: 1/8 × 1/5 = 1/40 do total. Conferindo com os números: 160 ÷ 8 = 20 entrevistados; 20 ÷ 5 = 4 contratados; 4/160 = 1/40."
+    "answerKey": 4,
+    "explanation": "Correta: E. Fração da fração: 1/8 × 1/5 = 1/40 do total. Conferindo com os números: 160 ÷ 8 = 20 entrevistados; 20 ÷ 5 = 4 contratados; 4/160 = 1/40."
   },
   {
     "id": "B-ITAN17-17",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 17
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 17
     },
-    "enunciado": "Em uma caixa, há menos de 130 pastas que serão colocadas em gavetas, sendo que, em cada gaveta, deverá haver o mesmo número de pastas. Se forem colocadas 5 pastas em cada gaveta, ou 6 pastas, ou 8 pastas, sempre sobrarão 2 pastas na caixa. O número de pastas que há nessa caixa é",
-    "alternativas": [
+    "statement": "Em uma caixa, há menos de 130 pastas que serão colocadas em gavetas, sendo que, em cada gaveta, deverá haver o mesmo número de pastas. Se forem colocadas 5 pastas em cada gaveta, ou 6 pastas, ou 8 pastas, sempre sobrarão 2 pastas na caixa. O número de pastas que há nessa caixa é",
+    "choices": [
       "118.",
       "120.",
       "122.",
       "124.",
       "126."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Tirando as 2 pastas que sobram, o restante é múltiplo de 5, 6 e 8. MMC(5, 6, 8) = 120. Como o total é menor que 130, o total é 120 + 2 = 122. Conferindo: 122 = 5 × 24 + 2 = 6 × 20 + 2 = 8 × 15 + 2."
+    "answerKey": 2,
+    "explanation": "Correta: C. Tirando as 2 pastas que sobram, o restante é múltiplo de 5, 6 e 8. MMC(5, 6, 8) = 120. Como o total é menor que 130, o total é 120 + 2 = 122. Conferindo: 122 = 5 × 24 + 2 = 6 × 20 + 2 = 8 × 15 + 2."
   }
 ]

@@ -2,81 +2,81 @@
   {
     "id": "LEG-E3-A1",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-deveres-penalidades-pad",
-    "origem": "autoral",
-    "enunciado": "Entre as alternativas, a que não corresponde a penalidade disciplinar prevista na Lei Municipal nº 3.055/2004 é",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-deveres-penalidades-pad",
+    "origin": "authored",
+    "statement": "Entre as alternativas, a que não corresponde a penalidade disciplinar prevista na Lei Municipal nº 3.055/2004 é",
+    "choices": [
       "advertência.",
       "suspensão.",
       "demissão.",
       "multa.",
       "destituição de cargo em comissão."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O art. 113 prevê advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão e destituição de função comissionada. Multa não consta do rol."
+    "answerKey": 3,
+    "explanation": "Correta: D. O art. 113 prevê advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão e destituição de função comissionada. Multa não consta do rol."
   },
   {
     "id": "LEG-E3-A2",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-deveres-penalidades-pad",
-    "origem": "autoral",
-    "enunciado": "Nos termos da Lei nº 3.055/2004, configura abandono de cargo a ausência intencional do servidor ao serviço por",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-deveres-penalidades-pad",
+    "origin": "authored",
+    "statement": "Nos termos da Lei nº 3.055/2004, configura abandono de cargo a ausência intencional do servidor ao serviço por",
+    "choices": [
       "mais de trinta dias consecutivos.",
       "mais de quinze dias consecutivos.",
       "sessenta dias interpolados durante doze meses.",
       "mais de noventa dias consecutivos.",
       "cinco dias consecutivos."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 124. C: descreve a inassiduidade habitual (art. 125), que é outra infração. As demais alternativas apresentam prazos que a lei não adota para o abandono."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 124. C: descreve a inassiduidade habitual (art. 125), que é outra infração. As demais alternativas apresentam prazos que a lei não adota para o abandono."
   },
   {
     "id": "LEG-E3-A3",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-deveres-penalidades-pad",
-    "origem": "autoral",
-    "enunciado": "A penalidade de suspensão, prevista na Lei nº 3.055/2004, não pode exceder o prazo de",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-deveres-penalidades-pad",
+    "origin": "authored",
+    "statement": "A penalidade de suspensão, prevista na Lei nº 3.055/2004, não pode exceder o prazo de",
+    "choices": [
       "dez dias.",
       "quinze dias.",
       "sessenta dias.",
       "noventa dias.",
       "trinta dias."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E, conforme o art. 116: a suspensão não pode exceder trinta dias, com prejuízo dos vencimentos. Quinze dias é o limite da suspensão aplicada a quem se recusa, sem justificativa, à inspeção médica (parágrafo único)."
+    "answerKey": 4,
+    "explanation": "Correta: E, conforme o art. 116: a suspensão não pode exceder trinta dias, com prejuízo dos vencimentos. Quinze dias é o limite da suspensão aplicada a quem se recusa, sem justificativa, à inspeção médica (parágrafo único)."
   },
   {
     "id": "LEG-E3-A4",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-deveres-penalidades-pad",
-    "origem": "autoral",
-    "enunciado": "A inassiduidade habitual, segundo a Lei nº 3.055/2004, caracteriza-se pela falta ao serviço, sem causa justificada, por",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-deveres-penalidades-pad",
+    "origin": "authored",
+    "statement": "A inassiduidade habitual, segundo a Lei nº 3.055/2004, caracteriza-se pela falta ao serviço, sem causa justificada, por",
+    "choices": [
       "trinta dias consecutivos.",
       "sessenta dias, interpoladamente, durante o período de doze meses.",
       "quinze dias, interpoladamente, durante seis meses.",
       "noventa dias consecutivos.",
       "sessenta dias consecutivos durante vinte e quatro meses."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o art. 125. A: trinta dias consecutivos se relaciona ao abandono de cargo, que exige ainda a intenção. As demais alternativas não correspondem ao texto legal."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o art. 125. A: trinta dias consecutivos se relaciona ao abandono de cargo, que exige ainda a intenção. As demais alternativas não correspondem ao texto legal."
   },
   {
     "id": "LEG-E3-A5",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-deveres-penalidades-pad",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei nº 3.055/2004, o processo disciplinar será conduzido por comissão composta de",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-deveres-penalidades-pad",
+    "origin": "authored",
+    "statement": "De acordo com a Lei nº 3.055/2004, o processo disciplinar será conduzido por comissão composta de",
+    "choices": [
       "um único servidor efetivo, designado pela chefia imediata do acusado.",
       "dois servidores comissionados, designados pelo acusado.",
       "três servidores estáveis, designados pela autoridade competente.",
       "cinco servidores, sendo um deles parente do acusado.",
       "membros externos ao serviço público municipal."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 135: comissão de três servidores estáveis designados pela autoridade competente. D: o parente do acusado até o terceiro grau não pode participar (art. 135, § 2º). As demais alternativas contrariam a composição legal."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 135: comissão de três servidores estáveis designados pela autoridade competente. D: o parente do acusado até o terceiro grau não pode participar (art. 135, § 2º). As demais alternativas contrariam a composição legal."
   }
 ]

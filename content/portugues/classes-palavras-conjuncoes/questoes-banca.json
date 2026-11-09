@@ -2,185 +2,185 @@
   {
     "id": "B-PAUL-06",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 6,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 6,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Considere o trecho:\n\n- “Há muitas pessoas de visão perfeita que nada veem. O ato de ver não é coisa natural. Precisa ser aprendido.” (4º parágrafo)\n\nÉ correto afirmar que as frases poderiam ser unidas, respectivamente e em conformidade com as relações de sentido do texto original, pelas conjunções:",
-    "alternativas": [
+    "statement": "Considere o trecho:\n\n- “Há muitas pessoas de visão perfeita que nada veem. O ato de ver não é coisa natural. Precisa ser aprendido.” (4º parágrafo)\n\nÉ correto afirmar que as frases poderiam ser unidas, respectivamente e em conformidade com as relações de sentido do texto original, pelas conjunções:",
+    "choices": [
       "ainda que … porque.",
       "visto que … embora.",
       "embora … mas.",
       "entretanto … assim.",
       "pois … portanto."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. “Há muitas pessoas de visão perfeita que nada veem, pois o ato de ver não é coisa natural; portanto, precisa ser aprendido.” A 2ª frase explica a 1ª (“pois”, explicação) e a 3ª é conclusão da 2ª (“portanto”). A: “ainda que” é concessiva e inverteria o sentido. B e C: “embora” é concessiva. D: “entretanto” é adversativa e não há oposição."
+    "answerKey": 4,
+    "explanation": "Correta: E. “Há muitas pessoas de visão perfeita que nada veem, pois o ato de ver não é coisa natural; portanto, precisa ser aprendido.” A 2ª frase explica a 1ª (“pois”, explicação) e a 3ª é conclusão da 2ª (“portanto”). A: “ainda que” é concessiva e inverteria o sentido. B e C: “embora” é concessiva. D: “entretanto” é adversativa e não há oposição."
   },
   {
     "id": "B-PAUL-07",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 7,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 7,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Em “Aqueles anéis **perfeitamente** ajustados…” (1º parágrafo), a palavra destacada expressa circunstância de",
-    "alternativas": [
+    "statement": "Em “Aqueles anéis **perfeitamente** ajustados…” (1º parágrafo), a palavra destacada expressa circunstância de",
+    "choices": [
       "instrumento.",
       "modo.",
       "intensidade.",
       "afirmação.",
       "finalidade."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. “Perfeitamente” é advérbio que indica de que maneira os anéis estão ajustados: circunstância de modo. O termo responde a “de que maneira?”, e não a “em que grau?”, por isso não é intensidade."
+    "answerKey": 1,
+    "explanation": "Correta: B. “Perfeitamente” é advérbio que indica de que maneira os anéis estão ajustados: circunstância de modo. O termo responde a “de que maneira?”, e não a “em que grau?”, por isso não é intensidade."
   },
   {
     "id": "B-SJRP-13",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 13,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 13,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O sentido indicado entre colchetes associa-se corretamente à expressão destacada em:",
-    "alternativas": [
+    "statement": "O sentido indicado entre colchetes associa-se corretamente à expressão destacada em:",
+    "choices": [
       "Essas eram as visões que prevaleciam **até** recentemente. (2º parágrafo) [intensidade]",
       "... uma existência estável, primeiro em aldeias e finalmente **em** impérios. (1º parágrafo) [meio]",
       "... uma grande quantidade de espécies vegetais muito apropriadas **para** a alimentação. (2º parágrafo) [finalidade]",
       "... onde hoje uma pequena população branca subsiste **com** dificuldade... (2º parágrafo) [causa]",
       "Pesquisas entre os povos **sem** agricultura, voltadas para questões como tempo de trabalho... (2º parágrafo) [oposição]"
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. “Para a alimentação” indica o fim a que as espécies servem: finalidade. A: “até” marca limite de tempo, não intensidade. B: “em impérios” indica lugar ou situação, não meio. D: “com dificuldade” indica modo, não causa. E: “sem agricultura” indica ausência, não oposição."
+    "answerKey": 2,
+    "explanation": "Correta: C. “Para a alimentação” indica o fim a que as espécies servem: finalidade. A: “até” marca limite de tempo, não intensidade. B: “em impérios” indica lugar ou situação, não meio. D: “com dificuldade” indica modo, não causa. E: “sem agricultura” indica ausência, não oposição."
   },
   {
     "id": "B-VAAL-05",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 5,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 5,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Considere os trechos do 4º parágrafo:\n\n- **Embora** ainda não haja muitas pesquisas desse tipo, um outro estudo realizado por uma empresa britânica aponta uma diferença de gênero no próprio uso da tecnologia.\n- **Enquanto** 54% dos homens britânicos estão abraçando a IA no seu cotidiano pessoal e profissional, apenas 35% das mulheres têm feito o mesmo.\n\nOs vocábulos destacados podem ser substituídos, sem prejuízo do sentido e da correção gramatical, respectivamente, por:",
-    "alternativas": [
+    "statement": "Considere os trechos do 4º parágrafo:\n\n- **Embora** ainda não haja muitas pesquisas desse tipo, um outro estudo realizado por uma empresa britânica aponta uma diferença de gênero no próprio uso da tecnologia.\n- **Enquanto** 54% dos homens britânicos estão abraçando a IA no seu cotidiano pessoal e profissional, apenas 35% das mulheres têm feito o mesmo.\n\nOs vocábulos destacados podem ser substituídos, sem prejuízo do sentido e da correção gramatical, respectivamente, por:",
+    "choices": [
       "Não obstante … Sempre que",
       "Apesar de que … Na medida em que",
       "Mesmo que … Ao passo que",
       "Por mais que … À medida que",
       "De maneira que … Toda vez que"
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. “Embora” é concessiva (equivale a “mesmo que”). “Enquanto”, aqui, contrasta dois dados (54% x 35%), como “ao passo que”. “Sempre que” e “toda vez que” (tempo), “na medida em que” (causa/proporção), “à medida que” (proporção) e “de maneira que” (consequência) mudam o sentido."
+    "answerKey": 2,
+    "explanation": "Correta: C. “Embora” é concessiva (equivale a “mesmo que”). “Enquanto”, aqui, contrasta dois dados (54% x 35%), como “ao passo que”. “Sempre que” e “toda vez que” (tempo), “na medida em que” (causa/proporção), “à medida que” (proporção) e “de maneira que” (consequência) mudam o sentido."
   },
   {
     "id": "B-ITAN17-05",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 5
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 5
     },
-    "enunciado": "Observe a relação de sentido entre as partes sinalizadas: (I) Mesmo sendo criticada pelas costas e alvo constante de caricaturas e artigos injuriosos, (II) Domitila, mulher bonita, inteligente e alegre, experimentou ascensão social meteórica na capital. É correto afirmar que as ideias do trecho (I) estabelecem, com as do trecho (II), relação de sentido de",
-    "alternativas": [
+    "statement": "Observe a relação de sentido entre as partes sinalizadas: (I) Mesmo sendo criticada pelas costas e alvo constante de caricaturas e artigos injuriosos, (II) Domitila, mulher bonita, inteligente e alegre, experimentou ascensão social meteórica na capital. É correto afirmar que as ideias do trecho (I) estabelecem, com as do trecho (II), relação de sentido de",
+    "choices": [
       "causa.",
       "concessão.",
       "modo.",
       "consequência.",
       "condição."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. “Mesmo” (“mesmo sendo…”) introduz uma circunstância que seria obstáculo, mas não impediu o fato principal: ser criticada não impediu a ascensão. Isso é concessão (equivale a “embora fosse criticada”). Não há causa (a crítica não provocou a ascensão), nem consequência, modo ou condição."
+    "answerKey": 1,
+    "explanation": "Correta: B. “Mesmo” (“mesmo sendo…”) introduz uma circunstância que seria obstáculo, mas não impediu o fato principal: ser criticada não impediu a ascensão. Isso é concessão (equivale a “embora fosse criticada”). Não há causa (a crítica não provocou a ascensão), nem consequência, modo ou condição."
   },
   {
     "id": "B-ITAN17-07",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 7
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 7
     },
-    "enunciado": "Leia os versos de Mário Quintana: “… uma tabuleta meio torta / e **onde** se lia, em letras rústicas: FIM DO MUNDO.” e “… e não havia remédio **senão** irmos andando às tontas”. A alternativa que substitui, correta e respectivamente, as palavras **onde** e **senão** é:",
-    "alternativas": [
+    "statement": "Leia os versos de Mário Quintana: “… uma tabuleta meio torta / e **onde** se lia, em letras rústicas: FIM DO MUNDO.” e “… e não havia remédio **senão** irmos andando às tontas”. A alternativa que substitui, correta e respectivamente, as palavras **onde** e **senão** é:",
+    "choices": [
       "cuja – salvo.",
       "que – ou.",
       "em que – do contrário.",
       "da qual – porém.",
       "na qual – exceto."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. “Onde” retoma “tabuleta” e indica o lugar em que se lia: equivale a “na qual” (ou “em que”). “Senão” tem aqui sentido de exclusão (“não havia remédio, a não ser irmos andando”): equivale a “exceto”. “Cuja” indica posse; “que” sem preposição não serve para o verbo “ler” neste contexto; “do contrário” e “porém” mudam o sentido de “senão”."
+    "answerKey": 4,
+    "explanation": "Correta: E. “Onde” retoma “tabuleta” e indica o lugar em que se lia: equivale a “na qual” (ou “em que”). “Senão” tem aqui sentido de exclusão (“não havia remédio, a não ser irmos andando”): equivale a “exceto”. “Cuja” indica posse; “que” sem preposição não serve para o verbo “ler” neste contexto; “do contrário” e “porém” mudam o sentido de “senão”."
   },
   {
     "id": "B-ITAN17-08",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 8
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 8
     },
-    "enunciado": "Nos versos de Mário Quintana – “… deveria haver num velho poste uma tabuleta **qualquer**…” e “… irmos **andando às tontas**…” –, as expressões destacadas (“qualquer” e “às tontas”) exprimem, nesses contextos, as ideias, respectivamente, de",
-    "alternativas": [
+    "statement": "Nos versos de Mário Quintana – “… deveria haver num velho poste uma tabuleta **qualquer**…” e “… irmos **andando às tontas**…” –, as expressões destacadas (“qualquer” e “às tontas”) exprimem, nesses contextos, as ideias, respectivamente, de",
+    "choices": [
       "indefinição e lugar.",
       "especificação e modo.",
       "indeterminação e modo.",
       "qualidade e lugar.",
       "indefinição e direção."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. “Qualquer” é pronome indefinido: indica uma tabuleta não determinada (indeterminação). “Às tontas” é locução adverbial de modo: diz como se andava (sem rumo). Não há lugar nem direção, e “qualquer” não especifica, ao contrário."
+    "answerKey": 2,
+    "explanation": "Correta: C. “Qualquer” é pronome indefinido: indica uma tabuleta não determinada (indeterminação). “Às tontas” é locução adverbial de modo: diz como se andava (sem rumo). Não há lugar nem direção, e “qualquer” não especifica, ao contrário."
   },
   {
     "id": "B-ITAN17-13",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 13
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 13
     },
-    "enunciado": "A expressão em destaque na passagem – “… percebeu que tinha esbarrado em alguém que não podia vê-la e que, **portanto**, a responsabilidade de desviar era dela.” – expressa a ideia de",
-    "alternativas": [
+    "statement": "A expressão em destaque na passagem – “… percebeu que tinha esbarrado em alguém que não podia vê-la e que, **portanto**, a responsabilidade de desviar era dela.” – expressa a ideia de",
+    "choices": [
       "explicação, podendo ser substituída, com coerência, por porém.",
       "causa, podendo ser substituída, com coerência, por porque.",
       "tempo, podendo ser substituída, com coerência, por então.",
       "modo, podendo ser substituída, com coerência, por assim.",
       "conclusão, podendo ser substituída, com coerência, por logo."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. “Portanto” é conjunção conclusiva: a responsabilidade ser dela decorre de ela ter esbarrado em alguém que não podia vê-la. Pode ser trocada por “logo”. “Porém” é adversativa, “porque” é causal e as demais não correspondem ao uso."
+    "answerKey": 4,
+    "explanation": "Correta: E. “Portanto” é conjunção conclusiva: a responsabilidade ser dela decorre de ela ter esbarrado em alguém que não podia vê-la. Pode ser trocada por “logo”. “Porém” é adversativa, “porque” é causal e as demais não correspondem ao uso."
   }
 ]

@@ -3,24 +3,24 @@
     "id": "B-TREM-25",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "conceitos-principios-arquivisticos",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 25,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "conceitos-principios-arquivisticos",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 25,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Os dois princípios da arquivologia que têm servido, principalmente, para definir estratégias de classificação dos documentos são os da",
-    "alternativas": [
+    "statement": "Os dois princípios da arquivologia que têm servido, principalmente, para definir estratégias de classificação dos documentos são os da",
+    "choices": [
       "organicidade e da indivisibilidade.",
       "unicidade e da proveniência.",
       "cumulatividade e da ordem primitiva.",
       "pertinência e da integridade.",
       "ordem original e do respeito aos fundos."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E (gabarito oficial). O respeito aos fundos (proveniência) e a ordem original são os princípios que orientam a classificação e o arranjo: o documento é agrupado pelo órgão que o produziu e mantém a ordem em que foi criado e acumulado. As demais combinações misturam outros princípios ou termos que não formam o par pedido."
+    "answerKey": 4,
+    "explanation": "Correta: E (gabarito oficial). O respeito aos fundos (proveniência) e a ordem original são os princípios que orientam a classificação e o arranjo: o documento é agrupado pelo órgão que o produziu e mantém a ordem em que foi criado e acumulado. As demais combinações misturam outros princípios ou termos que não formam o par pedido."
   }
 ]

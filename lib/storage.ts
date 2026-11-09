@@ -1,227 +1,293 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
-import type { StatusTopico } from "@/types";
+import type { TopicStatus } from "@/types";
 
-const CHAVE = "concurso-itanhaem:progresso";
-export const VERSAO_SCHEMA = 1;
+const STORAGE_KEY = "concurso-itanhaem:progresso";
+export const SCHEMA_VERSION = 2;
 
-export interface ResultadoQuiz {
-  acertos: number;
+export interface QuizResult {
+  correct: number;
   total: number;
   data: string; // ISO
 }
 
-export interface Tentativa {
+export interface Attempt {
   id: string;
-  simulado: "A" | "B";
-  inicio: string;
-  segundos: number; // tempo gasto
-  ordem: string[]; // ids das questões, na ordem da prova
-  respostas: Record<string, number | null>; // questaoId -> alternativa
-  acertos: number;
+  mockExam: "A" | "B";
+  startedAt: string;
+  seconds: number; // tempo gasto
+  order: string[]; // ids das questões, na ordem da prova
+  answers: Record<string, number | null>; // questaoId -> alternativa
+  correct: number;
   total: number;
-  nota: number;
-  parcial: boolean; // simulado reduzido (banco incompleto)
-  habilitado: boolean | null;
-  porArea: Record<string, { acertos: number; total: number }>;
+  score: number;
+  partial: boolean; // simulado reduzido (banco incompleto)
+  qualified: boolean | null;
+  byArea: Record<string, { correct: number; total: number }>;
 }
 
 /** Prova em andamento (sobrevive a recarregar a página). */
-export interface Andamento {
-  simulado: "A" | "B";
-  inicio: string;
-  ordem: string[];
-  respostas: Record<string, number | null>;
-  marcadas: string[]; // "revisar depois"
-  restanteSegundos: number;
-  duracaoSegundos: number;
-  atual: number;
+export interface ExamSession {
+  mockExam: "A" | "B";
+  startedAt: string;
+  order: string[];
+  answers: Record<string, number | null>;
+  flagged: string[]; // "revisar depois"
+  remainingSeconds: number;
+  durationSeconds: number;
+  current: number;
 }
 
-export interface Progresso {
-  versao: number;
-  topicos: Record<string, StatusTopico>; // "area/slug"
-  quizzes: Record<string, { A?: ResultadoQuiz; B?: ResultadoQuiz }>;
-  erros: string[]; // ids de questões erradas (caderno de erros)
-  tentativas: Tentativa[];
+export interface Progress {
+  version: number;
+  topics: Record<string, TopicStatus>; // "area/slug"
+  quizzes: Record<string, { A?: QuizResult; B?: QuizResult }>;
+  mistakes: string[]; // ids de questões erradas (caderno de erros)
+  attempts: Attempt[];
 }
 
-const VAZIO: Progresso = {
-  versao: VERSAO_SCHEMA,
-  topicos: {},
+const EMPTY: Progress = {
+  version: SCHEMA_VERSION,
+  topics: {},
   quizzes: {},
-  erros: [],
-  tentativas: [],
+  mistakes: [],
+  attempts: [],
 };
 
-function migrar(bruto: unknown): Progresso {
-  if (!bruto || typeof bruto !== "object") return VAZIO;
-  const b = bruto as Partial<Progresso>;
-  // Quando existir versão 2+, migre aqui com base em b.versao.
+// Formato 1 (campos em português) → formato 2 (campos em inglês). Lê dados salvos no navegador
+// e backups exportados antes da troca, para ninguém perder o progresso.
+type Loose = Record<string, unknown>;
+
+const isObject = (v: unknown): v is Loose => !!v && typeof v === "object" && !Array.isArray(v);
+
+function renameKeys(o: unknown, map: Record<string, string>): Loose {
+  const out: Loose = {};
+  if (!isObject(o)) return out;
+  for (const [k, v] of Object.entries(o)) out[map[k] ?? k] = v;
+  return out;
+}
+
+const LEGACY_STATUS: Record<string, TopicStatus> = {
+  "nao-visto": "unseen",
+  visto: "seen",
+  dominado: "mastered",
+};
+const LEGACY_PROGRESS = { versao: "version", topicos: "topics", erros: "mistakes", tentativas: "attempts" };
+const LEGACY_RESULT = { acertos: "correct" };
+const LEGACY_ATTEMPT = {
+  simulado: "mockExam",
+  inicio: "startedAt",
+  segundos: "seconds",
+  ordem: "order",
+  respostas: "answers",
+  acertos: "correct",
+  nota: "score",
+  parcial: "partial",
+  habilitado: "qualified",
+  porArea: "byArea",
+};
+const LEGACY_EXAM_SESSION = {
+  simulado: "mockExam",
+  inicio: "startedAt",
+  ordem: "order",
+  respostas: "answers",
+  marcadas: "flagged",
+  restanteSegundos: "remainingSeconds",
+  duracaoSegundos: "durationSeconds",
+  atual: "current",
+};
+
+function migrateAttempt(a: unknown): Attempt {
+  const r = renameKeys(a, LEGACY_ATTEMPT);
+  const byArea: Loose = {};
+  for (const [area, v] of Object.entries(isObject(r.byArea) ? r.byArea : {})) byArea[area] = renameKeys(v, LEGACY_RESULT);
+  return { ...r, byArea } as unknown as Attempt;
+}
+
+function migrate(raw: unknown): Progress {
+  if (!isObject(raw)) return EMPTY;
+  const b = renameKeys(raw, LEGACY_PROGRESS);
+  const topics: Record<string, TopicStatus> = {};
+  for (const [k, v] of Object.entries(isObject(b.topics) ? b.topics : {})) {
+    topics[k] = LEGACY_STATUS[String(v)] ?? (v as TopicStatus);
+  }
+  const quizzes: Progress["quizzes"] = {};
+  for (const [k, v] of Object.entries(isObject(b.quizzes) ? b.quizzes : {})) {
+    const q = isObject(v) ? v : {};
+    quizzes[k] = {
+      ...(q.A ? { A: renameKeys(q.A, LEGACY_RESULT) as unknown as QuizResult } : {}),
+      ...(q.B ? { B: renameKeys(q.B, LEGACY_RESULT) as unknown as QuizResult } : {}),
+    };
+  }
   return {
-    versao: VERSAO_SCHEMA,
-    topicos: b.topicos ?? {},
-    quizzes: b.quizzes ?? {},
-    erros: b.erros ?? [],
-    tentativas: b.tentativas ?? [],
+    version: SCHEMA_VERSION,
+    topics,
+    quizzes,
+    mistakes: Array.isArray(b.mistakes) ? (b.mistakes as string[]) : [],
+    attempts: Array.isArray(b.attempts) ? b.attempts.map(migrateAttempt) : [],
   };
 }
 
-let cacheTexto: string | null | undefined;
-let cacheObj: Progresso = VAZIO;
-const ouvintes = new Set<() => void>();
+function migrateExamSession(raw: unknown): ExamSession | null {
+  if (!isObject(raw)) return null;
+  return renameKeys(raw, LEGACY_EXAM_SESSION) as unknown as ExamSession;
+}
 
-function lerBruto(): string | null {
+let cachedText: string | null | undefined;
+let cachedObject: Progress = EMPTY;
+const listeners = new Set<() => void>();
+
+function readRaw(): string | null {
   try {
-    return localStorage.getItem(CHAVE);
+    return localStorage.getItem(STORAGE_KEY);
   } catch {
     return null;
   }
 }
 
-function snapshot(): Progresso {
-  const texto = lerBruto();
-  if (texto !== cacheTexto) {
-    cacheTexto = texto;
+function snapshot(): Progress {
+  const text = readRaw();
+  if (text !== cachedText) {
+    cachedText = text;
     try {
-      cacheObj = texto ? migrar(JSON.parse(texto)) : VAZIO;
+      cachedObject = text ? migrate(JSON.parse(text)) : EMPTY;
     } catch {
-      cacheObj = VAZIO;
+      cachedObject = EMPTY;
     }
   }
-  return cacheObj;
+  return cachedObject;
 }
 
-function salvar(p: Progresso) {
+function save(p: Progress) {
   try {
-    localStorage.setItem(CHAVE, JSON.stringify(p));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
   } catch {
     // armazenamento indisponível ou cheio: o progresso não persiste
   }
-  ouvintes.forEach((f) => f());
+  listeners.forEach((f) => f());
 }
 
-function assinar(f: () => void) {
-  ouvintes.add(f);
+function subscribe(f: () => void) {
+  listeners.add(f);
   window.addEventListener("storage", f);
   return () => {
-    ouvintes.delete(f);
+    listeners.delete(f);
     window.removeEventListener("storage", f);
   };
 }
 
-export function useProgresso(): Progresso {
-  return useSyncExternalStore(assinar, snapshot, () => VAZIO);
+export function useProgress(): Progress {
+  return useSyncExternalStore(subscribe, snapshot, () => EMPTY);
 }
 
-export const chaveTopico = (area: string, slug: string) => `${area}/${slug}`;
+export const topicKey = (area: string, slug: string) => `${area}/${slug}`;
 
-export function definirStatus(chave: string, status: StatusTopico) {
+export function setTopicStatus(topicKey: string, status: TopicStatus) {
   const p = snapshot();
-  salvar({ ...p, topicos: { ...p.topicos, [chave]: status } });
+  save({ ...p, topics: { ...p.topics, [topicKey]: status } });
 }
 
-export function registrarQuiz(
-  chave: string,
+export function recordQuiz(
+  topicKey: string,
   quiz: "A" | "B",
-  r: ResultadoQuiz,
-  idsErrados: string[],
-  idsCertos: string[],
+  r: QuizResult,
+  wrongIds: string[],
+  correctIds: string[],
 ) {
   const p = snapshot();
-  const erros = new Set(p.erros);
-  idsErrados.forEach((i) => erros.add(i));
-  idsCertos.forEach((i) => erros.delete(i));
-  salvar({
+  const mistakes = new Set(p.mistakes);
+  wrongIds.forEach((i) => mistakes.add(i));
+  correctIds.forEach((i) => mistakes.delete(i));
+  save({
     ...p,
-    quizzes: { ...p.quizzes, [chave]: { ...p.quizzes[chave], [quiz]: r } },
-    erros: [...erros],
+    quizzes: { ...p.quizzes, [topicKey]: { ...p.quizzes[topicKey], [quiz]: r } },
+    mistakes: [...mistakes],
   });
 }
 
-export function exportarProgresso(): string {
+export function exportProgress(): string {
   return JSON.stringify(snapshot(), null, 2);
 }
 
-export function importarProgresso(texto: string): { ok: boolean; erro?: string } {
+export function importProgress(text: string): { ok: boolean; error?: string } {
   try {
-    const obj = JSON.parse(texto);
-    if (typeof obj !== "object" || obj === null || typeof obj.versao !== "number") {
-      return { ok: false, erro: "Arquivo não parece ser um backup de progresso." };
+    const obj = JSON.parse(text);
+    if (typeof obj !== "object" || obj === null || typeof (obj.version ?? obj.versao) !== "number") {
+      return { ok: false, error: "Arquivo não parece ser um backup de progresso." };
     }
-    salvar(migrar(obj));
+    save(migrate(obj));
     return { ok: true };
   } catch {
-    return { ok: false, erro: "JSON inválido." };
+    return { ok: false, error: "JSON inválido." };
   }
 }
 
-export function limparProgresso() {
-  salvar(VAZIO);
+export function clearProgress() {
+  save(EMPTY);
 }
 
-export function registrarErros(idsErrados: string[], idsCertos: string[]) {
+export function recordMistakes(wrongIds: string[], correctIds: string[]) {
   const p = snapshot();
-  const erros = new Set(p.erros);
-  idsErrados.forEach((i) => erros.add(i));
-  idsCertos.forEach((i) => erros.delete(i));
-  salvar({ ...p, erros: [...erros] });
+  const mistakes = new Set(p.mistakes);
+  wrongIds.forEach((i) => mistakes.add(i));
+  correctIds.forEach((i) => mistakes.delete(i));
+  save({ ...p, mistakes: [...mistakes] });
 }
 
-export function salvarTentativa(t: Tentativa) {
+export function saveAttempt(t: Attempt) {
   const p = snapshot();
-  salvar({ ...p, tentativas: [...p.tentativas, t] });
+  save({ ...p, attempts: [...p.attempts, t] });
 }
 
 // --- prova em andamento (chave separada; gravar não notifica, para não re-renderizar a cada tique) ---
-const CHAVE_ANDAMENTO = "concurso-itanhaem:andamento";
-const ouvintesAndamento = new Set<() => void>();
-let andamentoTexto: string | null | undefined;
-let andamentoObj: Andamento | null = null;
+const EXAM_SESSION_STORAGE_KEY = "concurso-itanhaem:andamento";
+const examSessionListeners = new Set<() => void>();
+let examSessionText: string | null | undefined;
+let examSessionObject: ExamSession | null = null;
 
-function lerAndamentoBruto(): string | null {
+function readRawExamSession(): string | null {
   try {
-    return localStorage.getItem(CHAVE_ANDAMENTO);
+    return localStorage.getItem(EXAM_SESSION_STORAGE_KEY);
   } catch {
     return null;
   }
 }
 
-function snapshotAndamento(): Andamento | null {
-  const t = lerAndamentoBruto();
-  if (t !== andamentoTexto) {
-    andamentoTexto = t;
+function examSessionSnapshot(): ExamSession | null {
+  const t = readRawExamSession();
+  if (t !== examSessionText) {
+    examSessionText = t;
     try {
-      andamentoObj = t ? (JSON.parse(t) as Andamento) : null;
+      examSessionObject = t ? migrateExamSession(JSON.parse(t)) : null;
     } catch {
-      andamentoObj = null;
+      examSessionObject = null;
     }
   }
-  return andamentoObj;
+  return examSessionObject;
 }
 
-export function useAndamento(): Andamento | null {
+export function useExamSession(): ExamSession | null {
   return useSyncExternalStore(
     (f) => {
-      ouvintesAndamento.add(f);
-      return () => ouvintesAndamento.delete(f);
+      examSessionListeners.add(f);
+      return () => examSessionListeners.delete(f);
     },
-    snapshotAndamento,
+    examSessionSnapshot,
     () => null,
   );
 }
 
-export function salvarAndamento(a: Andamento, notificar = false) {
+export function saveExamSession(a: ExamSession, notify = false) {
   try {
-    localStorage.setItem(CHAVE_ANDAMENTO, JSON.stringify(a));
+    localStorage.setItem(EXAM_SESSION_STORAGE_KEY, JSON.stringify(a));
   } catch {}
-  if (notificar) ouvintesAndamento.forEach((f) => f());
+  if (notify) examSessionListeners.forEach((f) => f());
 }
 
-export function limparAndamento() {
+export function clearExamSession() {
   try {
-    localStorage.removeItem(CHAVE_ANDAMENTO);
+    localStorage.removeItem(EXAM_SESSION_STORAGE_KEY);
   } catch {}
-  ouvintesAndamento.forEach((f) => f());
+  examSessionListeners.forEach((f) => f());
 }

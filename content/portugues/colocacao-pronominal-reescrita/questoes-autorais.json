@@ -2,97 +2,97 @@
   {
     "id": "PT-COL-A1",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa com a colocação pronominal adequada à norma-padrão.",
-    "alternativas": [
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "authored",
+    "statement": "Assinale a alternativa com a colocação pronominal adequada à norma-padrão.",
+    "choices": [
       "Não esqueça-se dos prazos.",
       "Não se esqueça dos prazos.",
       "Esqueça não se dos prazos.",
       "Se esqueça dos prazos.",
       "Esqueça dos prazos-se."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A palavra negativa \"não\" atrai o pronome para antes do verbo (próclise). A: ênclise após negação é inadequada. C e E: ordem inadequada. D: inicia a frase com pronome átono."
+    "answerKey": 1,
+    "explanation": "Correta: B. A palavra negativa \"não\" atrai o pronome para antes do verbo (próclise). A: ênclise após negação é inadequada. C e E: ordem inadequada. D: inicia a frase com pronome átono."
   },
   {
     "id": "PT-COL-A2",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que a colocação do pronome está de acordo com a norma-padrão.",
-    "alternativas": [
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que a colocação do pronome está de acordo com a norma-padrão.",
+    "choices": [
       "Me entregue o relatório hoje.",
       "Entregue o me relatório hoje.",
       "Entregue o relatório me hoje.",
       "Entregue-me o relatório hoje.",
       "Entregue-o me hoje."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Com verbo no imperativo afirmativo e no início da frase, usa-se ênclise: \"Entregue-me\". A: inicia a frase com pronome átono. B, C e E: separam o pronome do verbo de modo incorreto."
+    "answerKey": 3,
+    "explanation": "Correta: D. Com verbo no imperativo afirmativo e no início da frase, usa-se ênclise: \"Entregue-me\". A: inicia a frase com pronome átono. B, C e E: separam o pronome do verbo de modo incorreto."
   },
   {
     "id": "PT-COL-A3",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "autoral",
-    "enunciado": "Em \"Os servidores foram instruídos a zelar pelo patrimônio público\", o verbo \"zelar\" pode ser substituído, sem alteração de sentido, por",
-    "alternativas": [
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "authored",
+    "statement": "Em \"Os servidores foram instruídos a zelar pelo patrimônio público\", o verbo \"zelar\" pode ser substituído, sem alteração de sentido, por",
+    "choices": [
       "cuidar.",
       "ignorar.",
       "vender.",
       "esquecer.",
       "doar."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. \"Zelar\" significa cuidar, proteger. B, C, D e E: expressam ideias opostas ou alheias ao sentido do verbo."
+    "answerKey": 0,
+    "explanation": "Correta: A. \"Zelar\" significa cuidar, proteger. B, C, D e E: expressam ideias opostas ou alheias ao sentido do verbo."
   },
   {
     "id": "PT-COL-A4",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "autoral",
-    "enunciado": "A frase \"O prazo foi prorrogado, pois o sistema estava fora do ar\" mantém o sentido original em:",
-    "alternativas": [
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "authored",
+    "statement": "A frase \"O prazo foi prorrogado, pois o sistema estava fora do ar\" mantém o sentido original em:",
+    "choices": [
       "O prazo foi prorrogado, embora o sistema estivesse fora do ar.",
       "O prazo foi prorrogado a fim de que o sistema estivesse fora do ar.",
       "O prazo foi prorrogado porque o sistema estava fora do ar.",
       "O prazo foi prorrogado caso o sistema estivesse fora do ar.",
       "O prazo foi prorrogado conforme o sistema estava fora do ar."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. \"Pois\" aqui é explicativo e \"porque\" mantém a relação de causa. A: introduz concessão. B: introduz finalidade, o que inverte a lógica. D: introduz condição. E: \"conforme\" indica conformidade."
+    "answerKey": 2,
+    "explanation": "Correta: C. \"Pois\" aqui é explicativo e \"porque\" mantém a relação de causa. A: introduz concessão. B: introduz finalidade, o que inverte a lógica. D: introduz condição. E: \"conforme\" indica conformidade."
   },
   {
     "id": "PT-COL-A5",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "autoral",
-    "enunciado": "Leia: \"Os vereadores aprovaram o projeto. Eles o encaminharam ao Prefeito.\" O pronome \"o\" retoma",
-    "alternativas": [
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "authored",
+    "statement": "Leia: \"Os vereadores aprovaram o projeto. Eles o encaminharam ao Prefeito.\" O pronome \"o\" retoma",
+    "choices": [
       "\"os vereadores\".",
       "\"o Prefeito\".",
       "\"a sessão\".",
       "\"o prazo\".",
       "\"o projeto\"."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O pronome \"o\" funciona como objeto direto de \"encaminharam\" e retoma \"o projeto\". A: \"eles\" é que retoma os vereadores. B: o Prefeito é o destinatário. C e D: não aparecem no texto."
+    "answerKey": 4,
+    "explanation": "Correta: E. O pronome \"o\" funciona como objeto direto de \"encaminharam\" e retoma \"o projeto\". A: \"eles\" é que retoma os vereadores. B: o Prefeito é o destinatário. C e D: não aparecem no texto."
   },
   {
     "id": "PT-COL-A6",
     "area": "portugues",
-    "topicoSlug": "colocacao-pronominal-reescrita",
-    "origem": "autoral",
-    "enunciado": "O antônimo de “zelar”, na frase “O servidor deve zelar pelo patrimônio público”, é:",
-    "alternativas": [
+    "topicSlug": "colocacao-pronominal-reescrita",
+    "origin": "authored",
+    "statement": "O antônimo de “zelar”, na frase “O servidor deve zelar pelo patrimônio público”, é:",
+    "choices": [
       "negligenciar.",
       "preservar.",
       "proteger.",
       "conservar.",
       "guardar."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Negligenciar” é descuidar, o oposto de zelar. B, C, D e E são sinônimos ou palavras próximas de zelar, não antônimos."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Negligenciar” é descuidar, o oposto de zelar. B, C, D e E são sinônimos ou palavras próximas de zelar, não antônimos."
   }
 ]

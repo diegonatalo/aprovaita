@@ -3,120 +3,120 @@
     "id": "B-TREM-28",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 28,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-pessoas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 28,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Suzana, que trabalha como agente administrativo, tem observado que, no seu setor, os conflitos geralmente surgem de desentendimento entre os membros da equipe. Dois de seus colegas normalmente divergem de opinião e interpretam o que o outro disse de forma diferente do que foi dito. Ela sabe que esses pseudoconflitos podem ser solucionados",
-    "alternativas": [
+    "statement": "Suzana, que trabalha como agente administrativo, tem observado que, no seu setor, os conflitos geralmente surgem de desentendimento entre os membros da equipe. Dois de seus colegas normalmente divergem de opinião e interpretam o que o outro disse de forma diferente do que foi dito. Ela sabe que esses pseudoconflitos podem ser solucionados",
+    "choices": [
       "reconhecendo que as pessoas têm valores diferentes.",
       "por meio de diálogo, esclarecendo necessidades e significados.",
       "pelo afastamento, porém buscando esclarecer as posições.",
       "buscando justificativas para reforçar o que querem dizer.",
       "comentando sobre outras questões pendentes."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O pseudoconflito nasce de falha de comunicação ou de interpretação, e não de interesses realmente opostos. Por isso se resolve com diálogo que esclareça necessidades e significados. As demais opções ou evitam o assunto (C, E) ou reforçam a divergência (A, D)."
+    "answerKey": 1,
+    "explanation": "Correta: B. O pseudoconflito nasce de falha de comunicação ou de interpretação, e não de interesses realmente opostos. Por isso se resolve com diálogo que esclareça necessidades e significados. As demais opções ou evitam o assunto (C, E) ou reforçam a divergência (A, D)."
   },
   {
     "id": "B-TREM-31",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 31,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-pessoas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 31,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A avaliação de desempenho indica a performance dos colaboradores, independentemente do cargo que ocupem. A avaliação por competência é uma ferramenta que tem sido utilizada nas organizações públicas e privadas e refere-se",
-    "alternativas": [
+    "statement": "A avaliação de desempenho indica a performance dos colaboradores, independentemente do cargo que ocupem. A avaliação por competência é uma ferramenta que tem sido utilizada nas organizações públicas e privadas e refere-se",
+    "choices": [
       "ao estabelecimento prévio de características ou fatores esperados na performance das pessoas colaboradoras.",
       "à mensuração do desempenho dos colaboradores com base nas habilidades técnicas e comportamentais.",
       "à análise de comportamentos da pessoa colaboradora nas suas atividades e tarefas, sem levar em consideração sua personalidade.",
       "ao desempenho de uma pessoa colaboradora, colocado lado a lado do das demais pessoas do time, uma por uma.",
       "ao desempenho de cada colaborador em relação ao seu potencial de crescimento e às expectativas da empresa para cada cargo."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B (gabarito oficial). A avaliação por competências mede o desempenho a partir das competências (conhecimentos, habilidades técnicas e atitudes comportamentais) esperadas do cargo. D descreve a comparação entre pares; A e C descrevem outros enfoques (fatores previamente definidos; análise de comportamento)."
+    "answerKey": 1,
+    "explanation": "Correta: B (gabarito oficial). A avaliação por competências mede o desempenho a partir das competências (conhecimentos, habilidades técnicas e atitudes comportamentais) esperadas do cargo. D descreve a comparação entre pares; A e C descrevem outros enfoques (fatores previamente definidos; análise de comportamento)."
   },
   {
     "id": "B-TREM-32",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 32,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-pessoas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 32,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Lidiane, agente administrativo municipal, está elaborando um programa de Treinamento & Desenvolvimento que visa a melhoria das habilidades de comunicação entre as equipes. Ela sabe que, para elaborar esse programa, deve considerar todas as etapas do processo de treinamento que são, respectivamente:",
-    "alternativas": [
+    "statement": "Lidiane, agente administrativo municipal, está elaborando um programa de Treinamento & Desenvolvimento que visa a melhoria das habilidades de comunicação entre as equipes. Ela sabe que, para elaborar esse programa, deve considerar todas as etapas do processo de treinamento que são, respectivamente:",
+    "choices": [
       "objetivos, recursos materiais, implementação e pesquisa de satisfação.",
       "observação, análise, implementação e avaliação.",
       "diagnóstico, viabilidades, realização e análise dos resultados.",
       "diagnóstico, planejamento, execução e avaliação.",
       "objetivos, necessidades específicas, execução e resultados."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O processo clássico de treinamento tem quatro etapas: diagnóstico (levantamento das necessidades), planejamento (programa), execução e avaliação dos resultados. As demais trocam ou criam etapas."
+    "answerKey": 3,
+    "explanation": "Correta: D. O processo clássico de treinamento tem quatro etapas: diagnóstico (levantamento das necessidades), planejamento (programa), execução e avaliação dos resultados. As demais trocam ou criam etapas."
   },
   {
     "id": "B-PAUL-25",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 25,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-pessoas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 25,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Na avaliação de desempenho humano realizada em uma organização pública, a área de Gestão de Pessoas adota uma ferramenta que tem como uma de suas principais características o foco no futuro dos liderados, buscando-se contribuir para a otimização de competências e o aproveitamento de oportunidades para o desenvolvimento desses profissionais.\n\nEssa ferramenta é denominada",
-    "alternativas": [
+    "statement": "Na avaliação de desempenho humano realizada em uma organização pública, a área de Gestão de Pessoas adota uma ferramenta que tem como uma de suas principais características o foco no futuro dos liderados, buscando-se contribuir para a otimização de competências e o aproveitamento de oportunidades para o desenvolvimento desses profissionais.\n\nEssa ferramenta é denominada",
+    "choices": [
       "feedback.",
       "onboarding.",
       "feedforward.",
       "quiet quitting.",
       "follow-up."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O feedforward olha para o futuro: orienta como o liderado pode melhorar daqui para a frente. O feedback comenta o desempenho passado. Onboarding é a integração de novos colaboradores; quiet quitting é fazer só o mínimo; follow-up é o acompanhamento posterior."
+    "answerKey": 2,
+    "explanation": "Correta: C. O feedforward olha para o futuro: orienta como o liderado pode melhorar daqui para a frente. O feedback comenta o desempenho passado. Onboarding é a integração de novos colaboradores; quiet quitting é fazer só o mínimo; follow-up é o acompanhamento posterior."
   },
   {
     "id": "B-SJRP-42",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-pessoas",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 42,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-pessoas",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 42,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Em um órgão público municipal, adota-se o modelo TKI (Thomas-Kilmann Instrument) na gestão de conflitos.\n\nRecentemente, os servidores públicos Carlos e Ana, por meio da conjunção de níveis intermediários de assertividade e cooperação, encontraram um meio-termo que satisfez parcialmente as necessidades deles, o que diz respeito ao estilo",
-    "alternativas": [
+    "statement": "Em um órgão público municipal, adota-se o modelo TKI (Thomas-Kilmann Instrument) na gestão de conflitos.\n\nRecentemente, os servidores públicos Carlos e Ana, por meio da conjunção de níveis intermediários de assertividade e cooperação, encontraram um meio-termo que satisfez parcialmente as necessidades deles, o que diz respeito ao estilo",
+    "choices": [
       "acomodativo.",
       "conciliativo.",
       "evitativo.",
       "colaborativo.",
       "competitivo."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. No TKI, assertividade e cooperação intermediárias levam ao estilo conciliativo (compromisso): cada parte cede um pouco. Competitivo = alta assertividade e baixa cooperação; colaborativo = alta nas duas; evitativo = baixa nas duas; acomodativo = baixa assertividade e alta cooperação."
+    "answerKey": 1,
+    "explanation": "Correta: B. No TKI, assertividade e cooperação intermediárias levam ao estilo conciliativo (compromisso): cada parte cede um pouco. Competitivo = alta assertividade e baixa cooperação; colaborativo = alta nas duas; evitativo = baixa nas duas; acomodativo = baixa assertividade e alta cooperação."
   }
 ]

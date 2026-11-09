@@ -2,145 +2,145 @@
   {
     "id": "MAT-GEO-A1",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Uma sala retangular mede 12 m de comprimento por 5 m de largura. Sua área é de",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Uma sala retangular mede 12 m de comprimento por 5 m de largura. Sua área é de",
+    "choices": [
       "17 m².",
       "34 m².",
       "50 m².",
       "120 m².",
       "60 m²."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Área = 12 × 5 = 60 m². A: soma os lados. B: é o perímetro. As demais alternativas não resultam do cálculo."
+    "answerKey": 4,
+    "explanation": "Correta: E. Área = 12 × 5 = 60 m². A: soma os lados. B: é o perímetro. As demais alternativas não resultam do cálculo."
   },
   {
     "id": "MAT-GEO-A2",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Um terreno quadrado tem área de 64 m². O perímetro desse terreno é de",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Um terreno quadrado tem área de 64 m². O perímetro desse terreno é de",
+    "choices": [
       "16 m.",
       "24 m.",
       "32 m.",
       "64 m.",
       "8 m."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A área é l², então l = 8 m e o perímetro é 4 × 8 = 32 m. E: é o lado. As demais alternativas não resultam do cálculo."
+    "answerKey": 2,
+    "explanation": "Correta: C. A área é l², então l = 8 m e o perímetro é 4 × 8 = 32 m. E: é o lado. As demais alternativas não resultam do cálculo."
   },
   {
     "id": "MAT-GEO-A3",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Uma caixa-d'água em forma de paralelepípedo mede 2 m de comprimento, 1,5 m de largura e 1 m de altura. Sua capacidade, em litros, é de",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Uma caixa-d'água em forma de paralelepípedo mede 2 m de comprimento, 1,5 m de largura e 1 m de altura. Sua capacidade, em litros, é de",
+    "choices": [
       "3.000.",
       "300.",
       "30.000.",
       "30.",
       "4.500."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. V = 2 × 1,5 × 1 = 3 m³, e como 1 m³ = 1.000 L, a capacidade é de 3.000 L. B, C e D: erram a conversão. E: calcula incorretamente o volume."
+    "answerKey": 0,
+    "explanation": "Correta: A. V = 2 × 1,5 × 1 = 3 m³, e como 1 m³ = 1.000 L, a capacidade é de 3.000 L. B, C e D: erram a conversão. E: calcula incorretamente o volume."
   },
   {
     "id": "MAT-GEO-A4",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Uma distância de 2,5 km equivale, em metros, a",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Uma distância de 2,5 km equivale, em metros, a",
+    "choices": [
       "25 m.",
       "250 m.",
       "25.000 m.",
       "2.500 m.",
       "0,25 m."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. 1 km = 1.000 m, então 2,5 × 1.000 = 2.500 m. As demais alternativas erram a posição da vírgula."
+    "answerKey": 3,
+    "explanation": "Correta: D. 1 km = 1.000 m, então 2,5 × 1.000 = 2.500 m. As demais alternativas erram a posição da vírgula."
   },
   {
     "id": "MAT-GEO-A5",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Um canteiro tem forma triangular, com base de 10 m e altura de 6 m. Sua área é de",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Um canteiro tem forma triangular, com base de 10 m e altura de 6 m. Sua área é de",
+    "choices": [
       "60 m².",
       "30 m².",
       "16 m².",
       "15 m².",
       "40 m²."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Área do triângulo = (10 × 6)/2 = 30 m². A: esquece de dividir por 2. C: soma base e altura. As demais alternativas não resultam do cálculo."
+    "answerKey": 1,
+    "explanation": "Correta: B. Área do triângulo = (10 × 6)/2 = 30 m². A: esquece de dividir por 2. C: soma base e altura. As demais alternativas não resultam do cálculo."
   },
   {
     "id": "MAT-GEO-A6",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Em um triângulo retângulo, os catetos medem 9 cm e 12 cm. A hipotenusa mede",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Em um triângulo retângulo, os catetos medem 9 cm e 12 cm. A hipotenusa mede",
+    "choices": [
       "15 cm.",
       "21 cm.",
       "18 cm.",
       "13 cm.",
       "10 cm."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. 9² + 12² = 81 + 144 = 225, e √225 = 15. B: soma os catetos. C: usa 2 × 9. D e E: não resultam do teorema (a terna é 9-12-15, múltipla de 3-4-5)."
+    "answerKey": 0,
+    "explanation": "Correta: A. 9² + 12² = 81 + 144 = 225, e √225 = 15. B: soma os catetos. C: usa 2 × 9. D e E: não resultam do teorema (a terna é 9-12-15, múltipla de 3-4-5)."
   },
   {
     "id": "MAT-GEO-A7",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Uma escada de 5 m está apoiada em uma parede, com o pé a 3 m da parede. A altura que a escada alcança na parede é",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Uma escada de 5 m está apoiada em uma parede, com o pé a 3 m da parede. A altura que a escada alcança na parede é",
+    "choices": [
       "4 m.",
       "2 m.",
       "8 m.",
       "5,8 m.",
       "3 m."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A escada é a hipotenusa: altura² = 5² − 3² = 25 − 9 = 16, logo altura = 4 m (terna 3-4-5). B: subtrai 5 − 3. C: soma 5 + 3. D: não resulta do cálculo."
+    "answerKey": 0,
+    "explanation": "Correta: A. A escada é a hipotenusa: altura² = 5² − 3² = 25 − 9 = 16, logo altura = 4 m (terna 3-4-5). B: subtrai 5 − 3. C: soma 5 + 3. D: não resulta do cálculo."
   },
   {
     "id": "MAT-GEO-A8",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Em um triângulo, dois ângulos internos medem 55° e 65°. O terceiro ângulo interno mede",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Em um triângulo, dois ângulos internos medem 55° e 65°. O terceiro ângulo interno mede",
+    "choices": [
       "60°.",
       "50°.",
       "70°.",
       "120°.",
       "180°."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A soma dos ângulos internos de um triângulo é 180°: 180 − 55 − 65 = 60°. D: é a soma dos dois ângulos dados. As demais não resultam do cálculo."
+    "answerKey": 0,
+    "explanation": "Correta: A. A soma dos ângulos internos de um triângulo é 180°: 180 − 55 − 65 = 60°. D: é a soma dos dois ângulos dados. As demais não resultam do cálculo."
   },
   {
     "id": "MAT-GEO-A9",
     "area": "matematica",
-    "topicoSlug": "medidas-geometria",
-    "origem": "autoral",
-    "enunciado": "Três retas paralelas cortam duas transversais. Em uma transversal, os segmentos determinados medem 6 cm e 9 cm. Na outra transversal, o primeiro segmento mede 10 cm. O segundo segmento mede",
-    "alternativas": [
+    "topicSlug": "medidas-geometria",
+    "origin": "authored",
+    "statement": "Três retas paralelas cortam duas transversais. Em uma transversal, os segmentos determinados medem 6 cm e 9 cm. Na outra transversal, o primeiro segmento mede 10 cm. O segundo segmento mede",
+    "choices": [
       "15 cm.",
       "12 cm.",
       "18 cm.",
       "13 cm.",
       "20 cm."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Pelo Teorema de Tales, 6/9 = 10/x, então x = 9 × 10 ÷ 6 = 15 cm. B: soma 6 + 6. C: dobra 9. D e E: não resultam da proporção."
+    "answerKey": 0,
+    "explanation": "Correta: A. Pelo Teorema de Tales, 6/9 = 10/x, então x = 9 × 10 ÷ 6 = 15 cm. B: soma 6 + 6. C: dobra 9. D e E: não resultam da proporção."
   }
 ]

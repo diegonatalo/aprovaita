@@ -2,113 +2,113 @@
   {
     "id": "PT-CLAS-A1",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "autoral",
-    "enunciado": "Na frase \"Mesmo com a chuva forte, todos os servidores chegaram ao horário\", a ideia expressa pelo trecho inicial pode ser reescrita com a conjunção",
-    "alternativas": [
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "authored",
+    "statement": "Na frase \"Mesmo com a chuva forte, todos os servidores chegaram ao horário\", a ideia expressa pelo trecho inicial pode ser reescrita com a conjunção",
+    "choices": [
       "porque.",
       "portanto.",
       "se.",
       "quando.",
       "embora."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. \"Mesmo com\" expressa concessão, como em \"Embora chovesse forte, todos chegaram ao horário\". A: indica causa. B: indica conclusão. C: indica condição. D: indica tempo."
+    "answerKey": 4,
+    "explanation": "Correta: E. \"Mesmo com\" expressa concessão, como em \"Embora chovesse forte, todos chegaram ao horário\". A: indica causa. B: indica conclusão. C: indica condição. D: indica tempo."
   },
   {
     "id": "PT-CLAS-A2",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "autoral",
-    "enunciado": "Preencha a lacuna com o pronome relativo adequado: \"O processo ____ tramitação você acompanha foi arquivado.\"",
-    "alternativas": [
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "authored",
+    "statement": "Preencha a lacuna com o pronome relativo adequado: \"O processo ____ tramitação você acompanha foi arquivado.\"",
+    "choices": [
       "que",
       "onde",
       "cuja",
       "o qual",
       "quem"
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O pronome \"cuja\" indica posse (a tramitação do processo) e concorda com o termo que vem depois, \"tramitação\". A, D e E: não expressam posse. B: \"onde\" indica lugar."
+    "answerKey": 2,
+    "explanation": "Correta: C. O pronome \"cuja\" indica posse (a tramitação do processo) e concorda com o termo que vem depois, \"tramitação\". A, D e E: não expressam posse. B: \"onde\" indica lugar."
   },
   {
     "id": "PT-CLAS-A3",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "autoral",
-    "enunciado": "Preencha a lacuna: \"Quando a diretoria ____, o processo será analisado.\"",
-    "alternativas": [
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "authored",
+    "statement": "Preencha a lacuna: \"Quando a diretoria ____, o processo será analisado.\"",
+    "choices": [
       "retornou",
       "retornar",
       "retornaria",
       "retornava",
       "retornado"
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Após \"quando\", em referência a fato futuro, usa-se o futuro do subjuntivo (\"retornar\"). A: pretérito, incoerente com \"será analisado\". C e D: tempos que não expressam o futuro hipotético. E: particípio, não flexiona como verbo principal."
+    "answerKey": 1,
+    "explanation": "Correta: B. Após \"quando\", em referência a fato futuro, usa-se o futuro do subjuntivo (\"retornar\"). A: pretérito, incoerente com \"será analisado\". C e D: tempos que não expressam o futuro hipotético. E: particípio, não flexiona como verbo principal."
   },
   {
     "id": "PT-CLAS-A4",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "autoral",
-    "enunciado": "Em \"Estudou muito, mas não foi aprovado.\", a conjunção \"mas\" estabelece uma relação de",
-    "alternativas": [
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "authored",
+    "statement": "Em \"Estudou muito, mas não foi aprovado.\", a conjunção \"mas\" estabelece uma relação de",
+    "choices": [
       "oposição (adversativa).",
       "adição.",
       "causa.",
       "conclusão.",
       "finalidade."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. \"Mas\" é conjunção coordenativa adversativa e opõe estudar muito e não ser aprovado. B: adição seria \"e\". C: causa seria \"porque\". D: conclusão seria \"logo\" ou \"portanto\". E: finalidade seria \"para que\"."
+    "answerKey": 0,
+    "explanation": "Correta: A. \"Mas\" é conjunção coordenativa adversativa e opõe estudar muito e não ser aprovado. B: adição seria \"e\". C: causa seria \"porque\". D: conclusão seria \"logo\" ou \"portanto\". E: finalidade seria \"para que\"."
   },
   {
     "id": "PT-CLAS-A5",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "autoral",
-    "enunciado": "Em \"Os servidores ficaram muito satisfeitos com o resultado\", a palavra \"muito\" é classificada como",
-    "alternativas": [
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "authored",
+    "statement": "Em \"Os servidores ficaram muito satisfeitos com o resultado\", a palavra \"muito\" é classificada como",
+    "choices": [
       "substantivo.",
       "adjetivo.",
       "pronome indefinido.",
       "advérbio de intensidade.",
       "conjunção."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. \"Muito\" modifica o adjetivo \"satisfeitos\", intensificando-o; é advérbio de intensidade e não varia. A, B, C e E: não descrevem a função da palavra na frase. O pronome indefinido apareceria, por exemplo, em \"muitos servidores\"."
+    "answerKey": 3,
+    "explanation": "Correta: D. \"Muito\" modifica o adjetivo \"satisfeitos\", intensificando-o; é advérbio de intensidade e não varia. A, B, C e E: não descrevem a função da palavra na frase. O pronome indefinido apareceria, por exemplo, em \"muitos servidores\"."
   },
   {
     "id": "PT-CLAS-A6",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "autoral",
-    "enunciado": "Na frase “Os dois servidores assinaram o primeiro termo”, as palavras “dois” e “primeiro” são, respectivamente,",
-    "alternativas": [
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "authored",
+    "statement": "Na frase “Os dois servidores assinaram o primeiro termo”, as palavras “dois” e “primeiro” são, respectivamente,",
+    "choices": [
       "numeral cardinal e numeral ordinal.",
       "artigo indefinido e numeral ordinal.",
       "numeral ordinal e numeral cardinal.",
       "artigo indefinido e numeral cardinal.",
       "artigo definido e numeral cardinal."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Dois” indica quantidade (cardinal) e “primeiro” indica ordem (ordinal). B e D: “dois” não é artigo, pois indica quantidade. C: inverte as classificações. E: “dois” não é artigo definido; os artigos definidos são o, a, os, as."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Dois” indica quantidade (cardinal) e “primeiro” indica ordem (ordinal). B e D: “dois” não é artigo, pois indica quantidade. C: inverte as classificações. E: “dois” não é artigo definido; os artigos definidos são o, a, os, as."
   },
   {
     "id": "PT-CLAS-A7",
     "area": "portugues",
-    "topicoSlug": "classes-palavras-conjuncoes",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que a palavra “um” funciona como numeral, e não como artigo indefinido.",
-    "alternativas": [
+    "topicSlug": "classes-palavras-conjuncoes",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que a palavra “um” funciona como numeral, e não como artigo indefinido.",
+    "choices": [
       "Não restou um só documento sem assinatura.",
       "Ele é um funcionário dedicado.",
       "Li um artigo sobre o tema.",
       "Apresentou um projeto interessante.",
       "Passou por aqui um senhor de chapéu."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Em “um só documento”, “um” enfatiza a quantidade (nenhum sequer), valor de numeral. Nas demais, “um” apenas apresenta um substantivo de forma indefinida, sem destacar quantidade: artigo indefinido."
+    "answerKey": 0,
+    "explanation": "Correta: A. Em “um só documento”, “um” enfatiza a quantidade (nenhum sequer), valor de numeral. Nas demais, “um” apenas apresenta um substantivo de forma indefinida, sem destacar quantidade: artigo indefinido."
   }
 ]

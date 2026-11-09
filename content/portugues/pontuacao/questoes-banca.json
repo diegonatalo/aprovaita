@@ -2,47 +2,47 @@
   {
     "id": "B-PAUL-09",
     "area": "portugues",
-    "topicoSlug": "pontuacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 9,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "pontuacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 9,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Assinale a alternativa em que o acréscimo de vírgula(s) ao trecho original respeita a norma-padrão de emprego deste sinal de pontuação.",
-    "alternativas": [
+    "statement": "Assinale a alternativa em que o acréscimo de vírgula(s) ao trecho original respeita a norma-padrão de emprego deste sinal de pontuação.",
+    "choices": [
       "“Eu fiquei em silêncio, aguardando que ela me revelasse os sinais da sua loucura.” (1º parágrafo)",
       "“… eu fui para a cozinha para fazer aquilo, que já fizera, centenas de vezes: cortar cebolas.” (1º parágrafo)",
       "“… tive a impressão, de estar vendo a rosácea de um vitral de catedral gótica.” (1º parágrafo)",
       "“Essa perturbação ocular que a acometeu é, comum, entre os poetas.” (2º parágrafo)",
       "“Nietzsche sabia disso e afirmou que, a primeira tarefa da educação é ensinar a ver.” (4º parágrafo)"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A oração reduzida de gerúndio (“aguardando...”) vem separada por vírgula. B: separa pronome relativo do verbo e isola o adjunto “centenas de vezes” sem necessidade. C: separa “impressão” do seu complemento nominal “de estar...”. D: isola o predicativo “comum” e separa verbo do complemento. E: separa a conjunção integrante “que” do sujeito da oração."
+    "answerKey": 0,
+    "explanation": "Correta: A. A oração reduzida de gerúndio (“aguardando...”) vem separada por vírgula. B: separa pronome relativo do verbo e isola o adjunto “centenas de vezes” sem necessidade. C: separa “impressão” do seu complemento nominal “de estar...”. D: isola o predicativo “comum” e separa verbo do complemento. E: separa a conjunção integrante “que” do sujeito da oração."
   },
   {
     "id": "B-SJRP-12",
     "area": "portugues",
-    "topicoSlug": "pontuacao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 12,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "pontuacao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 12,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No trecho do 3º parágrafo “... ultrapassava 2 mil calorias por pessoa (média que inclui crianças e idosos).”, os parênteses foram empregados para apresentar",
-    "alternativas": [
+    "statement": "No trecho do 3º parágrafo “... ultrapassava 2 mil calorias por pessoa (média que inclui crianças e idosos).”, os parênteses foram empregados para apresentar",
+    "choices": [
       "um comentário irônico.",
       "uma opinião pessoal.",
       "um dado equivocado.",
       "uma reflexão negativa.",
       "uma informação acessória."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Os parênteses isolam um esclarecimento que complementa o dado (a média inclui crianças e idosos), mas não é essencial à frase: informação acessória. Não há ironia, opinião, erro ou reflexão negativa no trecho."
+    "answerKey": 4,
+    "explanation": "Correta: E. Os parênteses isolam um esclarecimento que complementa o dado (a média inclui crianças e idosos), mas não é essencial à frase: informação acessória. Não há ironia, opinião, erro ou reflexão negativa no trecho."
   }
 ]

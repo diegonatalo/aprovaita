@@ -3,24 +3,24 @@
     "id": "B-SJRP-32",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "principios-administracao-publica",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 32,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "principios-administracao-publica",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 32,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A Constituição Federal brasileira de 1988 traz diversos princípios explícitos e implícitos. O princípio explícito da Administração Pública mais recentemente introduzido à Carta Magna diz respeito ao princípio da",
-    "alternativas": [
+    "statement": "A Constituição Federal brasileira de 1988 traz diversos princípios explícitos e implícitos. O princípio explícito da Administração Pública mais recentemente introduzido à Carta Magna diz respeito ao princípio da",
+    "choices": [
       "publicidade.",
       "legalidade.",
       "impessoalidade.",
       "moralidade.",
       "eficiência."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O art. 37, caput, trazia originalmente legalidade, impessoalidade, moralidade e publicidade (LIMP). A eficiência foi incluída pela Emenda Constitucional 19/1998."
+    "answerKey": 4,
+    "explanation": "Correta: E. O art. 37, caput, trazia originalmente legalidade, impessoalidade, moralidade e publicidade (LIMP). A eficiência foi incluída pela Emenda Constitucional 19/1998."
   }
 ]

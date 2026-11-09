@@ -2,113 +2,113 @@
   {
     "id": "PT-REG-A1",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "autoral",
-    "enunciado": "Preencha a lacuna: \"Fomos ____ Câmara Municipal entregar o ofício.\"",
-    "alternativas": [
+    "topicSlug": "regencia-crase",
+    "origin": "authored",
+    "statement": "Preencha a lacuna: \"Fomos ____ Câmara Municipal entregar o ofício.\"",
+    "choices": [
       "a",
       "as",
       "à",
       "há",
       "á"
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O verbo \"ir\" exige a preposição \"a\", e \"Câmara\" é feminino e aceita artigo (teste: \"Fomos ao Fórum\"). A: faltaria o artigo. B: plural. D: forma verbal de \"haver\". E: não existe grafia com esse acento."
+    "answerKey": 2,
+    "explanation": "Correta: C. O verbo \"ir\" exige a preposição \"a\", e \"Câmara\" é feminino e aceita artigo (teste: \"Fomos ao Fórum\"). A: faltaria o artigo. B: plural. D: forma verbal de \"haver\". E: não existe grafia com esse acento."
   },
   {
     "id": "PT-REG-A2",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que o emprego da crase está correto.",
-    "alternativas": [
+    "topicSlug": "regencia-crase",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que o emprego da crase está correto.",
+    "choices": [
       "Ela começou à escrever o ofício.",
       "Entregue o documento à diretora.",
       "Voltamos à pé para casa.",
       "Refiro-me à ela no relatório.",
       "Ficaram frente à frente na reunião."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. \"Entregue o documento à diretora\": a preposição \"a\" de \"entregar a alguém\" funde-se com o artigo de \"diretora\". A: crase não ocorre antes de verbo. C: antes de palavra masculina. D: antes de pronome pessoal. E: entre palavras repetidas."
+    "answerKey": 1,
+    "explanation": "Correta: B. \"Entregue o documento à diretora\": a preposição \"a\" de \"entregar a alguém\" funde-se com o artigo de \"diretora\". A: crase não ocorre antes de verbo. C: antes de palavra masculina. D: antes de pronome pessoal. E: entre palavras repetidas."
   },
   {
     "id": "PT-REG-A3",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
-    "alternativas": [
+    "topicSlug": "regencia-crase",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que a regência verbal está de acordo com a norma-padrão.",
+    "choices": [
       "O servidor obedeceu as normas.",
       "Prefiro estudar do que dormir.",
       "O documento que me referi está arquivado.",
       "Chegou no escritório às oito horas.",
       "O servidor aspira ao cargo de chefia."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E, pois \"aspirar\" no sentido de desejar exige a preposição \"a\". A: o certo é \"obedeceu às normas\". B: o certo é \"prefiro estudar a dormir\". C: o certo é \"o documento a que me referi\". D: o certo é \"chegou ao escritório\"."
+    "answerKey": 4,
+    "explanation": "Correta: E, pois \"aspirar\" no sentido de desejar exige a preposição \"a\". A: o certo é \"obedeceu às normas\". B: o certo é \"prefiro estudar a dormir\". C: o certo é \"o documento a que me referi\". D: o certo é \"chegou ao escritório\"."
   },
   {
     "id": "PT-REG-A4",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "autoral",
-    "enunciado": "Preencha a lacuna: \"O documento ____ me referi está arquivado.\"",
-    "alternativas": [
+    "topicSlug": "regencia-crase",
+    "origin": "authored",
+    "statement": "Preencha a lacuna: \"O documento ____ me referi está arquivado.\"",
+    "choices": [
       "ao qual",
       "o qual",
       "que",
       "cujo",
       "onde"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O verbo \"referir-se\" exige a preposição \"a\", que acompanha o pronome relativo: \"ao qual\". B e C: não trazem a preposição. D: indica posse. E: indica lugar."
+    "answerKey": 0,
+    "explanation": "Correta: A. O verbo \"referir-se\" exige a preposição \"a\", que acompanha o pronome relativo: \"ao qual\". B e C: não trazem a preposição. D: indica posse. E: indica lugar."
   },
   {
     "id": "PT-REG-A5",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "autoral",
-    "enunciado": "Preencha a lacuna: \"Estamos ____ espera de uma resposta do setor jurídico.\"",
-    "alternativas": [
+    "topicSlug": "regencia-crase",
+    "origin": "authored",
+    "statement": "Preencha a lacuna: \"Estamos ____ espera de uma resposta do setor jurídico.\"",
+    "choices": [
       "a",
       "as",
       "há",
       "à",
       "á"
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. \"À espera de\" é locução prepositiva feminina, em que ocorre crase. A: sem crase não há o artigo. B: plural. C: forma de \"haver\". E: não existe grafia com esse acento."
+    "answerKey": 3,
+    "explanation": "Correta: D. \"À espera de\" é locução prepositiva feminina, em que ocorre crase. A: sem crase não há o artigo. B: plural. C: forma de \"haver\". E: não existe grafia com esse acento."
   },
   {
     "id": "PT-REG-A6",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que a regência nominal está de acordo com a norma-padrão.",
-    "alternativas": [
+    "topicSlug": "regencia-crase",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que a regência nominal está de acordo com a norma-padrão.",
+    "choices": [
       "O servidor tem acesso aos documentos do processo.",
       "O servidor tem acesso dos documentos do processo.",
       "A população tem aversão com a burocracia.",
       "Ele é ávido a novidades tecnológicas.",
       "Há muita necessidade em pessoal no setor."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Acesso” pede “a” (acesso aos documentos). B: “acesso de” está errado. C: “aversão” pede “a” (ou “por”, “para com”), e não “com”. D: “ávido” pede “de” (ávido de/por novidades). E: “necessidade” pede “de” (necessidade de pessoal)."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Acesso” pede “a” (acesso aos documentos). B: “acesso de” está errado. C: “aversão” pede “a” (ou “por”, “para com”), e não “com”. D: “ávido” pede “de” (ávido de/por novidades). E: “necessidade” pede “de” (necessidade de pessoal)."
   },
   {
     "id": "PT-REG-A7",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa que completa corretamente a frase: “Os servidores demonstraram obediência _____ normas e respeito _____ cidadão.”",
-    "alternativas": [
+    "topicSlug": "regencia-crase",
+    "origin": "authored",
+    "statement": "Assinale a alternativa que completa corretamente a frase: “Os servidores demonstraram obediência _____ normas e respeito _____ cidadão.”",
+    "choices": [
       "às … ao",
       "as … ao",
       "às … do",
       "das … ao",
       "as … do"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Obediência” pede “a”, que se junta ao artigo de “normas” (às normas); “respeito” pede “a”, que se junta ao “o” de “cidadão” (ao cidadão). As demais usam a preposição errada ou omitem a crase."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Obediência” pede “a”, que se junta ao artigo de “normas” (às normas); “respeito” pede “a”, que se junta ao “o” de “cidadão” (ao cidadão). As demais usam a preposição errada ou omitem a crase."
   }
 ]

@@ -3,85 +3,85 @@
     "id": "AG-DEC-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "autoral",
-    "enunciado": "Em um órgão público, a concessão de férias a servidores segue uma norma que define prazos, critérios e formulários, e é decidida sempre do mesmo modo. Essa é uma decisão",
-    "alternativas": [
+    "topicSlug": "processo-decisorio",
+    "origin": "authored",
+    "statement": "Em um órgão público, a concessão de férias a servidores segue uma norma que define prazos, critérios e formulários, e é decidida sempre do mesmo modo. Essa é uma decisão",
+    "choices": [
       "não programada.",
       "programada.",
       "estratégica, por definição.",
       "baseada em incerteza total.",
       "intuitiva, por não ter critérios."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Decisões programadas são rotineiras, repetitivas e regidas por regras e procedimentos definidos. A: não programadas são inéditas e pouco estruturadas. C: o caráter estratégico depende do nível e do impacto, e não da rotina. D e E: há critérios claros e baixa incerteza."
+    "answerKey": 1,
+    "explanation": "Correta: B. Decisões programadas são rotineiras, repetitivas e regidas por regras e procedimentos definidos. A: não programadas são inéditas e pouco estruturadas. C: o caráter estratégico depende do nível e do impacto, e não da rotina. D e E: há critérios claros e baixa incerteza."
   },
   {
     "id": "AG-DEC-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "autoral",
-    "enunciado": "Segundo o conceito de racionalidade limitada, de Herbert Simon, os administradores, ao decidir, tendem a",
-    "alternativas": [
+    "topicSlug": "processo-decisorio",
+    "origin": "authored",
+    "statement": "Segundo o conceito de racionalidade limitada, de Herbert Simon, os administradores, ao decidir, tendem a",
+    "choices": [
       "dispor de todas as informações e escolher sempre a solução ótima.",
       "escolher aleatoriamente, sem qualquer critério.",
       "buscar uma solução satisfatória, pois têm informação, tempo e capacidade de análise limitados.",
       "delegar todas as decisões aos subordinados.",
       "decidir apenas por regras prontas, sem julgamento."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Para Simon, o decisor opera com informação incompleta e limites cognitivos e de tempo, e por isso busca uma solução satisfatória, e não a ótima. A: é a ideia do modelo racional clássico. B: a escolha não é aleatória. D e E: não são o conteúdo da teoria."
+    "answerKey": 2,
+    "explanation": "Correta: C. Para Simon, o decisor opera com informação incompleta e limites cognitivos e de tempo, e por isso busca uma solução satisfatória, e não a ótima. A: é a ideia do modelo racional clássico. B: a escolha não é aleatória. D e E: não são o conteúdo da teoria."
   },
   {
     "id": "AG-DEC-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "autoral",
-    "enunciado": "Uma chefia precisa ordenar vários problemas do setor para decidir qual resolver primeiro, atribuindo notas à gravidade de cada um, à urgência de solução e à tendência de piora caso nada seja feito. A ferramenta utilizada é a matriz",
-    "alternativas": [
+    "topicSlug": "processo-decisorio",
+    "origin": "authored",
+    "statement": "Uma chefia precisa ordenar vários problemas do setor para decidir qual resolver primeiro, atribuindo notas à gravidade de cada um, à urgência de solução e à tendência de piora caso nada seja feito. A ferramenta utilizada é a matriz",
+    "choices": [
       "SWOT.",
       "de Eisenhower.",
       "BCG.",
       "de Ansoff.",
       "GUT."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A matriz GUT prioriza problemas segundo Gravidade, Urgência e Tendência. A: SWOT diagnostica forças, fraquezas, oportunidades e ameaças. B: Eisenhower cruza urgência e importância. C e D: BCG e Ansoff tratam de portfólio e crescimento de negócios."
+    "answerKey": 4,
+    "explanation": "Correta: E. A matriz GUT prioriza problemas segundo Gravidade, Urgência e Tendência. A: SWOT diagnostica forças, fraquezas, oportunidades e ameaças. B: Eisenhower cruza urgência e importância. C e D: BCG e Ansoff tratam de portfólio e crescimento de negócios."
   },
   {
     "id": "AG-DEC-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "autoral",
-    "enunciado": "Uma equipe constatou que 80% das reclamações de usuários do órgão decorriam de apenas duas causas, entre as dez levantadas. Para representar graficamente essa concentração e priorizar as ações, a ferramenta mais adequada é o diagrama de",
-    "alternativas": [
+    "topicSlug": "processo-decisorio",
+    "origin": "authored",
+    "statement": "Uma equipe constatou que 80% das reclamações de usuários do órgão decorriam de apenas duas causas, entre as dez levantadas. Para representar graficamente essa concentração e priorizar as ações, a ferramenta mais adequada é o diagrama de",
+    "choices": [
       "Ishikawa.",
       "dispersão.",
       "Pareto.",
       "afinidade.",
       "Gantt."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O diagrama de Pareto ordena as causas por frequência e mostra que poucas respondem pela maior parte dos efeitos, apoiando a priorização. A: Ishikawa organiza causas e efeito, sem medir a concentração. B: dispersão mostra a relação entre duas variáveis. D: afinidade agrupa ideias. E: Gantt mostra cronograma."
+    "answerKey": 2,
+    "explanation": "Correta: C. O diagrama de Pareto ordena as causas por frequência e mostra que poucas respondem pela maior parte dos efeitos, apoiando a priorização. A: Ishikawa organiza causas e efeito, sem medir a concentração. B: dispersão mostra a relação entre duas variáveis. D: afinidade agrupa ideias. E: Gantt mostra cronograma."
   },
   {
     "id": "AG-DEC-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "autoral",
-    "enunciado": "Em uma reunião de brainstorming, a coordenadora pediu que cada servidor apresentasse livremente ideias para reduzir filas, sem críticas ou julgamentos naquele momento. O objetivo dessa fase é",
-    "alternativas": [
+    "topicSlug": "processo-decisorio",
+    "origin": "authored",
+    "statement": "Em uma reunião de brainstorming, a coordenadora pediu que cada servidor apresentasse livremente ideias para reduzir filas, sem críticas ou julgamentos naquele momento. O objetivo dessa fase é",
+    "choices": [
       "avaliar e descartar as ideias inviáveis.",
       "votar na melhor ideia.",
       "gerar o maior número possível de ideias.",
       "definir o responsável pela execução.",
       "calcular o custo de cada ideia."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Na fase de geração do brainstorming, o objetivo é produzir muitas ideias, sem críticas, para estimular a criatividade. A, B, D e E: são etapas posteriores, de avaliação, escolha e planejamento."
+    "answerKey": 2,
+    "explanation": "Correta: C. Na fase de geração do brainstorming, o objetivo é produzir muitas ideias, sem críticas, para estimular a criatividade. A, B, D e E: são etapas posteriores, de avaliação, escolha e planejamento."
   }
 ]

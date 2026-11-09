@@ -3,192 +3,192 @@
     "id": "B-TREM-21",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 21,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 21,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Há três anos, a prefeitura de uma cidade do interior planejou a construção de quatro postos de saúde, estabelecendo um valor para a obra. Os postos já foram entregues, mas dois deles, por falta de planejamento orçamentário, apresentaram custos superiores ao previsto.\n\nConsiderando os conceitos de eficiência, eficácia e efetividade, é correto afirmar que o resultado da presente situação hipotética mostrou-se",
-    "alternativas": [
+    "statement": "Há três anos, a prefeitura de uma cidade do interior planejou a construção de quatro postos de saúde, estabelecendo um valor para a obra. Os postos já foram entregues, mas dois deles, por falta de planejamento orçamentário, apresentaram custos superiores ao previsto.\n\nConsiderando os conceitos de eficiência, eficácia e efetividade, é correto afirmar que o resultado da presente situação hipotética mostrou-se",
+    "choices": [
       "efetivo e eficaz.",
       "efetivo e eficiente.",
       "eficiente, mas ineficaz.",
       "eficaz, mas ineficiente.",
       "eficiente e eficaz."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Eficácia é atingir o resultado previsto: os quatro postos foram entregues. Eficiência é usar bem os recursos: dois postos custaram mais que o previsto. Logo, eficaz, mas ineficiente. A informação dada não permite afirmar efetividade (impacto social), e “eficiente” fica descartada pelo estouro de custos."
+    "answerKey": 3,
+    "explanation": "Correta: D. Eficácia é atingir o resultado previsto: os quatro postos foram entregues. Eficiência é usar bem os recursos: dois postos custaram mais que o previsto. Logo, eficaz, mas ineficiente. A informação dada não permite afirmar efetividade (impacto social), e “eficiente” fica descartada pelo estouro de custos."
   },
   {
     "id": "B-TREM-29",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 29,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 29,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Os indicadores de desempenho são medidas estruturadas que permitem acompanhar, de forma objetiva, se as estratégias e ações adotadas por uma organização estão gerando os resultados esperados. O indicador de desempenho que permite avaliar a relação entre o que foi produzido e os insumos utilizados é o de",
-    "alternativas": [
+    "statement": "Os indicadores de desempenho são medidas estruturadas que permitem acompanhar, de forma objetiva, se as estratégias e ações adotadas por uma organização estão gerando os resultados esperados. O indicador de desempenho que permite avaliar a relação entre o que foi produzido e os insumos utilizados é o de",
+    "choices": [
       "lucratividade.",
       "qualidade.",
       "produtividade.",
       "capacidade.",
       "estratégia."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Produtividade é a relação entre o que se produz (saídas) e os recursos usados (insumos). Lucratividade mede resultado financeiro, qualidade mede conformidade e capacidade mede o máximo que se pode produzir."
+    "answerKey": 2,
+    "explanation": "Correta: C. Produtividade é a relação entre o que se produz (saídas) e os recursos usados (insumos). Lucratividade mede resultado financeiro, qualidade mede conformidade e capacidade mede o máximo que se pode produzir."
   },
   {
     "id": "B-TREM-30",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 30,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 30,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O Balanced Scorecard (BSC) adota quatro perspectivas interligadas em uma relação de causa e efeito com a missão, a visão e a estratégia da organização. Uma dessas perspectivas, os processos internos, refere-se",
-    "alternativas": [
+    "statement": "O Balanced Scorecard (BSC) adota quatro perspectivas interligadas em uma relação de causa e efeito com a missão, a visão e a estratégia da organização. Uma dessas perspectivas, os processos internos, refere-se",
+    "choices": [
       "à capacitação da organização por meio dos investimentos em novos equipamentos, em pesquisa, em sistemas e nos recursos humanos da organização.",
       "ao monitoramento a partir de resultados financeiros concretos e objetivos que permitem que a organização avalie o seu desempenho.",
       "à mensuração dos processos voltados à satisfação dos colaboradores e à gestão das competências que compõem o sistema de governança.",
       "à tradução em medidas específicas dos fatos importantes para os clientes, referentes aos processos que geram a satisfação e a fidelização.",
       "à identificação dos processos críticos – finalísticos, de apoio e de gestão – visando atender aos objetivos dos clientes e os financeiros."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A perspectiva dos processos internos identifica os processos críticos (finalísticos, de apoio e de gestão) que precisam ser excelentes para atender aos clientes e aos objetivos financeiros. A: descreve aprendizado e crescimento. B: financeira. D: clientes. C: mistura aprendizado e crescimento com governança."
+    "answerKey": 4,
+    "explanation": "Correta: E. A perspectiva dos processos internos identifica os processos críticos (finalísticos, de apoio e de gestão) que precisam ser excelentes para atender aos clientes e aos objetivos financeiros. A: descreve aprendizado e crescimento. B: financeira. D: clientes. C: mistura aprendizado e crescimento com governança."
   },
   {
     "id": "B-PAUL-23",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 23,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 23,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Certa prefeitura irá implementar um programa de desenvolvimento de lideranças com o objetivo de que os servidores efetivos venham a ocupar cargos em comissão e funções em confiança de direção e chefia.\n\nUtilizando-se do Balanced Scorecard (BSC), essa iniciativa se insere na perspectiva",
-    "alternativas": [
+    "statement": "Certa prefeitura irá implementar um programa de desenvolvimento de lideranças com o objetivo de que os servidores efetivos venham a ocupar cargos em comissão e funções em confiança de direção e chefia.\n\nUtilizando-se do Balanced Scorecard (BSC), essa iniciativa se insere na perspectiva",
+    "choices": [
       "das forças e fraquezas.",
       "do cliente.",
       "financeira.",
       "do aprendizado e crescimento.",
       "dos processos internos."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Desenvolver lideranças é investir em pessoas e competências, o foco da perspectiva de aprendizado e crescimento. “Forças e fraquezas” (A) são da análise SWOT, não do BSC, que tem as perspectivas financeira, do cliente, dos processos internos e de aprendizado e crescimento."
+    "answerKey": 3,
+    "explanation": "Correta: D. Desenvolver lideranças é investir em pessoas e competências, o foco da perspectiva de aprendizado e crescimento. “Forças e fraquezas” (A) são da análise SWOT, não do BSC, que tem as perspectivas financeira, do cliente, dos processos internos e de aprendizado e crescimento."
   },
   {
     "id": "B-PAUL-24",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 24,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 24,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No plano plurianual (PPA) municipal, uma das metas consideradas estratégicas diz respeito à entrega de três escolas públicas ao custo de R$ 5 milhões cada. Durante a avaliação desse PPA, verificou-se que foi entregue uma escola ao custo de R$ 5,5 milhões.\n\nEntão, para essa meta, os indicadores de desempenho demonstraram, com relação à entrega e ao custo, respectivamente,",
-    "alternativas": [
+    "statement": "No plano plurianual (PPA) municipal, uma das metas consideradas estratégicas diz respeito à entrega de três escolas públicas ao custo de R$ 5 milhões cada. Durante a avaliação desse PPA, verificou-se que foi entregue uma escola ao custo de R$ 5,5 milhões.\n\nEntão, para essa meta, os indicadores de desempenho demonstraram, com relação à entrega e ao custo, respectivamente,",
+    "choices": [
       "ineficácia e ineficiência.",
       "ineficiência e ineficácia.",
       "ineficácia e inefetividade.",
       "ineficiência e ineficiência.",
       "ineficácia e inefetividade."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Quanto à entrega, foi entregue 1 escola das 3 previstas: a meta não foi atingida, o que é ineficácia. Quanto ao custo, gastou-se R$ 5,5 milhões por escola contra R$ 5 milhões previstos: uso inadequado de recursos, ou seja, ineficiência."
+    "answerKey": 0,
+    "explanation": "Correta: A. Quanto à entrega, foi entregue 1 escola das 3 previstas: a meta não foi atingida, o que é ineficácia. Quanto ao custo, gastou-se R$ 5,5 milhões por escola contra R$ 5 milhões previstos: uso inadequado de recursos, ou seja, ineficiência."
   },
   {
     "id": "B-VAAL-27",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 27,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 27,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O balanced scorecard (BSC), desenvolvido na década de 1990 por Robert Kaplan e David Norton, busca contribuir no alinhamento entre estratégia e atividades operacionais para que os objetivos estratégicos de uma organização sejam alcançados e é composto por perspectivas. Ao utilizar o BSC, seja no setor público ou no setor privado, a avaliação de como os recursos e o capital humano estão sendo utilizados na organização insere-se na perspectiva",
-    "alternativas": [
+    "statement": "O balanced scorecard (BSC), desenvolvido na década de 1990 por Robert Kaplan e David Norton, busca contribuir no alinhamento entre estratégia e atividades operacionais para que os objetivos estratégicos de uma organização sejam alcançados e é composto por perspectivas. Ao utilizar o BSC, seja no setor público ou no setor privado, a avaliação de como os recursos e o capital humano estão sendo utilizados na organização insere-se na perspectiva",
+    "choices": [
       "dos clientes ou cidadãos.",
       "financeira.",
       "de aprendizagem e crescimento.",
       "de processos internos.",
       "de processos externos."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A perspectiva de aprendizagem e crescimento trata da capacitação das pessoas, dos sistemas e da infraestrutura que sustentam a estratégia. “Processos externos” (E) não é perspectiva do BSC, que tem financeira, clientes, processos internos e aprendizagem e crescimento."
+    "answerKey": 2,
+    "explanation": "Correta: C. A perspectiva de aprendizagem e crescimento trata da capacitação das pessoas, dos sistemas e da infraestrutura que sustentam a estratégia. “Processos externos” (E) não é perspectiva do BSC, que tem financeira, clientes, processos internos e aprendizagem e crescimento."
   },
   {
     "id": "B-VAAL-28",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 28,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 28,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Um agente administrativo lotado no setor de compras de determinado órgão público atua em seu dia a dia de forma a (i) reduzir perdas e desperdícios e (ii) obedecer a prazos e cumprir metas, correspondendo, respectivamente, aos indicadores de desempenho:",
-    "alternativas": [
+    "statement": "Um agente administrativo lotado no setor de compras de determinado órgão público atua em seu dia a dia de forma a (i) reduzir perdas e desperdícios e (ii) obedecer a prazos e cumprir metas, correspondendo, respectivamente, aos indicadores de desempenho:",
+    "choices": [
       "(i) eficiência e (ii) eficácia.",
       "(i) eficácia e (ii) efetividade.",
       "(i) efetividade e (ii) eficiência.",
       "(i) efetividade e (ii) eficácia.",
       "(i) eficácia e (ii) eficiência."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Reduzir perdas e desperdícios é usar bem os recursos: eficiência. Cumprir prazos e metas é alcançar o resultado planejado: eficácia. Efetividade é o impacto ou a mudança que a ação provoca na realidade."
+    "answerKey": 0,
+    "explanation": "Correta: A. Reduzir perdas e desperdícios é usar bem os recursos: eficiência. Cumprir prazos e metas é alcançar o resultado planejado: eficácia. Efetividade é o impacto ou a mudança que a ação provoca na realidade."
   },
   {
     "id": "B-VAAL-43",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "controle-indicadores",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 43,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "controle-indicadores",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 43,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "As ações de controle interno de uma organização são fundamentais para a legalidade, legitimidade e eficiência dos atos administrativos. Na perspectiva do controle interno, na área de suprimentos da prefeitura, os serviços relativos a compras, recebimento, estocagem, distribuição, registro e inventário das mercadorias podem ser fiscalizadas por",
-    "alternativas": [
+    "statement": "As ações de controle interno de uma organização são fundamentais para a legalidade, legitimidade e eficiência dos atos administrativos. Na perspectiva do controle interno, na área de suprimentos da prefeitura, os serviços relativos a compras, recebimento, estocagem, distribuição, registro e inventário das mercadorias podem ser fiscalizadas por",
+    "choices": [
       "vereadores da câmara municipal.",
       "auditores dos tribunais de contas.",
       "servidores de carreira designados para esta função específica.",
       "chefia imediata exclusivamente.",
       "procuradores do Ministério Público."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O controle interno é exercido por órgãos e servidores da própria organização, designados para essa função. Vereadores e tribunais de contas fazem controle externo (A, B); o Ministério Público também atua externamente (E); e D é restritiva demais (“exclusivamente”)."
+    "answerKey": 2,
+    "explanation": "Correta: C. O controle interno é exercido por órgãos e servidores da própria organização, designados para essa função. Vereadores e tribunais de contas fazem controle externo (A, B); o Ministério Público também atua externamente (E); e D é restritiva demais (“exclusivamente”)."
   }
 ]

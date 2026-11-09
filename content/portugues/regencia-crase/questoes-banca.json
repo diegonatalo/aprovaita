@@ -2,231 +2,231 @@
   {
     "id": "B-TREM-09",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 9,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 9,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Assinale a alternativa que apresenta trecho do texto reescrito em conformidade com a norma-padrão de regência verbal.",
-    "alternativas": [
+    "statement": "Assinale a alternativa que apresenta trecho do texto reescrito em conformidade com a norma-padrão de regência verbal.",
+    "choices": [
       "... é preciso chamar ao garçom para decifrar enigmas culinários...",
       "Sim, chegamos na era do salgadinho que demanda de apresentação.",
       "Mas me conceda a um tempo para me adaptar.",
       "Na roda, um convidado mais ousado inventou de mastigá-lo...",
       "Na minha infância belo-horizontina não se contava de shitake nos alimentos..."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D (gabarito oficial). “Inventar de + infinitivo” é a construção aceita pela banca; as demais têm erro claro. A: chamar é transitivo direto (“chamar o garçom”). B: chegar pede “a” (“chegamos à era”) e demandar é transitivo direto (“demanda apresentação”). C: conceder é transitivo direto (“conceda um tempo”). E: o sentido é “havia”/“dispunha”, sem “de” (“não se contava com shitake” ou “não havia shitake”)."
+    "answerKey": 3,
+    "explanation": "Correta: D (gabarito oficial). “Inventar de + infinitivo” é a construção aceita pela banca; as demais têm erro claro. A: chamar é transitivo direto (“chamar o garçom”). B: chegar pede “a” (“chegamos à era”) e demandar é transitivo direto (“demanda apresentação”). C: conceder é transitivo direto (“conceda um tempo”). E: o sentido é “havia”/“dispunha”, sem “de” (“não se contava com shitake” ou “não havia shitake”)."
   },
   {
     "id": "B-TREM-10",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 10,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 10,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Assinale a alternativa que completa, correta e respectivamente, as lacunas do texto.\n\nO narrador foi _____ uma festa em que foram servidos salgadinhos muito diferentes dos tradicionais. Um convidado se atreveu _____ comer o misterioso talo branco que estava unido _____ coxinha.",
-    "alternativas": [
+    "statement": "Assinale a alternativa que completa, correta e respectivamente, as lacunas do texto.\n\nO narrador foi _____ uma festa em que foram servidos salgadinhos muito diferentes dos tradicionais. Um convidado se atreveu _____ comer o misterioso talo branco que estava unido _____ coxinha.",
+    "choices": [
       "a … a … à",
       "à … a … a",
       "a … à … a",
       "a … a … a",
       "à … à … à"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Ir” pede “a” e, antes de “uma”, não há crase (“foi a uma festa”). “Atrever-se a” + infinitivo: “a comer”; antes de verbo não ocorre crase. “Unido” pede “a” e “coxinha” aceita artigo: a + a = “à coxinha”."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Ir” pede “a” e, antes de “uma”, não há crase (“foi a uma festa”). “Atrever-se a” + infinitivo: “a comer”; antes de verbo não ocorre crase. “Unido” pede “a” e “coxinha” aceita artigo: a + a = “à coxinha”."
   },
   {
     "id": "B-PAUL-03",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 3,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 3,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Considere a frase original:\n\n“É quase um insulto a velocidade com que ela assinou.”\n\nAssinale a alternativa cuja reescrita está de acordo com a norma-padrão de regência.",
-    "alternativas": [
+    "statement": "Considere a frase original:\n\n“É quase um insulto a velocidade com que ela assinou.”\n\nAssinale a alternativa cuja reescrita está de acordo com a norma-padrão de regência.",
+    "choices": [
       "É quase um insulto a naturalidade com a qual ela se mostrou conformada.",
       "É quase um insulto a pressa em que ela aceitou o convite.",
       "É quase um insulto a tranquilidade de que ela gostou da conversa.",
       "É quase um insulto a facilidade na qual ela reagiu de forma indiferente.",
       "É quase um insulto a rapidez que ela simpatizou com a proposta."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Na frase original, “assinar com velocidade” justifica “com que”; em A, “mostrar-se conformada com naturalidade” justifica “com a qual”. B: “aceitou com pressa” exige “com que”, não “em que”. C: “gostou da conversa” já traz seu complemento; “de que” sobra. D: “reagiu com facilidade” exige “com a qual”. E: “simpatizar” pede “com”, logo “com a qual”, e a preposição não pode faltar."
+    "answerKey": 0,
+    "explanation": "Correta: A. Na frase original, “assinar com velocidade” justifica “com que”; em A, “mostrar-se conformada com naturalidade” justifica “com a qual”. B: “aceitou com pressa” exige “com que”, não “em que”. C: “gostou da conversa” já traz seu complemento; “de que” sobra. D: “reagiu com facilidade” exige “com a qual”. E: “simpatizar” pede “com”, logo “com a qual”, e a preposição não pode faltar."
   },
   {
     "id": "B-PAUL-10",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 10,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 10,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "As cebolas são semelhantes _____ rosáceas, elementos arquitetônicos comparáveis _____ janelas, de forma circular, por onde entra _____ luz em algumas igrejas.\n\nAssinale a alternativa que completa, correta e respectivamente, as lacunas da frase.",
-    "alternativas": [
+    "statement": "As cebolas são semelhantes _____ rosáceas, elementos arquitetônicos comparáveis _____ janelas, de forma circular, por onde entra _____ luz em algumas igrejas.\n\nAssinale a alternativa que completa, correta e respectivamente, as lacunas da frase.",
+    "choices": [
       "às … à … a",
       "as … a … à",
       "às … a … a",
       "a … a … à",
       "à … à … a"
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. “Semelhante” pede “a”, e como “rosáceas” vem com artigo, ocorre crase: “às rosáceas”. “Comparáveis a janelas”: preposição “a” diante de substantivo plural sem artigo, sem crase. “Entra a luz”: o “a” é só artigo, pois “a luz” é sujeito de “entra”, e não há preposição."
+    "answerKey": 2,
+    "explanation": "Correta: C. “Semelhante” pede “a”, e como “rosáceas” vem com artigo, ocorre crase: “às rosáceas”. “Comparáveis a janelas”: preposição “a” diante de substantivo plural sem artigo, sem crase. “Entra a luz”: o “a” é só artigo, pois “a luz” é sujeito de “entra”, e não há preposição."
   },
   {
     "id": "B-PIRA-05",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 5,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 5,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Considere a frase do segundo parágrafo.\n\n“O New York Times” foi o primeiro jornal a **conhecer** parte da tecnologia na qual a companhia vem trabalhando.\n\nEm conformidade com a regência padrão da língua portuguesa, o termo destacado pode ser substituído por:",
-    "alternativas": [
+    "statement": "Considere a frase do segundo parágrafo.\n\n“O New York Times” foi o primeiro jornal a **conhecer** parte da tecnologia na qual a companhia vem trabalhando.\n\nEm conformidade com a regência padrão da língua portuguesa, o termo destacado pode ser substituído por:",
+    "choices": [
       "estar a par em",
       "estar interessado com",
       "ter acesso de",
       "informar-se com",
       "inteirar-se de"
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. “Inteirar-se de” = tomar conhecimento de, e pede a preposição “de” (“a inteirar-se de parte da tecnologia”). A: “estar a par de”, não “em”. B: “interessado em/por”, não “com”. C: “ter acesso a”, não “de”. D: “informar-se de/sobre”, não “com”."
+    "answerKey": 4,
+    "explanation": "Correta: E. “Inteirar-se de” = tomar conhecimento de, e pede a preposição “de” (“a inteirar-se de parte da tecnologia”). A: “estar a par de”, não “em”. B: “interessado em/por”, não “com”. C: “ter acesso a”, não “de”. D: “informar-se de/sobre”, não “com”."
   },
   {
     "id": "B-PIRA-10",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 10,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 10,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Leia o texto.\n\nQuando você se refere _____ alguém dizendo “maria vai com as outras” significa que a pessoa não tem opinião própria. [...]\n\nA mãe de Dom João VI, a rainha Maria I, _____ quem muitos atribuíam o nome de “A Louca”, costumava passear _____ margens do rio Carioca, acompanhada de suas damas de companhia [...].\n\n*(Ernani Fagundes. Aventuras na História, novembro de 2005. Adaptado)*\n\nDe acordo com a norma-padrão, as lacunas desse texto devem ser preenchidas, respectivamente, por:",
-    "alternativas": [
+    "statement": "Leia o texto.\n\nQuando você se refere _____ alguém dizendo “maria vai com as outras” significa que a pessoa não tem opinião própria. [...]\n\nA mãe de Dom João VI, a rainha Maria I, _____ quem muitos atribuíam o nome de “A Louca”, costumava passear _____ margens do rio Carioca, acompanhada de suas damas de companhia [...].\n\n*(Ernani Fagundes. Aventuras na História, novembro de 2005. Adaptado)*\n\nDe acordo com a norma-padrão, as lacunas desse texto devem ser preenchidas, respectivamente, por:",
+    "choices": [
       "a ... a ... às",
       "a ... à ... às",
       "a ... a ... as",
       "à ... a ... às",
       "à ... à ... as"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Referir-se a alguém”: preposição “a”, sem crase, pois “alguém” não admite artigo. “Atribuir o nome a quem”: preposição “a”, sem crase diante de pronome relativo “quem”. “Passear às margens” (a + as): crase diante de substantivo feminino plural determinado."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Referir-se a alguém”: preposição “a”, sem crase, pois “alguém” não admite artigo. “Atribuir o nome a quem”: preposição “a”, sem crase diante de pronome relativo “quem”. “Passear às margens” (a + as): crase diante de substantivo feminino plural determinado."
   },
   {
     "id": "B-SJRP-14",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 14,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 14,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Na reescrita do trecho do 1º parágrafo “... dispunham **de** excedentes...”, o termo destacado será substituído por “com” se a forma verbal “dispunham” for substituída por:",
-    "alternativas": [
+    "statement": "Na reescrita do trecho do 1º parágrafo “... dispunham **de** excedentes...”, o termo destacado será substituído por “com” se a forma verbal “dispunham” for substituída por:",
+    "choices": [
       "aproveitavam.",
       "tinham.",
       "usufruíam.",
       "contavam.",
       "possuíam."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. “Contar com” equivale a “dispor de” (“contavam com excedentes”). Aproveitar, ter e possuir são transitivos diretos, sem preposição. Usufruir admite objeto direto ou “de”, mas não “com”."
+    "answerKey": 3,
+    "explanation": "Correta: D. “Contar com” equivale a “dispor de” (“contavam com excedentes”). Aproveitar, ter e possuir são transitivos diretos, sem preposição. Usufruir admite objeto direto ou “de”, mas não “com”."
   },
   {
     "id": "B-SJRP-15",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 15,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 15,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Assinale a alternativa que completa, correta e respectivamente, as lacunas do texto.\n\nHá pessoas que se dedicam _____ investigar os hábitos alimentares de diferentes populações. Sabe-se que existem aquelas que praticam a agricultura e _____ que recorrem _____ coleta de plantas selvagens _____ fim de obter alimentos de origem vegetal.",
-    "alternativas": [
+    "statement": "Assinale a alternativa que completa, correta e respectivamente, as lacunas do texto.\n\nHá pessoas que se dedicam _____ investigar os hábitos alimentares de diferentes populações. Sabe-se que existem aquelas que praticam a agricultura e _____ que recorrem _____ coleta de plantas selvagens _____ fim de obter alimentos de origem vegetal.",
+    "choices": [
       "a ... as ... à ... a",
       "a ... as ... à ... à",
       "a ... às ... a ... a",
       "à ... às ... à ... à",
       "à ... as ... a ... a"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. “Dedicar-se a + verbo”: “a”, sem crase antes de verbo. “E as que recorrem”: “as” é pronome demonstrativo (= aquelas) e funciona como sujeito de “recorrem”, sem preposição, portanto sem crase. “Recorrer à coleta”: a + a, com crase. “A fim de” é locução fixa, sem crase."
+    "answerKey": 0,
+    "explanation": "Correta: A. “Dedicar-se a + verbo”: “a”, sem crase antes de verbo. “E as que recorrem”: “as” é pronome demonstrativo (= aquelas) e funciona como sujeito de “recorrem”, sem preposição, portanto sem crase. “Recorrer à coleta”: a + a, com crase. “A fim de” é locução fixa, sem crase."
   },
   {
     "id": "B-VAAL-10",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 10,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 10,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Quanto à ocorrência do acento indicativo de crase, está em conformidade com a norma-padrão a frase:",
-    "alternativas": [
+    "statement": "Quanto à ocorrência do acento indicativo de crase, está em conformidade com a norma-padrão a frase:",
+    "choices": [
       "Momentos passados com amigos verdadeiros garantem lembranças para toda à vida.",
       "Imagine estar no centro da cidade e encontrar aquela figura que marcou à sua infância.",
       "Os momentos que sucederam à publicação do livro foram um pouco tensos para o autor.",
       "Os amigos tinham assuntos à tratar toda vez que alguma celeuma entre eles acontecia.",
       "As reflexões do autor acabaram coincidindo com às de outros literatos importantes."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. “Suceder” pede “a” (suceder a algo), e “a publicação” aceita artigo: crase. A: não há crase com “toda” + substantivo (“toda a vida”). B: “marcou” é transitivo direto, sem preposição (“marcou a sua infância”). D: crase nunca ocorre diante de verbo (“a tratar”). E: “com” já é preposição, e “as” é pronome demonstrativo, sem crase."
+    "answerKey": 2,
+    "explanation": "Correta: C. “Suceder” pede “a” (suceder a algo), e “a publicação” aceita artigo: crase. A: não há crase com “toda” + substantivo (“toda a vida”). B: “marcou” é transitivo direto, sem preposição (“marcou a sua infância”). D: crase nunca ocorre diante de verbo (“a tratar”). E: “com” já é preposição, e “as” é pronome demonstrativo, sem crase."
   },
   {
     "id": "B-ITAN17-11",
     "area": "portugues",
-    "topicoSlug": "regencia-crase",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 11
+    "topicSlug": "regencia-crase",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 11
     },
-    "enunciado": "Assinale a alternativa que preenche, respectivamente e de acordo com a norma-padrão, as lacunas das frases. • O pato ______ formiga como estava a distribuição de renda no formigueiro. • Quanto à minha baiana, minha renda não dá nem para ______ no carnaval.",
-    "alternativas": [
+    "statement": "Assinale a alternativa que preenche, respectivamente e de acordo com a norma-padrão, as lacunas das frases. • O pato ______ formiga como estava a distribuição de renda no formigueiro. • Quanto à minha baiana, minha renda não dá nem para ______ no carnaval.",
+    "choices": [
       "indagou à … enfeitar ela.",
       "indagou a … enfeitar a ela.",
       "perguntou a … a enfeitar.",
       "indagou a … lhe enfeitar.",
       "perguntou à … enfeitá-la."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Na primeira lacuna, “perguntar” e “indagar” pedem complemento com preposição (“à formiga”: a + a). Na segunda, “enfeitar” é transitivo direto e o objeto direto é o pronome oblíquo “a”, que assume a forma “-la” após infinitivo: “enfeitá-la”. “Enfeitar ela” usa pronome reto como objeto (fora da norma-padrão), “enfeitar a ela” e “lhe enfeitar” usam preposição ou pronome de objeto indireto, e “a enfeitar” não tem objeto."
+    "answerKey": 4,
+    "explanation": "Correta: E. Na primeira lacuna, “perguntar” e “indagar” pedem complemento com preposição (“à formiga”: a + a). Na segunda, “enfeitar” é transitivo direto e o objeto direto é o pronome oblíquo “a”, que assume a forma “-la” após infinitivo: “enfeitá-la”. “Enfeitar ela” usa pronome reto como objeto (fora da norma-padrão), “enfeitar a ela” e “lhe enfeitar” usam preposição ou pronome de objeto indireto, e “a enfeitar” não tem objeto."
   }
 ]

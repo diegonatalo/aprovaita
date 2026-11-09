@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test:motor": "tsx scripts/teste-motor.ts",
+    "test:engine": "tsx scripts/engine-test.ts",
     "validate": "tsx scripts/validate.ts",
     "validate:strict": "tsx scripts/validate.ts --strict"
   },

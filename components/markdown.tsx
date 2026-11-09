@@ -12,9 +12,9 @@ export function Markdown({
   /** Sem parágrafos: para trechos curtos dentro de outro elemento (alternativas). */
   inline?: boolean;
 }) {
-  const Raiz = inline ? "span" : "div";
+  const Root = inline ? "span" : "div";
   return (
-    <Raiz className={className}>
+    <Root className={className}>
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
         components={{
@@ -32,6 +32,6 @@ export function Markdown({
       >
         {children}
       </ReactMarkdown>
-    </Raiz>
+    </Root>
   );
 }

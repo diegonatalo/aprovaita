@@ -3,72 +3,72 @@
     "id": "B-PAUL-36",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 36,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 36,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Para atender as demandas da população, a Secretaria Municipal da Saúde publicou edital para convocar interessados que preencham os requisitos necessários para prestar serviços médicos especializados, e que, se habilitados, executarão esses serviços quando convocados pela Administração Pública.\n\nEsse processo de contratação possui as características do",
-    "alternativas": [
+    "statement": "Para atender as demandas da população, a Secretaria Municipal da Saúde publicou edital para convocar interessados que preencham os requisitos necessários para prestar serviços médicos especializados, e que, se habilitados, executarão esses serviços quando convocados pela Administração Pública.\n\nEsse processo de contratação possui as características do",
+    "choices": [
       "pregão.",
       "concurso.",
       "diálogo competitivo.",
       "sistema de registro de preços.",
       "credenciamento."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. No credenciamento, a Administração convoca, por edital, todos os interessados que atendam aos requisitos, e os habilitados executam o objeto quando forem chamados. Não há disputa entre eles, o que o diferencia do pregão e do registro de preços."
+    "answerKey": 4,
+    "explanation": "Correta: E. No credenciamento, a Administração convoca, por edital, todos os interessados que atendam aos requisitos, e os habilitados executam o objeto quando forem chamados. Não há disputa entre eles, o que o diferencia do pregão e do registro de preços."
   },
   {
     "id": "B-SJRP-38",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 38,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 38,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Um contrato administrativo de serviços e fornecimentos contínuos, a exemplo do contrato de prestação de serviços de limpeza e conservação predial, pode ser prorrogado respeitando, entre outros requisitos, a vigência máxima de",
-    "alternativas": [
+    "statement": "Um contrato administrativo de serviços e fornecimentos contínuos, a exemplo do contrato de prestação de serviços de limpeza e conservação predial, pode ser prorrogado respeitando, entre outros requisitos, a vigência máxima de",
+    "choices": [
       "sete anos.",
       "cinco anos.",
       "seis anos.",
       "três anos.",
       "dez anos."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Na Lei 14.133/2021, os contratos de serviços e fornecimentos contínuos podem ter prazo de até 5 anos (art. 106) e ser prorrogados sucessivamente, respeitada a vigência máxima decenal, de 10 anos (art. 107). Cinco anos é o prazo inicial, não o limite total."
+    "answerKey": 4,
+    "explanation": "Correta: E. Na Lei 14.133/2021, os contratos de serviços e fornecimentos contínuos podem ter prazo de até 5 anos (art. 106) e ser prorrogados sucessivamente, respeitada a vigência máxima decenal, de 10 anos (art. 107). Cinco anos é o prazo inicial, não o limite total."
   },
   {
     "id": "B-VAAL-47",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "contratacao-direta-contratos-14133",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 47,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "contratacao-direta-contratos-14133",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 47,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Na hipótese de o Município pretender contratar o serviço técnico especializado de publicidade e divulgação, a Lei nº 14.133/2021 dispõe que esse tipo de contratação",
-    "alternativas": [
+    "statement": "Na hipótese de o Município pretender contratar o serviço técnico especializado de publicidade e divulgação, a Lei nº 14.133/2021 dispõe que esse tipo de contratação",
+    "choices": [
       "é permitida e deve ser feita diretamente por meio de dispensa de licitação.",
       "é permitida e pode ser feita diretamente, por inexigibilidade de licitação, não sendo exigida a notória especialização.",
       "é permitida, mas não se admitirá a inexigibilidade de licitação, ainda que o serviço seja de natureza predominantemente intelectual e executado por empresa de notória especialização técnica.",
       "pode ser feita, diretamente, sendo permitida a contratação direta por inexigibilidade de licitação, desde que seja com empresa ou profissional de notória especialização.",
       "é expressamente vedada pela lei, devendo esse serviço ser executado diretamente pela própria Administração Pública Municipal."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A Lei 14.133/2021 permite inexigibilidade para serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, mas veda a inexigibilidade para serviços de publicidade e divulgação (art. 74, III). Esses serviços podem ser contratados, mas por licitação."
+    "answerKey": 2,
+    "explanation": "Correta: C. A Lei 14.133/2021 permite inexigibilidade para serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, mas veda a inexigibilidade para serviços de publicidade e divulgação (art. 74, III). Esses serviços podem ser contratados, mas por licitação."
   }
 ]

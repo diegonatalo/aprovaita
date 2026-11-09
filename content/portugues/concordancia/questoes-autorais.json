@@ -2,81 +2,81 @@
   {
     "id": "PT-CONC-A1",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
-    "alternativas": [
+    "topicSlug": "concordancia",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+    "choices": [
       "Faz dois anos que trabalho na Câmara.",
       "Fazem dois anos que trabalho na Câmara.",
       "Houveram muitas reclamações no atendimento.",
       "Devem haver soluções para o problema.",
       "Existe muitos problemas no sistema."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, pois \"fazer\" indicando tempo decorrido é impessoal e fica no singular. B: o plural é inadequado. C: \"haver\" no sentido de ocorrer é impessoal (\"Houve\"). D: o auxiliar acompanha o impessoal (\"Deve haver\"). E: \"Existem\" concorda com \"problemas\"."
+    "answerKey": 0,
+    "explanation": "Correta: A, pois \"fazer\" indicando tempo decorrido é impessoal e fica no singular. B: o plural é inadequado. C: \"haver\" no sentido de ocorrer é impessoal (\"Houve\"). D: o auxiliar acompanha o impessoal (\"Deve haver\"). E: \"Existem\" concorda com \"problemas\"."
   },
   {
     "id": "PT-CONC-A2",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "autoral",
-    "enunciado": "Em \"Compram-se materiais de escritório\", o verbo está no plural porque",
-    "alternativas": [
+    "topicSlug": "concordancia",
+    "origin": "authored",
+    "statement": "Em \"Compram-se materiais de escritório\", o verbo está no plural porque",
+    "choices": [
       "o sujeito é indeterminado.",
       "o verbo é impessoal.",
       "o sujeito é inexistente.",
       "concorda com o sujeito paciente \"materiais de escritório\".",
       "o verbo é transitivo indireto."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Na voz passiva sintética, o verbo concorda com o sujeito paciente: \"materiais de escritório\" são comprados. A, B e C: tratam de sujeito indeterminado ou ausente, o que não ocorre. E: \"comprar\" é transitivo direto."
+    "answerKey": 3,
+    "explanation": "Correta: D. Na voz passiva sintética, o verbo concorda com o sujeito paciente: \"materiais de escritório\" são comprados. A, B e C: tratam de sujeito indeterminado ou ausente, o que não ocorre. E: \"comprar\" é transitivo direto."
   },
   {
     "id": "PT-CONC-A3",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que a concordância nominal está correta.",
-    "alternativas": [
+    "topicSlug": "concordancia",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que a concordância nominal está correta.",
+    "choices": [
       "Seguem anexo as certidões.",
       "Seguem anexos as certidões.",
       "Seguem anexas as certidões.",
       "Segue anexas as certidões.",
       "Segue anexo as certidões."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. \"Anexo\" é adjetivo e concorda com \"as certidões\", que é o sujeito, em feminino plural; o verbo também vai ao plural. A e B: erram o gênero ou o número de \"anexo\". D e E: erram a concordância do verbo."
+    "answerKey": 2,
+    "explanation": "Correta: C. \"Anexo\" é adjetivo e concorda com \"as certidões\", que é o sujeito, em feminino plural; o verbo também vai ao plural. A e B: erram o gênero ou o número de \"anexo\". D e E: erram a concordância do verbo."
   },
   {
     "id": "PT-CONC-A4",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "autoral",
-    "enunciado": "Preencha a lacuna: \"As servidoras ____ elaboraram o relatório.\"",
-    "alternativas": [
+    "topicSlug": "concordancia",
+    "origin": "authored",
+    "statement": "Preencha a lacuna: \"As servidoras ____ elaboraram o relatório.\"",
+    "choices": [
       "mesmo",
       "mesma",
       "mesmos",
       "meios",
       "mesmas"
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. \"Mesmo\" é reforço e concorda com o termo a que se refere: \"as servidoras mesmas\". A, B e C: não concordam com \"servidoras\". D: \"meios\" não faz sentido na frase."
+    "answerKey": 4,
+    "explanation": "Correta: E. \"Mesmo\" é reforço e concorda com o termo a que se refere: \"as servidoras mesmas\". A, B e C: não concordam com \"servidoras\". D: \"meios\" não faz sentido na frase."
   },
   {
     "id": "PT-CONC-A5",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "autoral",
-    "enunciado": "Preencha a lacuna: \"Eu e meus colegas ____ aprovados no concurso.\"",
-    "alternativas": [
+    "topicSlug": "concordancia",
+    "origin": "authored",
+    "statement": "Preencha a lacuna: \"Eu e meus colegas ____ aprovados no concurso.\"",
+    "choices": [
       "foram",
       "fomos",
       "foi",
       "fui",
       "foste"
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Com sujeito composto que inclui a 1ª pessoa (eu), o verbo vai para a 1ª pessoa do plural: \"fomos\". A: seria 3ª pessoa do plural. C: singular. D: concorda só com \"eu\". E: é 2ª pessoa."
+    "answerKey": 1,
+    "explanation": "Correta: B. Com sujeito composto que inclui a 1ª pessoa (eu), o verbo vai para a 1ª pessoa do plural: \"fomos\". A: seria 3ª pessoa do plural. C: singular. D: concorda só com \"eu\". E: é 2ª pessoa."
   }
 ]

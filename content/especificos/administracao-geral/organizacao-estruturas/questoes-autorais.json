@@ -3,85 +3,85 @@
     "id": "AG-ORGAN-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "organizacao-estruturas",
-    "origem": "autoral",
-    "enunciado": "Em uma estrutura organizacional, um servidor é subordinado, ao mesmo tempo, ao chefe de seu departamento funcional e ao gerente de um projeto em que atua. Esse arranjo, que quebra o princípio da unidade de comando, caracteriza a estrutura",
-    "alternativas": [
+    "topicSlug": "organizacao-estruturas",
+    "origin": "authored",
+    "statement": "Em uma estrutura organizacional, um servidor é subordinado, ao mesmo tempo, ao chefe de seu departamento funcional e ao gerente de um projeto em que atua. Esse arranjo, que quebra o princípio da unidade de comando, caracteriza a estrutura",
+    "choices": [
       "linear.",
       "matricial.",
       "em linha-staff.",
       "mecanicista.",
       "burocrática clássica."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A estrutura matricial é marcada pela dupla subordinação: o servidor responde ao chefe funcional e ao gerente de projeto. A: linear tem autoridade única. C: linha-staff combina comando e assessoria sem dupla subordinação. D e E: não descrevem especificamente a dupla subordinação."
+    "answerKey": 1,
+    "explanation": "Correta: B. A estrutura matricial é marcada pela dupla subordinação: o servidor responde ao chefe funcional e ao gerente de projeto. A: linear tem autoridade única. C: linha-staff combina comando e assessoria sem dupla subordinação. D e E: não descrevem especificamente a dupla subordinação."
   },
   {
     "id": "AG-ORGAN-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "organizacao-estruturas",
-    "origem": "autoral",
-    "enunciado": "O número de subordinados que um gestor consegue supervisionar diretamente de modo eficaz é chamado de",
-    "alternativas": [
+    "topicSlug": "organizacao-estruturas",
+    "origin": "authored",
+    "statement": "O número de subordinados que um gestor consegue supervisionar diretamente de modo eficaz é chamado de",
+    "choices": [
       "unidade de comando.",
       "cadeia escalar.",
       "amplitude de controle.",
       "delegação.",
       "centralização."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Amplitude de controle (ou de comando) é o número de subordinados diretos de um gestor. A: unidade de comando é ter um único chefe. B: cadeia escalar é a linha hierárquica. D: delegação é a transferência de autoridade. E: centralização é a concentração das decisões no topo."
+    "answerKey": 2,
+    "explanation": "Correta: C. Amplitude de controle (ou de comando) é o número de subordinados diretos de um gestor. A: unidade de comando é ter um único chefe. B: cadeia escalar é a linha hierárquica. D: delegação é a transferência de autoridade. E: centralização é a concentração das decisões no topo."
   },
   {
     "id": "AG-ORGAN-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "organizacao-estruturas",
-    "origem": "autoral",
-    "enunciado": "Ao delegar a um servidor a decisão sobre a compra de material de expediente, a chefe do setor",
-    "alternativas": [
+    "topicSlug": "organizacao-estruturas",
+    "origin": "authored",
+    "statement": "Ao delegar a um servidor a decisão sobre a compra de material de expediente, a chefe do setor",
+    "choices": [
       "transfere a autoridade para decidir, mas mantém a responsabilidade final pelo resultado.",
       "transfere toda a responsabilidade e fica isenta do resultado.",
       "perde a autoridade sobre o setor definitivamente.",
       "deixa de ser a superior hierárquica do servidor.",
       "cria uma nova unidade organizacional."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A delegação transfere a autoridade para decidir, mas a responsabilidade final permanece com quem delega. B: a responsabilidade não é transferida por completo. C e D: a delegação não retira a posição hierárquica nem a autoridade geral. E: delegar não cria unidades."
+    "answerKey": 0,
+    "explanation": "Correta: A. A delegação transfere a autoridade para decidir, mas a responsabilidade final permanece com quem delega. B: a responsabilidade não é transferida por completo. C e D: a delegação não retira a posição hierárquica nem a autoridade geral. E: delegar não cria unidades."
   },
   {
     "id": "AG-ORGAN-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "organizacao-estruturas",
-    "origem": "autoral",
-    "enunciado": "Uma prefeitura agrupou suas atividades em regionais, cada uma responsável por todos os serviços de uma determinada região da cidade. O critério de departamentalização adotado foi o",
-    "alternativas": [
+    "topicSlug": "organizacao-estruturas",
+    "origin": "authored",
+    "statement": "Uma prefeitura agrupou suas atividades em regionais, cada uma responsável por todos os serviços de uma determinada região da cidade. O critério de departamentalização adotado foi o",
+    "choices": [
       "funcional.",
       "por produto.",
       "por processos.",
       "por projetos.",
       "territorial."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Agrupar atividades por localização (regionais) é departamentalização territorial ou geográfica. A: funcional agrupa por especialidade. B: produto agrupa por tipo de serviço. C: processos agrupa por etapas de um processo. D: projetos agrupa equipes para projetos temporários."
+    "answerKey": 4,
+    "explanation": "Correta: E. Agrupar atividades por localização (regionais) é departamentalização territorial ou geográfica. A: funcional agrupa por especialidade. B: produto agrupa por tipo de serviço. C: processos agrupa por etapas de um processo. D: projetos agrupa equipes para projetos temporários."
   },
   {
     "id": "AG-ORGAN-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "organizacao-estruturas",
-    "origem": "autoral",
-    "enunciado": "Em uma estrutura linha-staff, os órgãos de staff caracterizam-se por",
-    "alternativas": [
+    "topicSlug": "organizacao-estruturas",
+    "origin": "authored",
+    "statement": "Em uma estrutura linha-staff, os órgãos de staff caracterizam-se por",
+    "choices": [
       "comandar diretamente as atividades-fim da organização.",
       "prestar assessoria e apoio técnico aos órgãos de linha, sem autoridade de comando sobre eles.",
       "substituir a hierarquia, eliminando a cadeia de comando.",
       "ter dupla subordinação a dois chefes.",
       "atuar apenas de forma temporária em projetos."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O staff presta assessoria e apoio especializado aos órgãos de linha, que têm a autoridade de comando. A: comando direto é característica da linha. C: a hierarquia se mantém. D: dupla subordinação é característica da matricial. E: atuação temporária descreve estruturas por projetos."
+    "answerKey": 1,
+    "explanation": "Correta: B. O staff presta assessoria e apoio especializado aos órgãos de linha, que têm a autoridade de comando. A: comando direto é característica da linha. C: a hierarquia se mantém. D: dupla subordinação é característica da matricial. E: atuação temporária descreve estruturas por projetos."
   }
 ]

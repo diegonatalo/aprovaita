@@ -3,24 +3,24 @@
     "id": "B-SJRP-31",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "etica-moral-administracao-publica",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 31,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "etica-moral-administracao-publica",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 31,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Karina, agente administrativa municipal, ingressou no serviço público, entre outros motivos, por ter vocação.\n\nEla sabe que diz respeito a uma atitude ética",
-    "alternativas": [
+    "statement": "Karina, agente administrativa municipal, ingressou no serviço público, entre outros motivos, por ter vocação.\n\nEla sabe que diz respeito a uma atitude ética",
+    "choices": [
       "dar o seu concurso à instituição que atente contra a moral.",
       "deturpar o teor de documentos que deva encaminhar para providências.",
       "desempenhar, a tempo, as atribuições do cargo, função ou emprego público de que seja titular.",
       "cumprir com as ordens superiores, podendo elas serem manifestamente legais ou ilegais.",
       "usar o que estiver ao seu alcance para procrastinar o exercício regular de direito por quaisquer pessoas."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Desempenhar a tempo as atribuições do cargo é dever fundamental do servidor, previsto no Código de Ética do servidor público (Decreto 1.171/1994, Seção II, XIV). As demais condutas são antiéticas: apoiar instituição que atenta contra a moral (A), deturpar documentos (B), cumprir ordem manifestamente ilegal (D) e procrastinar direito alheio (E)."
+    "answerKey": 2,
+    "explanation": "Correta: C. Desempenhar a tempo as atribuições do cargo é dever fundamental do servidor, previsto no Código de Ética do servidor público (Decreto 1.171/1994, Seção II, XIV). As demais condutas são antiéticas: apoiar instituição que atenta contra a moral (A), deturpar documentos (B), cumprir ordem manifestamente ilegal (D) e procrastinar direito alheio (E)."
   }
 ]

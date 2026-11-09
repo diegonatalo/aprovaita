@@ -1,23 +1,23 @@
 export function ProgressRing({
-  valor,
-  tamanho = 72,
-  rotulo,
+  value,
+  size = 72,
+  label,
 }: {
-  valor: number; // 0–100
-  tamanho?: number;
-  rotulo?: string;
+  value: number; // 0–100
+  size?: number;
+  label?: string;
 }) {
   const r = 16;
   const c = 2 * Math.PI * r;
-  const v = Math.max(0, Math.min(100, valor));
+  const v = Math.max(0, Math.min(100, value));
   return (
     <div
       role="img"
-      aria-label={`${rotulo ?? "Progresso"}: ${Math.round(v)}%`}
+      aria-label={`${label ?? "Progresso"}: ${Math.round(v)}%`}
       className="relative inline-flex items-center justify-center"
-      style={{ width: tamanho, height: tamanho }}
+      style={{ width: size, height: size }}
     >
-      <svg viewBox="0 0 40 40" className="-rotate-90" width={tamanho} height={tamanho}>
+      <svg viewBox="0 0 40 40" className="-rotate-90" width={size} height={size}>
         <circle cx="20" cy="20" r={r} fill="none" stroke="var(--borda)" strokeWidth="4" />
         <circle
           cx="20"

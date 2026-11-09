@@ -1,16 +1,16 @@
 import type { MetadataRoute } from "next";
 import { SITE } from "@/lib/site";
-import { AREAS, listarTopicos } from "@/lib/content";
+import { AREAS, listTopics } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const rotas = [
+  const routes = [
     "/",
     "/conteudo",
     ...AREAS.map((a) => `/conteudo/${a}`),
-    ...listarTopicos().map((t) => `/conteudo/${t.area}/${t.slug}`),
+    ...listTopics().map((t) => `/conteudo/${t.area}/${t.slug}`),
     "/simulado",
     "/revisao",
     "/progresso",
   ];
-  return rotas.map((r) => ({ url: `${SITE.url}${r}` }));
+  return routes.map((r) => ({ url: `${SITE.url}${r}` }));
 }

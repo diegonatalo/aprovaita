@@ -3,72 +3,72 @@
     "id": "B-TREM-40",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 40,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-materiais",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 40,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A administração de materiais objetiva conciliar os interesses entre as necessidades de suprimentos e a otimização dos recursos financeiros e operacionais das organizações.\n\nConsiderando o exposto, assinale a alternativa que invalida um benefício da administração de materiais.",
-    "alternativas": [
+    "statement": "A administração de materiais objetiva conciliar os interesses entre as necessidades de suprimentos e a otimização dos recursos financeiros e operacionais das organizações.\n\nConsiderando o exposto, assinale a alternativa que invalida um benefício da administração de materiais.",
+    "choices": [
       "Eficiência do fluxo de recebimento, armazenagem e distribuição de materiais, ao maximizar o tempo de resposta entre a demanda interna e a entrega ao cliente.",
       "A diminuição de estoques parados e o controle sobre os volumes de compras evitam o excesso de capital imobilizado, permitindo maior liquidez financeira.",
       "Redução das perdas por vencimento, obsolescência ou desvios, garantindo maior precisão nas informações e segurança no uso dos materiais armazenados.",
       "Com planejamento e controle, o estoque é mantido em níveis adequados, equilibrando a oferta com a demanda.",
       "A garantia de que materiais de qualidade estejam disponíveis, o que impacta diretamente na padronização dos serviços e produtos."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A (a alternativa que invalida o benefício). Uma gestão eficiente de materiais busca minimizar o tempo de resposta entre a demanda e a entrega; “maximizar” esse tempo seria o contrário. As demais descrevem benefícios reais: menos estoque parado, menos perdas, níveis de estoque equilibrados e materiais de qualidade disponíveis."
+    "answerKey": 0,
+    "explanation": "Correta: A (a alternativa que invalida o benefício). Uma gestão eficiente de materiais busca minimizar o tempo de resposta entre a demanda e a entrega; “maximizar” esse tempo seria o contrário. As demais descrevem benefícios reais: menos estoque parado, menos perdas, níveis de estoque equilibrados e materiais de qualidade disponíveis."
   },
   {
     "id": "B-PAUL-29",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 29,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-materiais",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 29,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Com vistas a planejar a demanda e evitar a falta de itens essenciais para o desenvolvimento de seus serviços, um hospital público realiza a gestão de estoques classificando os materiais de acordo com a importância operacional, considerando-se o grau de criticidade ou imprescindibilidade.\n\nEsse método de classificação de materiais é denominado",
-    "alternativas": [
+    "statement": "Com vistas a planejar a demanda e evitar a falta de itens essenciais para o desenvolvimento de seus serviços, um hospital público realiza a gestão de estoques classificando os materiais de acordo com a importância operacional, considerando-se o grau de criticidade ou imprescindibilidade.\n\nEsse método de classificação de materiais é denominado",
+    "choices": [
       "ABC.",
       "XYZ.",
       "PQR.",
       "123.",
       "JIT."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A classificação XYZ organiza os materiais pela criticidade ou imprescindibilidade para a operação. A curva ABC classifica por valor de consumo. JIT (just in time) é uma filosofia de produção e estoques, não um método de classificação."
+    "answerKey": 1,
+    "explanation": "Correta: B. A classificação XYZ organiza os materiais pela criticidade ou imprescindibilidade para a operação. A curva ABC classifica por valor de consumo. JIT (just in time) é uma filosofia de produção e estoques, não um método de classificação."
   },
   {
     "id": "B-VAAL-34",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-materiais",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 34,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-materiais",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 34,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Uma organização pública realiza avaliação do grau de criticidade ou de imprescindibilidade (baixo, intermediário e máximo) dos itens de materiais das atividades desempenhadas por ela, o que diz respeito ao critério de classificação de materiais denominado",
-    "alternativas": [
+    "statement": "Uma organização pública realiza avaliação do grau de criticidade ou de imprescindibilidade (baixo, intermediário e máximo) dos itens de materiais das atividades desempenhadas por ela, o que diz respeito ao critério de classificação de materiais denominado",
+    "choices": [
       "XYZ.",
       "por periculosidade.",
       "por perecibilidade.",
       "por demanda.",
       "ABC."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A classificação XYZ avalia a criticidade do item: X (baixa), Y (intermediária) e Z (máxima, falta que para a operação). A curva ABC classifica por valor de consumo."
+    "answerKey": 0,
+    "explanation": "Correta: A. A classificação XYZ avalia a criticidade do item: X (baixa), Y (intermediária) e Z (máxima, falta que para a operação). A curva ABC classifica por valor de consumo."
   }
 ]

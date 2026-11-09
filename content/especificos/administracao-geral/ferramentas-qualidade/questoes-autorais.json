@@ -3,85 +3,85 @@
     "id": "AG-QUAL-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "ferramentas-qualidade",
-    "origem": "autoral",
-    "enunciado": "Um órgão decidiu melhorar o atendimento ao público. Primeiro, analisou as causas das reclamações e definiu metas; depois, aplicou o plano em um setor-piloto; em seguida, comparou os resultados com as metas; por fim, padronizou o que funcionou. Essa sequência corresponde ao ciclo",
-    "alternativas": [
+    "topicSlug": "ferramentas-qualidade",
+    "origin": "authored",
+    "statement": "Um órgão decidiu melhorar o atendimento ao público. Primeiro, analisou as causas das reclamações e definiu metas; depois, aplicou o plano em um setor-piloto; em seguida, comparou os resultados com as metas; por fim, padronizou o que funcionou. Essa sequência corresponde ao ciclo",
+    "choices": [
       "PODC.",
       "PDCA.",
       "DMAIC.",
       "5W2H.",
       "SWOT."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Planejar (analisar causas e definir metas), executar (piloto), verificar (comparar) e agir (padronizar) formam o PDCA. A: PODC são as funções da Administração. C: DMAIC é o ciclo do Seis Sigma. D: 5W2H é plano de ação. E: SWOT é diagnóstico estratégico."
+    "answerKey": 1,
+    "explanation": "Correta: B. Planejar (analisar causas e definir metas), executar (piloto), verificar (comparar) e agir (padronizar) formam o PDCA. A: PODC são as funções da Administração. C: DMAIC é o ciclo do Seis Sigma. D: 5W2H é plano de ação. E: SWOT é diagnóstico estratégico."
   },
   {
     "id": "AG-QUAL-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "ferramentas-qualidade",
-    "origem": "autoral",
-    "enunciado": "Para investigar as causas dos atrasos na emissão de certidões, a equipe organizou, em um diagrama em forma de espinha de peixe, as possíveis causas por categorias como método, material, mão de obra e máquina. A ferramenta utilizada é o diagrama de",
-    "alternativas": [
+    "topicSlug": "ferramentas-qualidade",
+    "origin": "authored",
+    "statement": "Para investigar as causas dos atrasos na emissão de certidões, a equipe organizou, em um diagrama em forma de espinha de peixe, as possíveis causas por categorias como método, material, mão de obra e máquina. A ferramenta utilizada é o diagrama de",
+    "choices": [
       "Pareto.",
       "dispersão.",
       "Ishikawa.",
       "Gantt.",
       "controle."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O diagrama de Ishikawa (causa e efeito ou espinha de peixe) organiza as possíveis causas de um problema em categorias. A: Pareto prioriza causas por frequência. B: dispersão relaciona duas variáveis. D: Gantt é cronograma. E: carta de controle acompanha a variação de um processo no tempo."
+    "answerKey": 2,
+    "explanation": "Correta: C. O diagrama de Ishikawa (causa e efeito ou espinha de peixe) organiza as possíveis causas de um problema em categorias. A: Pareto prioriza causas por frequência. B: dispersão relaciona duas variáveis. D: Gantt é cronograma. E: carta de controle acompanha a variação de um processo no tempo."
   },
   {
     "id": "AG-QUAL-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "ferramentas-qualidade",
-    "origem": "autoral",
-    "enunciado": "Entre as contribuições de pioneiros da qualidade, a ideia de \"zero defeito\" e de \"fazer certo da primeira vez\" é associada a",
-    "alternativas": [
+    "topicSlug": "ferramentas-qualidade",
+    "origin": "authored",
+    "statement": "Entre as contribuições de pioneiros da qualidade, a ideia de \"zero defeito\" e de \"fazer certo da primeira vez\" é associada a",
+    "choices": [
       "Deming.",
       "Taylor.",
       "Ishikawa.",
       "Juran.",
       "Crosby."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Philip Crosby popularizou o conceito de zero defeito e o foco em fazer certo da primeira vez. A: Deming é associado ao PDCA e à melhoria contínua. B: Taylor é da Administração Científica. C: Ishikawa, ao diagrama de causa e efeito e aos CCQ. D: Juran, à trilogia da qualidade."
+    "answerKey": 4,
+    "explanation": "Correta: E. Philip Crosby popularizou o conceito de zero defeito e o foco em fazer certo da primeira vez. A: Deming é associado ao PDCA e à melhoria contínua. B: Taylor é da Administração Científica. C: Ishikawa, ao diagrama de causa e efeito e aos CCQ. D: Juran, à trilogia da qualidade."
   },
   {
     "id": "AG-QUAL-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "ferramentas-qualidade",
-    "origem": "autoral",
-    "enunciado": "Um setor deseja verificar se existe relação entre o número de horas de treinamento dos servidores e a quantidade de erros cometidos no atendimento, cruzando duas variáveis em um gráfico de pontos. A ferramenta da qualidade adequada é o diagrama de",
-    "alternativas": [
+    "topicSlug": "ferramentas-qualidade",
+    "origin": "authored",
+    "statement": "Um setor deseja verificar se existe relação entre o número de horas de treinamento dos servidores e a quantidade de erros cometidos no atendimento, cruzando duas variáveis em um gráfico de pontos. A ferramenta da qualidade adequada é o diagrama de",
+    "choices": [
       "dispersão.",
       "Pareto.",
       "Ishikawa.",
       "fluxo.",
       "afinidade."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O diagrama de dispersão mostra a relação (correlação) entre duas variáveis. B: Pareto prioriza causas por frequência. C: Ishikawa organiza causas de um problema. D: fluxograma representa as etapas de um processo. E: afinidade agrupa ideias."
+    "answerKey": 0,
+    "explanation": "Correta: A. O diagrama de dispersão mostra a relação (correlação) entre duas variáveis. B: Pareto prioriza causas por frequência. C: Ishikawa organiza causas de um problema. D: fluxograma representa as etapas de um processo. E: afinidade agrupa ideias."
   },
   {
     "id": "AG-QUAL-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "ferramentas-qualidade",
-    "origem": "autoral",
-    "enunciado": "A filosofia da gestão da qualidade total (TQM) caracteriza-se por",
-    "alternativas": [
+    "topicSlug": "ferramentas-qualidade",
+    "origin": "authored",
+    "statement": "A filosofia da gestão da qualidade total (TQM) caracteriza-se por",
+    "choices": [
       "atribuir a responsabilidade pela qualidade apenas ao setor de inspeção.",
       "focar a qualidade apenas no produto final, sem considerar processos.",
       "dispensar o uso de dados e indicadores nas decisões.",
       "envolver todos na busca da melhoria contínua, com foco no cliente e decisões baseadas em dados.",
       "buscar a redução de custos eliminando o treinamento das pessoas."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O TQM prega o envolvimento de todos, foco no cliente (cidadão, no setor público), melhoria contínua e decisões baseadas em fatos e dados. A: a qualidade é responsabilidade de todos. B: considera os processos. C: valoriza dados e indicadores. E: o treinamento é parte essencial."
+    "answerKey": 3,
+    "explanation": "Correta: D. O TQM prega o envolvimento de todos, foco no cliente (cidadão, no setor público), melhoria contínua e decisões baseadas em fatos e dados. A: a qualidade é responsabilidade de todos. B: considera os processos. C: valoriza dados e indicadores. E: o treinamento é parte essencial."
   }
 ]

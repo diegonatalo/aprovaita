@@ -3,85 +3,85 @@
     "id": "AG-FUNC-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "funcoes-administracao",
-    "origem": "autoral",
-    "enunciado": "A chefe de um setor de protocolo definiu que, até o fim do semestre, o tempo médio de tramitação cairá de 10 para 6 dias e estabeleceu as ações, os prazos e os recursos necessários. A função administrativa exercida foi o(a)",
-    "alternativas": [
+    "topicSlug": "funcoes-administracao",
+    "origin": "authored",
+    "statement": "A chefe de um setor de protocolo definiu que, até o fim do semestre, o tempo médio de tramitação cairá de 10 para 6 dias e estabeleceu as ações, os prazos e os recursos necessários. A função administrativa exercida foi o(a)",
+    "choices": [
       "controle.",
       "direção.",
       "organização.",
       "execução.",
       "planejamento."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Definir objetivos e metas e decidir como alcançá-los (ações, prazos, recursos) é planejamento. A: controle compara o realizado com o planejado. B: direção conduz pessoas. C: organização estrutura recursos e responsabilidades. D: execução não é uma das quatro funções clássicas (PODC)."
+    "answerKey": 4,
+    "explanation": "Correta: E. Definir objetivos e metas e decidir como alcançá-los (ações, prazos, recursos) é planejamento. A: controle compara o realizado com o planejado. B: direção conduz pessoas. C: organização estrutura recursos e responsabilidades. D: execução não é uma das quatro funções clássicas (PODC)."
   },
   {
     "id": "AG-FUNC-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "funcoes-administracao",
-    "origem": "autoral",
-    "enunciado": "Para executar o plano anual, o diretor dividiu o trabalho em duas seções, definiu o responsável por cada uma e redigiu um organograma com as linhas de subordinação. Essa atuação corresponde à função",
-    "alternativas": [
+    "topicSlug": "funcoes-administracao",
+    "origin": "authored",
+    "statement": "Para executar o plano anual, o diretor dividiu o trabalho em duas seções, definiu o responsável por cada uma e redigiu um organograma com as linhas de subordinação. Essa atuação corresponde à função",
+    "choices": [
       "organização.",
       "planejamento.",
       "controle.",
       "direção.",
       "avaliação de desempenho."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Dividir o trabalho, definir responsáveis e linhas de subordinação é organização. B: planejamento define objetivos e meios. C: controle acompanha e corrige. D: direção conduz e motiva pessoas. E: avaliação de desempenho é prática de gestão de pessoas."
+    "answerKey": 0,
+    "explanation": "Correta: A. Dividir o trabalho, definir responsáveis e linhas de subordinação é organização. B: planejamento define objetivos e meios. C: controle acompanha e corrige. D: direção conduz e motiva pessoas. E: avaliação de desempenho é prática de gestão de pessoas."
   },
   {
     "id": "AG-FUNC-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "funcoes-administracao",
-    "origem": "autoral",
-    "enunciado": "Ao comparar os resultados do trimestre com as metas previstas e constatar que o setor atingiu apenas 70% do esperado, o gestor identificou as causas do desvio e propôs ações corretivas. A função administrativa predominante nessa atividade é o(a)",
-    "alternativas": [
+    "topicSlug": "funcoes-administracao",
+    "origin": "authored",
+    "statement": "Ao comparar os resultados do trimestre com as metas previstas e constatar que o setor atingiu apenas 70% do esperado, o gestor identificou as causas do desvio e propôs ações corretivas. A função administrativa predominante nessa atividade é o(a)",
+    "choices": [
       "planejamento estratégico.",
       "controle.",
       "direção.",
       "organização.",
       "delegação."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Medir, comparar com o padrão e corrigir desvios caracteriza o controle. A: planejar é definir metas e meios. C: dirigir é conduzir pessoas. D: organizar é estruturar. E: delegar é um instrumento de direção, não uma das funções."
+    "answerKey": 1,
+    "explanation": "Correta: B. Medir, comparar com o padrão e corrigir desvios caracteriza o controle. A: planejar é definir metas e meios. C: dirigir é conduzir pessoas. D: organizar é estruturar. E: delegar é um instrumento de direção, não uma das funções."
   },
   {
     "id": "AG-FUNC-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "funcoes-administracao",
-    "origem": "autoral",
-    "enunciado": "Em uma reunião, a coordenadora apresentou a meta do mês, explicou a importância do trabalho, ouviu as dificuldades da equipe e resolveu um conflito entre dois servidores. Nesse caso, predominou a função",
-    "alternativas": [
+    "topicSlug": "funcoes-administracao",
+    "origin": "authored",
+    "statement": "Em uma reunião, a coordenadora apresentou a meta do mês, explicou a importância do trabalho, ouviu as dificuldades da equipe e resolveu um conflito entre dois servidores. Nesse caso, predominou a função",
+    "choices": [
       "controle.",
       "planejamento.",
       "direção.",
       "organização.",
       "auditoria."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A direção trata da condução das pessoas: liderança, motivação, comunicação e gestão de conflitos. A: controle acompanha resultados. B: planejamento define metas e meios, e aqui a meta já estava definida. D: organização estrutura recursos e responsabilidades. E: auditoria é um instrumento de controle."
+    "answerKey": 2,
+    "explanation": "Correta: C. A direção trata da condução das pessoas: liderança, motivação, comunicação e gestão de conflitos. A: controle acompanha resultados. B: planejamento define metas e meios, e aqui a meta já estava definida. D: organização estrutura recursos e responsabilidades. E: auditoria é um instrumento de controle."
   },
   {
     "id": "AG-FUNC-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "funcoes-administracao",
-    "origem": "autoral",
-    "enunciado": "Sobre as funções da Administração (planejamento, organização, direção e controle), é correto afirmar que",
-    "alternativas": [
+    "topicSlug": "funcoes-administracao",
+    "origin": "authored",
+    "statement": "Sobre as funções da Administração (planejamento, organização, direção e controle), é correto afirmar que",
+    "choices": [
       "ocorrem em sequência rígida, sem relação entre si.",
       "o controle ocorre somente ao final do processo, nunca durante a execução.",
       "constituem um ciclo contínuo, no qual o controle fornece informações para novos planejamentos.",
       "a direção independe da liderança e da comunicação.",
       "a organização é a função que define as metas da instituição."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. As funções formam um ciclo contínuo e interdependente, e os resultados do controle realimentam o planejamento. A: há inter-relação e simultaneidade. B: o controle também pode ser preventivo e concomitante. D: direção envolve liderança, motivação e comunicação. E: definir metas é planejamento."
+    "answerKey": 2,
+    "explanation": "Correta: C. As funções formam um ciclo contínuo e interdependente, e os resultados do controle realimentam o planejamento. A: há inter-relação e simultaneidade. B: o controle também pode ser preventivo e concomitante. D: direção envolve liderança, motivação e comunicação. E: definir metas é planejamento."
   }
 ]

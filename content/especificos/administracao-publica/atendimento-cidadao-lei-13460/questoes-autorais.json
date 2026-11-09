@@ -3,85 +3,85 @@
     "id": "AP-ATEND-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "atendimento-cidadao-lei-13460",
-    "origem": "autoral",
-    "enunciado": "Um cidadão apresentou reclamação à ouvidoria de um órgão municipal sobre a demora no atendimento. Segundo a Lei nº 13.460/2017, a ouvidoria deve encaminhar a decisão administrativa final ao usuário no prazo de",
-    "alternativas": [
+    "topicSlug": "atendimento-cidadao-lei-13460",
+    "origin": "authored",
+    "statement": "Um cidadão apresentou reclamação à ouvidoria de um órgão municipal sobre a demora no atendimento. Segundo a Lei nº 13.460/2017, a ouvidoria deve encaminhar a decisão administrativa final ao usuário no prazo de",
+    "choices": [
       "10 dias, não prorrogável.",
       "20 dias, prorrogável por mais 10.",
       "30 dias, prorrogável de forma justificada uma única vez, por igual período.",
       "60 dias, prorrogável quantas vezes forem necessárias.",
       "90 dias, improrrogável."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O art. 16 fixa 30 dias, prorrogáveis de forma justificada uma única vez, por igual período. B: o prazo de 20 dias, prorrogável por 10, é o do pedido de acesso à informação da LAI (art. 11), com o qual não se deve confundir. A, D e E: não correspondem ao prazo legal."
+    "answerKey": 2,
+    "explanation": "Correta: C. O art. 16 fixa 30 dias, prorrogáveis de forma justificada uma única vez, por igual período. B: o prazo de 20 dias, prorrogável por 10, é o do pedido de acesso à informação da LAI (art. 11), com o qual não se deve confundir. A, D e E: não correspondem ao prazo legal."
   },
   {
     "id": "AP-ATEND-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "atendimento-cidadao-lei-13460",
-    "origem": "autoral",
-    "enunciado": "Um idoso compareceu ao balcão de atendimento da Câmara Municipal para apresentar uma sugestão verbalmente, pois tem dificuldade para escrever. De acordo com a Lei nº 13.460/2017, o servidor deve",
-    "alternativas": [
+    "topicSlug": "atendimento-cidadao-lei-13460",
+    "origin": "authored",
+    "statement": "Um idoso compareceu ao balcão de atendimento da Câmara Municipal para apresentar uma sugestão verbalmente, pois tem dificuldade para escrever. De acordo com a Lei nº 13.460/2017, o servidor deve",
+    "choices": [
       "recusar a manifestação, pois só se aceitam manifestações escritas.",
       "orientar o idoso a voltar com a manifestação por escrito e firma reconhecida.",
       "exigir que o idoso explique os motivos da sugestão para só então registrá-la.",
       "aceitar a manifestação e reduzi-la a termo.",
       "encaminhar o idoso à ouvidoria de outro município."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A manifestação pode ser feita por meio eletrônico, correspondência convencional ou verbalmente, hipótese em que deve ser reduzida a termo (art. 10, §4º). A: a recusa é vedada (art. 11). B: não se exige firma reconhecida. C: são vedadas exigências relativas aos motivos da manifestação (art. 10, §2º). E: não há razão para o encaminhamento."
+    "answerKey": 3,
+    "explanation": "Correta: D. A manifestação pode ser feita por meio eletrônico, correspondência convencional ou verbalmente, hipótese em que deve ser reduzida a termo (art. 10, §4º). A: a recusa é vedada (art. 11). B: não se exige firma reconhecida. C: são vedadas exigências relativas aos motivos da manifestação (art. 10, §2º). E: não há razão para o encaminhamento."
   },
   {
     "id": "AP-ATEND-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "atendimento-cidadao-lei-13460",
-    "origem": "autoral",
-    "enunciado": "Ao protocolar um requerimento, um usuário apresentou cópia simples de um documento e o original. O servidor, sem qualquer dúvida sobre a autenticidade, exigiu que o usuário fosse a um cartório reconhecer firma. Essa exigência contraria diretriz da Lei nº 13.460/2017, segundo a qual o atendimento deve observar",
-    "alternativas": [
+    "topicSlug": "atendimento-cidadao-lei-13460",
+    "origin": "authored",
+    "statement": "Ao protocolar um requerimento, um usuário apresentou cópia simples de um documento e o original. O servidor, sem qualquer dúvida sobre a autenticidade, exigiu que o usuário fosse a um cartório reconhecer firma. Essa exigência contraria diretriz da Lei nº 13.460/2017, segundo a qual o atendimento deve observar",
+    "choices": [
       "a autenticação de documentos pelo próprio agente público, à vista dos originais, vedado o reconhecimento de firma, salvo dúvida de autenticidade.",
       "a presunção de má-fé do usuário que apresenta cópia.",
       "o reconhecimento de firma como regra em todos os requerimentos.",
       "a exigência de duas testemunhas para autenticar qualquer documento.",
       "a obrigação de o usuário pagar taxa para autenticação."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O art. 5º, IX, determina a autenticação pelo agente à vista dos originais e veda o reconhecimento de firma, salvo dúvida de autenticidade. B: a lei prevê presunção de boa-fé (art. 5º, II). C, D e E: contrariam a diretriz de eliminação de formalidades e a vedação de exigências não previstas em lei."
+    "answerKey": 0,
+    "explanation": "Correta: A. O art. 5º, IX, determina a autenticação pelo agente à vista dos originais e veda o reconhecimento de firma, salvo dúvida de autenticidade. B: a lei prevê presunção de boa-fé (art. 5º, II). C, D e E: contrariam a diretriz de eliminação de formalidades e a vedação de exigências não previstas em lei."
   },
   {
     "id": "AP-ATEND-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "atendimento-cidadao-lei-13460",
-    "origem": "autoral",
-    "enunciado": "O instrumento que tem por objetivo informar o usuário sobre os serviços prestados pelo órgão, as formas de acesso a esses serviços e seus compromissos e padrões de qualidade de atendimento ao público é o(a)",
-    "alternativas": [
+    "topicSlug": "atendimento-cidadao-lei-13460",
+    "origin": "authored",
+    "statement": "O instrumento que tem por objetivo informar o usuário sobre os serviços prestados pelo órgão, as formas de acesso a esses serviços e seus compromissos e padrões de qualidade de atendimento ao público é o(a)",
+    "choices": [
       "Relatório de Gestão da Ouvidoria.",
       "Quadro Geral de Servidores.",
       "Carta de Serviços ao Usuário.",
       "Edital de Convocação.",
       "Plano Plurianual."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O art. 7º, §1º, define esse objetivo para a Carta de Serviços ao Usuário. A: o relatório anual da ouvidoria consolida manifestações e aponta falhas e melhorias (arts. 14 e 15). B, D e E: não são instrumentos de informação do usuário sobre serviços e padrões de atendimento."
+    "answerKey": 2,
+    "explanation": "Correta: C. O art. 7º, §1º, define esse objetivo para a Carta de Serviços ao Usuário. A: o relatório anual da ouvidoria consolida manifestações e aponta falhas e melhorias (arts. 14 e 15). B, D e E: não são instrumentos de informação do usuário sobre serviços e padrões de atendimento."
   },
   {
     "id": "AP-ATEND-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "atendimento-cidadao-lei-13460",
-    "origem": "autoral",
-    "enunciado": "Na recepção de um órgão público, havia uma fila por ordem de chegada. Chegaram, nessa ordem, um jovem sem qualquer condição especial, depois uma gestante. Conforme a Lei nº 13.460/2017, o atendimento por ordem de chegada",
-    "alternativas": [
+    "topicSlug": "atendimento-cidadao-lei-13460",
+    "origin": "authored",
+    "statement": "Na recepção de um órgão público, havia uma fila por ordem de chegada. Chegaram, nessa ordem, um jovem sem qualquer condição especial, depois uma gestante. Conforme a Lei nº 13.460/2017, o atendimento por ordem de chegada",
+    "choices": [
       "admite prioridade legal às gestantes, às pessoas com deficiência, aos idosos, às lactantes e às pessoas acompanhadas por crianças de colo.",
       "é absoluto e não admite nenhuma exceção.",
       "dá prioridade apenas a quem tem cargo público.",
       "admite prioridade a quem tiver maior renda.",
       "só é obrigatório em órgãos federais."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O art. 5º, III, estabelece o atendimento por ordem de chegada, ressalvadas urgência e agendamento, e assegura as prioridades legais a pessoas com deficiência, idosos, gestantes, lactantes e pessoas acompanhadas por crianças de colo. B: há exceções. C e D: critérios discriminatórios, vedados pela igualdade no tratamento (art. 5º, V). E: a lei se aplica também a Estados, DF e Municípios (art. 1º, §1º)."
+    "answerKey": 0,
+    "explanation": "Correta: A. O art. 5º, III, estabelece o atendimento por ordem de chegada, ressalvadas urgência e agendamento, e assegura as prioridades legais a pessoas com deficiência, idosos, gestantes, lactantes e pessoas acompanhadas por crianças de colo. B: há exceções. C e D: critérios discriminatórios, vedados pela igualdade no tratamento (art. 5º, V). E: a lei se aplica também a Estados, DF e Municípios (art. 1º, §1º)."
   }
 ]

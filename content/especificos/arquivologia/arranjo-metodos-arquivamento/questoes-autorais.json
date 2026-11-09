@@ -3,85 +3,85 @@
     "id": "ARQ-MET-A1",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "arranjo-metodos-arquivamento",
-    "origem": "autoral",
-    "enunciado": "O método de arquivamento que organiza os documentos pelo nome de pessoas ou de entidades, em ordem alfabética, é o",
-    "alternativas": [
+    "topicSlug": "arranjo-metodos-arquivamento",
+    "origin": "authored",
+    "statement": "O método de arquivamento que organiza os documentos pelo nome de pessoas ou de entidades, em ordem alfabética, é o",
+    "choices": [
       "alfabético.",
       "geográfico.",
       "numérico simples.",
       "cronológico.",
       "dígito-terminal."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O método alfabético (onomástico) ordena pelo nome. B: geográfico ordena por local. C: numérico simples ordena por número. D: cronológico ordena por data. E: dígito-terminal é variação do numérico."
+    "answerKey": 0,
+    "explanation": "Correta: A. O método alfabético (onomástico) ordena pelo nome. B: geográfico ordena por local. C: numérico simples ordena por número. D: cronológico ordena por data. E: dígito-terminal é variação do numérico."
   },
   {
     "id": "ARQ-MET-A2",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "arranjo-metodos-arquivamento",
-    "origem": "autoral",
-    "enunciado": "Um setor recebe correspondência de diversos municípios e precisa localizar os documentos pela cidade de origem. O método mais adequado, entre os abaixo, é o",
-    "alternativas": [
+    "topicSlug": "arranjo-metodos-arquivamento",
+    "origin": "authored",
+    "statement": "Um setor recebe correspondência de diversos municípios e precisa localizar os documentos pela cidade de origem. O método mais adequado, entre os abaixo, é o",
+    "choices": [
       "alfabético por prenome.",
       "numérico simples sem índice.",
       "geográfico.",
       "ideográfico por assunto.",
       "dígito-terminal."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O método geográfico organiza por local de origem ou destino. A: ordena por nome. B: o numérico sem índice dificulta a busca por cidade. D: ordena por assunto. E: é um método numérico."
+    "answerKey": 2,
+    "explanation": "Correta: C. O método geográfico organiza por local de origem ou destino. A: ordena por nome. B: o numérico sem índice dificulta a busca por cidade. D: ordena por assunto. E: é um método numérico."
   },
   {
     "id": "ARQ-MET-A3",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "arranjo-metodos-arquivamento",
-    "origem": "autoral",
-    "enunciado": "No método numérico simples, para que o documento possa ser localizado pelo nome do interessado, é necessário manter",
-    "alternativas": [
+    "topicSlug": "arranjo-metodos-arquivamento",
+    "origin": "authored",
+    "statement": "No método numérico simples, para que o documento possa ser localizado pelo nome do interessado, é necessário manter",
+    "choices": [
       "apenas a ordem das datas.",
       "somente o código de barras.",
       "dois arquivos idênticos.",
       "a eliminação periódica dos documentos.",
       "um índice alfabético remissivo."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O método numérico exige um índice alfabético para relacionar o nome ao número. As demais alternativas não resolvem a busca pelo nome."
+    "answerKey": 4,
+    "explanation": "Correta: E. O método numérico exige um índice alfabético para relacionar o nome ao número. As demais alternativas não resolvem a busca pelo nome."
   },
   {
     "id": "ARQ-MET-A4",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "arranjo-metodos-arquivamento",
-    "origem": "autoral",
-    "enunciado": "O método de arquivamento que organiza os documentos pelo assunto, geralmente a partir de um plano de classificação com códigos, é o",
-    "alternativas": [
+    "topicSlug": "arranjo-metodos-arquivamento",
+    "origin": "authored",
+    "statement": "O método de arquivamento que organiza os documentos pelo assunto, geralmente a partir de um plano de classificação com códigos, é o",
+    "choices": [
       "geográfico.",
       "ideográfico.",
       "onomástico.",
       "cronológico simples.",
       "alfabético por sobrenome."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O método ideográfico (por assunto) usa um plano de classificação com códigos. A: ordena por local. C e E: ordenam por nome. D: ordena por data."
+    "answerKey": 1,
+    "explanation": "Correta: B. O método ideográfico (por assunto) usa um plano de classificação com códigos. A: ordena por local. C e E: ordenam por nome. D: ordena por data."
   },
   {
     "id": "ARQ-MET-A5",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "arranjo-metodos-arquivamento",
-    "origem": "autoral",
-    "enunciado": "O método em que o número é lido da direita para a esquerda, em grupos de dois dígitos, é uma variação do método numérico denominada",
-    "alternativas": [
+    "topicSlug": "arranjo-metodos-arquivamento",
+    "origin": "authored",
+    "statement": "O método em que o número é lido da direita para a esquerda, em grupos de dois dígitos, é uma variação do método numérico denominada",
+    "choices": [
       "numérico simples.",
       "cronológico.",
       "mnemônico.",
       "dígito-terminal.",
       "geográfico."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O dígito-terminal lê o número da direita para a esquerda, em grupos de dois dígitos. A: o numérico simples segue a ordem numérica. B: ordena por data. C: não é a variação descrita. E: não é numérico."
+    "answerKey": 3,
+    "explanation": "Correta: D. O dígito-terminal lê o número da direita para a esquerda, em grupos de dois dígitos. A: o numérico simples segue a ordem numérica. B: ordena por data. C: não é a variação descrita. E: não é numérico."
   }
 ]

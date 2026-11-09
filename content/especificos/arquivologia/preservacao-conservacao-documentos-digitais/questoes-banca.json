@@ -3,24 +3,24 @@
     "id": "B-TREM-24",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "preservacao-conservacao-documentos-digitais",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 24,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "preservacao-conservacao-documentos-digitais",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 24,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Com o avanço da tecnologia, as organizações públicas ou privadas estão adotando diferentes tipos de arquivos, migrando do formato físico tradicional para o digital. Os arquivos eletrônicos podem assumir vários formatos para uso de documentos, imagens, vídeos e áudio. É correto afirmar que, dentre os formatos mais comuns, destacam-se:",
-    "alternativas": [
+    "statement": "Com o avanço da tecnologia, as organizações públicas ou privadas estão adotando diferentes tipos de arquivos, migrando do formato físico tradicional para o digital. Os arquivos eletrônicos podem assumir vários formatos para uso de documentos, imagens, vídeos e áudio. É correto afirmar que, dentre os formatos mais comuns, destacam-se:",
+    "choices": [
       "DOC, DHTML RAM, HDMI.",
       "PNG, URI, TEXT, MOV.",
       "DOCX, PDF, JPG, MP3.",
       "SVG, VGA, EXE, FLAC.",
       "HTTP, DCMI, APP, DAT."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. DOCX (documento de texto), PDF (documento), JPG (imagem) e MP3 (áudio) são formatos de arquivo. Nas demais há itens que não são formatos de documento, imagem, vídeo ou áudio: RAM (memória) e HDMI (conexão) em A; URI (endereço) em B; VGA (conexão) e EXE (programa) em D; HTTP (protocolo) em E."
+    "answerKey": 2,
+    "explanation": "Correta: C. DOCX (documento de texto), PDF (documento), JPG (imagem) e MP3 (áudio) são formatos de arquivo. Nas demais há itens que não são formatos de documento, imagem, vídeo ou áudio: RAM (memória) e HDMI (conexão) em A; URI (endereço) em B; VGA (conexão) e EXE (programa) em D; HTTP (protocolo) em E."
   }
 ]

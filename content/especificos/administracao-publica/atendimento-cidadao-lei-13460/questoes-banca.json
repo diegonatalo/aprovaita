@@ -3,24 +3,24 @@
     "id": "B-SJRP-43",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "atendimento-cidadao-lei-13460",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 43,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "atendimento-cidadao-lei-13460",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 43,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Entidades e órgãos públicos dos três entes federativos devem disponibilizar informações aos usuários sobre os serviços prestados, as formas de acesso a esses serviços e seus compromissos e padrões de qualidade de atendimento ao público por meio do documento denominado",
-    "alternativas": [
+    "statement": "Entidades e órgãos públicos dos três entes federativos devem disponibilizar informações aos usuários sobre os serviços prestados, as formas de acesso a esses serviços e seus compromissos e padrões de qualidade de atendimento ao público por meio do documento denominado",
+    "choices": [
       "Relatório das Ouvidorias Públicas.",
       "Sistema de Informações ao Cidadão (SIC).",
       "Sistema Eletrônico de Informações (SEI).",
       "Carta de Serviços ao Usuário (CSU).",
       "Sistema de Gestão de Documentos e Arquivos (Siga)."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A Carta de Serviços ao Usuário (Lei 13.460/2017, art. 7º) informa os serviços prestados, as formas de acesso e os compromissos e padrões de qualidade do atendimento. SIC é o serviço de acesso à informação; SEI e Siga são sistemas de gestão de processos e documentos."
+    "answerKey": 3,
+    "explanation": "Correta: D. A Carta de Serviços ao Usuário (Lei 13.460/2017, art. 7º) informa os serviços prestados, as formas de acesso e os compromissos e padrões de qualidade do atendimento. SIC é o serviço de acesso à informação; SEI e Siga são sistemas de gestão de processos e documentos."
   }
 ]

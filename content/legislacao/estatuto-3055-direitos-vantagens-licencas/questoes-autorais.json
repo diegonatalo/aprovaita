@@ -2,81 +2,81 @@
   {
     "id": "LEG-E2-A1",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-direitos-vantagens-licencas",
-    "origem": "autoral",
-    "enunciado": "Segundo a Lei Municipal nº 3.055/2004, a gratificação natalina deve ser paga até o dia",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-direitos-vantagens-licencas",
+    "origin": "authored",
+    "statement": "Segundo a Lei Municipal nº 3.055/2004, a gratificação natalina deve ser paga até o dia",
+    "choices": [
       "10 de dezembro.",
       "20 de dezembro.",
       "30 de dezembro.",
       "15 de dezembro.",
       "5 de dezembro."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o art. 56: a gratificação natalina é paga até o dia 20 de dezembro de cada ano. As demais alternativas apresentam datas que a lei não prevê."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o art. 56: a gratificação natalina é paga até o dia 20 de dezembro de cada ano. As demais alternativas apresentam datas que a lei não prevê."
   },
   {
     "id": "LEG-E2-A2",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-direitos-vantagens-licencas",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei nº 3.055/2004, por ocasião das férias, será pago ao servidor, independentemente de solicitação, um adicional correspondente a",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-direitos-vantagens-licencas",
+    "origin": "authored",
+    "statement": "De acordo com a Lei nº 3.055/2004, por ocasião das férias, será pago ao servidor, independentemente de solicitação, um adicional correspondente a",
+    "choices": [
       "um terço da remuneração do período de férias.",
       "25% da remuneração do período de férias.",
       "50% da remuneração do período de férias.",
       "35% da remuneração do período de férias.",
       "100% da remuneração do período de férias."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, conforme o art. 66 da lei municipal, que fixa 35% da remuneração do período de férias. As demais alternativas apresentam percentuais diferentes do texto lido."
+    "answerKey": 3,
+    "explanation": "Correta: D, conforme o art. 66 da lei municipal, que fixa 35% da remuneração do período de férias. As demais alternativas apresentam percentuais diferentes do texto lido."
   },
   {
     "id": "LEG-E2-A3",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-direitos-vantagens-licencas",
-    "origem": "autoral",
-    "enunciado": "Pelo nascimento de filho, o servidor tem direito, nos termos da Lei nº 3.055/2004, à licença-paternidade de",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-direitos-vantagens-licencas",
+    "origin": "authored",
+    "statement": "Pelo nascimento de filho, o servidor tem direito, nos termos da Lei nº 3.055/2004, à licença-paternidade de",
+    "choices": [
       "cinco dias consecutivos.",
       "três dias consecutivos.",
       "dez dias consecutivos.",
       "quinze dias consecutivos.",
       "trinta dias consecutivos."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 81-B, incluído pela Lei 4.018/2015: cinco dias consecutivos. As demais alternativas apresentam prazos que a lei lida não prevê."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 81-B, incluído pela Lei 4.018/2015: cinco dias consecutivos. As demais alternativas apresentam prazos que a lei lida não prevê."
   },
   {
     "id": "LEG-E2-A4",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-direitos-vantagens-licencas",
-    "origem": "autoral",
-    "enunciado": "Conforme a Lei nº 3.055/2004, a licença-prêmio consiste em",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-direitos-vantagens-licencas",
+    "origin": "authored",
+    "statement": "Conforme a Lei nº 3.055/2004, a licença-prêmio consiste em",
+    "choices": [
       "um mês de afastamento a cada três anos de exercício.",
       "dois meses de afastamento a cada cinco anos de exercício.",
       "três meses de afastamento a cada três anos de exercício.",
       "seis meses de afastamento a cada dez anos de exercício.",
       "três meses de afastamento remunerado após cada período de cinco anos de efetivo exercício."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E, conforme o art. 69: três meses de afastamento remunerado após cada período de cinco anos de efetivo exercício. As demais alternativas alteram o tempo de afastamento ou o período aquisitivo."
+    "answerKey": 4,
+    "explanation": "Correta: E, conforme o art. 69: três meses de afastamento remunerado após cada período de cinco anos de efetivo exercício. As demais alternativas alteram o tempo de afastamento ou o período aquisitivo."
   },
   {
     "id": "LEG-E2-A5",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-direitos-vantagens-licencas",
-    "origem": "autoral",
-    "enunciado": "À servidora gestante será concedida, mediante inspeção médica, licença sem prejuízo da remuneração, por",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-direitos-vantagens-licencas",
+    "origin": "authored",
+    "statement": "À servidora gestante será concedida, mediante inspeção médica, licença sem prejuízo da remuneração, por",
+    "choices": [
       "cento e vinte dias consecutivos.",
       "cento e cinquenta dias consecutivos.",
       "cento e oitenta dias consecutivos.",
       "noventa dias consecutivos.",
       "sessenta dias consecutivos."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 81-A, incluído pela Lei 4.018/2015: cento e oitenta dias consecutivos. Cento e vinte dias é o prazo da licença por adoção (art. 81-D)."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 81-A, incluído pela Lei 4.018/2015: cento e oitenta dias consecutivos. Cento e vinte dias é o prazo da licença por adoção (art. 81-D)."
   }
 ]

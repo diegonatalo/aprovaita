@@ -1,18 +1,18 @@
 import { Backup } from "@/components/backup";
-import { PainelProgresso } from "@/components/painel-progresso";
-import { listarTopicos } from "@/lib/content";
+import { ProgressPanel } from "@/components/progress-panel";
+import { listTopics } from "@/lib/content";
 
-export default function Progresso() {
-  const topicos = listarTopicos().map((t) => ({
-    chave: `${t.area}/${t.slug}`,
+export default function Progress() {
+  const topics = listTopics().map((t) => ({
+    topicKey: `${t.area}/${t.slug}`,
     area: t.area,
     slug: t.slug,
-    titulo: t.titulo,
+    title: t.title,
   }));
   return (
     <div className="space-y-6">
       <h1 className="font-display text-3xl font-extrabold">Progresso</h1>
-      <PainelProgresso topicos={topicos} />
+      <ProgressPanel topics={topics} />
       <Backup />
     </div>
   );

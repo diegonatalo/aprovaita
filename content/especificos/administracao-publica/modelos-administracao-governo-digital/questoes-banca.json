@@ -3,96 +3,96 @@
     "id": "B-PAUL-39",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 39,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 39,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Na Administração Pública, a necessidade de substituir a forma de ocupação de cargos públicos por meio de sinecuras e prebendas para critérios meritocráticos surge a partir do paradigma",
-    "alternativas": [
+    "statement": "Na Administração Pública, a necessidade de substituir a forma de ocupação de cargos públicos por meio de sinecuras e prebendas para critérios meritocráticos surge a partir do paradigma",
+    "choices": [
       "patrimonialista.",
       "burocrático.",
       "gerencial.",
       "da governança pública.",
       "do estado de bem-estar social."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O modelo burocrático surgiu para combater o patrimonialismo, substituindo favores e cargos como benesse (sinecuras, prebendas) por profissionalização, impessoalidade e mérito. O patrimonialista é justamente o modelo que se quer superar."
+    "answerKey": 1,
+    "explanation": "Correta: B. O modelo burocrático surgiu para combater o patrimonialismo, substituindo favores e cargos como benesse (sinecuras, prebendas) por profissionalização, impessoalidade e mérito. O patrimonialista é justamente o modelo que se quer superar."
   },
   {
     "id": "B-VAAL-36",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 36,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 36,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Considerando o conceito de governança pública e suas implicações para o poder público local, assinale a alternativa correta.",
-    "alternativas": [
+    "statement": "Considerando o conceito de governança pública e suas implicações para o poder público local, assinale a alternativa correta.",
+    "choices": [
       "Os mecanismos de liderança, estratégia e controle devem estar em consonância com os planos municipais, visando aprimorar a instituição conforme seu objetivo público.",
       "A boa governança das organizações públicas pressupõe a separação entre técnica e política, preservando as decisões administrativas.",
       "A governança pública no âmbito municipal diz respeito à condição político-parlamentar, ou seja, a como o chefe do executivo se relaciona com os membros do legislativo.",
       "O relacionamento entre atores estatais e não estatais deve ser evitado em nome da boa governança, preservando a legalidade dos processos públicos.",
       "O conceito de governança horizontal está relacionado ao sistema de freios e contrapesos existente entre poderes executivo e legislativo."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Liderança, estratégia e controle são os mecanismos de governança, que devem estar alinhados aos planos para melhorar a instituição. C reduz governança à relação entre Executivo e Legislativo. D inverte: a governança valoriza a interação com atores não estatais. E confunde governança horizontal com freios e contrapesos. B afirma uma separação entre técnica e política que não é premissa da governança."
+    "answerKey": 0,
+    "explanation": "Correta: A. Liderança, estratégia e controle são os mecanismos de governança, que devem estar alinhados aos planos para melhorar a instituição. C reduz governança à relação entre Executivo e Legislativo. D inverte: a governança valoriza a interação com atores não estatais. E confunde governança horizontal com freios e contrapesos. B afirma uma separação entre técnica e política que não é premissa da governança."
   },
   {
     "id": "B-VAAL-41",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 41,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 41,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O Plano Diretor da Reforma do Aparelho do Estado (1995) foi um marco para as transformações da administração pública, sobretudo a partir do arcabouço legal promovido pela Emenda Constitucional nº 19.\n\nAssinale a alternativa que apresenta uma inovação relacionada à nova arquitetura organizacional proposta pela legislação.",
-    "alternativas": [
+    "statement": "O Plano Diretor da Reforma do Aparelho do Estado (1995) foi um marco para as transformações da administração pública, sobretudo a partir do arcabouço legal promovido pela Emenda Constitucional nº 19.\n\nAssinale a alternativa que apresenta uma inovação relacionada à nova arquitetura organizacional proposta pela legislação.",
+    "choices": [
       "Autarquias.",
       "Agências executivas.",
       "Fundações públicas.",
       "Sociedades de economia mista.",
       "Empresas públicas."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. As agências executivas (autarquias ou fundações qualificadas por contrato de gestão) foram novidade da reforma gerencial de 1995. Autarquias, fundações públicas, sociedades de economia mista e empresas públicas já existiam antes."
+    "answerKey": 1,
+    "explanation": "Correta: B. As agências executivas (autarquias ou fundações qualificadas por contrato de gestão) foram novidade da reforma gerencial de 1995. Autarquias, fundações públicas, sociedades de economia mista e empresas públicas já existiam antes."
   },
   {
     "id": "B-VAAL-42",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "modelos-administracao-governo-digital",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 42,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "modelos-administracao-governo-digital",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 42,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Leia o trecho a seguir.\n\n“(...) promover a racionalização burocrática do serviço público, por meio da padronização, normatização e implantação de mecanismos de controle, notadamente nas áreas de pessoal, material e finanças.” *(Costa, 2008, p. 844)*\n\nAs ações do trecho apresentado referem-se ao seguinte período:",
-    "alternativas": [
+    "statement": "Leia o trecho a seguir.\n\n“(...) promover a racionalização burocrática do serviço público, por meio da padronização, normatização e implantação de mecanismos de controle, notadamente nas áreas de pessoal, material e finanças.” *(Costa, 2008, p. 844)*\n\nAs ações do trecho apresentado referem-se ao seguinte período:",
+    "choices": [
       "burocratização, do período varguista.",
       "desestatização, do período militar.",
       "gerencialismo, da Reforma Bresser.",
       "estado patrimonialista, do período colonial.",
       "governança pública, do estado contemporâneo."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Padronização, normatização e controle de pessoal, material e finanças são marcas do modelo burocrático, implantado no Brasil nos anos 1930, na era Vargas. O gerencialismo (Reforma Bresser) busca flexibilizar controles e focar em resultados."
+    "answerKey": 0,
+    "explanation": "Correta: A. Padronização, normatização e controle de pessoal, material e finanças são marcas do modelo burocrático, implantado no Brasil nos anos 1930, na era Vargas. O gerencialismo (Reforma Bresser) busca flexibilizar controles e focar em resultados."
   }
 ]

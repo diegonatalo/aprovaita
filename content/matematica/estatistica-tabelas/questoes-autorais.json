@@ -2,81 +2,81 @@
   {
     "id": "MAT-EST-A1",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "autoral",
-    "enunciado": "A média aritmética dos números 6, 8, 10, 12 e 14 é",
-    "alternativas": [
+    "topicSlug": "estatistica-tabelas",
+    "origin": "authored",
+    "statement": "A média aritmética dos números 6, 8, 10, 12 e 14 é",
+    "choices": [
       "8.",
       "9.",
       "10.",
       "11.",
       "12."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A soma é 50, e 50/5 = 10. As demais alternativas não resultam do cálculo."
+    "answerKey": 2,
+    "explanation": "Correta: C. A soma é 50, e 50/5 = 10. As demais alternativas não resultam do cálculo."
   },
   {
     "id": "MAT-EST-A2",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "autoral",
-    "enunciado": "A mediana do conjunto de valores 3, 9, 5, 7 e 11 é",
-    "alternativas": [
+    "topicSlug": "estatistica-tabelas",
+    "origin": "authored",
+    "statement": "A mediana do conjunto de valores 3, 9, 5, 7 e 11 é",
+    "choices": [
       "5.",
       "6.",
       "9.",
       "3.",
       "7."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Ordenando, 3, 5, 7, 9, 11, o valor central é 7. A: é o segundo valor. C: é o quarto valor. D: é o menor. B: é a média aritmética de 3 e 9, que não é a mediana."
+    "answerKey": 4,
+    "explanation": "Correta: E. Ordenando, 3, 5, 7, 9, 11, o valor central é 7. A: é o segundo valor. C: é o quarto valor. D: é o menor. B: é a média aritmética de 3 e 9, que não é a mediana."
   },
   {
     "id": "MAT-EST-A3",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "autoral",
-    "enunciado": "A moda do conjunto 2, 3, 3, 4, 5, 3, 6 é",
-    "alternativas": [
+    "topicSlug": "estatistica-tabelas",
+    "origin": "authored",
+    "statement": "A moda do conjunto 2, 3, 3, 4, 5, 3, 6 é",
+    "choices": [
       "2.",
       "3.",
       "4.",
       "5.",
       "6."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O valor 3 aparece três vezes, mais que qualquer outro, e por isso é a moda. As demais alternativas aparecem apenas uma vez."
+    "answerKey": 1,
+    "explanation": "Correta: B. O valor 3 aparece três vezes, mais que qualquer outro, e por isso é a moda. As demais alternativas aparecem apenas uma vez."
   },
   {
     "id": "MAT-EST-A4",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "autoral",
-    "enunciado": "Em uma avaliação, a prova teórica tem peso 2 e a prova prática tem peso 3. Um candidato tirou 6 na teórica e 9 na prática. Sua média ponderada é",
-    "alternativas": [
+    "topicSlug": "estatistica-tabelas",
+    "origin": "authored",
+    "statement": "Em uma avaliação, a prova teórica tem peso 2 e a prova prática tem peso 3. Um candidato tirou 6 na teórica e 9 na prática. Sua média ponderada é",
+    "choices": [
       "7,8.",
       "7,5.",
       "8,0.",
       "7,0.",
       "8,5."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. (6 × 2 + 9 × 3)/(2 + 3) = 39/5 = 7,8. B: é a média simples de 6 e 9. As demais alternativas não resultam do cálculo."
+    "answerKey": 0,
+    "explanation": "Correta: A. (6 × 2 + 9 × 3)/(2 + 3) = 39/5 = 7,8. B: é a média simples de 6 e 9. As demais alternativas não resultam do cálculo."
   },
   {
     "id": "MAT-EST-A5",
     "area": "matematica",
-    "topicoSlug": "estatistica-tabelas",
-    "origem": "autoral",
-    "enunciado": "Uma tabela mostra o número de atendimentos de uma semana: segunda, 40; terça, 55; quarta, 45; quinta, 60; sexta, 50. A média diária de atendimentos foi de",
-    "alternativas": [
+    "topicSlug": "estatistica-tabelas",
+    "origin": "authored",
+    "statement": "Uma tabela mostra o número de atendimentos de uma semana: segunda, 40; terça, 55; quarta, 45; quinta, 60; sexta, 50. A média diária de atendimentos foi de",
+    "choices": [
       "45.",
       "48.",
       "52.",
       "50.",
       "55."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A soma é 40 + 55 + 45 + 60 + 50 = 250, e 250/5 = 50. As demais alternativas não resultam do cálculo."
+    "answerKey": 3,
+    "explanation": "Correta: D. A soma é 40 + 55 + 45 + 60 + 50 = 250, e 250/5 = 50. As demais alternativas não resultam do cálculo."
   }
 ]

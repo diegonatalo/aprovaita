@@ -3,85 +3,85 @@
     "id": "ARQ-PRES-A1",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "preservacao-conservacao-documentos-digitais",
-    "origem": "autoral",
-    "enunciado": "O conjunto de ações preventivas que reduzem a deterioração dos documentos, como o controle do ambiente e do manuseio, caracteriza a",
-    "alternativas": [
+    "topicSlug": "preservacao-conservacao-documentos-digitais",
+    "origin": "authored",
+    "statement": "O conjunto de ações preventivas que reduzem a deterioração dos documentos, como o controle do ambiente e do manuseio, caracteriza a",
+    "choices": [
       "restauração.",
       "eliminação.",
       "classificação.",
       "avaliação.",
       "conservação preventiva."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A conservação preventiva atua sobre o ambiente, o armazenamento e o manuseio, antes do dano. A: restauração é intervenção direta no documento danificado. B: eliminação é a destruição. C e D: são funções arquivísticas diversas."
+    "answerKey": 4,
+    "explanation": "Correta: E. A conservação preventiva atua sobre o ambiente, o armazenamento e o manuseio, antes do dano. A: restauração é intervenção direta no documento danificado. B: eliminação é a destruição. C e D: são funções arquivísticas diversas."
   },
   {
     "id": "ARQ-PRES-A2",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "preservacao-conservacao-documentos-digitais",
-    "origem": "autoral",
-    "enunciado": "São exemplos de agentes biológicos de deterioração de documentos em papel:",
-    "alternativas": [
+    "topicSlug": "preservacao-conservacao-documentos-digitais",
+    "origin": "authored",
+    "statement": "São exemplos de agentes biológicos de deterioração de documentos em papel:",
+    "choices": [
       "luz solar e calor.",
       "fungos, insetos e roedores.",
       "acidez e oxidação de metais.",
       "poeira e fuligem.",
       "dobras e rasgos por manuseio."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Fungos, insetos e roedores são agentes biológicos. A e D: são agentes físicos. C: são agentes químicos. E: são danos por ação humana (manuseio inadequado)."
+    "answerKey": 1,
+    "explanation": "Correta: B. Fungos, insetos e roedores são agentes biológicos. A e D: são agentes físicos. C: são agentes químicos. E: são danos por ação humana (manuseio inadequado)."
   },
   {
     "id": "ARQ-PRES-A3",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "preservacao-conservacao-documentos-digitais",
-    "origem": "autoral",
-    "enunciado": "Para a boa conservação de documentos de papel, é recomendável evitar o uso de",
-    "alternativas": [
+    "topicSlug": "preservacao-conservacao-documentos-digitais",
+    "origin": "authored",
+    "statement": "Para a boa conservação de documentos de papel, é recomendável evitar o uso de",
+    "choices": [
       "pastas sem ácido.",
       "ambientes limpos e ventilados.",
       "caixas de arquivo adequadas.",
       "clipes e grampos metálicos, que podem oxidar.",
       "plano de emergência contra incêndio."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Clipes e grampos metálicos oxidam e deixam manchas e danos no papel. As demais alternativas são práticas recomendadas de conservação."
+    "answerKey": 3,
+    "explanation": "Correta: D. Clipes e grampos metálicos oxidam e deixam manchas e danos no papel. As demais alternativas são práticas recomendadas de conservação."
   },
   {
     "id": "ARQ-PRES-A4",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "preservacao-conservacao-documentos-digitais",
-    "origem": "autoral",
-    "enunciado": "A qualidade de um documento digital ser aquilo que afirma ser, produzido por quem diz tê-lo produzido e sem adulteração, denomina-se",
-    "alternativas": [
+    "topicSlug": "preservacao-conservacao-documentos-digitais",
+    "origin": "authored",
+    "statement": "A qualidade de um documento digital ser aquilo que afirma ser, produzido por quem diz tê-lo produzido e sem adulteração, denomina-se",
+    "choices": [
       "autenticidade.",
       "obsolescência.",
       "migração.",
       "tramitação.",
       "transferência."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Autenticidade é a qualidade de o documento ser o que afirma ser, sem adulteração. B: obsolescência é a perda de utilidade de tecnologias. C: migração é a conversão para formatos ou suportes atuais. D e E: são movimentações de documentos."
+    "answerKey": 0,
+    "explanation": "Correta: A. Autenticidade é a qualidade de o documento ser o que afirma ser, sem adulteração. B: obsolescência é a perda de utilidade de tecnologias. C: migração é a conversão para formatos ou suportes atuais. D e E: são movimentações de documentos."
   },
   {
     "id": "ARQ-PRES-A5",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "preservacao-conservacao-documentos-digitais",
-    "origem": "autoral",
-    "enunciado": "Para enfrentar a obsolescência tecnológica de formatos e mídias, uma estratégia de preservação de documentos digitais é a",
-    "alternativas": [
+    "topicSlug": "preservacao-conservacao-documentos-digitais",
+    "origin": "authored",
+    "statement": "Para enfrentar a obsolescência tecnológica de formatos e mídias, uma estratégia de preservação de documentos digitais é a",
+    "choices": [
       "eliminação dos documentos mais antigos.",
       "impressão obrigatória de todos os documentos, dispensando o digital.",
       "migração para formatos e suportes atuais, preservando autenticidade e integridade.",
       "manutenção de um único exemplar em mídia removível.",
       "renomeação dos arquivos a cada acesso."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A migração converte os documentos para formatos e suportes atuais, mantendo autenticidade e integridade. A: eliminar contraria a preservação. B: não é solução geral. D: um único exemplar em mídia removível é prática de risco. E: não trata da obsolescência."
+    "answerKey": 2,
+    "explanation": "Correta: C. A migração converte os documentos para formatos e suportes atuais, mantendo autenticidade e integridade. A: eliminar contraria a preservação. B: não é solução geral. D: um único exemplar em mídia removível é prática de risco. E: não trata da obsolescência."
   }
 ]

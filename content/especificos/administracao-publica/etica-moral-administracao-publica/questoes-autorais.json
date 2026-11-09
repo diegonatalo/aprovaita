@@ -3,85 +3,85 @@
     "id": "AP-ETICA-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "etica-moral-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Um agente público contratou, por meio de procedimento formalmente regular, uma empresa de um antigo sócio, sabendo que outra proposta era claramente mais vantajosa e que a escolha só beneficiava o amigo. Embora o procedimento tenha sido regular na forma, a conduta fere, sobretudo, o princípio da",
-    "alternativas": [
+    "topicSlug": "etica-moral-administracao-publica",
+    "origin": "authored",
+    "statement": "Um agente público contratou, por meio de procedimento formalmente regular, uma empresa de um antigo sócio, sabendo que outra proposta era claramente mais vantajosa e que a escolha só beneficiava o amigo. Embora o procedimento tenha sido regular na forma, a conduta fere, sobretudo, o princípio da",
+    "choices": [
       "publicidade.",
       "continuidade.",
       "moralidade.",
       "razoabilidade.",
       "autotutela."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A moralidade exige honestidade, boa-fé e escolha pelo bem comum, mesmo que a forma seja legal. O Decreto 1.171/1994 afirma que o servidor deve decidir entre o honesto e o desonesto, e não só entre o legal e o ilegal. A: não há falha de divulgação descrita. B: não houve interrupção de serviço. D: o enunciado destaca favorecimento desonesto, não excesso ou desproporção da medida. E: autotutela é revisão dos próprios atos."
+    "answerKey": 2,
+    "explanation": "Correta: C. A moralidade exige honestidade, boa-fé e escolha pelo bem comum, mesmo que a forma seja legal. O Decreto 1.171/1994 afirma que o servidor deve decidir entre o honesto e o desonesto, e não só entre o legal e o ilegal. A: não há falha de divulgação descrita. B: não houve interrupção de serviço. D: o enunciado destaca favorecimento desonesto, não excesso ou desproporção da medida. E: autotutela é revisão dos próprios atos."
   },
   {
     "id": "AP-ETICA-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "etica-moral-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Segundo o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994), o servidor público não terá que decidir somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas principalmente entre",
-    "alternativas": [
+    "topicSlug": "etica-moral-administracao-publica",
+    "origin": "authored",
+    "statement": "Segundo o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994), o servidor público não terá que decidir somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas principalmente entre",
+    "choices": [
       "o rápido e o lento.",
       "o honesto e o desonesto.",
       "o barato e o caro.",
       "o moderno e o ultrapassado.",
       "o simples e o complexo."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O item II da Seção I do Decreto 1.171/1994 diz que o servidor deve decidir principalmente entre o honesto e o desonesto. A, C, D e E: são critérios de gestão que não aparecem nessa passagem."
+    "answerKey": 1,
+    "explanation": "Correta: B. O item II da Seção I do Decreto 1.171/1994 diz que o servidor deve decidir principalmente entre o honesto e o desonesto. A, C, D e E: são critérios de gestão que não aparecem nessa passagem."
   },
   {
     "id": "AP-ETICA-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "etica-moral-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "De acordo com o Código de Ética do Servidor (Decreto nº 1.171/1994), deixar qualquer pessoa à espera de solução que compete ao setor em que o servidor exerce suas funções, permitindo a formação de longas filas ou outra espécie de atraso, caracteriza",
-    "alternativas": [
+    "topicSlug": "etica-moral-administracao-publica",
+    "origin": "authored",
+    "statement": "De acordo com o Código de Ética do Servidor (Decreto nº 1.171/1994), deixar qualquer pessoa à espera de solução que compete ao setor em que o servidor exerce suas funções, permitindo a formação de longas filas ou outra espécie de atraso, caracteriza",
+    "choices": [
       "mera falha administrativa, sem implicação ética.",
       "conduta regular, desde que as normas sejam cumpridas.",
       "ato discricionário do servidor, que escolhe a ordem de atendimento.",
       "grave dano moral aos usuários dos serviços públicos.",
       "exercício legítimo do poder hierárquico."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O item X da Seção I afirma que a espera e as filas não caracterizam apenas atitude contra a ética, mas principalmente grave dano moral aos usuários. A, B, C e E: minimizam ou legitimam a conduta, o que contraria o texto."
+    "answerKey": 3,
+    "explanation": "Correta: D. O item X da Seção I afirma que a espera e as filas não caracterizam apenas atitude contra a ética, mas principalmente grave dano moral aos usuários. A, B, C e E: minimizam ou legitimam a conduta, o que contraria o texto."
   },
   {
     "id": "AP-ETICA-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "etica-moral-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "O presidente de uma câmara municipal nomeou seu sobrinho, que é parente colateral em 3º grau, para ocupar cargo em comissão de assessoramento no próprio órgão. À luz da Súmula Vinculante nº 13 do STF, a nomeação",
-    "alternativas": [
+    "topicSlug": "etica-moral-administracao-publica",
+    "origin": "authored",
+    "statement": "O presidente de uma câmara municipal nomeou seu sobrinho, que é parente colateral em 3º grau, para ocupar cargo em comissão de assessoramento no próprio órgão. À luz da Súmula Vinculante nº 13 do STF, a nomeação",
+    "choices": [
       "é válida, pois o sobrinho não é parente em linha reta.",
       "é válida, desde que o sobrinho tenha curso superior.",
       "viola a Constituição Federal, pois a súmula veda a nomeação de parentes até o 3º grau, inclusive colaterais, da autoridade nomeante para cargo em comissão.",
       "é válida, desde que haja aprovação do plenário da câmara.",
       "só seria vedada se o sobrinho fosse nomeado para cargo efetivo."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A SV 13 veda nomeações de cônjuge, companheiro ou parentes em linha reta, colateral ou por afinidade até o 3º grau da autoridade nomeante, para cargo em comissão, de confiança ou função gratificada. Sobrinho é parente colateral de 3º grau. A e B: a qualificação do parente ou a linha reta não afastam a vedação. D: aprovação do plenário não convalida a nomeação. E: o cargo efetivo exige concurso, e a súmula trata dos cargos de confiança e comissão."
+    "answerKey": 2,
+    "explanation": "Correta: C. A SV 13 veda nomeações de cônjuge, companheiro ou parentes em linha reta, colateral ou por afinidade até o 3º grau da autoridade nomeante, para cargo em comissão, de confiança ou função gratificada. Sobrinho é parente colateral de 3º grau. A e B: a qualificação do parente ou a linha reta não afastam a vedação. D: aprovação do plenário não convalida a nomeação. E: o cargo efetivo exige concurso, e a súmula trata dos cargos de confiança e comissão."
   },
   {
     "id": "AP-ETICA-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "etica-moral-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "No Código de Ética do servidor público (Decreto nº 1.171/1994), a publicidade de qualquer ato administrativo, salvo os casos de sigilo previstos em lei, é considerada",
-    "alternativas": [
+    "topicSlug": "etica-moral-administracao-publica",
+    "origin": "authored",
+    "statement": "No Código de Ética do servidor público (Decreto nº 1.171/1994), a publicidade de qualquer ato administrativo, salvo os casos de sigilo previstos em lei, é considerada",
+    "choices": [
       "mera liberalidade do administrador.",
       "requisito de eficácia e moralidade, e sua omissão compromete eticamente o bem comum.",
       "obrigação apenas de órgãos do Poder Judiciário.",
       "irrelevante para a validade ou a moralidade do ato.",
       "restrita a atos de contratação."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O item VII da Seção I considera a publicidade requisito de eficácia e moralidade, e sua omissão comprometimento ético contra o bem comum, imputável a quem a negar. A, C, D e E: contrariam o texto, que não restringe a publicidade a determinado Poder ou tipo de ato."
+    "answerKey": 1,
+    "explanation": "Correta: B. O item VII da Seção I considera a publicidade requisito de eficácia e moralidade, e sua omissão comprometimento ético contra o bem comum, imputável a quem a negar. A, C, D e E: contrariam o texto, que não restringe a publicidade a determinado Poder ou tipo de ato."
   }
 ]

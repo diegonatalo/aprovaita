@@ -2,113 +2,113 @@
   {
     "id": "LEG-N-A1",
     "area": "legislacao",
-    "topicoSlug": "normas-camara-2025",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei Complementar nº 252/2025, o concurso público para cargo efetivo da Câmara Municipal de Itanhaém terá validade de até dois anos, contados da homologação, podendo ser prorrogado",
-    "alternativas": [
+    "topicSlug": "normas-camara-2025",
+    "origin": "authored",
+    "statement": "De acordo com a Lei Complementar nº 252/2025, o concurso público para cargo efetivo da Câmara Municipal de Itanhaém terá validade de até dois anos, contados da homologação, podendo ser prorrogado",
+    "choices": [
       "por mais dois períodos de um ano.",
       "uma única vez, por igual período.",
       "indefinidamente, a critério do Presidente.",
       "por seis meses, uma única vez.",
       "por um ano, uma única vez."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o art. 13: validade de até 2 anos, prorrogável uma única vez por igual período, a critério da Mesa Diretora. As demais apresentam prorrogações que a norma não prevê."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o art. 13: validade de até 2 anos, prorrogável uma única vez por igual período, a critério da Mesa Diretora. As demais apresentam prorrogações que a norma não prevê."
   },
   {
     "id": "LEG-N-A2",
     "area": "legislacao",
-    "topicoSlug": "normas-camara-2025",
-    "origem": "autoral",
-    "enunciado": "Segundo a Lei Complementar nº 252/2025, a posse deve ocorrer em até 30 dias, contados da publicação do ato de nomeação. Já o exercício deve ocorrer em até",
-    "alternativas": [
+    "topicSlug": "normas-camara-2025",
+    "origin": "authored",
+    "statement": "Segundo a Lei Complementar nº 252/2025, a posse deve ocorrer em até 30 dias, contados da publicação do ato de nomeação. Já o exercício deve ocorrer em até",
+    "choices": [
       "15 dias, contados da posse.",
       "30 dias, contados da nomeação.",
       "15 dias, contados da homologação do concurso.",
       "60 dias, contados da posse.",
       "10 dias, contados da publicação da nomeação."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 16: o exercício ocorre em até 15 dias contados da data da posse. O servidor que não entrar em exercício no prazo é exonerado."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 16: o exercício ocorre em até 15 dias contados da data da posse. O servidor que não entrar em exercício no prazo é exonerado."
   },
   {
     "id": "LEG-N-A3",
     "area": "legislacao",
-    "topicoSlug": "normas-camara-2025",
-    "origem": "autoral",
-    "enunciado": "De acordo com o art. 48 da Lei Complementar nº 252/2025, o Adicional de Especialização e Qualificação, somados todos os títulos, não excederá, sobre o vencimento-base do servidor, o limite de",
-    "alternativas": [
+    "topicSlug": "normas-camara-2025",
+    "origin": "authored",
+    "statement": "De acordo com o art. 48 da Lei Complementar nº 252/2025, o Adicional de Especialização e Qualificação, somados todos os títulos, não excederá, sobre o vencimento-base do servidor, o limite de",
+    "choices": [
       "10%.",
       "15%.",
       "20%.",
       "25%.",
       "30%."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, conforme o § 4º do art. 48: o adicional não excede 25% do vencimento-base. Mestrado (10%) e doutorado (15%) são percentuais de títulos individuais, não o teto."
+    "answerKey": 3,
+    "explanation": "Correta: D, conforme o § 4º do art. 48: o adicional não excede 25% do vencimento-base. Mestrado (10%) e doutorado (15%) são percentuais de títulos individuais, não o teto."
   },
   {
     "id": "LEG-N-A4",
     "area": "legislacao",
-    "topicoSlug": "normas-camara-2025",
-    "origem": "autoral",
-    "enunciado": "Conforme a Resolução nº 525/2025, a Ouvidoria da Câmara Municipal de Itanhaém é responsável também pelo",
-    "alternativas": [
+    "topicSlug": "normas-camara-2025",
+    "origin": "authored",
+    "statement": "Conforme a Resolução nº 525/2025, a Ouvidoria da Câmara Municipal de Itanhaém é responsável também pelo",
+    "choices": [
       "Cerimonial das sessões solenes.",
       "Serviço de Informação ao Cidadão (SIC).",
       "controle interno da execução orçamentária.",
       "protocolo geral e arquivo da Casa.",
       "processamento da folha de pagamento."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o parágrafo único do art. 45. O controle interno é da Controladoria (art. 41), o protocolo e o arquivo são do Departamento de Apoio Administrativo e Manutenção Geral (art. 89) e a folha é do Departamento de Recursos Humanos (art. 77)."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o parágrafo único do art. 45. O controle interno é da Controladoria (art. 41), o protocolo e o arquivo são do Departamento de Apoio Administrativo e Manutenção Geral (art. 89) e a folha é do Departamento de Recursos Humanos (art. 77)."
   },
   {
     "id": "LEG-N-A5",
     "area": "legislacao",
-    "topicoSlug": "normas-camara-2025",
-    "origem": "autoral",
-    "enunciado": "Nos termos da Lei Complementar nº 252/2025, o auxílio-alimentação concedido aos servidores da Câmara Municipal tem natureza",
-    "alternativas": [
+    "topicSlug": "normas-camara-2025",
+    "origin": "authored",
+    "statement": "Nos termos da Lei Complementar nº 252/2025, o auxílio-alimentação concedido aos servidores da Câmara Municipal tem natureza",
+    "choices": [
       "salarial, e se incorpora ao vencimento.",
       "indenizatória, e não se incorpora à remuneração.",
       "de gratificação, e integra o 13º salário.",
       "de adicional, e integra os proventos de aposentadoria.",
       "de vantagem permanente, paga sem relação com os dias trabalhados."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme os arts. 71 e 77: o auxílio-alimentação é indenização, não tem natureza salarial, não se incorpora à remuneração e é pago proporcionalmente aos dias efetivamente trabalhados."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme os arts. 71 e 77: o auxílio-alimentação é indenização, não tem natureza salarial, não se incorpora à remuneração e é pago proporcionalmente aos dias efetivamente trabalhados."
   },
   {
     "id": "LEG-N-A6",
     "area": "legislacao",
-    "topicoSlug": "normas-camara-2025",
-    "origem": "autoral",
-    "enunciado": "Nos termos da Resolução nº 525/2025 da Câmara Municipal de Itanhaém, a Controladoria, órgão de controle interno subordinado à Presidência, conta com",
-    "alternativas": [
+    "topicSlug": "normas-camara-2025",
+    "origin": "authored",
+    "statement": "Nos termos da Resolução nº 525/2025 da Câmara Municipal de Itanhaém, a Controladoria, órgão de controle interno subordinado à Presidência, conta com",
+    "choices": [
       "1 Controlador Interno (Função de Confiança), 1 Auxiliar Administrativo (Cargo Efetivo) e 1 Agente Administrativo (Cargo Efetivo).",
       "2 Controladores Internos (Cargo em Comissão) e 1 Agente Administrativo (Cargo Efetivo).",
       "1 Controlador Interno (Cargo Efetivo) e 2 Assessores Jurídicos (Cargo em Comissão).",
       "1 Diretor de Controle (Função de Confiança) e 3 Agentes Administrativos (Cargo Efetivo).",
       "1 Controlador Interno (Função de Confiança), apenas, sem outros servidores."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 43 da Res. 525/2025. Cuidado: a LC 252/2025 extinguiu o cargo de Controlador Interno (art. 94), mas a Res. 525 o prevê como função de confiança. O Auxiliar Administrativo é cargo extinto na vacância (LC 252, art. 93)."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 43 da Res. 525/2025. Cuidado: a LC 252/2025 extinguiu o cargo de Controlador Interno (art. 94), mas a Res. 525 o prevê como função de confiança. O Auxiliar Administrativo é cargo extinto na vacância (LC 252, art. 93)."
   },
   {
     "id": "LEG-N-A7",
     "area": "legislacao",
-    "topicoSlug": "normas-camara-2025",
-    "origem": "autoral",
-    "enunciado": "Segundo a Resolução nº 525/2025 da Câmara Municipal de Itanhaém, a Procuradoria Jurídica tem a seguinte composição:",
-    "alternativas": [
+    "topicSlug": "normas-camara-2025",
+    "origin": "authored",
+    "statement": "Segundo a Resolução nº 525/2025 da Câmara Municipal de Itanhaém, a Procuradoria Jurídica tem a seguinte composição:",
+    "choices": [
       "2 Procuradores Jurídicos e 1 Agente Administrativo, todos cargos efetivos.",
       "1 Procurador Jurídico (Cargo em Comissão) e 2 Agentes Administrativos (Cargo Efetivo).",
       "2 Assessores Jurídicos (Cargo em Comissão) e 2 Analistas Legislativos (Cargo Efetivo).",
       "3 Procuradores Jurídicos (Função de Confiança), sem Agente Administrativo.",
       "1 Procurador Jurídico e 1 Controlador Interno, ambos cargos efetivos."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 52. A alternativa C descreve a Assessoria Jurídico-Legislativa (art. 54), que tem 2 Assessores Jurídicos em comissão, 2 Analistas Legislativos e 1 Agente Administrativo efetivos."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 52. A alternativa C descreve a Assessoria Jurídico-Legislativa (art. 54), que tem 2 Assessores Jurídicos em comissão, 2 Analistas Legislativos e 1 Agente Administrativo efetivos."
   }
 ]

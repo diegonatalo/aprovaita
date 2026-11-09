@@ -2,93 +2,93 @@
   {
     "id": "B-TREM-05",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 5,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "concordancia",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 5,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A norma-padrão de concordância verbal foi respeitada em:",
-    "alternativas": [
+    "statement": "A norma-padrão de concordância verbal foi respeitada em:",
+    "choices": [
       "O apoio e a presença da família podem atenuar o sofrimento dos doentes.",
       "Antigamente não haviam tantos medicamentos e exames médicos como hoje.",
       "Existe profissionais da saúde muito competentes e dedicados ao trabalho.",
       "A existência de diferentes especialidades médicas são algo importante.",
       "Atualmente se contam com um grande volume de conhecimentos médicos."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O sujeito composto (“O apoio e a presença”) leva o verbo ao plural (“podem”). B: “haviam” deve ser “havia”, pois haver no sentido de existir é impessoal. C: “Existe” deve concordar com “profissionais” (“Existem”). D: o núcleo do sujeito é “existência” (singular), logo “é”. E: com verbo transitivo indireto e “se” (índice de indeterminação), o verbo fica no singular (“Conta-se com”)."
+    "answerKey": 0,
+    "explanation": "Correta: A. O sujeito composto (“O apoio e a presença”) leva o verbo ao plural (“podem”). B: “haviam” deve ser “havia”, pois haver no sentido de existir é impessoal. C: “Existe” deve concordar com “profissionais” (“Existem”). D: o núcleo do sujeito é “existência” (singular), logo “é”. E: com verbo transitivo indireto e “se” (índice de indeterminação), o verbo fica no singular (“Conta-se com”)."
   },
   {
     "id": "B-PIRA-07",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 7,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "concordancia",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 7,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Assinale a alternativa correta quanto à concordância verbal padrão.",
-    "alternativas": [
+    "statement": "Assinale a alternativa correta quanto à concordância verbal padrão.",
+    "choices": [
       "Em 2013, participando do projeto, existia duas equipes especializadas em robôs humanoides.",
       "“O New York Times”, depois de entrevistar os pesquisadores, noticiaram os avanços do projeto.",
       "Para os integrantes do programa, impõe-se o desafio de construir robôs a baixo custo.",
       "O aprendizado das máquinas, segundo especialistas, serão a solução para a robótica voltada para a manufatura.",
       "O braço robótico, que manipulavam as bananas de plástico, gastou horas em tentativas, acertos e erros."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. “Impõe-se o desafio”: o sujeito é “o desafio” (singular). A: “existia” deve ir ao plural, “existiam duas equipes”. B: o sujeito é “O New York Times” (singular), logo “noticiou”. D: o núcleo é “aprendizado” (singular), logo “será”. E: o sujeito de “manipulavam” é “que” (retoma “braço”, singular), logo “manipulava”."
+    "answerKey": 2,
+    "explanation": "Correta: C. “Impõe-se o desafio”: o sujeito é “o desafio” (singular). A: “existia” deve ir ao plural, “existiam duas equipes”. B: o sujeito é “O New York Times” (singular), logo “noticiou”. D: o núcleo é “aprendizado” (singular), logo “será”. E: o sujeito de “manipulavam” é “que” (retoma “braço”, singular), logo “manipulava”."
   },
   {
     "id": "B-VAAL-06",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 6,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "concordancia",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 6,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Assinale a alternativa em que o vocábulo destacado pode ser substituído pelo que está entre colchetes, sem prejuízo da norma-padrão de concordância verbal.",
-    "alternativas": [
+    "statement": "Assinale a alternativa em que o vocábulo destacado pode ser substituído pelo que está entre colchetes, sem prejuízo da norma-padrão de concordância verbal.",
+    "choices": [
       "… setores da economia e **pode** haver ainda mais motivos para se preocupar… [podem] (1º parágrafo)",
       "… mas parte de suas funções **deve** passar por automatização nos próximos anos. [devem] (2º parágrafo)",
       "Então, não se trata de a IA estar propositalmente desfavorecendo mulheres; se **trata** de elas ocuparem mais posições que no futuro serão automatizadas”… [tratam] (3º parágrafo)",
       "Embora ainda não **haja** muitas pesquisas desse tipo, um outro estudo realizado por uma empresa britânica… [hajam] (4º parágrafo)",
       "Em algumas áreas, por exemplo, recursos tecnológicos devem **facilitar** a vida dos trabalhadores, segundo McNeilly. [facilitarem] (5º parágrafo)"
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B (gabarito oficial). Com expressão partitiva (“parte de suas funções”), o verbo pode concordar com o núcleo (“deve”) ou com o termo regido (“devem”). A: “haver” no sentido de existir é impessoal, e a locução fica no singular (“pode haver”). C: “tratar-se de” com sujeito indeterminado fica no singular. D: “haja” é de “haver” impessoal, sem plural. E: só o verbo auxiliar flexiona: “devem facilitar”."
+    "answerKey": 1,
+    "explanation": "Correta: B (gabarito oficial). Com expressão partitiva (“parte de suas funções”), o verbo pode concordar com o núcleo (“deve”) ou com o termo regido (“devem”). A: “haver” no sentido de existir é impessoal, e a locução fica no singular (“pode haver”). C: “tratar-se de” com sujeito indeterminado fica no singular. D: “haja” é de “haver” impessoal, sem plural. E: só o verbo auxiliar flexiona: “devem facilitar”."
   },
   {
     "id": "B-ITAN17-09",
     "area": "portugues",
-    "topicoSlug": "concordancia",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 9
+    "topicSlug": "concordancia",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 9
     },
-    "enunciado": "Assinale a alternativa em que uma redação dada a trecho do poema “A gente ainda não sabia” (Mário Quintana) está de acordo com a norma-padrão de concordância.",
-    "alternativas": [
+    "statement": "Assinale a alternativa em que uma redação dada a trecho do poema “A gente ainda não sabia” (Mário Quintana) está de acordo com a norma-padrão de concordância.",
+    "choices": [
       "Tabuletas meio tortas e onde se lia frases.",
       "Deveriam existir em velhos postes umas tabuletas quaisquer.",
       "Não haviam remédios senão irmos andando às tontas.",
       "E pensavam-se em lugares muito distante.",
       "Mais de um ainda não sabiam que a Terra era redonda."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O verbo “existir” concorda com o sujeito “tabuletas” (“deveriam existir”), e “quaisquer” é o plural de “qualquer”. Erros: A) “onde se liam frases” (sujeito plural); C) “haver” no sentido de existir é impessoal: “Não havia remédios”; D) “pensava-se em lugares muito distantes” (verbo na 3ª pessoa do singular com índice de indeterminação; adjetivo no plural); E) “Mais de um … não sabia” (com “mais de um”, o verbo vai ao singular)."
+    "answerKey": 1,
+    "explanation": "Correta: B. O verbo “existir” concorda com o sujeito “tabuletas” (“deveriam existir”), e “quaisquer” é o plural de “qualquer”. Erros: A) “onde se liam frases” (sujeito plural); C) “haver” no sentido de existir é impessoal: “Não havia remédios”; D) “pensava-se em lugares muito distantes” (verbo na 3ª pessoa do singular com índice de indeterminação; adjetivo no plural); E) “Mais de um … não sabia” (com “mais de um”, o verbo vai ao singular)."
   }
 ]

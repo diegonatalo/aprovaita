@@ -2,113 +2,113 @@
   {
     "id": "MAT-OP-A1",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "autoral",
-    "enunciado": "Dois servidores fazem plantão: um a cada 12 dias e outro a cada 18 dias. Se os dois estão de plantão hoje, voltarão a coincidir daqui a",
-    "alternativas": [
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "authored",
+    "statement": "Dois servidores fazem plantão: um a cada 12 dias e outro a cada 18 dias. Se os dois estão de plantão hoje, voltarão a coincidir daqui a",
+    "choices": [
       "24 dias.",
       "30 dias.",
       "36 dias.",
       "48 dias.",
       "72 dias."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Coincidência pede o MMC: MMC(12, 18) = 36. A, B e D: não são múltiplos comuns de 12 e 18. E: 72 é múltiplo comum, mas não o menor."
+    "answerKey": 2,
+    "explanation": "Correta: C. Coincidência pede o MMC: MMC(12, 18) = 36. A, B e D: não são múltiplos comuns de 12 e 18. E: 72 é múltiplo comum, mas não o menor."
   },
   {
     "id": "MAT-OP-A2",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "autoral",
-    "enunciado": "Um setor precisa dividir 48 pastas e 72 envelopes em grupos iguais, com o maior número possível de grupos, sem sobras. Quantos grupos serão formados?",
-    "alternativas": [
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "authored",
+    "statement": "Um setor precisa dividir 48 pastas e 72 envelopes em grupos iguais, com o maior número possível de grupos, sem sobras. Quantos grupos serão formados?",
+    "choices": [
       "24",
       "12",
       "8",
       "6",
       "36"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Pede-se o MDC: MDC(48, 72) = 24, com 2 pastas e 3 envelopes por grupo. B, C e D: dividem os dois números, mas não são o maior divisor comum. E: 36 não divide 48."
+    "answerKey": 0,
+    "explanation": "Correta: A. Pede-se o MDC: MDC(48, 72) = 24, com 2 pastas e 3 envelopes por grupo. B, C e D: dividem os dois números, mas não são o maior divisor comum. E: 36 não divide 48."
   },
   {
     "id": "MAT-OP-A3",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "autoral",
-    "enunciado": "O valor da expressão 3/4 + 1/6 é",
-    "alternativas": [
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "authored",
+    "statement": "O valor da expressão 3/4 + 1/6 é",
+    "choices": [
       "4/10.",
       "3/8.",
       "5/12.",
       "11/12.",
       "1."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Com denominador 12: 3/4 = 9/12 e 1/6 = 2/12, e 9/12 + 2/12 = 11/12. A: soma numeradores e denominadores. B e C: erram o cálculo. E: 1 = 12/12 é maior."
+    "answerKey": 3,
+    "explanation": "Correta: D. Com denominador 12: 3/4 = 9/12 e 1/6 = 2/12, e 9/12 + 2/12 = 11/12. A: soma numeradores e denominadores. B e C: erram o cálculo. E: 1 = 12/12 é maior."
   },
   {
     "id": "MAT-OP-A4",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "autoral",
-    "enunciado": "Um servidor gastou 1/3 de seu salário com aluguel e 1/4 com alimentação. A fração do salário que restou é",
-    "alternativas": [
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "authored",
+    "statement": "Um servidor gastou 1/3 de seu salário com aluguel e 1/4 com alimentação. A fração do salário que restou é",
+    "choices": [
       "7/12.",
       "5/12.",
       "1/2.",
       "2/7.",
       "3/7."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Gastos: 1/3 + 1/4 = 4/12 + 3/12 = 7/12; sobra 1 − 7/12 = 5/12. A: é a fração gasta. C, D e E: não resultam do cálculo."
+    "answerKey": 1,
+    "explanation": "Correta: B. Gastos: 1/3 + 1/4 = 4/12 + 3/12 = 7/12; sobra 1 − 7/12 = 5/12. A: é a fração gasta. C, D e E: não resultam do cálculo."
   },
   {
     "id": "MAT-OP-A5",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "autoral",
-    "enunciado": "O resultado de 0,75 × 0,4 é",
-    "alternativas": [
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "authored",
+    "statement": "O resultado de 0,75 × 0,4 é",
+    "choices": [
       "3",
       "0,03",
       "0,35",
       "1,15",
       "0,3"
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. 75 × 4 = 300 e há 3 casas decimais no total, o que dá 0,300 = 0,3. A e B: erram a posição da vírgula. C: soma em vez de multiplicar. D: 0,75 + 0,4."
+    "answerKey": 4,
+    "explanation": "Correta: E. 75 × 4 = 300 e há 3 casas decimais no total, o que dá 0,300 = 0,3. A e B: erram a posição da vírgula. C: soma em vez de multiplicar. D: 0,75 + 0,4."
   },
   {
     "id": "MAT-OP-A6",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "autoral",
-    "enunciado": "O valor de 2³ + (−3)² − √49 é",
-    "alternativas": [
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "authored",
+    "statement": "O valor de 2³ + (−3)² − √49 é",
+    "choices": [
       "10.",
       "8.",
       "12.",
       "6.",
       "14."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. 2³ = 8; (−3)² = 9; √49 = 7. Logo 8 + 9 − 7 = 10. As demais alternativas vêm de sinal errado em (−3)² ou de trocar √49 por 49 ou por 14."
+    "answerKey": 0,
+    "explanation": "Correta: A. 2³ = 8; (−3)² = 9; √49 = 7. Logo 8 + 9 − 7 = 10. As demais alternativas vêm de sinal errado em (−3)² ou de trocar √49 por 49 ou por 14."
   },
   {
     "id": "MAT-OP-A7",
     "area": "matematica",
-    "topicoSlug": "operacoes-fracoes-mmc-mdc",
-    "origem": "autoral",
-    "enunciado": "O valor de (2/3)² + √(1/9) é",
-    "alternativas": [
+    "topicSlug": "operacoes-fracoes-mmc-mdc",
+    "origin": "authored",
+    "statement": "O valor de (2/3)² + √(1/9) é",
+    "choices": [
       "5/9.",
       "2/3.",
       "1/3.",
       "7/9.",
       "1."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. (2/3)² = 4/9 e √(1/9) = 1/3 = 3/9. Soma: 4/9 + 3/9 = 7/9. A: soma 4/9 + 1/9, esquecendo que a raiz de 1/9 é 1/3. B: mistura os termos. E: soma as frações como se fossem inteiras."
+    "answerKey": 3,
+    "explanation": "Correta: D. (2/3)² = 4/9 e √(1/9) = 1/3 = 3/9. Soma: 4/9 + 3/9 = 7/9. A: soma 4/9 + 1/9, esquecendo que a raiz de 1/9 é 1/3. B: mistura os termos. E: soma as frações como se fossem inteiras."
   }
 ]

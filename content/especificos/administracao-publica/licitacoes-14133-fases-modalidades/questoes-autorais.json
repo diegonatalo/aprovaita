@@ -3,85 +3,85 @@
     "id": "AP-14133-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "licitacoes-14133-fases-modalidades",
-    "origem": "autoral",
-    "enunciado": "Um agente administrativo de uma câmara municipal foi incumbido de organizar o cronograma de um processo licitatório conduzido sob a Lei nº 14.133/2021, sem qualquer inversão de fases autorizada. Nessas condições, a ordem correta das fases é:",
-    "alternativas": [
+    "topicSlug": "licitacoes-14133-fases-modalidades",
+    "origin": "authored",
+    "statement": "Um agente administrativo de uma câmara municipal foi incumbido de organizar o cronograma de um processo licitatório conduzido sob a Lei nº 14.133/2021, sem qualquer inversão de fases autorizada. Nessas condições, a ordem correta das fases é:",
+    "choices": [
       "preparatória; divulgação do edital; habilitação; apresentação de propostas e lances; julgamento; recursal; homologação.",
       "divulgação do edital; preparatória; apresentação de propostas e lances; julgamento; habilitação; recursal; homologação.",
       "preparatória; divulgação do edital; apresentação de propostas e lances; habilitação; julgamento; recursal; homologação.",
       "preparatória; divulgação do edital; apresentação de propostas e lances; julgamento; habilitação; recursal; homologação.",
       "preparatória; apresentação de propostas e lances; divulgação do edital; julgamento; habilitação; recursal; homologação."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A regra do art. 17 da Lei 14.133/2021 é preparatória, divulgação do edital, propostas e lances, julgamento, habilitação, recursal e homologação. A: antecipa a habilitação, o que só é possível por ato motivado (art. 17, §1º), e o enunciado exclui inversões. B: coloca a divulgação do edital antes da fase preparatória, mas o edital nasce do planejamento. C: repete o modelo da Lei 8.666, em que a habilitação precedia o julgamento. E: as propostas não podem ser apresentadas antes da divulgação do edital."
+    "answerKey": 3,
+    "explanation": "Correta: D. A regra do art. 17 da Lei 14.133/2021 é preparatória, divulgação do edital, propostas e lances, julgamento, habilitação, recursal e homologação. A: antecipa a habilitação, o que só é possível por ato motivado (art. 17, §1º), e o enunciado exclui inversões. B: coloca a divulgação do edital antes da fase preparatória, mas o edital nasce do planejamento. C: repete o modelo da Lei 8.666, em que a habilitação precedia o julgamento. E: as propostas não podem ser apresentadas antes da divulgação do edital."
   },
   {
     "id": "AP-14133-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "licitacoes-14133-fases-modalidades",
-    "origem": "autoral",
-    "enunciado": "A Câmara Municipal precisa adquirir canetas, papel sulfite e grampeadores, bens cujos padrões de desempenho e qualidade podem ser definidos objetivamente no edital por especificações usuais de mercado. Segundo a Lei nº 14.133/2021, a modalidade de licitação adequada é o(a)",
-    "alternativas": [
+    "topicSlug": "licitacoes-14133-fases-modalidades",
+    "origin": "authored",
+    "statement": "A Câmara Municipal precisa adquirir canetas, papel sulfite e grampeadores, bens cujos padrões de desempenho e qualidade podem ser definidos objetivamente no edital por especificações usuais de mercado. Segundo a Lei nº 14.133/2021, a modalidade de licitação adequada é o(a)",
+    "choices": [
       "convite.",
       "tomada de preços.",
       "leilão.",
       "diálogo competitivo.",
       "pregão."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O pregão é a modalidade para aquisição de bens e serviços comuns, ou seja, aqueles com padrões de desempenho e qualidade objetivamente definíveis (arts. 6º, XLI, e 29). A e B: convite e tomada de preços não existem na Lei 14.133. C: o leilão serve à alienação de bens, não à aquisição. D: o diálogo competitivo é para objetos com inovação ou soluções que a Administração não consegue definir previamente, o que não é o caso de material de escritório."
+    "answerKey": 4,
+    "explanation": "Correta: E. O pregão é a modalidade para aquisição de bens e serviços comuns, ou seja, aqueles com padrões de desempenho e qualidade objetivamente definíveis (arts. 6º, XLI, e 29). A e B: convite e tomada de preços não existem na Lei 14.133. C: o leilão serve à alienação de bens, não à aquisição. D: o diálogo competitivo é para objetos com inovação ou soluções que a Administração não consegue definir previamente, o que não é o caso de material de escritório."
   },
   {
     "id": "AP-14133-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "licitacoes-14133-fases-modalidades",
-    "origem": "autoral",
-    "enunciado": "Um gestor propôs, para uma contratação complexa, a criação de uma modalidade híbrida chamada \"pregão-concorrência\", que misturaria regras das duas. À luz da Lei nº 14.133/2021, a proposta",
-    "alternativas": [
+    "topicSlug": "licitacoes-14133-fases-modalidades",
+    "origin": "authored",
+    "statement": "Um gestor propôs, para uma contratação complexa, a criação de uma modalidade híbrida chamada \"pregão-concorrência\", que misturaria regras das duas. À luz da Lei nº 14.133/2021, a proposta",
+    "choices": [
       "é possível, desde que prevista em regulamento municipal.",
       "é vedada, pois a lei proíbe criar novas modalidades ou combinar as existentes.",
       "é possível, desde que o valor estimado supere o limite da dispensa.",
       "é possível, desde que o objeto seja obra ou serviço de engenharia.",
       "é possível mediante justificativa fundamentada da autoridade competente."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O art. 28, §2º, veda a criação de outras modalidades e a combinação das cinco existentes. A, C, D e E: nenhuma exceção desse tipo existe na lei, nem por regulamento, valor, natureza do objeto ou motivação. O que a lei admite são os procedimentos auxiliares do art. 78, que não são modalidades."
+    "answerKey": 1,
+    "explanation": "Correta: B. O art. 28, §2º, veda a criação de outras modalidades e a combinação das cinco existentes. A, C, D e E: nenhuma exceção desse tipo existe na lei, nem por regulamento, valor, natureza do objeto ou motivação. O que a lei admite são os procedimentos auxiliares do art. 78, que não são modalidades."
   },
   {
     "id": "AP-14133-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "licitacoes-14133-fases-modalidades",
-    "origem": "autoral",
-    "enunciado": "A Câmara Municipal decidiu alienar um veículo considerado inservível. Pretende vender o bem a quem oferecer o maior valor. De acordo com a Lei nº 14.133/2021, a modalidade e o critério de julgamento adequados são, respectivamente,",
-    "alternativas": [
+    "topicSlug": "licitacoes-14133-fases-modalidades",
+    "origin": "authored",
+    "statement": "A Câmara Municipal decidiu alienar um veículo considerado inservível. Pretende vender o bem a quem oferecer o maior valor. De acordo com a Lei nº 14.133/2021, a modalidade e o critério de julgamento adequados são, respectivamente,",
+    "choices": [
       "pregão e menor preço.",
       "concorrência e técnica e preço.",
       "concurso e melhor técnica.",
       "diálogo competitivo e maior retorno econômico.",
       "leilão e maior lance."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O leilão é a modalidade para alienação de bens móveis inservíveis ou legalmente apreendidos, e o critério de julgamento é o maior lance (arts. 6º, XL, e 33, V). A: pregão serve à aquisição de bens e serviços comuns. B: técnica e preço não se aplica a uma venda por maior oferta. C: concurso é para escolha de trabalho técnico, científico ou artístico. D: diálogo competitivo é para contratações com inovação, não para vender bens."
+    "answerKey": 4,
+    "explanation": "Correta: E. O leilão é a modalidade para alienação de bens móveis inservíveis ou legalmente apreendidos, e o critério de julgamento é o maior lance (arts. 6º, XL, e 33, V). A: pregão serve à aquisição de bens e serviços comuns. B: técnica e preço não se aplica a uma venda por maior oferta. C: concurso é para escolha de trabalho técnico, científico ou artístico. D: diálogo competitivo é para contratações com inovação, não para vender bens."
   },
   {
     "id": "AP-14133-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "licitacoes-14133-fases-modalidades",
-    "origem": "autoral",
-    "enunciado": "Uma câmara municipal precisa de um software de gestão cujo único produtor, comprovadamente, é uma determinada empresa, sem possibilidade de substituição por outro produto equivalente. Nessa situação, a contratação direta fundamenta-se em",
-    "alternativas": [
+    "topicSlug": "licitacoes-14133-fases-modalidades",
+    "origin": "authored",
+    "statement": "Uma câmara municipal precisa de um software de gestão cujo único produtor, comprovadamente, é uma determinada empresa, sem possibilidade de substituição por outro produto equivalente. Nessa situação, a contratação direta fundamenta-se em",
+    "choices": [
       "dispensa por baixo valor, conforme o art. 75, II.",
       "inexigibilidade por inviabilidade de competição, conforme o art. 74, I.",
       "dispensa por emergência, em razão de risco à continuidade do serviço.",
       "pregão obrigatório, por se tratar de bem comum.",
       "concorrência com critério de técnica e preço."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Havendo fornecedor exclusivo, a competição é inviável, hipótese de inexigibilidade do art. 74, I, que também veda a preferência por marca específica. A: a dispensa por baixo valor depende do valor e não da exclusividade. C: o enunciado não descreve emergência. D e E: tornariam a licitação o caminho, mas não há com quem competir."
+    "answerKey": 1,
+    "explanation": "Correta: B. Havendo fornecedor exclusivo, a competição é inviável, hipótese de inexigibilidade do art. 74, I, que também veda a preferência por marca específica. A: a dispensa por baixo valor depende do valor e não da exclusividade. C: o enunciado não descreve emergência. D e E: tornariam a licitação o caminho, mas não há com quem competir."
   }
 ]

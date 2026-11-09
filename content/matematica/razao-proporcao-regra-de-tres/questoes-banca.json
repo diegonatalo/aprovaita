@@ -2,208 +2,208 @@
   {
     "id": "B-TREM-15",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 15,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 15,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Um grupo de 12 estagiários, trabalhando 4 horas por dia, consegue organizar 240 caixas de arquivo morto em 10 dias. Deseja-se organizar 600 caixas em apenas 6 dias, com jornada de 5 horas por dia. Para atingir esse objetivo, o número mínimo de novos estagiários que devem se juntar ao grupo já constituído é de",
-    "alternativas": [
+    "statement": "Um grupo de 12 estagiários, trabalhando 4 horas por dia, consegue organizar 240 caixas de arquivo morto em 10 dias. Deseja-se organizar 600 caixas em apenas 6 dias, com jornada de 5 horas por dia. Para atingir esse objetivo, o número mínimo de novos estagiários que devem se juntar ao grupo já constituído é de",
+    "choices": [
       "22.",
       "28.",
       "32.",
       "36.",
       "40."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Regra de três composta: 12 estagiários × 4 h × 10 dias = 480 h de trabalho para 240 caixas (2 h por caixa). Para 600 caixas são 1.200 h. Cada estagiário trabalha 6 × 5 = 30 h, então são necessários 1.200 ÷ 30 = 40 estagiários. Como já há 12, devem entrar 28."
+    "answerKey": 1,
+    "explanation": "Correta: B. Regra de três composta: 12 estagiários × 4 h × 10 dias = 480 h de trabalho para 240 caixas (2 h por caixa). Para 600 caixas são 1.200 h. Cada estagiário trabalha 6 × 5 = 30 h, então são necessários 1.200 ÷ 30 = 40 estagiários. Como já há 12, devem entrar 28."
   },
   {
     "id": "B-PAUL-12",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 12,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 12,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Três irmãos, com idades de 25, 30 e 32 anos, são filhos de um empresário que faleceu e lhes legou certo valor de herança. Cumprindo vontade expressa do falecido, esse valor foi dividido em 3 partes, diretamente proporcionais às idades desses irmãos, e repassadas a cada um deles. Feita essa divisão, o irmão de idade intermediária recebeu R$ 3.000,00 a menos do que o irmão mais velho.\n\nQual o valor total dessa herança?",
-    "alternativas": [
+    "statement": "Três irmãos, com idades de 25, 30 e 32 anos, são filhos de um empresário que faleceu e lhes legou certo valor de herança. Cumprindo vontade expressa do falecido, esse valor foi dividido em 3 partes, diretamente proporcionais às idades desses irmãos, e repassadas a cada um deles. Feita essa divisão, o irmão de idade intermediária recebeu R$ 3.000,00 a menos do que o irmão mais velho.\n\nQual o valor total dessa herança?",
+    "choices": [
       "R$ 122.500,00",
       "R$ 124.500,00",
       "R$ 126.500,00",
       "R$ 128.500,00",
       "R$ 130.500,00"
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. As partes são 25k, 30k e 32k. A diferença entre o mais velho e o do meio é 32k − 30k = 2k = 3.000, então k = 1.500. A soma das idades é 87, logo o total é 87 × 1.500 = R$ 130.500,00."
+    "answerKey": 4,
+    "explanation": "Correta: E. As partes são 25k, 30k e 32k. A diferença entre o mais velho e o do meio é 32k − 30k = 2k = 3.000, então k = 1.500. A soma das idades é 87, logo o total é 87 × 1.500 = R$ 130.500,00."
   },
   {
     "id": "B-PIRA-26",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Câmara Municipal de Piracicaba/SP (VUNESP)",
-      "ano": 2019,
-      "cargo": "Agente Administrativo / Agente Legislativo (prova 002)",
-      "numero": 26,
-      "gabaritoFonte": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Câmara Municipal de Piracicaba/SP (VUNESP)",
+      "year": 2019,
+      "position": "Agente Administrativo / Agente Legislativo (prova 002)",
+      "number": 26,
+      "answerKeySource": "Arquivo do gabarito da prova 002 (concurso de 07/07/2019), enviado pelo usuário. O arquivo não informa se é o gabarito preliminar ou o definitivo."
     },
-    "enunciado": "Uma pessoa utiliza transporte rodoviário para se deslocar para a cidade vizinha na qual trabalha. O valor da passagem do ônibus que ela utiliza é R$ 4,45, dos quais R$ 1,42 corresponde aos tributos incidentes. Nesse caso, para cada 1 real do valor da passagem, tem-se de tributos incidentes um valor entre",
-    "alternativas": [
+    "statement": "Uma pessoa utiliza transporte rodoviário para se deslocar para a cidade vizinha na qual trabalha. O valor da passagem do ônibus que ela utiliza é R$ 4,45, dos quais R$ 1,42 corresponde aos tributos incidentes. Nesse caso, para cada 1 real do valor da passagem, tem-se de tributos incidentes um valor entre",
+    "choices": [
       "20 e 25 centavos.",
       "25 e 30 centavos.",
       "30 e 35 centavos.",
       "35 e 40 centavos.",
       "40 e 45 centavos."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A razão é 1,42 ÷ 4,45 ≈ 0,319, ou seja, cerca de 32 centavos para cada real, valor entre 30 e 35 centavos."
+    "answerKey": 2,
+    "explanation": "Correta: C. A razão é 1,42 ÷ 4,45 ≈ 0,319, ou seja, cerca de 32 centavos para cada real, valor entre 30 e 35 centavos."
   },
   {
     "id": "B-SJRP-17",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 17,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 17,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O setor de entregas de uma loja de produtos de limpeza comprou algumas caixas de papelão, algumas pequenas, e as demais grandes, num total de 56 caixas, de modo que fossem 5 caixas pequenas para cada 3 caixas grandes. Cada caixa pequena acomoda, no máximo, 8 frascos de produto de limpeza, e cada caixa grande, no máximo 12 frascos. Se a empresa usar todas as caixas compradas de acordo com a capacidade máxima de cada uma, o número total de frascos acomodados nas caixas será igual a",
-    "alternativas": [
+    "statement": "O setor de entregas de uma loja de produtos de limpeza comprou algumas caixas de papelão, algumas pequenas, e as demais grandes, num total de 56 caixas, de modo que fossem 5 caixas pequenas para cada 3 caixas grandes. Cada caixa pequena acomoda, no máximo, 8 frascos de produto de limpeza, e cada caixa grande, no máximo 12 frascos. Se a empresa usar todas as caixas compradas de acordo com a capacidade máxima de cada uma, o número total de frascos acomodados nas caixas será igual a",
+    "choices": [
       "224.",
       "532.",
       "76.",
       "160.",
       "588."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A razão 5:3 divide as 56 caixas em 8 partes de 7: 35 pequenas e 21 grandes. Frascos: 35 × 8 + 21 × 12 = 280 + 252 = 532."
+    "answerKey": 1,
+    "explanation": "Correta: B. A razão 5:3 divide as 56 caixas em 8 partes de 7: 35 pequenas e 21 grandes. Frascos: 35 × 8 + 21 × 12 = 280 + 252 = 532."
   },
   {
     "id": "B-SJRP-25",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 25,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 25,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Certa quantidade de água é suficiente para que 4 cães a bebam por 2 dias, todos bebendo a mesma quantidade diária de água. Então, supondo que uma mesma quantidade de água seja bebida por apenas 1 cão, que bebe a mesma quantidade diária de água dos cães da situação anterior, tal quantidade de água será suficiente para",
-    "alternativas": [
+    "statement": "Certa quantidade de água é suficiente para que 4 cães a bebam por 2 dias, todos bebendo a mesma quantidade diária de água. Então, supondo que uma mesma quantidade de água seja bebida por apenas 1 cão, que bebe a mesma quantidade diária de água dos cães da situação anterior, tal quantidade de água será suficiente para",
+    "choices": [
       "6 dias.",
       "4 dias.",
       "5 dias.",
       "7 dias.",
       "8 dias."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Grandezas inversamente proporcionais: 4 cães × 2 dias = 8 cão-dias de água. Com 1 cão, a mesma água dura 8 dias."
+    "answerKey": 4,
+    "explanation": "Correta: E. Grandezas inversamente proporcionais: 4 cães × 2 dias = 8 cão-dias de água. Com 1 cão, a mesma água dura 8 dias."
   },
   {
     "id": "B-VAAL-12",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 12,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 12,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No início de agosto, uma loja tinha 855 peças de reposição para geladeiras, entre peças do tipo A e peças do tipo B, de maneira que a razão entre o número de peças do tipo A e o número de peças do tipo B era 2/7. Durante esse mês, a loja não recebeu mais peças desses tipos e, no fim de agosto, após o uso de muitas dessas peças, a razão indicada passou a ser igual a 1/3. Sabendo que no mês de agosto foram utilizadas, do estoque, 125 peças do tipo A, o número de peças do tipo B utilizadas, nesse mês, foi",
-    "alternativas": [
+    "statement": "No início de agosto, uma loja tinha 855 peças de reposição para geladeiras, entre peças do tipo A e peças do tipo B, de maneira que a razão entre o número de peças do tipo A e o número de peças do tipo B era 2/7. Durante esse mês, a loja não recebeu mais peças desses tipos e, no fim de agosto, após o uso de muitas dessas peças, a razão indicada passou a ser igual a 1/3. Sabendo que no mês de agosto foram utilizadas, do estoque, 125 peças do tipo A, o número de peças do tipo B utilizadas, nesse mês, foi",
+    "choices": [
       "430.",
       "440.",
       "450.",
       "460.",
       "470."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A razão 2/7 divide as 855 peças em 9 partes de 95: A = 190 e B = 665. No fim, A = 190 − 125 = 65, e como A/B = 1/3, B = 195. Peças B usadas: 665 − 195 = 470."
+    "answerKey": 4,
+    "explanation": "Correta: E. A razão 2/7 divide as 855 peças em 9 partes de 95: A = 190 e B = 665. No fim, A = 190 − 125 = 65, e como A/B = 1/3, B = 195. Peças B usadas: 665 − 195 = 470."
   },
   {
     "id": "B-VAAL-15",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 15,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 15,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Em um período de 10 horas, um centro de atendimento composto por 3 operadores atendeu 240 pessoas. Considerando condições proporcionais nesses atendimentos, o número de operadores necessários para que, em um período de 6 horas, 720 pessoas sejam atendidas é",
-    "alternativas": [
+    "statement": "Em um período de 10 horas, um centro de atendimento composto por 3 operadores atendeu 240 pessoas. Considerando condições proporcionais nesses atendimentos, o número de operadores necessários para que, em um período de 6 horas, 720 pessoas sejam atendidas é",
+    "choices": [
       "10.",
       "12.",
       "15.",
       "16.",
       "18."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Cada operador atende 240 ÷ (3 × 10) = 8 pessoas por hora. Para atender 720 pessoas em 6 horas são necessários 720 ÷ (8 × 6) = 15 operadores."
+    "answerKey": 2,
+    "explanation": "Correta: C. Cada operador atende 240 ÷ (3 × 10) = 8 pessoas por hora. Para atender 720 pessoas em 6 horas são necessários 720 ÷ (8 × 6) = 15 operadores."
   },
   {
     "id": "B-ITAN17-18",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 18
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 18
     },
-    "enunciado": "Considere que uma pessoa tem 162 selos e que a razão entre o número de selos sem carimbo e o número de selos com carimbo é igual a 2/7. A diferença entre o número de selos com carimbo e o número de selos sem carimbo é",
-    "alternativas": [
+    "statement": "Considere que uma pessoa tem 162 selos e que a razão entre o número de selos sem carimbo e o número de selos com carimbo é igual a 2/7. A diferença entre o número de selos com carimbo e o número de selos sem carimbo é",
+    "choices": [
       "90.",
       "105.",
       "112.",
       "120.",
       "126."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Sem carimbo : com carimbo = 2 : 7, em 9 partes. Cada parte vale 162 ÷ 9 = 18. Sem carimbo = 2 × 18 = 36; com carimbo = 7 × 18 = 126. Diferença: 126 − 36 = 90. Atenção à ordem da razão: sem carimbo vem primeiro."
+    "answerKey": 0,
+    "explanation": "Correta: A. Sem carimbo : com carimbo = 2 : 7, em 9 partes. Cada parte vale 162 ÷ 9 = 18. Sem carimbo = 2 × 18 = 36; com carimbo = 7 × 18 = 126. Diferença: 126 − 36 = 90. Atenção à ordem da razão: sem carimbo vem primeiro."
   },
   {
     "id": "B-ITAN17-29",
     "area": "matematica",
-    "topicoSlug": "razao-proporcao-regra-de-tres",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Itanhaém/SP (VUNESP), concurso PMIH1702",
-      "ano": 2017,
-      "cargo": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
-      "gabaritoFonte": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
-      "numero": 29
+    "topicSlug": "razao-proporcao-regra-de-tres",
+    "origin": "exam",
+    "source": {
+      "agency": "Itanhaém/SP (VUNESP), concurso PMIH1702",
+      "year": 2017,
+      "position": "Auxiliar Legislativo (prova 003; cargo diferente do edital atual)",
+      "answerKeySource": "Gabarito da prova objetiva do concurso PMIH1702 (prova de 19/11/2017). O gabarito não informa se é preliminar ou definitivo; alterações posteriores por recurso não verificadas.",
+      "number": 29
     },
-    "enunciado": "Duas máquinas de fotocópias, A e B, imprimem juntas, em um mesmo intervalo de tempo, 30 e 40 cópias, respectivamente. Após determinado período de tempo, com ambas trabalhando juntas, foi impresso um total de 560 cópias. A diferença entre o número de cópias impressas pelas duas máquinas é igual a",
-    "alternativas": [
+    "statement": "Duas máquinas de fotocópias, A e B, imprimem juntas, em um mesmo intervalo de tempo, 30 e 40 cópias, respectivamente. Após determinado período de tempo, com ambas trabalhando juntas, foi impresso um total de 560 cópias. A diferença entre o número de cópias impressas pelas duas máquinas é igual a",
+    "choices": [
       "85.",
       "80.",
       "75.",
       "70.",
       "65."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A cada intervalo, as duas imprimem 30 + 40 = 70 cópias. 560 ÷ 70 = 8 intervalos. A imprime 8 × 30 = 240 e B imprime 8 × 40 = 320. Diferença: 320 − 240 = 80. (Proporção 3 : 4 → 560 ÷ 7 = 80 por parte; diferença = 1 parte.)"
+    "answerKey": 1,
+    "explanation": "Correta: B. A cada intervalo, as duas imprimem 30 + 40 = 70 cópias. 560 ÷ 70 = 8 intervalos. A imprime 8 × 30 = 240 e B imprime 8 × 40 = 320. Diferença: 320 − 240 = 80. (Proporção 3 : 4 → 560 ÷ 7 = 80 por parte; diferença = 1 parte.)"
   }
 ]

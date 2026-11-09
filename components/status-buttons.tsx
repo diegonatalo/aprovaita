@@ -1,31 +1,31 @@
 "use client";
 
-import { definirStatus, useProgresso } from "@/lib/storage";
+import { setTopicStatus, useProgress } from "@/lib/storage";
 import { TopicStatusBadge } from "./topic-status-badge";
-import type { StatusTopico } from "@/types";
+import type { TopicStatus } from "@/types";
 
-export function StatusButtons({ chave }: { chave: string }) {
-  const status: StatusTopico = useProgresso().topicos[chave] ?? "nao-visto";
-  const botao = (alvo: StatusTopico, rotulo: string) => (
+export function StatusButtons({ topicKey }: { topicKey: string }) {
+  const status: TopicStatus = useProgress().topics[topicKey] ?? "unseen";
+  const button = (target: TopicStatus, label: string) => (
     <button
-      onClick={() => definirStatus(chave, status === alvo ? "nao-visto" : alvo)}
-      aria-pressed={status === alvo}
-      className={`btn btn-sm ${status === alvo ? "border border-acento bg-acento-suave text-acento" : "btn-ghost"}`}
+      onClick={() => setTopicStatus(topicKey, status === target ? "unseen" : target)}
+      aria-pressed={status === target}
+      className={`btn btn-sm ${status === target ? "border border-acento bg-acento-suave text-acento" : "btn-ghost"}`}
     >
-      {rotulo}
+      {label}
     </button>
   );
   return (
     <div className="flex flex-wrap items-center gap-2">
       <TopicStatusBadge status={status} />
-      {botao("visto", "Marcar como visto")}
-      {botao("dominado", "Marcar como dominado")}
+      {button("seen", "Marcar como visto")}
+      {button("mastered", "Marcar como dominado")}
     </div>
   );
 }
 
 /** Badge que lê o status salvo (para listas). */
-export function StatusDoTopico({ chave }: { chave: string }) {
-  const status: StatusTopico = useProgresso().topicos[chave] ?? "nao-visto";
+export function TopicStatusLabel({ topicKey }: { topicKey: string }) {
+  const status: TopicStatus = useProgress().topics[topicKey] ?? "unseen";
   return <TopicStatusBadge status={status} />;
 }

@@ -2,81 +2,81 @@
   {
     "id": "PT-PONT-A1",
     "area": "portugues",
-    "topicoSlug": "pontuacao",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa corretamente pontuada.",
-    "alternativas": [
+    "topicSlug": "pontuacao",
+    "origin": "authored",
+    "statement": "Assinale a alternativa corretamente pontuada.",
+    "choices": [
       "Os servidores, chegaram cedo, à repartição.",
       "Os servidores chegaram cedo, à repartição.",
       "Os servidores, como de costume, chegaram cedo à repartição.",
       "Os servidores chegaram, cedo à repartição.",
       "Os servidores, chegaram cedo à repartição, hoje."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, em que a expressão intercalada \"como de costume\" aparece entre vírgulas. A, B, D e E: usam vírgula entre sujeito e verbo ou entre verbo e complemento, o que é inadequado."
+    "answerKey": 2,
+    "explanation": "Correta: C, em que a expressão intercalada \"como de costume\" aparece entre vírgulas. A, B, D e E: usam vírgula entre sujeito e verbo ou entre verbo e complemento, o que é inadequado."
   },
   {
     "id": "PT-PONT-A2",
     "area": "portugues",
-    "topicoSlug": "pontuacao",
-    "origem": "autoral",
-    "enunciado": "Em \"Na semana passada, os vereadores aprovaram o projeto.\", a vírgula após \"Na semana passada\" justifica-se por",
-    "alternativas": [
+    "topicSlug": "pontuacao",
+    "origin": "authored",
+    "statement": "Em \"Na semana passada, os vereadores aprovaram o projeto.\", a vírgula após \"Na semana passada\" justifica-se por",
+    "choices": [
       "separar um adjunto adverbial deslocado para o início da frase.",
       "separar o sujeito do verbo.",
       "isolar um vocativo.",
       "isolar um aposto.",
       "separar orações coordenadas assindéticas."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. \"Na semana passada\" é adjunto adverbial de tempo deslocado para o início da frase. B: a vírgula não separa sujeito e verbo. C: não há vocativo. D: não há aposto. E: há uma única oração."
+    "answerKey": 0,
+    "explanation": "Correta: A. \"Na semana passada\" é adjunto adverbial de tempo deslocado para o início da frase. B: a vírgula não separa sujeito e verbo. C: não há vocativo. D: não há aposto. E: há uma única oração."
   },
   {
     "id": "PT-PONT-A3",
     "area": "portugues",
-    "topicoSlug": "pontuacao",
-    "origem": "autoral",
-    "enunciado": "Em \"Trouxe o necessário: caneta, papel e carimbo.\", os dois-pontos",
-    "alternativas": [
+    "topicSlug": "pontuacao",
+    "origin": "authored",
+    "statement": "Em \"Trouxe o necessário: caneta, papel e carimbo.\", os dois-pontos",
+    "choices": [
       "encerram a frase.",
       "separam uma oração subordinada.",
       "isolam um vocativo.",
       "indicam omissão de verbo.",
       "introduzem uma enumeração que esclarece \"o necessário\"."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Os dois-pontos introduzem a enumeração que explica o que é \"o necessário\". A: a frase se encerra no ponto final. B, C e D: descrevem funções que não ocorrem na frase."
+    "answerKey": 4,
+    "explanation": "Correta: E. Os dois-pontos introduzem a enumeração que explica o que é \"o necessário\". A: a frase se encerra no ponto final. B, C e D: descrevem funções que não ocorrem na frase."
   },
   {
     "id": "PT-PONT-A4",
     "area": "portugues",
-    "topicoSlug": "pontuacao",
-    "origem": "autoral",
-    "enunciado": "Em \"Senhores vereadores, a sessão está aberta.\", a vírgula isola",
-    "alternativas": [
+    "topicSlug": "pontuacao",
+    "origin": "authored",
+    "statement": "Em \"Senhores vereadores, a sessão está aberta.\", a vírgula isola",
+    "choices": [
       "um aposto.",
       "um vocativo.",
       "um adjunto adverbial.",
       "uma oração adjetiva explicativa.",
       "uma conjunção."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. \"Senhores vereadores\" é o termo a quem se dirige a fala, ou seja, vocativo. As demais alternativas apontam outras funções que não ocorrem na frase."
+    "answerKey": 1,
+    "explanation": "Correta: B. \"Senhores vereadores\" é o termo a quem se dirige a fala, ou seja, vocativo. As demais alternativas apontam outras funções que não ocorrem na frase."
   },
   {
     "id": "PT-PONT-A5",
     "area": "portugues",
-    "topicoSlug": "pontuacao",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que há vírgula inadequada, por separar o sujeito do verbo.",
-    "alternativas": [
+    "topicSlug": "pontuacao",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que há vírgula inadequada, por separar o sujeito do verbo.",
+    "choices": [
       "Antes de sair, desligue as luzes.",
       "Maria, venha cá.",
       "O chefe, que chegou cedo, abriu a sala.",
       "Os funcionários da Câmara, atenderam o público.",
       "Ele leu o relatório e, depois, assinou."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, pois a vírgula separa o sujeito \"Os funcionários da Câmara\" do verbo. A: adjunto adverbial anteposto. B: vocativo. C: oração adjetiva explicativa. E: advérbio intercalado."
+    "answerKey": 3,
+    "explanation": "Correta: D, pois a vírgula separa o sujeito \"Os funcionários da Câmara\" do verbo. A: adjunto adverbial anteposto. B: vocativo. C: oração adjetiva explicativa. E: advérbio intercalado."
   }
 ]

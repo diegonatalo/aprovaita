@@ -3,72 +3,72 @@
     "id": "B-TREM-38",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 38,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "processo-decisorio",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 38,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O agente administrativo, de uma instituição municipal, tem ciência das diversas ferramentas que apoiam a tomada de decisão e de que elas podem variar, desde técnicas simples até métodos avançados com o uso de softwares especializados.\n\nA ferramenta que consiste em priorizar uma lista de opções com base em um conjunto de critérios é denominada",
-    "alternativas": [
+    "statement": "O agente administrativo, de uma instituição municipal, tem ciência das diversas ferramentas que apoiam a tomada de decisão e de que elas podem variar, desde técnicas simples até métodos avançados com o uso de softwares especializados.\n\nA ferramenta que consiste em priorizar uma lista de opções com base em um conjunto de critérios é denominada",
+    "choices": [
       "Análise de Custo-Benefício.",
       "Matriz GUT.",
       "Árvore de Decisão.",
       "Matriz de Decisão.",
       "Análise SWOT."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A Matriz de Decisão lista as alternativas e as avalia segundo critérios (muitas vezes com pesos), indicando a mais bem pontuada. A: compara custos e benefícios. B: prioriza problemas por gravidade, urgência e tendência. C: ramifica alternativas e probabilidades. E: avalia forças, fraquezas, oportunidades e ameaças."
+    "answerKey": 3,
+    "explanation": "Correta: D. A Matriz de Decisão lista as alternativas e as avalia segundo critérios (muitas vezes com pesos), indicando a mais bem pontuada. A: compara custos e benefícios. B: prioriza problemas por gravidade, urgência e tendência. C: ramifica alternativas e probabilidades. E: avalia forças, fraquezas, oportunidades e ameaças."
   },
   {
     "id": "B-TREM-39",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 39,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "processo-decisorio",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 39,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No contexto do processo decisório, representam uma forma de tomada de decisões baseada em regras práticas, vieses ou atalhos mentais. Elas assumem um papel essencial quando as pessoas necessitam tomar decisões rapidamente, frente a pouca informação ou informações incompletas.\n\nEssa afirmativa refere-se às decisões denominadas",
-    "alternativas": [
+    "statement": "No contexto do processo decisório, representam uma forma de tomada de decisões baseada em regras práticas, vieses ou atalhos mentais. Elas assumem um papel essencial quando as pessoas necessitam tomar decisões rapidamente, frente a pouca informação ou informações incompletas.\n\nEssa afirmativa refere-se às decisões denominadas",
+    "choices": [
       "racionais.",
       "intuitivas.",
       "heurísticas.",
       "estratégicas.",
       "táticas."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Heurísticas são regras práticas ou atalhos mentais usados para decidir com rapidez e com pouca informação, e podem gerar vieses. Decisões racionais seguem análise completa; estratégicas e táticas classificam as decisões pelo nível organizacional."
+    "answerKey": 2,
+    "explanation": "Correta: C. Heurísticas são regras práticas ou atalhos mentais usados para decidir com rapidez e com pouca informação, e podem gerar vieses. Decisões racionais seguem análise completa; estratégicas e táticas classificam as decisões pelo nível organizacional."
   },
   {
     "id": "B-PAUL-30",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "processo-decisorio",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 30,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "processo-decisorio",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 30,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Diante de um problema complexo de saneamento básico, uma prefeitura reuniu um grupo de especialistas no assunto. Por meio da aplicação de questionários, essa prefeitura coletou e analisou as opiniões dos especialistas, compartilhou as respostas com eles e repetiu o processo até o momento que os participantes se aproximaram de um consenso.\n\nEssa técnica utilizada para contribuir na tomada de decisão é denominada como",
-    "alternativas": [
+    "statement": "Diante de um problema complexo de saneamento básico, uma prefeitura reuniu um grupo de especialistas no assunto. Por meio da aplicação de questionários, essa prefeitura coletou e analisou as opiniões dos especialistas, compartilhou as respostas com eles e repetiu o processo até o momento que os participantes se aproximaram de um consenso.\n\nEssa técnica utilizada para contribuir na tomada de decisão é denominada como",
+    "choices": [
       "Método Delphi.",
       "Matriz de Decisão.",
       "Árvore de Decisão.",
       "Brainstorming.",
       "Análise SWOT."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O método Delphi consulta especialistas em rodadas de questionários, com devolutiva das respostas, até convergirem para um consenso. Brainstorming gera ideias em grupo sem esse ciclo de questionários."
+    "answerKey": 0,
+    "explanation": "Correta: A. O método Delphi consulta especialistas em rodadas de questionários, com devolutiva das respostas, até convergirem para um consenso. Brainstorming gera ideias em grupo sem esse ciclo de questionários."
   }
 ]

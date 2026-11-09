@@ -3,96 +3,96 @@
     "id": "B-PAUL-38",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 38,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 38,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O Poder Executivo de um município do interior de São Paulo é composto pela administração pública direta e indireta. A título de exemplo, o hospital municipal é uma autarquia vinculada à secretaria municipal de saúde.\n\nEssa vinculação da entidade ao órgão, com vistas a garantir o cumprimento da finalidade para a qual foi criada, está de acordo com o princípio da administração pública da",
-    "alternativas": [
+    "statement": "O Poder Executivo de um município do interior de São Paulo é composto pela administração pública direta e indireta. A título de exemplo, o hospital municipal é uma autarquia vinculada à secretaria municipal de saúde.\n\nEssa vinculação da entidade ao órgão, com vistas a garantir o cumprimento da finalidade para a qual foi criada, está de acordo com o princípio da administração pública da",
+    "choices": [
       "responsabilidade civil do Estado.",
       "autotutela.",
       "tutela administrativa.",
       "subsidiariedade.",
       "continuidade dos serviços públicos."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A tutela administrativa (supervisão ou controle finalístico) é o controle que a administração direta exerce sobre as entidades da indireta para verificar se cumprem a finalidade legal. A autotutela é o controle que a Administração faz sobre os próprios atos."
+    "answerKey": 2,
+    "explanation": "Correta: C. A tutela administrativa (supervisão ou controle finalístico) é o controle que a administração direta exerce sobre as entidades da indireta para verificar se cumprem a finalidade legal. A autotutela é o controle que a Administração faz sobre os próprios atos."
   },
   {
     "id": "B-SJRP-33",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 33,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 33,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Para garantir que a atuação ocorra conforme a lei e a finalidade para as quais foram criadas, as entidades da administração pública indireta, a exemplo de uma autarquia municipal, são vinculadas aos órgãos da administração direta, a exemplo de uma secretaria municipal, o que está de acordo com o princípio da",
-    "alternativas": [
+    "statement": "Para garantir que a atuação ocorra conforme a lei e a finalidade para as quais foram criadas, as entidades da administração pública indireta, a exemplo de uma autarquia municipal, são vinculadas aos órgãos da administração direta, a exemplo de uma secretaria municipal, o que está de acordo com o princípio da",
+    "choices": [
       "tutela administrativa.",
       "autotutela.",
       "hierarquia.",
       "continuidade dos serviços públicos.",
       "razoabilidade."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A tutela administrativa (supervisão ou controle finalístico) é o controle da administração direta sobre as entidades da indireta. Não há hierarquia entre elas (C), pois a entidade tem personalidade e autonomia próprias. A autotutela é o controle que a Administração exerce sobre os próprios atos."
+    "answerKey": 0,
+    "explanation": "Correta: A. A tutela administrativa (supervisão ou controle finalístico) é o controle da administração direta sobre as entidades da indireta. Não há hierarquia entre elas (C), pois a entidade tem personalidade e autonomia próprias. A autotutela é o controle que a Administração exerce sobre os próprios atos."
   },
   {
     "id": "B-SJRP-35",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 35,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 35,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Na Administração Pública brasileira, são exemplos de entes que possuem personalidade jurídica própria, ou seja, que podem adquirir direitos, contrair deveres e ter um patrimônio próprio:",
-    "alternativas": [
+    "statement": "Na Administração Pública brasileira, são exemplos de entes que possuem personalidade jurídica própria, ou seja, que podem adquirir direitos, contrair deveres e ter um patrimônio próprio:",
+    "choices": [
       "os governos e as prefeituras.",
       "as assembleias legislativas e as câmaras municipais.",
       "os hospitais públicos, sejam eles federais, estaduais ou municipais.",
       "os estados e os municípios.",
       "as secretarias estaduais e municipais."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Estados e municípios são entes federativos, pessoas jurídicas de direito público. Governos, prefeituras, assembleias, câmaras e secretarias são órgãos públicos: centros de competência sem personalidade jurídica própria. Um hospital público só teria personalidade se fosse uma entidade da administração indireta; como categoria geral, não é ente."
+    "answerKey": 3,
+    "explanation": "Correta: D. Estados e municípios são entes federativos, pessoas jurídicas de direito público. Governos, prefeituras, assembleias, câmaras e secretarias são órgãos públicos: centros de competência sem personalidade jurídica própria. Um hospital público só teria personalidade se fosse uma entidade da administração indireta; como categoria geral, não é ente."
   },
   {
     "id": "B-SJRP-36",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 36,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 36,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Consórcio público pode ser entendido como um acordo formal estabelecido entre entes federativos para realizar a gestão associada de serviços públicos.\n\nQuando constituído como associação pública, um consórcio público é uma espécie de",
-    "alternativas": [
+    "statement": "Consórcio público pode ser entendido como um acordo formal estabelecido entre entes federativos para realizar a gestão associada de serviços públicos.\n\nQuando constituído como associação pública, um consórcio público é uma espécie de",
+    "choices": [
       "empresa pública.",
       "autarquia.",
       "fundação pública de direito público.",
       "fundação pública de direito privado.",
       "sociedade de economia mista."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O consórcio público de direito público (associação pública) integra a administração indireta como uma espécie de autarquia (Lei 11.107/2005 e Código Civil). Empresas públicas e sociedades de economia mista são pessoas de direito privado."
+    "answerKey": 1,
+    "explanation": "Correta: B. O consórcio público de direito público (associação pública) integra a administração indireta como uma espécie de autarquia (Lei 11.107/2005 e Código Civil). Empresas públicas e sociedades de economia mista são pessoas de direito privado."
   }
 ]

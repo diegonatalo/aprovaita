@@ -1,7 +1,7 @@
-import { SimuladoApp } from "@/components/simulado-app";
-import { carregarBanco } from "@/lib/banco";
+import { MockExamApp } from "@/components/mock-exam-app";
+import { loadBank } from "@/lib/bank";
 
-export default function Simulado() {
-  const { questoes, info } = carregarBanco();
-  return <SimuladoApp questoes={questoes} info={info} />;
+export default function MockExamPage() {
+  const { questions, info } = loadBank();
+  return <MockExamApp questions={questions} info={info} />;
 }

@@ -2,81 +2,81 @@
   {
     "id": "PT-INT-A1",
     "area": "portugues",
-    "topicoSlug": "interpretacao-textual-tipologia",
-    "origem": "autoral",
-    "enunciado": "Leia o texto: \"A biblioteca da Câmara ampliou o horário de atendimento. A medida, segundo a direção, busca facilitar o acesso dos moradores que trabalham durante o dia.\" De acordo com o texto, a finalidade da ampliação do horário é",
-    "alternativas": [
+    "topicSlug": "interpretacao-textual-tipologia",
+    "origin": "authored",
+    "statement": "Leia o texto: \"A biblioteca da Câmara ampliou o horário de atendimento. A medida, segundo a direção, busca facilitar o acesso dos moradores que trabalham durante o dia.\" De acordo com o texto, a finalidade da ampliação do horário é",
+    "choices": [
       "reduzir os custos da biblioteca.",
       "restringir o acesso de visitantes.",
       "aumentar o número de funcionários.",
       "facilitar o acesso dos moradores que trabalham durante o dia.",
       "substituir o atendimento virtual."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, que reproduz o que o texto afirma. A, B, C e E: não aparecem no texto; a direção cita apenas o acesso dos moradores que trabalham de dia."
+    "answerKey": 3,
+    "explanation": "Correta: D, que reproduz o que o texto afirma. A, B, C e E: não aparecem no texto; a direção cita apenas o acesso dos moradores que trabalham de dia."
   },
   {
     "id": "PT-INT-A2",
     "area": "portugues",
-    "topicoSlug": "interpretacao-textual-tipologia",
-    "origem": "autoral",
-    "enunciado": "Na frase \"O diretor jogou a toalha e abandonou o projeto\", a expressão \"jogou a toalha\" é empregada em sentido",
-    "alternativas": [
+    "topicSlug": "interpretacao-textual-tipologia",
+    "origin": "authored",
+    "statement": "Na frase \"O diretor jogou a toalha e abandonou o projeto\", a expressão \"jogou a toalha\" é empregada em sentido",
+    "choices": [
       "conotativo, com o significado de desistir.",
       "denotativo, com o significado de lançar um objeto.",
       "literal, indicando que o diretor praticava esporte.",
       "técnico, próprio da linguagem jurídica.",
       "irrelevante para a compreensão da frase."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A expressão é figurada e significa desistir. B e C: tomariam a expressão ao pé da letra. D: não é termo jurídico. E: a expressão é relevante, pois indica a razão do abandono."
+    "answerKey": 0,
+    "explanation": "Correta: A. A expressão é figurada e significa desistir. B e C: tomariam a expressão ao pé da letra. D: não é termo jurídico. E: a expressão é relevante, pois indica a razão do abandono."
   },
   {
     "id": "PT-INT-A3",
     "area": "portugues",
-    "topicoSlug": "interpretacao-textual-tipologia",
-    "origem": "autoral",
-    "enunciado": "Leia a frase: \"Ana só assinou o contrato depois de ler todas as cláusulas.\" Infere-se da frase que Ana",
-    "alternativas": [
+    "topicSlug": "interpretacao-textual-tipologia",
+    "origin": "authored",
+    "statement": "Leia a frase: \"Ana só assinou o contrato depois de ler todas as cláusulas.\" Infere-se da frase que Ana",
+    "choices": [
       "assinou o contrato sem lê-lo.",
       "leu as cláusulas depois de assinar o contrato.",
       "leu todas as cláusulas antes de assinar o contrato.",
       "não assinou o contrato.",
       "não leu nenhuma cláusula."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A expressão \"só ... depois de\" indica que a leitura precedeu a assinatura. A e E: contrariam o texto. B: inverte a ordem. D: Ana assinou o contrato."
+    "answerKey": 2,
+    "explanation": "Correta: C. A expressão \"só ... depois de\" indica que a leitura precedeu a assinatura. A e E: contrariam o texto. B: inverte a ordem. D: Ana assinou o contrato."
   },
   {
     "id": "PT-INT-A4",
     "area": "portugues",
-    "topicoSlug": "interpretacao-textual-tipologia",
-    "origem": "autoral",
-    "enunciado": "Um texto que orienta o leitor a realizar uma tarefa, como em \"Preencha o formulário, assine-o e entregue-o no protocolo\", é predominantemente",
-    "alternativas": [
+    "topicSlug": "interpretacao-textual-tipologia",
+    "origin": "authored",
+    "statement": "Um texto que orienta o leitor a realizar uma tarefa, como em \"Preencha o formulário, assine-o e entregue-o no protocolo\", é predominantemente",
+    "choices": [
       "narrativo.",
       "descritivo.",
       "dissertativo-argumentativo.",
       "expositivo.",
       "injuntivo (instrucional)."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O texto injuntivo orienta ações, com verbos no imperativo. A: narrativo conta fatos. B: descritivo caracteriza. C: dissertativo-argumentativo defende uma tese. D: expositivo explica um assunto."
+    "answerKey": 4,
+    "explanation": "Correta: E. O texto injuntivo orienta ações, com verbos no imperativo. A: narrativo conta fatos. B: descritivo caracteriza. C: dissertativo-argumentativo defende uma tese. D: expositivo explica um assunto."
   },
   {
     "id": "PT-INT-A5",
     "area": "portugues",
-    "topicoSlug": "interpretacao-textual-tipologia",
-    "origem": "autoral",
-    "enunciado": "Em \"Seu sorriso é um raio de sol\", ocorre a figura de linguagem denominada",
-    "alternativas": [
+    "topicSlug": "interpretacao-textual-tipologia",
+    "origin": "authored",
+    "statement": "Em \"Seu sorriso é um raio de sol\", ocorre a figura de linguagem denominada",
+    "choices": [
       "comparação.",
       "metáfora.",
       "metonímia.",
       "hipérbole.",
       "ironia."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A identificação direta entre \"sorriso\" e \"raio de sol\", sem conectivo, é metáfora. A: a comparação exigiria um conectivo, como \"como\". C: metonímia troca um termo por outro relacionado. D: hipérbole exagera. E: ironia diz o contrário do que se pensa."
+    "answerKey": 1,
+    "explanation": "Correta: B. A identificação direta entre \"sorriso\" e \"raio de sol\", sem conectivo, é metáfora. A: a comparação exigiria um conectivo, como \"como\". C: metonímia troca um termo por outro relacionado. D: hipérbole exagera. E: ironia diz o contrário do que se pensa."
   }
 ]

@@ -3,85 +3,85 @@
     "id": "ARQ-CLAS-A1",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "classificacao-avaliacao-temporalidade",
-    "origem": "autoral",
-    "enunciado": "O plano de classificação de documentos de arquivo organiza os documentos com base",
-    "alternativas": [
+    "topicSlug": "classificacao-avaliacao-temporalidade",
+    "origin": "authored",
+    "statement": "O plano de classificação de documentos de arquivo organiza os documentos com base",
+    "choices": [
       "no tamanho físico das folhas.",
       "na ordem alfabética dos nomes dos servidores.",
       "no suporte em que foram produzidos.",
       "nas funções e atividades desempenhadas pelo órgão.",
       "na data de arquivamento exclusivamente."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O plano de classificação reflete as funções e atividades do órgão produtor. As demais alternativas apresentam critérios de ordenação ou de organização física que não definem a classificação arquivística."
+    "answerKey": 3,
+    "explanation": "Correta: D. O plano de classificação reflete as funções e atividades do órgão produtor. As demais alternativas apresentam critérios de ordenação ou de organização física que não definem a classificação arquivística."
   },
   {
     "id": "ARQ-CLAS-A2",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "classificacao-avaliacao-temporalidade",
-    "origem": "autoral",
-    "enunciado": "A tabela de temporalidade de documentos tem por finalidade registrar",
-    "alternativas": [
+    "topicSlug": "classificacao-avaliacao-temporalidade",
+    "origin": "authored",
+    "statement": "A tabela de temporalidade de documentos tem por finalidade registrar",
+    "choices": [
       "os prazos de guarda nas fases corrente e intermediária e a destinação final dos documentos.",
       "apenas os nomes dos servidores responsáveis pelo arquivo.",
       "a localização física exata de cada pasta.",
       "o código de barras de cada documento.",
       "os valores de aquisição do mobiliário do arquivo."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. A tabela define prazos de guarda e destinação final (eliminação ou guarda permanente). B, C, D e E: tratam de outros controles que não são o objeto da tabela de temporalidade."
+    "answerKey": 0,
+    "explanation": "Correta: A. A tabela define prazos de guarda e destinação final (eliminação ou guarda permanente). B, C, D e E: tratam de outros controles que não são o objeto da tabela de temporalidade."
   },
   {
     "id": "ARQ-CLAS-A3",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "classificacao-avaliacao-temporalidade",
-    "origem": "autoral",
-    "enunciado": "Os valores administrativo, legal e fiscal de um documento são classificados como valor",
-    "alternativas": [
+    "topicSlug": "classificacao-avaliacao-temporalidade",
+    "origin": "authored",
+    "statement": "Os valores administrativo, legal e fiscal de um documento são classificados como valor",
+    "choices": [
       "histórico.",
       "secundário.",
       "primário.",
       "informativo.",
       "probatório permanente."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Valor primário é o ligado ao motivo da produção do documento (administrativo, legal, fiscal). B e A: valor secundário é o histórico, probatório e informativo. D: o valor informativo integra o valor secundário. E: não é a denominação usual."
+    "answerKey": 2,
+    "explanation": "Correta: C. Valor primário é o ligado ao motivo da produção do documento (administrativo, legal, fiscal). B e A: valor secundário é o histórico, probatório e informativo. D: o valor informativo integra o valor secundário. E: não é a denominação usual."
   },
   {
     "id": "ARQ-CLAS-A4",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "classificacao-avaliacao-temporalidade",
-    "origem": "autoral",
-    "enunciado": "Cumpridos os prazos de guarda previstos na tabela de temporalidade, a destinação final de um documento pode ser",
-    "alternativas": [
+    "topicSlug": "classificacao-avaliacao-temporalidade",
+    "origin": "authored",
+    "statement": "Cumpridos os prazos de guarda previstos na tabela de temporalidade, a destinação final de um documento pode ser",
+    "choices": [
       "apenas a transferência ao arquivo corrente.",
       "somente a doação a particulares.",
       "a venda em leilão público de qualquer documento.",
       "o retorno ao protocolo para novo registro.",
       "a eliminação ou a guarda permanente, conforme a avaliação."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A destinação final é a eliminação, quando não há valor permanente, ou a guarda permanente. As demais alternativas não correspondem às destinações previstas."
+    "answerKey": 4,
+    "explanation": "Correta: E. A destinação final é a eliminação, quando não há valor permanente, ou a guarda permanente. As demais alternativas não correspondem às destinações previstas."
   },
   {
     "id": "ARQ-CLAS-A5",
     "area": "especificos",
     "subarea": "arquivologia",
-    "topicoSlug": "classificacao-avaliacao-temporalidade",
-    "origem": "autoral",
-    "enunciado": "A classificação de documentos de arquivo difere da ordenação porque a classificação",
-    "alternativas": [
+    "topicSlug": "classificacao-avaliacao-temporalidade",
+    "origin": "authored",
+    "statement": "A classificação de documentos de arquivo difere da ordenação porque a classificação",
+    "choices": [
       "define a sequência física de arquivamento dentro de cada pasta.",
       "define a que classe, segundo funções e atividades, o documento pertence.",
       "só se aplica a documentos permanentes.",
       "só é feita após a eliminação.",
       "dispensa qualquer plano ou código."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Classificar é definir a classe do documento; ordenar é definir a sequência dentro da classe. A: descreve a ordenação. C: aplica-se desde a fase corrente. D: é anterior e independe da eliminação. E: a classificação segue plano e pode usar códigos."
+    "answerKey": 1,
+    "explanation": "Correta: B. Classificar é definir a classe do documento; ordenar é definir a sequência dentro da classe. A: descreve a ordenação. C: aplica-se desde a fase corrente. D: é anterior e independe da eliminação. E: a classificação segue plano e pode usar códigos."
   }
 ]

@@ -3,85 +3,85 @@
     "id": "AP-LGPD-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lgpd-13709",
-    "origem": "autoral",
-    "enunciado": "Em seu cadastro de servidores, a Câmara Municipal registra diversas informações. Entre elas, a que a Lei nº 13.709/2018 (LGPD) define como dado pessoal sensível, quando vinculada a uma pessoa natural, é",
-    "alternativas": [
+    "topicSlug": "lgpd-13709",
+    "origin": "authored",
+    "statement": "Em seu cadastro de servidores, a Câmara Municipal registra diversas informações. Entre elas, a que a Lei nº 13.709/2018 (LGPD) define como dado pessoal sensível, quando vinculada a uma pessoa natural, é",
+    "choices": [
       "o número do CPF.",
       "o endereço residencial.",
       "o nome completo.",
       "a filiação a sindicato.",
       "o endereço de e-mail institucional."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O art. 5º, II, inclui a filiação a sindicato entre os dados sensíveis, junto a origem racial ou étnica, convicção religiosa, opinião política, saúde, vida sexual, dado genético ou biométrico. A, B, C e E: são dados pessoais comuns, porque identificam ou tornam identificável a pessoa, mas não constam do rol de dados sensíveis."
+    "answerKey": 3,
+    "explanation": "Correta: D. O art. 5º, II, inclui a filiação a sindicato entre os dados sensíveis, junto a origem racial ou étnica, convicção religiosa, opinião política, saúde, vida sexual, dado genético ou biométrico. A, B, C e E: são dados pessoais comuns, porque identificam ou tornam identificável a pessoa, mas não constam do rol de dados sensíveis."
   },
   {
     "id": "AP-LGPD-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lgpd-13709",
-    "origem": "autoral",
-    "enunciado": "Uma empresa contratada pela Câmara Municipal para processar a folha de pagamento realiza o tratamento de dados pessoais dos servidores seguindo instruções da Câmara. Nos termos da LGPD, a Câmara e a empresa são, respectivamente,",
-    "alternativas": [
+    "topicSlug": "lgpd-13709",
+    "origin": "authored",
+    "statement": "Uma empresa contratada pela Câmara Municipal para processar a folha de pagamento realiza o tratamento de dados pessoais dos servidores seguindo instruções da Câmara. Nos termos da LGPD, a Câmara e a empresa são, respectivamente,",
+    "choices": [
       "operador e controlador.",
       "controlador e operador.",
       "titular e encarregado.",
       "encarregado e titular.",
       "controladora e agência reguladora."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O controlador é quem decide sobre o tratamento (art. 5º, VI), e o operador realiza o tratamento em nome do controlador (art. 5º, VII). A: inverte os papéis. C e D: o titular é a pessoa natural a quem os dados se referem, e o encarregado é o canal de comunicação. E: a agência reguladora é a ANPD, e a empresa não exerce essa função."
+    "answerKey": 1,
+    "explanation": "Correta: B. O controlador é quem decide sobre o tratamento (art. 5º, VI), e o operador realiza o tratamento em nome do controlador (art. 5º, VII). A: inverte os papéis. C e D: o titular é a pessoa natural a quem os dados se referem, e o encarregado é o canal de comunicação. E: a agência reguladora é a ANPD, e a empresa não exerce essa função."
   },
   {
     "id": "AP-LGPD-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lgpd-13709",
-    "origem": "autoral",
-    "enunciado": "Para emitir uma certidão simples, um órgão passou a exigir do cidadão informações sobre religião, filiação partidária e estado de saúde, embora esses dados não fossem indispensáveis ao serviço. Essa prática desrespeita, de modo mais direto, o princípio da",
-    "alternativas": [
+    "topicSlug": "lgpd-13709",
+    "origin": "authored",
+    "statement": "Para emitir uma certidão simples, um órgão passou a exigir do cidadão informações sobre religião, filiação partidária e estado de saúde, embora esses dados não fossem indispensáveis ao serviço. Essa prática desrespeita, de modo mais direto, o princípio da",
+    "choices": [
       "livre acesso.",
       "qualidade dos dados.",
       "responsabilização.",
       "publicidade.",
       "necessidade."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A necessidade limita o tratamento ao mínimo necessário para a finalidade, com dados pertinentes, proporcionais e não excessivos (art. 6º, III). A: livre acesso é a consulta facilitada e gratuita do titular aos seus dados. B: qualidade trata da exatidão e atualização. C: responsabilização é demonstrar a adoção de medidas eficazes. D: publicidade não é princípio da LGPD."
+    "answerKey": 4,
+    "explanation": "Correta: E. A necessidade limita o tratamento ao mínimo necessário para a finalidade, com dados pertinentes, proporcionais e não excessivos (art. 6º, III). A: livre acesso é a consulta facilitada e gratuita do titular aos seus dados. B: qualidade trata da exatidão e atualização. C: responsabilização é demonstrar a adoção de medidas eficazes. D: publicidade não é princípio da LGPD."
   },
   {
     "id": "AP-LGPD-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lgpd-13709",
-    "origem": "autoral",
-    "enunciado": "A LGPD determina que o controlador indique um encarregado pelo tratamento de dados pessoais. Entre as atividades do encarregado, inclui-se",
-    "alternativas": [
+    "topicSlug": "lgpd-13709",
+    "origin": "authored",
+    "statement": "A LGPD determina que o controlador indique um encarregado pelo tratamento de dados pessoais. Entre as atividades do encarregado, inclui-se",
+    "choices": [
       "aplicar multas aos agentes de tratamento.",
       "decidir, sozinho, todas as finalidades do tratamento.",
       "executar o tratamento de dados em nome do operador.",
       "aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências.",
       "ser o titular dos dados que a organização trata."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O art. 41, §2º, I, inclui entre as atividades do encarregado aceitar reclamações e comunicações dos titulares e adotar providências, além de receber comunicações da ANPD e orientar funcionários e contratados. A: a aplicação de sanções cabe à ANPD. B: decisões sobre o tratamento cabem ao controlador. C: o operador age em nome do controlador, e não o contrário. E: titular é a pessoa a quem os dados se referem."
+    "answerKey": 3,
+    "explanation": "Correta: D. O art. 41, §2º, I, inclui entre as atividades do encarregado aceitar reclamações e comunicações dos titulares e adotar providências, além de receber comunicações da ANPD e orientar funcionários e contratados. A: a aplicação de sanções cabe à ANPD. B: decisões sobre o tratamento cabem ao controlador. C: o operador age em nome do controlador, e não o contrário. E: titular é a pessoa a quem os dados se referem."
   },
   {
     "id": "AP-LGPD-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lgpd-13709",
-    "origem": "autoral",
-    "enunciado": "Em um formulário, uma câmara municipal inseriu a seguinte cláusula: \"O cidadão autoriza o tratamento de seus dados pessoais para quaisquer finalidades que o órgão venha a definir no futuro.\" Segundo a LGPD, essa autorização",
-    "alternativas": [
+    "topicSlug": "lgpd-13709",
+    "origin": "authored",
+    "statement": "Em um formulário, uma câmara municipal inseriu a seguinte cláusula: \"O cidadão autoriza o tratamento de seus dados pessoais para quaisquer finalidades que o órgão venha a definir no futuro.\" Segundo a LGPD, essa autorização",
+    "choices": [
       "é válida, pois o consentimento pode ser genérico.",
       "é válida se estiver em letras pequenas, desde que assinada.",
       "é nula, pois as autorizações genéricas para o tratamento de dados pessoais são nulas e o consentimento deve referir-se a finalidades determinadas.",
       "é válida apenas se o cidadão for pessoa jurídica.",
       "é obrigatória em todo tratamento de dados pessoais."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O art. 8º, §4º, dispõe que o consentimento deve se referir a finalidades determinadas e que autorizações genéricas são nulas. A: contraria o dispositivo. B: o consentimento por escrito deve constar de cláusula destacada (art. 8º, §1º). D: a LGPD protege pessoas naturais. E: o consentimento é apenas uma das bases legais do art. 7º."
+    "answerKey": 2,
+    "explanation": "Correta: C. O art. 8º, §4º, dispõe que o consentimento deve se referir a finalidades determinadas e que autorizações genéricas são nulas. A: contraria o dispositivo. B: o consentimento por escrito deve constar de cláusula destacada (art. 8º, §1º). D: a LGPD protege pessoas naturais. E: o consentimento é apenas uma das bases legais do art. 7º."
   }
 ]

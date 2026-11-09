@@ -2,129 +2,129 @@
   {
     "id": "LEG-R-A1",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "De acordo com o Regimento Interno da Câmara Municipal de Itanhaém (Resolução nº 349/1998, com as alterações da Resolução nº 527/2025), a Mesa da Câmara é eleita para um mandato de",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "De acordo com o Regimento Interno da Câmara Municipal de Itanhaém (Resolução nº 349/1998, com as alterações da Resolução nº 527/2025), a Mesa da Câmara é eleita para um mandato de",
+    "choices": [
       "um ano, vedada a recondução para o mesmo cargo.",
       "dois anos, permitida a recondução de qualquer de seus membros ao mesmo cargo por uma única vez.",
       "quatro anos, coincidente com a legislatura.",
       "dois anos, vedada em qualquer hipótese a recondução.",
       "três anos, permitida a recondução ilimitada."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o art. 13, na redação da Res. 527/2025: mandato de 2 anos, com possibilidade de recondução de qualquer membro ao mesmo cargo, uma única vez, na eleição imediatamente subsequente. As demais apresentam prazos ou regras de recondução que o texto não prevê."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o art. 13, na redação da Res. 527/2025: mandato de 2 anos, com possibilidade de recondução de qualquer membro ao mesmo cargo, uma única vez, na eleição imediatamente subsequente. As demais apresentam prazos ou regras de recondução que o texto não prevê."
   },
   {
     "id": "LEG-R-A2",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "Segundo o Regimento Interno da Câmara Municipal de Itanhaém, as sessões ordinárias e as sessões extraordinárias somente podem ser abertas com a presença de, no mínimo, respectivamente,",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "Segundo o Regimento Interno da Câmara Municipal de Itanhaém, as sessões ordinárias e as sessões extraordinárias somente podem ser abertas com a presença de, no mínimo, respectivamente,",
+    "choices": [
       "dois terços e um terço dos membros da Câmara.",
       "a maioria absoluta e dois terços dos membros da Câmara.",
       "um terço e dois terços dos membros da Câmara.",
       "um terço dos membros da Câmara, em ambos os casos.",
       "a maioria simples e a maioria absoluta dos membros da Câmara."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme os arts. 120 (sessão ordinária abre com 1/3) e 152 (sessão extraordinária abre com 2/3). Atenção: a ordem do dia, dentro da sessão ordinária, exige a maioria absoluta (art. 139)."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme os arts. 120 (sessão ordinária abre com 1/3) e 152 (sessão extraordinária abre com 2/3). Atenção: a ordem do dia, dentro da sessão ordinária, exige a maioria absoluta (art. 139)."
   },
   {
     "id": "LEG-R-A3",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "Conforme o Regimento Interno da Câmara Municipal de Itanhaém, a rejeição de veto do Prefeito a projeto de lei exige o voto de",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "Conforme o Regimento Interno da Câmara Municipal de Itanhaém, a rejeição de veto do Prefeito a projeto de lei exige o voto de",
+    "choices": [
       "maioria simples dos Vereadores presentes.",
       "dois terços dos membros da Câmara.",
       "um terço dos membros da Câmara.",
       "maioria absoluta dos membros da Câmara.",
       "unanimidade dos Vereadores presentes."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, conforme o § 6º do art. 214: o veto só pode ser rejeitado pelo voto da maioria absoluta dos membros da Câmara. Maioria absoluta é a metade dos membros mais um (art. 44, § 2º)."
+    "answerKey": 3,
+    "explanation": "Correta: D, conforme o § 6º do art. 214: o veto só pode ser rejeitado pelo voto da maioria absoluta dos membros da Câmara. Maioria absoluta é a metade dos membros mais um (art. 44, § 2º)."
   },
   {
     "id": "LEG-R-A4",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "De acordo com o Regimento Interno da Câmara Municipal de Itanhaém, as Comissões Especiais de Inquérito são criadas mediante requerimento subscrito por um terço dos membros da Câmara, aprovado pelo voto favorável de",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "De acordo com o Regimento Interno da Câmara Municipal de Itanhaém, as Comissões Especiais de Inquérito são criadas mediante requerimento subscrito por um terço dos membros da Câmara, aprovado pelo voto favorável de",
+    "choices": [
       "maioria simples dos presentes.",
       "maioria absoluta dos membros da Câmara.",
       "um terço dos membros da Câmara.",
       "todos os membros da Câmara.",
       "dois terços dos membros da Câmara."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E, conforme o art. 99, na redação da Res. 355/1999: requerimento de 1/3 dos membros, aprovado por 2/3. O requerimento deve indicar o fato, o número de membros (até 5) e o prazo de funcionamento (até 90 dias)."
+    "answerKey": 4,
+    "explanation": "Correta: E, conforme o art. 99, na redação da Res. 355/1999: requerimento de 1/3 dos membros, aprovado por 2/3. O requerimento deve indicar o fato, o número de membros (até 5) e o prazo de funcionamento (até 90 dias)."
   },
   {
     "id": "LEG-R-A5",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "Nos termos do Regimento Interno da Câmara Municipal de Itanhaém, as sessões ordinárias compõem-se das seguintes partes:",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "Nos termos do Regimento Interno da Câmara Municipal de Itanhaém, as sessões ordinárias compõem-se das seguintes partes:",
+    "choices": [
       "expediente, ordem do dia e explicação pessoal.",
       "abertura, discussão e encerramento.",
       "leitura da ata, votação e explicação pessoal.",
       "expediente, tribuna livre e ordem do dia.",
       "ordem do dia, pareceres e encerramento."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 132: expediente, ordem do dia e explicação pessoal. As sessões extraordinárias não têm expediente nem explicação pessoal (art. 151)."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 132: expediente, ordem do dia e explicação pessoal. As sessões extraordinárias não têm expediente nem explicação pessoal (art. 151)."
   },
   {
     "id": "LEG-R-A6",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "Segundo o Regimento Interno da Câmara Municipal de Itanhaém, considera-se cassado o mandato do Vereador quando, em processo regular, for declarado incurso em infração especificada na denúncia pelo voto de, no mínimo,",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "Segundo o Regimento Interno da Câmara Municipal de Itanhaém, considera-se cassado o mandato do Vereador quando, em processo regular, for declarado incurso em infração especificada na denúncia pelo voto de, no mínimo,",
+    "choices": [
       "maioria simples dos presentes, em votação aberta.",
       "maioria absoluta dos membros da Câmara, em votação aberta.",
       "dois terços dos membros da Câmara, em votação secreta.",
       "um terço dos membros da Câmara, em votação nominal.",
       "três quintos dos membros da Câmara, em votação aberta."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 273 e seu parágrafo único: cassação por dois terços dos membros da Câmara, e todas as votações do processo são secretas. A perda temporária do exercício (até 30 dias) é que se aplica por maioria absoluta (art. 280, parágrafo único)."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 273 e seu parágrafo único: cassação por dois terços dos membros da Câmara, e todas as votações do processo são secretas. A perda temporária do exercício (até 30 dias) é que se aplica por maioria absoluta (art. 280, parágrafo único)."
   },
   {
     "id": "LEG-R-A7",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "De acordo com o art. 117 do Regimento Interno da Câmara Municipal de Itanhaém, a sessão legislativa tem início em 1º de fevereiro e término em 5 de dezembro de cada ano, e são considerados recesso legislativo os períodos de",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "De acordo com o art. 117 do Regimento Interno da Câmara Municipal de Itanhaém, a sessão legislativa tem início em 1º de fevereiro e término em 5 de dezembro de cada ano, e são considerados recesso legislativo os períodos de",
+    "choices": [
       "6 de dezembro a 31 de janeiro e 1º a 31 de julho.",
       "6 de dezembro a 31 de janeiro e 1º a 15 de julho.",
       "1º de janeiro a 31 de janeiro e 1º a 31 de agosto.",
       "6 de dezembro a 15 de janeiro e 1º a 31 de julho.",
       "20 de dezembro a 31 de janeiro, apenas."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o parágrafo único do art. 117: recesso de 6 de dezembro a 31 de janeiro e de 1º a 31 de julho. Os prazos regimentais não correm no recesso (art. 300)."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o parágrafo único do art. 117: recesso de 6 de dezembro a 31 de janeiro e de 1º a 31 de julho. Os prazos regimentais não correm no recesso (art. 300)."
   },
   {
     "id": "LEG-R-A8",
     "area": "legislacao",
-    "topicoSlug": "regimento-interno-camara",
-    "origem": "autoral",
-    "enunciado": "Conforme o Regimento Interno da Câmara Municipal de Itanhaém, o Presidente da Câmara tem direito a voto apenas",
-    "alternativas": [
+    "topicSlug": "regimento-interno-camara",
+    "origin": "authored",
+    "statement": "Conforme o Regimento Interno da Câmara Municipal de Itanhaém, o Presidente da Câmara tem direito a voto apenas",
+    "choices": [
       "em todas as votações, como qualquer Vereador.",
       "nas votações simbólicas, mas não nas nominais.",
       "na eleição da Mesa, quando a matéria exigir dois terços ou maioria absoluta, e em caso de empate.",
       "somente em caso de empate.",
       "somente nas matérias de iniciativa do Executivo."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 22, II, alínea i: o Presidente vota na eleição da Mesa, quando a matéria exigir voto favorável de dois terços ou da maioria absoluta dos membros, e no caso de empate. A alternativa D omite duas das três hipóteses."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 22, II, alínea i: o Presidente vota na eleição da Mesa, quando a matéria exigir voto favorável de dois terços ou da maioria absoluta dos membros, e no caso de empate. A alternativa D omite duas das três hipóteses."
   }
 ]

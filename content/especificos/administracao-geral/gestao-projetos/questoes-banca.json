@@ -3,72 +3,72 @@
     "id": "B-TREM-37",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 37,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-projetos",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 37,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "O ciclo de vida de um projeto refere-se à estrutura que vai do início ao fim do projeto. Considerando-se os padrões gerais da gestão de projetos, esse ciclo, normalmente, divide-se em fases, sendo uma delas a de iniciação. Nessa fase, o estudo de viabilidades",
-    "alternativas": [
+    "statement": "O ciclo de vida de um projeto refere-se à estrutura que vai do início ao fim do projeto. Considerando-se os padrões gerais da gestão de projetos, esse ciclo, normalmente, divide-se em fases, sendo uma delas a de iniciação. Nessa fase, o estudo de viabilidades",
+    "choices": [
       "estabelece com clareza o que será ou não entregue no projeto, com o objetivo de evitar expectativas desalinhadas.",
       "envolve disponibilizar para o projeto os recursos definidos, como pessoas, equipamentos, sistemas e orçamento.",
       "permite a análise contínua do cumprimento de prazos e do controle financeiro, de forma que os riscos de desvios sejam controláveis.",
       "considera que a ausência de um plano de comunicação costuma gerar ruído, desalinhamento e decisões paralelas.",
       "auxilia a evitar o início de iniciativas com baixo retorno, riscos excessivos ou que dependam de condições incertas para funcionar."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O estudo de viabilidade, na iniciação, ajuda a decidir se o projeto vale a pena e evita começar iniciativas de baixo retorno, de risco excessivo ou dependentes de condições incertas. A: definição de escopo. B: execução/mobilização de recursos. C: monitoramento e controle. D: comunicação."
+    "answerKey": 4,
+    "explanation": "Correta: E. O estudo de viabilidade, na iniciação, ajuda a decidir se o projeto vale a pena e evita começar iniciativas de baixo retorno, de risco excessivo ou dependentes de condições incertas. A: definição de escopo. B: execução/mobilização de recursos. C: monitoramento e controle. D: comunicação."
   },
   {
     "id": "B-PAUL-28",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
-      "ano": 2025,
-      "cargo": "Agente Administrativo (prova 001)",
-      "numero": 28,
-      "gabaritoFonte": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-projetos",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Paulínia/SP (VUNESP), Concurso nº 02/2025",
+      "year": 2025,
+      "position": "Agente Administrativo (prova 001)",
+      "number": 28,
+      "answerKeySource": "Edital de divulgação do gabarito das provas objetivas (prova aplicada em 14/12/2025). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "No ciclo de vida de um projeto, a fase na qual a organização, seja ela pública ou privada, determina se tem capacidade de entregar o resultado pretendido é denominada como",
-    "alternativas": [
+    "statement": "No ciclo de vida de um projeto, a fase na qual a organização, seja ela pública ou privada, determina se tem capacidade de entregar o resultado pretendido é denominada como",
+    "choices": [
       "design.",
       "construção.",
       "viabilidade.",
       "teste.",
       "implantação."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. A fase de viabilidade verifica se a organização consegue entregar o resultado pretendido, antes de investir em projeto detalhado, construção, teste e implantação."
+    "answerKey": 2,
+    "explanation": "Correta: C. A fase de viabilidade verifica se a organização consegue entregar o resultado pretendido, antes de investir em projeto detalhado, construção, teste e implantação."
   },
   {
     "id": "B-VAAL-33",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
-      "ano": 2024,
-      "cargo": "Agente Administrativo (prova 010)",
-      "numero": 33,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
+    "topicSlug": "gestao-projetos",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de Vista Alegre do Alto/SP (VUNESP), Concurso nº 01/2024",
+      "year": 2024,
+      "position": "Agente Administrativo (prova 010)",
+      "number": 33,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 20/10/2024), aberto a recursos. Alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Em um projeto público, cada repetição de ciclos permite um entendimento melhor da equipe de projeto e, consequentemente, um refinamento maior de um serviço novo que vem sendo desenvolvido para a população. Essa abordagem insere-se no ciclo de projetos",
-    "alternativas": [
+    "statement": "Em um projeto público, cada repetição de ciclos permite um entendimento melhor da equipe de projeto e, consequentemente, um refinamento maior de um serviço novo que vem sendo desenvolvido para a população. Essa abordagem insere-se no ciclo de projetos",
+    "choices": [
       "tradicional.",
       "iterativo.",
       "preditivo.",
       "em cascata.",
       "orientado ao planejamento."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. No ciclo iterativo, as fases se repetem e cada repetição refina o produto com o aprendizado acumulado. Tradicional, preditivo e em cascata seguem fases sequenciais, planejadas antes e sem voltar atrás."
+    "answerKey": 1,
+    "explanation": "Correta: B. No ciclo iterativo, as fases se repetem e cada repetição refina o produto com o aprendizado acumulado. Tradicional, preditivo e em cascata seguem fases sequenciais, planejadas antes e sem voltar atrás."
   }
 ]

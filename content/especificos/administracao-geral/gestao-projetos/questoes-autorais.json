@@ -3,85 +3,85 @@
     "id": "AG-PROJ-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "autoral",
-    "enunciado": "A implantação de um sistema de protocolo eletrônico em um órgão, com início e fim definidos e que resulta em um serviço novo, caracteriza, em gestão de projetos, um(a)",
-    "alternativas": [
+    "topicSlug": "gestao-projetos",
+    "origin": "authored",
+    "statement": "A implantação de um sistema de protocolo eletrônico em um órgão, com início e fim definidos e que resulta em um serviço novo, caracteriza, em gestão de projetos, um(a)",
+    "choices": [
       "operação.",
       "rotina administrativa.",
       "processo contínuo.",
       "projeto.",
       "atividade de apoio permanente."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Projeto é um esforço temporário para criar produto, serviço ou resultado único, com início e fim definidos. A, B, C e E: operações e rotinas são contínuas e repetitivas."
+    "answerKey": 3,
+    "explanation": "Correta: D. Projeto é um esforço temporário para criar produto, serviço ou resultado único, com início e fim definidos. A, B, C e E: operações e rotinas são contínuas e repetitivas."
   },
   {
     "id": "AG-PROJ-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "autoral",
-    "enunciado": "No gerenciamento de projetos, o grupo de processos em que se autoriza formalmente o projeto, elabora-se o termo de abertura e identificam-se as partes interessadas é o de",
-    "alternativas": [
+    "topicSlug": "gestao-projetos",
+    "origin": "authored",
+    "statement": "No gerenciamento de projetos, o grupo de processos em que se autoriza formalmente o projeto, elabora-se o termo de abertura e identificam-se as partes interessadas é o de",
+    "choices": [
       "execução.",
       "encerramento.",
       "planejamento.",
       "iniciação.",
       "monitoramento e controle."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A iniciação autoriza o projeto, elabora o termo de abertura e identifica as partes interessadas. A: execução realiza o trabalho do plano. B: encerramento formaliza entrega e aceitação. C: planejamento define escopo, prazo, custo e riscos. E: monitoramento e controle acompanha e controla mudanças."
+    "answerKey": 3,
+    "explanation": "Correta: D. A iniciação autoriza o projeto, elabora o termo de abertura e identifica as partes interessadas. A: execução realiza o trabalho do plano. B: encerramento formaliza entrega e aceitação. C: planejamento define escopo, prazo, custo e riscos. E: monitoramento e controle acompanha e controla mudanças."
   },
   {
     "id": "AG-PROJ-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "autoral",
-    "enunciado": "De acordo com o Manifesto Ágil, valorizam-se mais",
-    "alternativas": [
+    "topicSlug": "gestao-projetos",
+    "origin": "authored",
+    "statement": "De acordo com o Manifesto Ágil, valorizam-se mais",
+    "choices": [
       "processos e ferramentas do que indivíduos e interações.",
       "documentação abrangente do que software em funcionamento.",
       "negociação de contratos do que colaboração com o cliente.",
       "seguir um plano do que responder a mudanças.",
       "indivíduos e interações do que processos e ferramentas."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O Manifesto Ágil valoriza mais indivíduos e interações do que processos e ferramentas. As demais alternativas invertem os valores do manifesto, que prioriza software em funcionamento, colaboração com o cliente e resposta a mudanças."
+    "answerKey": 4,
+    "explanation": "Correta: E. O Manifesto Ágil valoriza mais indivíduos e interações do que processos e ferramentas. As demais alternativas invertem os valores do manifesto, que prioriza software em funcionamento, colaboração com o cliente e resposta a mudanças."
   },
   {
     "id": "AG-PROJ-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "autoral",
-    "enunciado": "No Scrum, o papel responsável por priorizar o backlog do produto e maximizar o valor entregue é o",
-    "alternativas": [
+    "topicSlug": "gestao-projetos",
+    "origin": "authored",
+    "statement": "No Scrum, o papel responsável por priorizar o backlog do produto e maximizar o valor entregue é o",
+    "choices": [
       "Scrum Master.",
       "Product Owner.",
       "gerente funcional.",
       "patrocinador.",
       "cliente final, obrigatoriamente."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O Product Owner é responsável por gerenciar e priorizar o backlog do produto e maximizar o valor. A: o Scrum Master facilita o processo e remove impedimentos, sem ser chefe do time. C e D: não são papéis do Scrum. E: o cliente pode participar, mas o papel de priorização é do Product Owner."
+    "answerKey": 1,
+    "explanation": "Correta: B. O Product Owner é responsável por gerenciar e priorizar o backlog do produto e maximizar o valor. A: o Scrum Master facilita o processo e remove impedimentos, sem ser chefe do time. C e D: não são papéis do Scrum. E: o cliente pode participar, mas o papel de priorização é do Product Owner."
   },
   {
     "id": "AG-PROJ-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-projetos",
-    "origem": "autoral",
-    "enunciado": "Um setor utiliza um quadro com as colunas \"a fazer\", \"em andamento\" e \"concluído\" e limita o número de tarefas simultâneas em andamento, para visualizar o fluxo de trabalho e identificar gargalos. Essa prática caracteriza o método",
-    "alternativas": [
+    "topicSlug": "gestao-projetos",
+    "origin": "authored",
+    "statement": "Um setor utiliza um quadro com as colunas \"a fazer\", \"em andamento\" e \"concluído\" e limita o número de tarefas simultâneas em andamento, para visualizar o fluxo de trabalho e identificar gargalos. Essa prática caracteriza o método",
+    "choices": [
       "Kanban.",
       "Seis Sigma.",
       "PDCA.",
       "BSC.",
       "5S."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O Kanban organiza o fluxo de trabalho em um quadro visual e limita o trabalho em andamento (WIP). B: Seis Sigma reduz variação e defeitos. C: PDCA é ciclo de melhoria. D: BSC traduz a estratégia em indicadores. E: 5S organiza o ambiente de trabalho."
+    "answerKey": 0,
+    "explanation": "Correta: A. O Kanban organiza o fluxo de trabalho em um quadro visual e limita o trabalho em andamento (WIP). B: Seis Sigma reduz variação e defeitos. C: PDCA é ciclo de melhoria. D: BSC traduz a estratégia em indicadores. E: 5S organiza o ambiente de trabalho."
   }
 ]

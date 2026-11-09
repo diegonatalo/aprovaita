@@ -3,85 +3,85 @@
     "id": "AP-ORG-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "organizacao-trabalho-reparticao",
-    "origem": "autoral",
-    "enunciado": "Em uma repartição, os técnicos acompanham periodicamente a temperatura e a vibração dos equipamentos de refrigeração, analisam os dados coletados e intervêm apenas quando a tendência indica que a falha está próxima. Esse procedimento caracteriza a manutenção",
-    "alternativas": [
+    "topicSlug": "organizacao-trabalho-reparticao",
+    "origin": "authored",
+    "statement": "Em uma repartição, os técnicos acompanham periodicamente a temperatura e a vibração dos equipamentos de refrigeração, analisam os dados coletados e intervêm apenas quando a tendência indica que a falha está próxima. Esse procedimento caracteriza a manutenção",
+    "choices": [
       "corretiva.",
       "emergencial.",
       "preventiva.",
       "preditiva.",
       "passiva."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Na manutenção preditiva, a intervenção é decidida a partir do monitoramento da condição do equipamento (temperatura, vibração, dados) para prever a falha. A: corretiva ocorre depois da falha. C: preventiva segue calendário ou uso, sem depender da medição de condição. B e E: não são os termos clássicos aplicáveis ao procedimento descrito."
+    "answerKey": 3,
+    "explanation": "Correta: D. Na manutenção preditiva, a intervenção é decidida a partir do monitoramento da condição do equipamento (temperatura, vibração, dados) para prever a falha. A: corretiva ocorre depois da falha. C: preventiva segue calendário ou uso, sem depender da medição de condição. B e E: não são os termos clássicos aplicáveis ao procedimento descrito."
   },
   {
     "id": "AP-ORG-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "organizacao-trabalho-reparticao",
-    "origem": "autoral",
-    "enunciado": "A copiadora do setor de protocolo parou de funcionar no meio do expediente, e foi chamado um técnico para consertá-la. Essa intervenção é exemplo de manutenção",
-    "alternativas": [
+    "topicSlug": "organizacao-trabalho-reparticao",
+    "origin": "authored",
+    "statement": "A copiadora do setor de protocolo parou de funcionar no meio do expediente, e foi chamado um técnico para consertá-la. Essa intervenção é exemplo de manutenção",
+    "choices": [
       "preventiva.",
       "corretiva.",
       "preditiva.",
       "programada.",
       "por condição."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A manutenção corretiva é realizada depois da falha, para restabelecer o funcionamento. A e D: preventiva e programada ocorrem antes da falha, em intervalos definidos. C e E: preditiva e por condição dependem de monitoramento prévio do estado do equipamento."
+    "answerKey": 1,
+    "explanation": "Correta: B. A manutenção corretiva é realizada depois da falha, para restabelecer o funcionamento. A e D: preventiva e programada ocorrem antes da falha, em intervalos definidos. C e E: preditiva e por condição dependem de monitoramento prévio do estado do equipamento."
   },
   {
     "id": "AP-ORG-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "organizacao-trabalho-reparticao",
-    "origem": "autoral",
-    "enunciado": "Na implantação do programa 5S em um setor, a equipe separou os documentos e objetos necessários dos desnecessários e descartou os que não tinham mais uso. Essa etapa corresponde ao senso de",
-    "alternativas": [
+    "topicSlug": "organizacao-trabalho-reparticao",
+    "origin": "authored",
+    "statement": "Na implantação do programa 5S em um setor, a equipe separou os documentos e objetos necessários dos desnecessários e descartou os que não tinham mais uso. Essa etapa corresponde ao senso de",
+    "choices": [
       "limpeza (seiso).",
       "padronização (seiketsu).",
       "disciplina (shitsuke).",
       "organização (seiton).",
       "utilização (seiri)."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O seiri (utilização) consiste em separar o necessário do desnecessário e descartar o que não serve. A: seiso é manter o ambiente limpo. B: seiketsu é padronizar. C: shitsuke é disciplina, cumprir os padrões como hábito. D: seiton é arrumar cada coisa em seu lugar."
+    "answerKey": 4,
+    "explanation": "Correta: E. O seiri (utilização) consiste em separar o necessário do desnecessário e descartar o que não serve. A: seiso é manter o ambiente limpo. B: seiketsu é padronizar. C: shitsuke é disciplina, cumprir os padrões como hábito. D: seiton é arrumar cada coisa em seu lugar."
   },
   {
     "id": "AP-ORG-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "organizacao-trabalho-reparticao",
-    "origem": "autoral",
-    "enunciado": "Ao organizar a agenda do setor com a matriz urgente x importante, o servidor identificou uma tarefa que era, ao mesmo tempo, urgente e importante, como a entrega de um documento com prazo para hoje. Nessa matriz, o tratamento adequado a essa tarefa é",
-    "alternativas": [
+    "topicSlug": "organizacao-trabalho-reparticao",
+    "origin": "authored",
+    "statement": "Ao organizar a agenda do setor com a matriz urgente x importante, o servidor identificou uma tarefa que era, ao mesmo tempo, urgente e importante, como a entrega de um documento com prazo para hoje. Nessa matriz, o tratamento adequado a essa tarefa é",
+    "choices": [
       "eliminá-la da agenda.",
       "agendá-la para a semana seguinte.",
       "delegá-la sem acompanhamento.",
       "executá-la imediatamente.",
       "arquivá-la até que se torne urgente."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Tarefas urgentes e importantes devem ser feitas agora. A: eliminam-se as tarefas nem urgentes nem importantes. B: agendar é para as importantes e não urgentes. C: delegar é para as urgentes de menor importância. E: não faz sentido deixar uma tarefa importante e urgente parada."
+    "answerKey": 3,
+    "explanation": "Correta: D. Tarefas urgentes e importantes devem ser feitas agora. A: eliminam-se as tarefas nem urgentes nem importantes. B: agendar é para as importantes e não urgentes. C: delegar é para as urgentes de menor importância. E: não faz sentido deixar uma tarefa importante e urgente parada."
   },
   {
     "id": "AP-ORG-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "organizacao-trabalho-reparticao",
-    "origem": "autoral",
-    "enunciado": "Para elaborar um plano de ação para a reorganização do arquivo do setor, a chefia adotou a ferramenta 5W2H. Nessa ferramenta, o item \"How much\" refere-se a",
-    "alternativas": [
+    "topicSlug": "organizacao-trabalho-reparticao",
+    "origin": "authored",
+    "statement": "Para elaborar um plano de ação para a reorganização do arquivo do setor, a chefia adotou a ferramenta 5W2H. Nessa ferramenta, o item \"How much\" refere-se a",
+    "choices": [
       "como a ação será executada.",
       "quando a ação ocorrerá.",
       "quanto custará a ação.",
       "quem será o responsável.",
       "onde a ação será realizada."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. No 5W2H, 'How much' trata do custo da ação. A: 'How' é como. B: 'When' é quando. D: 'Who' é quem. E: 'Where' é onde."
+    "answerKey": 2,
+    "explanation": "Correta: C. No 5W2H, 'How much' trata do custo da ação. A: 'How' é como. B: 'When' é quando. D: 'Who' é quem. E: 'Where' é onde."
   }
 ]

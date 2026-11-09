@@ -1,7 +1,7 @@
-import { RevisaoApp } from "@/components/revisao-app";
-import { carregarBanco } from "@/lib/banco";
+import { ReviewApp } from "@/components/review-app";
+import { loadBank } from "@/lib/bank";
 
-export default function Revisao() {
-  const { questoes, info } = carregarBanco();
-  return <RevisaoApp questoes={questoes} info={info} />;
+export default function ReviewPage() {
+  const { questions, info } = loadBank();
+  return <ReviewApp questions={questions} info={info} />;
 }

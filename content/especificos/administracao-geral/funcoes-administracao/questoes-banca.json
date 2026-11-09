@@ -3,24 +3,24 @@
     "id": "B-TREM-22",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "funcoes-administracao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 22,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "funcoes-administracao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 22,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Dentre as funções da administração, também conhecidas pela sigla “PODC”, encontra-se a função de planejar, que pode ser entendida como a definição do curso que será seguido por uma organização. Para tanto, estabelece-se as diretrizes, a sequência de ações para alcançar o objetivo e a determinação dos recursos que serão necessários para colocar as estratégias e os planos em prática.\n\nFrente ao exposto, assinale a alternativa que apresenta, corretamente, alguns dos princípios básicos do planejamento.",
-    "alternativas": [
+    "statement": "Dentre as funções da administração, também conhecidas pela sigla “PODC”, encontra-se a função de planejar, que pode ser entendida como a definição do curso que será seguido por uma organização. Para tanto, estabelece-se as diretrizes, a sequência de ações para alcançar o objetivo e a determinação dos recursos que serão necessários para colocar as estratégias e os planos em prática.\n\nFrente ao exposto, assinale a alternativa que apresenta, corretamente, alguns dos princípios básicos do planejamento.",
+    "choices": [
       "Exatidão, estratégia fixa, complexidade e flexibilidade.",
       "Viabilidade, flexibilidade, unidade e exatidão.",
       "Unicidade, previsibilidade, ordenação e viabilidade.",
       "Flexibilidade, parcialidade, unidade e estruturação.",
       "Pragmatismo, imutabilidade, unidade e viabilidade."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B (gabarito oficial). A lista de princípios do planejamento varia conforme o autor; guarde flexibilidade, unidade (planos coerentes entre si), viabilidade e exatidão/precisão. As demais trazem termos que contrariam o planejamento: “estratégia fixa” (A) e “imutabilidade” (E) negam a flexibilidade; “parcialidade” (D) não é princípio; C e D misturam termos que não constam dessa lista."
+    "answerKey": 1,
+    "explanation": "Correta: B (gabarito oficial). A lista de princípios do planejamento varia conforme o autor; guarde flexibilidade, unidade (planos coerentes entre si), viabilidade e exatidão/precisão. As demais trazem termos que contrariam o planejamento: “estratégia fixa” (A) e “imutabilidade” (E) negam a flexibilidade; “parcialidade” (D) não é princípio; C e D misturam termos que não constam dessa lista."
   }
 ]

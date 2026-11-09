@@ -3,48 +3,48 @@
     "id": "B-TREM-23",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "organizacao-trabalho-reparticao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 014)",
-      "numero": 23,
-      "gabaritoFonte": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "organizacao-trabalho-reparticao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura da Estância Turística de Tremembé/SP (VUNESP)",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 014)",
+      "number": 23,
+      "answerKeySource": "Edital de divulgação do gabarito da prova objetiva (prova aplicada em 14/06/2026). Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "A correta administração do tempo é essencial para o sucesso das organizações públicas e privadas, impactando positivamente a eficiência da operação e a satisfação dos colaboradores.\n\nComentando com alguns colegas o quanto é importante administrar o tempo, o agente administrativo citou, corretamente, entre os principais benefícios:",
-    "alternativas": [
+    "statement": "A correta administração do tempo é essencial para o sucesso das organizações públicas e privadas, impactando positivamente a eficiência da operação e a satisfação dos colaboradores.\n\nComentando com alguns colegas o quanto é importante administrar o tempo, o agente administrativo citou, corretamente, entre os principais benefícios:",
+    "choices": [
       "aumento da performance, garantia do cumprimento de prazos e redução do estresse.",
       "promoção de bem-estar, maior sobrecarga de trabalho e aumento da eficácia da liderança.",
       "melhoria no planejamento estratégico, cumprimento de prazos e diminuição do engajamento.",
       "tomada de decisões mais precisas, aumento do impacto na saúde mental e elevação do nível de retrabalho.",
       "espaço laboral saudável, comprometimento no desenvolvimento dos funcionários e constância do absenteísmo."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. Administrar bem o tempo melhora o desempenho, ajuda a cumprir prazos e reduz o estresse. Nas demais há um efeito negativo apresentado como benefício: sobrecarga (B), diminuição do engajamento (C), impacto na saúde mental e retrabalho (D) e absenteísmo (E)."
+    "answerKey": 0,
+    "explanation": "Correta: A. Administrar bem o tempo melhora o desempenho, ajuda a cumprir prazos e reduz o estresse. Nas demais há um efeito negativo apresentado como benefício: sobrecarga (B), diminuição do engajamento (C), impacto na saúde mental e retrabalho (D) e absenteísmo (E)."
   },
   {
     "id": "B-SJRP-45",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "organizacao-trabalho-reparticao",
-    "origem": "banca",
-    "fonte": {
-      "orgao": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
-      "ano": 2026,
-      "cargo": "Agente Administrativo (prova 001, caderno Versão 1)",
-      "numero": 45,
-      "gabaritoFonte": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
+    "topicSlug": "organizacao-trabalho-reparticao",
+    "origin": "exam",
+    "source": {
+      "agency": "Prefeitura Municipal de São José do Rio Preto/SP (VUNESP), Concurso nº 01/2025",
+      "year": 2026,
+      "position": "Agente Administrativo (prova 001, caderno Versão 1)",
+      "number": 45,
+      "answerKeySource": "Edital de divulgação do gabarito (prova aplicada em 18/01/2026), tabela da Versão 1, identificada ao conferir as questões 1, 2, 4, 5 e 16 do caderno. Gabarito publicado logo após a prova; alterações posteriores por recurso não verificadas."
     },
-    "enunciado": "Alice e João são responsáveis pela gestão e fiscalização de determinado contrato administrativo.\n\nNa entidade pública em que trabalham, as manutenções preventivas são realizadas conforme o previsto nesse contrato, a exemplo",
-    "alternativas": [
+    "statement": "Alice e João são responsáveis pela gestão e fiscalização de determinado contrato administrativo.\n\nNa entidade pública em que trabalham, as manutenções preventivas são realizadas conforme o previsto nesse contrato, a exemplo",
+    "choices": [
       "da aplicação sistemática de técnicas de análise ao parque tecnológico.",
       "do reparo das peças soltas do teclado.",
       "do conserto do aparelho telefônico falho.",
       "da substituição da impressora danificada.",
       "da higienização regular do ar-condicionado."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Manutenção preventiva é programada, feita em intervalos definidos e antes da falha: a higienização regular do ar-condicionado é um exemplo. B, C e D são corretivas (feitas depois que o defeito aparece). A descreve manutenção preditiva (análise sistemática de dados para prever falhas)."
+    "answerKey": 4,
+    "explanation": "Correta: E. Manutenção preventiva é programada, feita em intervalos definidos e antes da falha: a higienização regular do ar-condicionado é um exemplo. B, C e D são corretivas (feitas depois que o defeito aparece). A descreve manutenção preditiva (análise sistemática de dados para prever falhas)."
   }
 ]

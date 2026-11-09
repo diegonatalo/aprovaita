@@ -2,161 +2,161 @@
   {
     "id": "LEG-O-A1",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei Orgânica do Município de Itanhaém, na redação dada pela Emenda nº 26/2024, com efeitos a partir do pleito eleitoral de 2028, a Câmara Municipal é composta por",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "De acordo com a Lei Orgânica do Município de Itanhaém, na redação dada pela Emenda nº 26/2024, com efeitos a partir do pleito eleitoral de 2028, a Câmara Municipal é composta por",
+    "choices": [
       "9 Vereadores.",
       "10 Vereadores.",
       "15 Vereadores.",
       "17 Vereadores.",
       "21 Vereadores."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 10: 15 Vereadores a partir de 2028. Os números 9, 10 e 17 aparecem em redações anteriores (EC 17/2003, EC 20/2006 e texto original), que foram substituídas."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 10: 15 Vereadores a partir de 2028. Os números 9, 10 e 17 aparecem em redações anteriores (EC 17/2003, EC 20/2006 e texto original), que foram substituídas."
   },
   {
     "id": "LEG-O-A2",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "Segundo a Lei Orgânica do Município de Itanhaém, a Câmara Municipal reúne-se anualmente na sede do Município, nos períodos de",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "Segundo a Lei Orgânica do Município de Itanhaém, a Câmara Municipal reúne-se anualmente na sede do Município, nos períodos de",
+    "choices": [
       "1º de fevereiro a 30 de junho e 1º de agosto a 5 de dezembro.",
       "1º de fevereiro a 15 de julho e 1º de agosto a 15 de dezembro.",
       "2 de fevereiro a 17 de julho e 1º de agosto a 22 de dezembro.",
       "1º de janeiro a 30 de junho e 1º de setembro a 5 de dezembro.",
       "1º de março a 30 de junho e 1º de agosto a 31 de dezembro."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 11. A alternativa C traz as datas do calendário do Congresso Nacional (2/2 a 17/7 e 1º/8 a 22/12), que não são as da Lei Orgânica de Itanhaém."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 11. A alternativa C traz as datas do calendário do Congresso Nacional (2/2 a 17/7 e 1º/8 a 22/12), que não são as da Lei Orgânica de Itanhaém."
   },
   {
     "id": "LEG-O-A3",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "Nos termos do art. 28 da Lei Orgânica do Município de Itanhaém, a proposta de emenda à Lei Orgânica será votada em dois turnos, com interstício mínimo de dez dias, e considerada aprovada se obtiver o voto favorável de",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "Nos termos do art. 28 da Lei Orgânica do Município de Itanhaém, a proposta de emenda à Lei Orgânica será votada em dois turnos, com interstício mínimo de dez dias, e considerada aprovada se obtiver o voto favorável de",
+    "choices": [
       "maioria simples dos Vereadores presentes.",
       "maioria absoluta dos membros da Câmara.",
       "três quintos dos membros da Câmara.",
       "dois terços dos membros da Câmara.",
       "unanimidade dos membros da Câmara."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, conforme o § 1º do art. 28: dois terços dos membros. A maioria absoluta é o quórum da lei complementar (art. 30), não o da emenda."
+    "answerKey": 3,
+    "explanation": "Correta: D, conforme o § 1º do art. 28: dois terços dos membros. A maioria absoluta é o quórum da lei complementar (art. 30), não o da emenda."
   },
   {
     "id": "LEG-O-A4",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "De acordo com o art. 34 da Lei Orgânica do Município de Itanhaém, decorrido o prazo de quinze dias úteis sem que o Prefeito se manifeste sobre projeto de lei aprovado pela Câmara,",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "De acordo com o art. 34 da Lei Orgânica do Município de Itanhaém, decorrido o prazo de quinze dias úteis sem que o Prefeito se manifeste sobre projeto de lei aprovado pela Câmara,",
+    "choices": [
       "o projeto é arquivado.",
       "o silêncio importa em sanção.",
       "o projeto é considerado vetado.",
       "o projeto volta à Comissão de Justiça.",
       "o projeto depende de nova votação da Câmara."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o § 3º do art. 34: decorrido o prazo do § 1º, o silêncio importa em sanção (tácita). Se o Prefeito não promulgar em 48 horas, o Presidente da Câmara o faz (§ 6º)."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o § 3º do art. 34: decorrido o prazo do § 1º, o silêncio importa em sanção (tácita). Se o Prefeito não promulgar em 48 horas, o Presidente da Câmara o faz (§ 6º)."
   },
   {
     "id": "LEG-O-A5",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "Conforme o art. 30 da Lei Orgânica do Município de Itanhaém (redação da Emenda nº 9/1999), as leis complementares são aprovadas pela maioria absoluta dos membros da Câmara, em",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "Conforme o art. 30 da Lei Orgânica do Município de Itanhaém (redação da Emenda nº 9/1999), as leis complementares são aprovadas pela maioria absoluta dos membros da Câmara, em",
+    "choices": [
       "turno único, sem interstício.",
       "dois turnos, com interstício mínimo de dez dias.",
       "três turnos, com interstício mínimo de 48 horas.",
       "turno único, com interstício mínimo de 24 horas.",
       "dois turnos de discussão e votação, com interstício mínimo de vinte e quatro horas entre eles."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E, conforme o art. 30. O interstício de dez dias é o da emenda à Lei Orgânica (art. 28, § 1º). A alternativa D omite os dois turnos."
+    "answerKey": 4,
+    "explanation": "Correta: E, conforme o art. 30. O interstício de dez dias é o da emenda à Lei Orgânica (art. 28, § 1º). A alternativa D omite os dois turnos."
   },
   {
     "id": "LEG-O-A6",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "Segundo o art. 63, III, da Lei Orgânica do Município de Itanhaém, o prazo de validade do concurso público é de",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "Segundo o art. 63, III, da Lei Orgânica do Município de Itanhaém, o prazo de validade do concurso público é de",
+    "choices": [
       "um ano, prorrogável por mais dois.",
       "um ano, prorrogável uma vez por igual período.",
       "dois anos, prorrogável uma vez por igual período.",
       "dois anos, improrrogável.",
       "quatro anos, prorrogável por igual período."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 63, III: dois anos, prorrogável uma vez por igual período, com nomeação obedecendo a ordem de classificação."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 63, III: dois anos, prorrogável uma vez por igual período, com nomeação obedecendo a ordem de classificação."
   },
   {
     "id": "LEG-O-A7",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "De acordo com o art. 47 da Lei Orgânica do Município de Itanhaém, o Prefeito e o Vice-Prefeito, no exercício do cargo, não podem ausentar-se do Município por período superior a vinte dias sem licença da Câmara, sob pena de",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "De acordo com o art. 47 da Lei Orgânica do Município de Itanhaém, o Prefeito e o Vice-Prefeito, no exercício do cargo, não podem ausentar-se do Município por período superior a vinte dias sem licença da Câmara, sob pena de",
+    "choices": [
       "perda do cargo ou mandato.",
       "multa equivalente a um mês de subsídio.",
       "advertência escrita do Presidente da Câmara.",
       "suspensão por trinta dias.",
       "perda de metade da remuneração."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 47: a ausência por mais de 20 dias sem licença da Câmara acarreta a perda do cargo ou mandato. A mesma regra aparece no art. 23, VIII, entre as competências privativas da Câmara."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 47: a ausência por mais de 20 dias sem licença da Câmara acarreta a perda do cargo ou mandato. A mesma regra aparece no art. 23, VIII, entre as competências privativas da Câmara."
   },
   {
     "id": "LEG-O-A8",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "Conforme o art. 19 da Lei Orgânica do Município de Itanhaém, a recusa ou o não atendimento, no prazo de quinze dias, a pedido de informações encaminhado pela Mesa da Câmara aos Secretários Municipais constitui",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "Conforme o art. 19 da Lei Orgânica do Município de Itanhaém, a recusa ou o não atendimento, no prazo de quinze dias, a pedido de informações encaminhado pela Mesa da Câmara aos Secretários Municipais constitui",
+    "choices": [
       "mera irregularidade administrativa, sem sanção.",
       "infração disciplinar, punida com advertência.",
       "causa de dissolução da Câmara.",
       "crime de responsabilidade.",
       "motivo de intervenção estadual no Município."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, conforme o art. 19: a recusa, o não atendimento em 15 dias ou a prestação de informação falsa importa em crime de responsabilidade."
+    "answerKey": 3,
+    "explanation": "Correta: D, conforme o art. 19: a recusa, o não atendimento em 15 dias ou a prestação de informação falsa importa em crime de responsabilidade."
   },
   {
     "id": "LEG-O-A9",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei Orgânica do Município de Itanhaém, ficam declarados feriados municipais os dias",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "De acordo com a Lei Orgânica do Município de Itanhaém, ficam declarados feriados municipais os dias",
+    "choices": [
       "22 de abril, data da fundação da cidade, e 8 de dezembro, dia de Nossa Senhora da Conceição de Itanhaém.",
       "8 de dezembro, data da fundação da cidade, e 22 de abril, dia de Nossa Senhora da Conceição de Itanhaém.",
       "1º de janeiro, data da instalação da Câmara, e 22 de abril, data da fundação da cidade.",
       "22 de abril, data da fundação da cidade, e 15 de agosto, dia da Padroeira do Município.",
       "8 de dezembro e 25 de dezembro, ambos em homenagem à Padroeira do Município."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 181, § 2º: 22 de abril (fundação da cidade) e 8 de dezembro (Nossa Senhora da Conceição de Itanhaém, Padroeira do Município). A alternativa B troca as datas. Os demais feriados locais dependem de lei municipal e não podem exceder 4 (§ 3º)."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 181, § 2º: 22 de abril (fundação da cidade) e 8 de dezembro (Nossa Senhora da Conceição de Itanhaém, Padroeira do Município). A alternativa B troca as datas. Os demais feriados locais dependem de lei municipal e não podem exceder 4 (§ 3º)."
   },
   {
     "id": "LEG-O-A10",
     "area": "legislacao",
-    "topicoSlug": "lei-organica-itanhaem",
-    "origem": "autoral",
-    "enunciado": "Segundo a Lei Orgânica do Município de Itanhaém, a educação das populações indígenas será ministrada em língua portuguesa, assegurada às comunidades indígenas a utilização de",
-    "alternativas": [
+    "topicSlug": "lei-organica-itanhaem",
+    "origin": "authored",
+    "statement": "Segundo a Lei Orgânica do Município de Itanhaém, a educação das populações indígenas será ministrada em língua portuguesa, assegurada às comunidades indígenas a utilização de",
+    "choices": [
       "somente textos oficiais traduzidos pelo Município.",
       "suas línguas maternas e processos próprios de aprendizagem, com respeito a seus direitos, interesses, crenças e tradições.",
       "línguas estrangeiras escolhidas pela Secretaria de Educação, em substituição à língua portuguesa.",
       "currículo único estabelecido pelo Prefeito, sem consulta às comunidades.",
       "processos próprios de aprendizagem, desde que dispensada a língua portuguesa."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, conforme o art. 180 (EC 61/1997). A educação é em língua portuguesa, mas se assegura o uso das línguas maternas e dos processos próprios de aprendizagem, respeitados direitos, interesses, crenças e tradições."
+    "answerKey": 1,
+    "explanation": "Correta: B, conforme o art. 180 (EC 61/1997). A educação é em língua portuguesa, mas se assegura o uso das línguas maternas e dos processos próprios de aprendizagem, respeitados direitos, interesses, crenças e tradições."
   }
 ]

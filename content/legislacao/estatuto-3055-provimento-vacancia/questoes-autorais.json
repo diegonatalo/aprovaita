@@ -2,81 +2,81 @@
   {
     "id": "LEG-E1-A1",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-provimento-vacancia",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei Municipal nº 3.055/2004, a posse em cargo público deve ocorrer no prazo de trinta dias, contados",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-provimento-vacancia",
+    "origin": "authored",
+    "statement": "De acordo com a Lei Municipal nº 3.055/2004, a posse em cargo público deve ocorrer no prazo de trinta dias, contados",
+    "choices": [
       "da data da inscrição no concurso.",
       "da data da homologação do concurso.",
       "da publicação do ato de provimento.",
       "da data da inspeção médica.",
       "do início do estágio probatório."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C, conforme o art. 13, § 1º: a posse ocorre em trinta dias contados da publicação do ato de provimento. As demais alternativas apresentam marcos que a lei não prevê para a contagem do prazo."
+    "answerKey": 2,
+    "explanation": "Correta: C, conforme o art. 13, § 1º: a posse ocorre em trinta dias contados da publicação do ato de provimento. As demais alternativas apresentam marcos que a lei não prevê para a contagem do prazo."
   },
   {
     "id": "LEG-E1-A2",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-provimento-vacancia",
-    "origem": "autoral",
-    "enunciado": "Conforme a Lei nº 3.055/2004, o servidor nomeado e empossado para cargo de provimento efetivo, ao entrar em exercício, fica sujeito a estágio probatório pelo período de",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-provimento-vacancia",
+    "origin": "authored",
+    "statement": "Conforme a Lei nº 3.055/2004, o servidor nomeado e empossado para cargo de provimento efetivo, ao entrar em exercício, fica sujeito a estágio probatório pelo período de",
+    "choices": [
       "três anos.",
       "dois anos.",
       "um ano.",
       "cinco anos.",
       "seis meses."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A, conforme o art. 19, que fixa três anos de estágio probatório. As demais alternativas apresentam prazos que a lei não adota."
+    "answerKey": 0,
+    "explanation": "Correta: A, conforme o art. 19, que fixa três anos de estágio probatório. As demais alternativas apresentam prazos que a lei não adota."
   },
   {
     "id": "LEG-E1-A3",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-provimento-vacancia",
-    "origem": "autoral",
-    "enunciado": "Segundo a Lei nº 3.055/2004, o concurso público terá validade de até dois anos, podendo ser prorrogado",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-provimento-vacancia",
+    "origin": "authored",
+    "statement": "Segundo a Lei nº 3.055/2004, o concurso público terá validade de até dois anos, podendo ser prorrogado",
+    "choices": [
       "quantas vezes a administração desejar.",
       "por três vezes, por seis meses cada uma.",
       "indefinidamente, enquanto houver vagas.",
       "uma única vez, por igual período.",
       "somente por decisão judicial."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, conforme o art. 12: validade de até 2 anos, prorrogável uma única vez, por igual período. As demais alternativas contrariam essa regra."
+    "answerKey": 3,
+    "explanation": "Correta: D, conforme o art. 12: validade de até 2 anos, prorrogável uma única vez, por igual período. As demais alternativas contrariam essa regra."
   },
   {
     "id": "LEG-E1-A4",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-provimento-vacancia",
-    "origem": "autoral",
-    "enunciado": "Entre as alternativas abaixo, aquela que não é forma de provimento de cargo público segundo a Lei nº 3.055/2004, mas hipótese de vacância, é a",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-provimento-vacancia",
+    "origin": "authored",
+    "statement": "Entre as alternativas abaixo, aquela que não é forma de provimento de cargo público segundo a Lei nº 3.055/2004, mas hipótese de vacância, é a",
+    "choices": [
       "nomeação.",
       "exoneração.",
       "reintegração.",
       "recondução.",
       "readaptação."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. Exoneração é hipótese de vacância (art. 32). As formas de provimento (art. 8º) são nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução. Observação: a readaptação aparece em ambos os rols (provimento e vacância), mas a exoneração só aparece na vacância."
+    "answerKey": 1,
+    "explanation": "Correta: B. Exoneração é hipótese de vacância (art. 32). As formas de provimento (art. 8º) são nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução. Observação: a readaptação aparece em ambos os rols (provimento e vacância), mas a exoneração só aparece na vacância."
   },
   {
     "id": "LEG-E1-A5",
     "area": "legislacao",
-    "topicoSlug": "estatuto-3055-provimento-vacancia",
-    "origem": "autoral",
-    "enunciado": "De acordo com a Lei nº 3.055/2004, o prazo para o servidor empossado entrar em exercício é de",
-    "alternativas": [
+    "topicSlug": "estatuto-3055-provimento-vacancia",
+    "origin": "authored",
+    "statement": "De acordo com a Lei nº 3.055/2004, o prazo para o servidor empossado entrar em exercício é de",
+    "choices": [
       "cinco dias.",
       "dez dias.",
       "vinte dias.",
       "trinta dias.",
       "quinze dias."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E, conforme o art. 15, § 1º: quinze dias contados da posse. Atenção: trinta dias é o prazo da posse (art. 13, § 1º), contado da publicação do ato de provimento."
+    "answerKey": 4,
+    "explanation": "Correta: E, conforme o art. 15, § 1º: quinze dias contados da posse. Atenção: trinta dias é o prazo da posse (art. 13, § 1º), contado da publicação do ato de provimento."
   }
 ]

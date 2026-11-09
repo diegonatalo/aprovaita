@@ -3,85 +3,85 @@
     "id": "AG-PROC-A1",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "autoral",
-    "enunciado": "Na hierarquia de processos, a sequência correta, do nível mais abrangente ao mais detalhado, é:",
-    "alternativas": [
+    "topicSlug": "gestao-processos",
+    "origin": "authored",
+    "statement": "Na hierarquia de processos, a sequência correta, do nível mais abrangente ao mais detalhado, é:",
+    "choices": [
       "tarefa, atividade, subprocesso, processo e macroprocesso.",
       "processo, macroprocesso, atividade, subprocesso e tarefa.",
       "macroprocesso, subprocesso, processo, atividade e tarefa.",
       "macroprocesso, processo, subprocesso, atividade e tarefa.",
       "atividade, macroprocesso, tarefa, processo e subprocesso."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. A hierarquia vai do mais geral ao mais detalhado: macroprocesso, processo, subprocesso, atividade e tarefa. A: apresenta a ordem inversa. B, C e E: trocam a posição de níveis."
+    "answerKey": 3,
+    "explanation": "Correta: D. A hierarquia vai do mais geral ao mais detalhado: macroprocesso, processo, subprocesso, atividade e tarefa. A: apresenta a ordem inversa. B, C e E: trocam a posição de níveis."
   },
   {
     "id": "AG-PROC-A2",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "autoral",
-    "enunciado": "Em um fluxograma, o símbolo em forma de losango é utilizado para representar",
-    "alternativas": [
+    "topicSlug": "gestao-processos",
+    "origin": "authored",
+    "statement": "Em um fluxograma, o símbolo em forma de losango é utilizado para representar",
+    "choices": [
       "o início ou o fim do processo.",
       "uma atividade ou ação.",
       "um ponto de decisão, com saídas alternativas.",
       "um documento gerado.",
       "um conector com outra página."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. O losango indica uma decisão, geralmente com saídas como sim ou não. A: início e fim usam elipse ou retângulo arredondado. B: atividade usa retângulo. D: documento tem símbolo próprio. E: conector tem símbolo próprio."
+    "answerKey": 2,
+    "explanation": "Correta: C. O losango indica uma decisão, geralmente com saídas como sim ou não. A: início e fim usam elipse ou retângulo arredondado. B: atividade usa retângulo. D: documento tem símbolo próprio. E: conector tem símbolo próprio."
   },
   {
     "id": "AG-PROC-A3",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "autoral",
-    "enunciado": "Uma equipe descreveu, passo a passo, como o processo de protocolo funciona atualmente, identificando gargalos e retrabalho. Essa etapa de mapeamento do estado atual é conhecida como",
-    "alternativas": [
+    "topicSlug": "gestao-processos",
+    "origin": "authored",
+    "statement": "Uma equipe descreveu, passo a passo, como o processo de protocolo funciona atualmente, identificando gargalos e retrabalho. Essa etapa de mapeamento do estado atual é conhecida como",
+    "choices": [
       "desenho do estado futuro (to be).",
       "análise do processo atual (as is).",
       "implantação do processo redesenhado.",
       "monitoramento por indicadores.",
       "gestão de projetos."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O mapeamento do estado atual é a análise 'as is', que descreve como o processo funciona hoje e identifica gargalos e falhas. A: o 'to be' define como o processo deverá funcionar. C e D: são etapas posteriores. E: projeto é outro tema de gestão."
+    "answerKey": 1,
+    "explanation": "Correta: B. O mapeamento do estado atual é a análise 'as is', que descreve como o processo funciona hoje e identifica gargalos e falhas. A: o 'to be' define como o processo deverá funcionar. C e D: são etapas posteriores. E: projeto é outro tema de gestão."
   },
   {
     "id": "AG-PROC-A4",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "autoral",
-    "enunciado": "Na cadeia de valor de Porter, são atividades de apoio:",
-    "alternativas": [
+    "topicSlug": "gestao-processos",
+    "origin": "authored",
+    "statement": "Na cadeia de valor de Porter, são atividades de apoio:",
+    "choices": [
       "operações e logística externa.",
       "marketing e vendas.",
       "gestão de recursos humanos e desenvolvimento de tecnologia.",
       "logística interna e serviços.",
       "operações e marketing."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. As atividades de apoio são infraestrutura da organização, gestão de recursos humanos, desenvolvimento de tecnologia e aquisição. As demais alternativas listam atividades primárias: logística interna, operações, logística externa, marketing e vendas e serviço."
+    "answerKey": 2,
+    "explanation": "Correta: C. As atividades de apoio são infraestrutura da organização, gestão de recursos humanos, desenvolvimento de tecnologia e aquisição. As demais alternativas listam atividades primárias: logística interna, operações, logística externa, marketing e vendas e serviço."
   },
   {
     "id": "AG-PROC-A5",
     "area": "especificos",
     "subarea": "administracao-geral",
-    "topicoSlug": "gestao-processos",
-    "origem": "autoral",
-    "enunciado": "Em uma câmara municipal, o processo de elaboração e tramitação de projetos de lei, ligado diretamente à razão de ser da instituição, é classificado como processo",
-    "alternativas": [
+    "topicSlug": "gestao-processos",
+    "origin": "authored",
+    "statement": "Em uma câmara municipal, o processo de elaboração e tramitação de projetos de lei, ligado diretamente à razão de ser da instituição, é classificado como processo",
+    "choices": [
       "de apoio.",
       "gerencial.",
       "finalístico.",
       "acessório.",
       "informal."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Processos finalísticos entregam valor direto ao público e estão ligados à missão institucional, como a elaboração e tramitação de leis em uma câmara. A: apoio dá suporte, como compras e gestão de pessoas. B: gerencial planeja e controla. D e E: não são tipos usuais de classificação."
+    "answerKey": 2,
+    "explanation": "Correta: C. Processos finalísticos entregam valor direto ao público e estão ligados à missão institucional, como a elaboração e tramitação de leis em uma câmara. A: apoio dá suporte, como compras e gestão de pessoas. B: gerencial planeja e controla. D e E: não são tipos usuais de classificação."
   }
 ]

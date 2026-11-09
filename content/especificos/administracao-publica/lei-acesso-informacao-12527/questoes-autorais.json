@@ -3,85 +3,85 @@
     "id": "AP-LAI-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lei-acesso-informacao-12527",
-    "origem": "autoral",
-    "enunciado": "Um cidadão pediu à Câmara Municipal cópia de um contrato celebrado pelo órgão. Como a informação não estava imediatamente disponível, a Câmara precisou de mais tempo para localizá-la. Segundo a Lei nº 12.527/2011, o prazo para responder ao pedido é de até",
-    "alternativas": [
+    "topicSlug": "lei-acesso-informacao-12527",
+    "origin": "authored",
+    "statement": "Um cidadão pediu à Câmara Municipal cópia de um contrato celebrado pelo órgão. Como a informação não estava imediatamente disponível, a Câmara precisou de mais tempo para localizá-la. Segundo a Lei nº 12.527/2011, o prazo para responder ao pedido é de até",
+    "choices": [
       "5 dias, improrrogável.",
       "10 dias, prorrogável por mais 5.",
       "15 dias, prorrogável por mais 15.",
       "30 dias, prorrogável por mais 30.",
       "20 dias, prorrogável por mais 10, mediante justificativa expressa."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. O art. 11 manda conceder acesso imediato e, não sendo possível, responder em até 20 dias, prorrogáveis por mais 10, mediante justificativa expressa e ciência do requerente. D: 30 dias, prorrogáveis uma vez, é o prazo da ouvidoria na Lei 13.460, que não deve ser confundido. A, B e C: não correspondem ao prazo da LAI."
+    "answerKey": 4,
+    "explanation": "Correta: E. O art. 11 manda conceder acesso imediato e, não sendo possível, responder em até 20 dias, prorrogáveis por mais 10, mediante justificativa expressa e ciência do requerente. D: 30 dias, prorrogáveis uma vez, é o prazo da ouvidoria na Lei 13.460, que não deve ser confundido. A, B e C: não correspondem ao prazo da LAI."
   },
   {
     "id": "AP-LAI-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lei-acesso-informacao-12527",
-    "origem": "autoral",
-    "enunciado": "Ao receber um pedido de acesso a informações de interesse público, o servidor exigiu que o requerente explicasse por que desejava a informação, sob pena de arquivamento do pedido. Essa exigência",
-    "alternativas": [
+    "topicSlug": "lei-acesso-informacao-12527",
+    "origin": "authored",
+    "statement": "Ao receber um pedido de acesso a informações de interesse público, o servidor exigiu que o requerente explicasse por que desejava a informação, sob pena de arquivamento do pedido. Essa exigência",
+    "choices": [
       "é correta, pois a lei obriga a declaração dos motivos.",
       "é vedada, pois a lei proíbe quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público.",
       "é correta, desde que o requerente seja pessoa jurídica.",
       "é obrigatória nos pedidos feitos pela internet.",
       "é facultativa, ficando a critério do chefe do setor."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O art. 10, §3º, veda quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público. A, C, D e E: nenhuma dessas hipóteses existe na lei."
+    "answerKey": 1,
+    "explanation": "Correta: B. O art. 10, §3º, veda quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público. A, C, D e E: nenhuma dessas hipóteses existe na lei."
   },
   {
     "id": "AP-LAI-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lei-acesso-informacao-12527",
-    "origem": "autoral",
-    "enunciado": "Uma informação foi classificada como ultrassecreta em 2020. De acordo com a Lei nº 12.527/2011, o prazo máximo de restrição de acesso, contado da data de produção, é de",
-    "alternativas": [
+    "topicSlug": "lei-acesso-informacao-12527",
+    "origin": "authored",
+    "statement": "Uma informação foi classificada como ultrassecreta em 2020. De acordo com a Lei nº 12.527/2011, o prazo máximo de restrição de acesso, contado da data de produção, é de",
+    "choices": [
       "5 anos.",
       "10 anos.",
       "15 anos.",
       "25 anos.",
       "100 anos."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. O art. 24, §1º, fixa 25 anos para a ultrassecreta, 15 para a secreta e 5 para a reservada. A: é o prazo da reservada. C: é o da secreta. E: 100 anos é o prazo de restrição das informações pessoais (art. 31), que não dependem de classificação. B: não existe esse prazo na lei."
+    "answerKey": 3,
+    "explanation": "Correta: D. O art. 24, §1º, fixa 25 anos para a ultrassecreta, 15 para a secreta e 5 para a reservada. A: é o prazo da reservada. C: é o da secreta. E: 100 anos é o prazo de restrição das informações pessoais (art. 31), que não dependem de classificação. B: não existe esse prazo na lei."
   },
   {
     "id": "AP-LAI-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lei-acesso-informacao-12527",
-    "origem": "autoral",
-    "enunciado": "Um cidadão teve seu pedido de acesso indeferido por um órgão municipal e deseja recorrer. Nos termos do art. 15 da Lei nº 12.527/2011, o recurso deve ser interposto no prazo de",
-    "alternativas": [
+    "topicSlug": "lei-acesso-informacao-12527",
+    "origin": "authored",
+    "statement": "Um cidadão teve seu pedido de acesso indeferido por um órgão municipal e deseja recorrer. Nos termos do art. 15 da Lei nº 12.527/2011, o recurso deve ser interposto no prazo de",
+    "choices": [
       "10 dias a contar da ciência da decisão.",
       "5 dias a contar da data do pedido.",
       "20 dias a contar da publicação do indeferimento.",
       "30 dias a contar do protocolo do pedido.",
       "48 horas a contar da ciência da decisão."
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. O recurso deve ser interposto em 10 dias a contar da ciência, e a autoridade hierarquicamente superior se manifesta em 5 dias. B: 5 dias é o prazo de resposta ao recurso, e não de interposição. C, D e E: não correspondem ao prazo legal."
+    "answerKey": 0,
+    "explanation": "Correta: A. O recurso deve ser interposto em 10 dias a contar da ciência, e a autoridade hierarquicamente superior se manifesta em 5 dias. B: 5 dias é o prazo de resposta ao recurso, e não de interposição. C, D e E: não correspondem ao prazo legal."
   },
   {
     "id": "AP-LAI-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "lei-acesso-informacao-12527",
-    "origem": "autoral",
-    "enunciado": "Um cidadão solicitou à Câmara Municipal a cópia de um processo de 60 páginas. Sobre a cobrança de valores nessa situação, a Lei nº 12.527/2011 estabelece que",
-    "alternativas": [
+    "topicSlug": "lei-acesso-informacao-12527",
+    "origin": "authored",
+    "statement": "Um cidadão solicitou à Câmara Municipal a cópia de um processo de 60 páginas. Sobre a cobrança de valores nessa situação, a Lei nº 12.527/2011 estabelece que",
+    "choices": [
       "é vedada qualquer cobrança, inclusive das cópias.",
       "o serviço de busca e fornecimento é gratuito, podendo ser cobrado apenas o valor necessário ao ressarcimento do custo de reprodução e dos materiais utilizados.",
       "o órgão pode cobrar uma taxa livremente fixada, a título de remuneração pelo serviço de busca.",
       "só se pode cobrar de quem não comprovar baixa renda, e o valor é livre.",
       "a cobrança é obrigatória e deve ser antecipada, sob pena de arquivamento."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O art. 12 estabelece a gratuidade da busca e do fornecimento, ressalvada a cobrança exclusiva do custo de reprodução e dos materiais. A: a reprodução pode ser ressarcida. C e D: o valor não é livre, limita-se ao custo. E: a lei não impõe cobrança antecipada, e quem não puder pagar sem prejuízo do sustento fica isento."
+    "answerKey": 1,
+    "explanation": "Correta: B. O art. 12 estabelece a gratuidade da busca e do fornecimento, ressalvada a cobrança exclusiva do custo de reprodução e dos materiais. A: a reprodução pode ser ressarcida. C e D: o valor não é livre, limita-se ao custo. E: a lei não impõe cobrança antecipada, e quem não puder pagar sem prejuízo do sustento fica isento."
   }
 ]

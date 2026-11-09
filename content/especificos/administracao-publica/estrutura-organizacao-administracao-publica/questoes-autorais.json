@@ -3,85 +3,85 @@
     "id": "AP-ESTR-A1",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Um município pretende criar uma entidade com personalidade jurídica de direito público, patrimônio e receita próprios, para executar atividades típicas da Administração, como a gestão do serviço de água e esgoto. Pela Constituição Federal, essa entidade só pode ser criada",
-    "alternativas": [
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "authored",
+    "statement": "Um município pretende criar uma entidade com personalidade jurídica de direito público, patrimônio e receita próprios, para executar atividades típicas da Administração, como a gestão do serviço de água e esgoto. Pela Constituição Federal, essa entidade só pode ser criada",
+    "choices": [
       "por decreto do prefeito.",
       "por lei específica.",
       "por portaria da secretaria responsável.",
       "por simples registro em cartório.",
       "por autorização legislativa, devendo a criação ocorrer depois por escritura pública."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. A entidade descrita é uma autarquia, e o art. 37, XIX, da Constituição exige lei específica para criá-la. A e C: atos do Executivo não bastam. D: registro em cartório é o caminho de entidades privadas. E: a mera autorização legislativa é exigida para empresa pública, sociedade de economia mista e fundação, e não para autarquia."
+    "answerKey": 1,
+    "explanation": "Correta: B. A entidade descrita é uma autarquia, e o art. 37, XIX, da Constituição exige lei específica para criá-la. A e C: atos do Executivo não bastam. D: registro em cartório é o caminho de entidades privadas. E: a mera autorização legislativa é exigida para empresa pública, sociedade de economia mista e fundação, e não para autarquia."
   },
   {
     "id": "AP-ESTR-A2",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "A prefeitura de um município criou, dentro de sua própria estrutura, uma nova secretaria e dividiu entre ela e a secretaria já existente as competências de uma área. Esse processo, que distribui competências dentro da mesma pessoa jurídica, é chamado de",
-    "alternativas": [
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "authored",
+    "statement": "A prefeitura de um município criou, dentro de sua própria estrutura, uma nova secretaria e dividiu entre ela e a secretaria já existente as competências de uma área. Esse processo, que distribui competências dentro da mesma pessoa jurídica, é chamado de",
+    "choices": [
       "descentralização por outorga.",
       "descentralização por delegação.",
       "desconcentração.",
       "privatização.",
       "terceirização."
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Desconcentração é a distribuição de competências entre órgãos da mesma pessoa jurídica. A e B: descentralização transfere a atividade a outra pessoa jurídica, o que não ocorreu. D e E: são formas de transferir a execução ao setor privado e não descrevem a criação de uma secretaria."
+    "answerKey": 2,
+    "explanation": "Correta: C. Desconcentração é a distribuição de competências entre órgãos da mesma pessoa jurídica. A e B: descentralização transfere a atividade a outra pessoa jurídica, o que não ocorreu. D e E: são formas de transferir a execução ao setor privado e não descrevem a criação de uma secretaria."
   },
   {
     "id": "AP-ESTR-A3",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Quanto às entidades da Administração indireta, uma sociedade de economia mista caracteriza-se por ser",
-    "alternativas": [
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "authored",
+    "statement": "Quanto às entidades da Administração indireta, uma sociedade de economia mista caracteriza-se por ser",
+    "choices": [
       "pessoa jurídica de direito público, com capital totalmente público.",
       "pessoa jurídica de direito privado, com capital exclusivamente público, em qualquer forma societária.",
       "órgão sem personalidade jurídica, subordinado ao chefe do Executivo.",
       "pessoa jurídica de direito privado, sob a forma de sociedade anônima, com a maioria das ações com direito a voto pertencente ao poder público.",
       "pessoa jurídica sem fins lucrativos, criada por simples ato do chefe do Executivo."
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D. Esse é o conceito de sociedade de economia mista: direito privado, sociedade anônima e controle acionário do poder público (art. 5º, III, do Decreto-Lei 200/1967). A: descreve a autarquia, com ressalva ao capital. B: descreve a empresa pública. C: define órgão público. E: não corresponde a nenhuma entidade da indireta."
+    "answerKey": 3,
+    "explanation": "Correta: D. Esse é o conceito de sociedade de economia mista: direito privado, sociedade anônima e controle acionário do poder público (art. 5º, III, do Decreto-Lei 200/1967). A: descreve a autarquia, com ressalva ao capital. B: descreve a empresa pública. C: define órgão público. E: não corresponde a nenhuma entidade da indireta."
   },
   {
     "id": "AP-ESTR-A4",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa que apresenta um integrante da Administração direta municipal.",
-    "alternativas": [
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "authored",
+    "statement": "Assinale a alternativa que apresenta um integrante da Administração direta municipal.",
+    "choices": [
       "Autarquia municipal de previdência.",
       "Fundação pública municipal de cultura.",
       "Empresa pública municipal de serviços.",
       "Sociedade de economia mista municipal.",
       "Secretaria Municipal de Educação."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. A secretaria é órgão da Prefeitura, sem personalidade jurídica própria, portanto integra a Administração direta. A, B, C e D: autarquia, fundação pública, empresa pública e sociedade de economia mista compõem a Administração indireta."
+    "answerKey": 4,
+    "explanation": "Correta: E. A secretaria é órgão da Prefeitura, sem personalidade jurídica própria, portanto integra a Administração direta. A, B, C e D: autarquia, fundação pública, empresa pública e sociedade de economia mista compõem a Administração indireta."
   },
   {
     "id": "AP-ESTR-A5",
     "area": "especificos",
     "subarea": "administracao-publica",
-    "topicoSlug": "estrutura-organizacao-administracao-publica",
-    "origem": "autoral",
-    "enunciado": "A respeito da organização político-administrativa da República Federativa do Brasil, a Constituição Federal estabelece que os Municípios são",
-    "alternativas": [
+    "topicSlug": "estrutura-organizacao-administracao-publica",
+    "origin": "authored",
+    "statement": "A respeito da organização político-administrativa da República Federativa do Brasil, a Constituição Federal estabelece que os Municípios são",
+    "choices": [
       "subordinados aos Estados, que podem anular suas leis.",
       "autônomos, assim como a União, os Estados e o Distrito Federal.",
       "entidades da Administração indireta dos Estados.",
       "órgãos de execução da União, sem capacidade de se organizar.",
       "autônomos apenas para fins financeiros."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B. O art. 18 da Constituição inclui o Município entre os entes federativos autônomos. A e D: não há subordinação hierárquica do Município ao Estado nem à União. C: o Município é ente político, e não entidade da indireta. E: a autonomia é política, administrativa e financeira."
+    "answerKey": 1,
+    "explanation": "Correta: B. O art. 18 da Constituição inclui o Município entre os entes federativos autônomos. A e D: não há subordinação hierárquica do Município ao Estado nem à União. C: o Município é ente político, e não entidade da indireta. E: a autonomia é política, administrativa e financeira."
   }
 ]

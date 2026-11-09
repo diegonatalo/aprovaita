@@ -2,81 +2,81 @@
   {
     "id": "PT-ORT-A1",
     "area": "portugues",
-    "topicoSlug": "ortografia-acentuacao",
-    "origem": "autoral",
-    "enunciado": "Todas as palavras de uma das alternativas são acentuadas por serem proparoxítonas. Assinale-a.",
-    "alternativas": [
+    "topicSlug": "ortografia-acentuacao",
+    "origin": "authored",
+    "statement": "Todas as palavras de uma das alternativas são acentuadas por serem proparoxítonas. Assinale-a.",
+    "choices": [
       "café, jacaré, sofá.",
       "árvore, lâmpada, médico.",
       "açúcar, lápis, amável.",
       "saída, país, baú.",
       "ônibus, hífen, útil."
     ],
-    "gabarito": 1,
-    "comentario": "Correta: B, pois árvore, lâmpada e médico são proparoxítonas. A: oxítonas terminadas em a, e. C: paroxítonas terminadas em r, s e l. D: acentuadas por hiato. E: ônibus é proparoxítona, mas hífen e útil são paroxítonas acentuadas por terminarem em n e l."
+    "answerKey": 1,
+    "explanation": "Correta: B, pois árvore, lâmpada e médico são proparoxítonas. A: oxítonas terminadas em a, e. C: paroxítonas terminadas em r, s e l. D: acentuadas por hiato. E: ônibus é proparoxítona, mas hífen e útil são paroxítonas acentuadas por terminarem em n e l."
   },
   {
     "id": "PT-ORT-A2",
     "area": "portugues",
-    "topicoSlug": "ortografia-acentuacao",
-    "origem": "autoral",
-    "enunciado": "O acento gráfico em \"saúde\" e em \"país\" justifica-se pela regra do(a)",
-    "alternativas": [
+    "topicSlug": "ortografia-acentuacao",
+    "origin": "authored",
+    "statement": "O acento gráfico em \"saúde\" e em \"país\" justifica-se pela regra do(a)",
+    "choices": [
       "proparoxítona.",
       "oxítona terminada em a.",
       "paroxítona terminada em l.",
       "ditongo aberto.",
       "hiato, com i ou u tônicos."
     ],
-    "gabarito": 4,
-    "comentario": "Correta: E. Em sa-ú-de e pa-ís, o u e o i são tônicos e formam hiato com a vogal anterior. A: saúde e país não são proparoxítonas. B e C: não se enquadram nas terminações citadas. D: não há ditongo aberto nessas palavras."
+    "answerKey": 4,
+    "explanation": "Correta: E. Em sa-ú-de e pa-ís, o u e o i são tônicos e formam hiato com a vogal anterior. A: saúde e país não são proparoxítonas. B e C: não se enquadram nas terminações citadas. D: não há ditongo aberto nessas palavras."
   },
   {
     "id": "PT-ORT-A3",
     "area": "portugues",
-    "topicoSlug": "ortografia-acentuacao",
-    "origem": "autoral",
-    "enunciado": "Preencha as lacunas: \"Ele agiu ____ durante a prova e, por isso, recebeu o conceito de ____ aluno.\"",
-    "alternativas": [
+    "topicSlug": "ortografia-acentuacao",
+    "origin": "authored",
+    "statement": "Preencha as lacunas: \"Ele agiu ____ durante a prova e, por isso, recebeu o conceito de ____ aluno.\"",
+    "choices": [
       "mal – mau",
       "mau – mal",
       "mal – mal",
       "mau – mau",
       "mal – bom"
     ],
-    "gabarito": 0,
-    "comentario": "Correta: A. \"Mal\" (contrário de bem) acompanha o verbo agir; \"mau\" (contrário de bom) qualifica o substantivo aluno. B, C e D: invertem ou repetem as formas. E: \"bom\" contradiz o sentido da frase."
+    "answerKey": 0,
+    "explanation": "Correta: A. \"Mal\" (contrário de bem) acompanha o verbo agir; \"mau\" (contrário de bom) qualifica o substantivo aluno. B, C e D: invertem ou repetem as formas. E: \"bom\" contradiz o sentido da frase."
   },
   {
     "id": "PT-ORT-A4",
     "area": "portugues",
-    "topicoSlug": "ortografia-acentuacao",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa que completa corretamente a frase: \"____ você não compareceu à reunião?\"",
-    "alternativas": [
+    "topicSlug": "ortografia-acentuacao",
+    "origin": "authored",
+    "statement": "Assinale a alternativa que completa corretamente a frase: \"____ você não compareceu à reunião?\"",
+    "choices": [
       "Porque",
       "Porquê",
       "Por que",
       "Por quê",
       "Pôr que"
     ],
-    "gabarito": 2,
-    "comentario": "Correta: C. Em interrogação direta no início da frase, usa-se \"por que\", em duas palavras e sem acento. A: \"porque\" é conjunção. B: \"porquê\" é substantivo. D: \"por quê\" só aparece no fim da frase. E: \"pôr\" é verbo."
+    "answerKey": 2,
+    "explanation": "Correta: C. Em interrogação direta no início da frase, usa-se \"por que\", em duas palavras e sem acento. A: \"porque\" é conjunção. B: \"porquê\" é substantivo. D: \"por quê\" só aparece no fim da frase. E: \"pôr\" é verbo."
   },
   {
     "id": "PT-ORT-A5",
     "area": "portugues",
-    "topicoSlug": "ortografia-acentuacao",
-    "origem": "autoral",
-    "enunciado": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
-    "alternativas": [
+    "topicSlug": "ortografia-acentuacao",
+    "origin": "authored",
+    "statement": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+    "choices": [
       "excessão, privilegio, exitar",
       "exceção, previlégio, hesitar",
       "excessão, privilégio, hesitar",
       "exceção, privilégio, hesitar",
       "exceção, privilégio, esitar"
     ],
-    "gabarito": 3,
-    "comentario": "Correta: D, com exceção, privilégio e hesitar. A: \"excessão\", \"privilegio\" e \"exitar\" estão errados. B: \"previlégio\" está errado. C: \"excessão\" está errado. E: \"esitar\" está errado."
+    "answerKey": 3,
+    "explanation": "Correta: D, com exceção, privilégio e hesitar. A: \"excessão\", \"privilegio\" e \"exitar\" estão errados. B: \"previlégio\" está errado. C: \"excessão\" está errado. E: \"esitar\" está errado."
   }
 ]
