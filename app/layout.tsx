@@ -19,7 +19,6 @@ export const metadata: Metadata = {
     type: "website",
     locale: "pt_BR",
     siteName: SITE.name,
-    url: "/",
     title: `${SITE.name} — Agente Administrativo, Câmara de Itanhaém`,
     description: SITE.description,
   },

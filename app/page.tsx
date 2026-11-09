@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { EXAM } from "@/lib/exam";
 import { SITE } from "@/lib/site";
@@ -5,6 +6,8 @@ import { listTopics } from "@/lib/content";
 import { Countdown, OverallProgress } from "@/components/home-widgets";
 import { AreaCards } from "@/components/area-cards";
 import { Icon } from "@/components/icons";
+
+export const metadata: Metadata = { alternates: { canonical: "/" } };
 
 export default function Home() {
   const topics = listTopics();
