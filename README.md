@@ -1,12 +1,12 @@
 <!-- Arquivo gerado pelo readme-kit. Não edite aqui: altere docs/readme/ e rode "readme-kit build". -->
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="Aprova Ita: Estude para a Câmara de Itanhaém direto do celular. github.com/diegonatalo/AprovaIta. Stack: Next.js 16, React 19, TypeScript 6, Tailwind CSS 4" width="100%" />
+<img src="docs/assets/banner.svg" alt="Aprova Ita: Estude para a Câmara de Itanhaém direto do celular. github.com/diegonatalo/aprovaita. Stack: Next.js 16, React 19, TypeScript 6, Tailwind CSS 4" width="100%" />
 
 <br />
 
 <a href="https://aprovaita.vercel.app"><img src="docs/assets/btn-demo.svg" alt="Abrir o app ↗" height="46" /></a>
-<a href="https://github.com/diegonatalo/AprovaIta"><img src="docs/assets/btn-code.svg" alt="Código ↗" height="46" /></a>
+<a href="https://github.com/diegonatalo/aprovaita"><img src="docs/assets/btn-code.svg" alt="Código ↗" height="46" /></a>
 
 <br />
 
@@ -121,8 +121,8 @@ São 40 questões: 8 de Português, 5 de Matemática, 3 de Legislação Municipa
 Requer [Node.js](https://nodejs.org) e npm.
 
 ```bash
-git clone https://github.com/diegonatalo/AprovaIta.git
-cd AprovaIta
+git clone https://github.com/diegonatalo/aprovaita.git
+cd aprovaita
 npm install
 npm run dev        # http://localhost:3000
 ```

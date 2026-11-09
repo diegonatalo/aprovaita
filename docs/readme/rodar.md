@@ -1,8 +1,8 @@
 Requer [Node.js](https://nodejs.org) e npm.
 
 ```bash
-git clone https://github.com/diegonatalo/AprovaIta.git
-cd AprovaIta
+git clone https://github.com/diegonatalo/aprovaita.git
+cd aprovaita
 npm install
 npm run dev        # http://localhost:3000
 ```
