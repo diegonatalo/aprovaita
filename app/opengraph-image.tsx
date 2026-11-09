@@ -2,7 +2,6 @@ import { ImageResponse } from "next/og";
 import { PROVA } from "@/lib/prova";
 import { SITE } from "@/lib/site";
 
-export const dynamic = "force-static"; // necessário com output: "export"
 export const alt = `${SITE.nome}: estudos para Agente Administrativo da Câmara de Itanhaém`;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";

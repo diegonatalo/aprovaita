@@ -130,7 +130,7 @@ pnpm dev        # http://localhost:3000
 | Comando | O que faz |
 |---|---|
 | `pnpm dev` | Servidor de desenvolvimento |
-| `pnpm build` | Gera o site estático em `out/` |
+| `pnpm build` | Gera o build de produção |
 | `pnpm lint` | Roda o ESLint |
 | `pnpm validate` | Confere o conteúdo: fontes, gabaritos e alternativas (`validate:strict` trata avisos como erros) |
 | `pnpm test:motor` | Testa a correção e a montagem dos simulados |
@@ -206,7 +206,7 @@ exporte um arquivo JSON e importe no outro lugar.
 
 ### 🌐 Deploy
 
-O site é 100% estático (`output: "export"`), então roda em qualquer hospedagem, como a Vercel.
+O site é publicado na Vercel. Todas as páginas são geradas no build (sem servidor próprio), e as de conteúdo vêm de `generateStaticParams`.
 Ao publicar, ajuste o endereço em `lib/site.ts`: ele alimenta o `sitemap.xml`, o `robots.txt` e os metadados.
 
 ### 🧭 Próximos passos

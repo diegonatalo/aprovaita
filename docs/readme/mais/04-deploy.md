@@ -1,4 +1,4 @@
 ### 🌐 Deploy
 
-O site é 100% estático (`output: "export"`), então roda em qualquer hospedagem, como a Vercel.
+O site é publicado na Vercel. Todas as páginas são geradas no build (sem servidor próprio), e as de conteúdo vêm de `generateStaticParams`.
 Ao publicar, ajuste o endereço em `lib/site.ts`: ele alimenta o `sitemap.xml`, o `robots.txt` e os metadados.

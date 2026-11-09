@@ -2,8 +2,6 @@ import type { MetadataRoute } from "next";
 import { SITE } from "@/lib/site";
 import { AREAS, listarTopicos } from "@/lib/content";
 
-export const dynamic = "force-static"; // necessário com output: "export"
-
 export default function sitemap(): MetadataRoute.Sitemap {
   const rotas = [
     "/",
