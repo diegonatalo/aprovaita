@@ -55,83 +55,25 @@ const EMPTY: Progress = {
   attempts: [],
 };
 
-// Formato 1 (campos em português) → formato 2 (campos em inglês). Lê dados salvos no navegador
-// e backups exportados antes da troca, para ninguém perder o progresso.
+// Lê só o formato atual. Dado salvo em outra versão é descartado.
 type Loose = Record<string, unknown>;
 
 const isObject = (v: unknown): v is Loose => !!v && typeof v === "object" && !Array.isArray(v);
 
-function renameKeys(o: unknown, map: Record<string, string>): Loose {
-  const out: Loose = {};
-  if (!isObject(o)) return out;
-  for (const [k, v] of Object.entries(o)) out[map[k] ?? k] = v;
-  return out;
-}
-
-const LEGACY_STATUS: Record<string, TopicStatus> = {
-  "nao-visto": "unseen",
-  visto: "seen",
-  dominado: "mastered",
-};
-const LEGACY_PROGRESS = { versao: "version", topicos: "topics", erros: "mistakes", tentativas: "attempts" };
-const LEGACY_RESULT = { acertos: "correct" };
-const LEGACY_ATTEMPT = {
-  simulado: "mockExam",
-  inicio: "startedAt",
-  segundos: "seconds",
-  ordem: "order",
-  respostas: "answers",
-  acertos: "correct",
-  nota: "score",
-  parcial: "partial",
-  habilitado: "qualified",
-  porArea: "byArea",
-};
-const LEGACY_EXAM_SESSION = {
-  simulado: "mockExam",
-  inicio: "startedAt",
-  ordem: "order",
-  respostas: "answers",
-  marcadas: "flagged",
-  restanteSegundos: "remainingSeconds",
-  duracaoSegundos: "durationSeconds",
-  atual: "current",
-};
-
-function migrateAttempt(a: unknown): Attempt {
-  const r = renameKeys(a, LEGACY_ATTEMPT);
-  const byArea: Loose = {};
-  for (const [area, v] of Object.entries(isObject(r.byArea) ? r.byArea : {})) byArea[area] = renameKeys(v, LEGACY_RESULT);
-  return { ...r, byArea } as unknown as Attempt;
-}
-
-function migrate(raw: unknown): Progress {
-  if (!isObject(raw)) return EMPTY;
-  const b = renameKeys(raw, LEGACY_PROGRESS);
-  const topics: Record<string, TopicStatus> = {};
-  for (const [k, v] of Object.entries(isObject(b.topics) ? b.topics : {})) {
-    topics[k] = LEGACY_STATUS[String(v)] ?? (v as TopicStatus);
-  }
-  const quizzes: Progress["quizzes"] = {};
-  for (const [k, v] of Object.entries(isObject(b.quizzes) ? b.quizzes : {})) {
-    const q = isObject(v) ? v : {};
-    quizzes[k] = {
-      ...(q.A ? { A: renameKeys(q.A, LEGACY_RESULT) as unknown as QuizResult } : {}),
-      ...(q.B ? { B: renameKeys(q.B, LEGACY_RESULT) as unknown as QuizResult } : {}),
-    };
-  }
+function parseProgress(raw: unknown): Progress {
+  if (!isObject(raw) || raw.version !== SCHEMA_VERSION) return EMPTY;
   return {
     version: SCHEMA_VERSION,
-    topics,
-    quizzes,
-    mistakes: Array.isArray(b.mistakes) ? (b.mistakes as string[]) : [],
-    attempts: Array.isArray(b.attempts) ? b.attempts.map(migrateAttempt) : [],
+    topics: isObject(raw.topics) ? (raw.topics as Record<string, TopicStatus>) : {},
+    quizzes: isObject(raw.quizzes) ? (raw.quizzes as Progress["quizzes"]) : {},
+    mistakes: Array.isArray(raw.mistakes) ? (raw.mistakes as string[]) : [],
+    attempts: Array.isArray(raw.attempts) ? (raw.attempts as Attempt[]) : [],
   };
 }
 
-function migrateExamSession(raw: unknown): ExamSession | null {
-  if (!isObject(raw)) return null;
-  return renameKeys(raw, LEGACY_EXAM_SESSION) as unknown as ExamSession;
+function parseExamSession(raw: unknown): ExamSession | null {
+  if (!isObject(raw) || !Array.isArray(raw.order)) return null;
+  return raw as unknown as ExamSession;
 }
 
 let cachedText: string | null | undefined;
@@ -151,7 +93,7 @@ function snapshot(): Progress {
   if (text !== cachedText) {
     cachedText = text;
     try {
-      cachedObject = text ? migrate(JSON.parse(text)) : EMPTY;
+      cachedObject = text ? parseProgress(JSON.parse(text)) : EMPTY;
     } catch {
       cachedObject = EMPTY;
     }
@@ -213,10 +155,10 @@ export function exportProgress(): string {
 export function importProgress(text: string): { ok: boolean; error?: string } {
   try {
     const obj = JSON.parse(text);
-    if (typeof obj !== "object" || obj === null || typeof (obj.version ?? obj.versao) !== "number") {
+    if (typeof obj !== "object" || obj === null || typeof obj.version !== "number") {
       return { ok: false, error: "Arquivo não parece ser um backup de progresso." };
     }
-    save(migrate(obj));
+    save(parseProgress(obj));
     return { ok: true };
   } catch {
     return { ok: false, error: "JSON inválido." };
@@ -259,7 +201,7 @@ function examSessionSnapshot(): ExamSession | null {
   if (t !== examSessionText) {
     examSessionText = t;
     try {
-      examSessionObject = t ? migrateExamSession(JSON.parse(t)) : null;
+      examSessionObject = t ? parseExamSession(JSON.parse(t)) : null;
     } catch {
       examSessionObject = null;
     }

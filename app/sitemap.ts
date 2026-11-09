@@ -3,6 +3,7 @@ import { SITE } from "@/lib/site";
 import { AREAS, listTopics } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const lastModified = new Date();
   const routes = [
     "/",
     "/conteudo",
@@ -12,5 +13,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/revisao",
     "/progresso",
   ];
-  return routes.map((r) => ({ url: `${SITE.url}${r}` }));
+  return routes.map((route) => ({ url: `${SITE.url}${route}`, lastModified }));
 }
