@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { SITE } from "@/lib/site";
+import { SITE_URL } from "@/lib/site";
 import { AREAS, listTopics } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -13,5 +13,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/revisao",
     "/progresso",
   ];
-  return routes.map((route) => ({ url: `${SITE.url}${route}`, lastModified }));
+  return routes.map((route) => ({ url: `${SITE_URL}${route}`, lastModified }));
 }

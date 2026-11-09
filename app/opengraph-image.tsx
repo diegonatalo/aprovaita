@@ -1,8 +1,8 @@
 import { ImageResponse } from "next/og";
 import { EXAM } from "@/lib/exam";
-import { SITE } from "@/lib/site";
+import { SITE_NAME } from "@/lib/site";
 
-export const alt = `${SITE.name}: estudos para Agente Administrativo da Câmara de Itanhaém`;
+export const alt = `${SITE_NAME}: estudos para Agente Administrativo da Câmara de Itanhaém`;
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -28,7 +28,7 @@ export default function Image() {
             <rect width="64" height="64" rx="16" fill="#ffffff22" />
             <path d="m16 33 10 10 22-22" fill="none" stroke="#fff" strokeWidth="6" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
-          <div style={{ fontSize: 56, fontWeight: 800 }}>{SITE.name}</div>
+          <div style={{ fontSize: 56, fontWeight: 800 }}>{SITE_NAME}</div>
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 20 }}>
           <div style={{ fontSize: 76, fontWeight: 800, lineHeight: 1.05, maxWidth: 900 }}>

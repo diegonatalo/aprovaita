@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useSyncExternalStore } from "react";
 import { Icon, Logo, type IconName } from "./icons";
-import { SITE } from "@/lib/site";
+import { SITE_NAME } from "@/lib/site";
 
 type Destination = {
   href: string;
@@ -80,7 +80,7 @@ export const Nav = () => {
       <header className="sticky top-0 z-30 flex h-14 items-center justify-between border-b border-borda bg-background/85 px-4 backdrop-blur-xl lg:hidden">
         <Link href="/" className="flex items-center gap-2.5">
           <Logo size={30} />
-          <span className="font-display text-lg font-bold tracking-tight">{SITE.name}</span>
+          <span className="font-display text-lg font-bold tracking-tight">{SITE_NAME}</span>
         </Link>
         <ThemeButton />
       </header>
@@ -90,7 +90,7 @@ export const Nav = () => {
         <Link href="/" className="mb-8 flex items-center gap-3">
           <Logo size={42} />
           <span>
-            <span className="block font-display text-xl font-bold leading-tight tracking-tight">{SITE.name}</span>
+            <span className="block font-display text-xl font-bold leading-tight tracking-tight">{SITE_NAME}</span>
             <span className="block text-xs text-muted">Câmara de Itanhaém</span>
           </span>
         </Link>

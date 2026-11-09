@@ -1,8 +1,8 @@
-// Identidade do app e endereço público (usado em sitemap, robots e metadados).
-export const SITE = {
-  name: "Aprova Ita",
-  description:
-    "Estudos para o Concurso nº 01/2026 da Câmara de Itanhaém (Agente Administrativo, VUNESP): conteúdo, questões, simulados e progresso.",
-  // Para publicar em outro domínio, defina NEXT_PUBLIC_SITE_URL no build.
-  url: (process.env.NEXT_PUBLIC_SITE_URL ?? "https://aprovaita.vercel.app").replace(/\/+$/, ""),
-} as const;
+/** URL pública do site. Para outro domínio, defina NEXT_PUBLIC_SITE_URL no build. */
+export const SITE_URL = (
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://aprovaita.vercel.app"
+).replace(/\/+$/, "");
+
+export const SITE_NAME = "Aprova Ita";
+export const SITE_DESCRIPTION =
+  "Estudos para o Concurso nº 01/2026 da Câmara de Itanhaém (Agente Administrativo, VUNESP): conteúdo, questões, simulados e progresso.";

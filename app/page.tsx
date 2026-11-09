@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { EXAM } from "@/lib/exam";
-import { SITE } from "@/lib/site";
+import { SITE_NAME } from "@/lib/site";
 import { listTopics } from "@/lib/content";
 import { Countdown, OverallProgress } from "@/components/home-widgets";
 import { AreaCards } from "@/components/area-cards";
@@ -21,7 +21,7 @@ export default function Home() {
         <div className="relative space-y-6">
           <div>
             <p className="text-xs font-bold uppercase tracking-[0.14em] text-white/70">
-              {SITE.name} · Concurso nº 01/2026
+              {SITE_NAME} · Concurso nº 01/2026
             </p>
             <h1 className="mt-2 max-w-md font-display text-3xl font-extrabold leading-[1.1] sm:text-4xl">
               Agente Administrativo da Câmara de Itanhaém

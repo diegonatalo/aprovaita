@@ -3,29 +3,29 @@ import { Bricolage_Grotesque, Figtree } from "next/font/google";
 import "./globals.css";
 import { Nav } from "@/components/nav";
 import { RegisterServiceWorker } from "@/components/register-sw";
-import { SITE } from "@/lib/site";
+import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/site";
 
 const body = Figtree({ variable: "--font-corpo", subsets: ["latin"] });
 const title = Bricolage_Grotesque({ variable: "--font-titulo", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(SITE.url),
-  title: { default: `${SITE.name} — Agente Administrativo, Câmara de Itanhaém`, template: `%s · ${SITE.name}` },
-  description: SITE.description,
-  applicationName: SITE.name,
+  metadataBase: new URL(SITE_URL),
+  title: { default: `${SITE_NAME} — Agente Administrativo, Câmara de Itanhaém`, template: `%s · ${SITE_NAME}` },
+  description: SITE_DESCRIPTION,
+  applicationName: SITE_NAME,
   manifest: "/manifest.webmanifest",
   icons: { icon: "/icon.svg" },
   openGraph: {
     type: "website",
     locale: "pt_BR",
-    siteName: SITE.name,
-    title: `${SITE.name} — Agente Administrativo, Câmara de Itanhaém`,
-    description: SITE.description,
+    siteName: SITE_NAME,
+    title: `${SITE_NAME} — Agente Administrativo, Câmara de Itanhaém`,
+    description: SITE_DESCRIPTION,
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE.name} — Agente Administrativo, Câmara de Itanhaém`,
-    description: SITE.description,
+    title: `${SITE_NAME} — Agente Administrativo, Câmara de Itanhaém`,
+    description: SITE_DESCRIPTION,
   },
 };
 
