@@ -1,9 +1,9 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { ProvaRunner } from "./ProvaRunner";
-import { Resultado } from "./Resultado";
-import { NOMES_AREA, NOMES_SUBAREA, PROVA } from "@/config/prova";
+import { ProvaRunner } from "./prova-runner";
+import { Resultado } from "./resultado";
+import { NOMES_AREA, NOMES_SUBAREA, PROVA } from "@/lib/prova";
 import { formatarData, formatarNota, formatarTempo } from "@/lib/formato";
 import { duracaoSegundos, lacunas, montarSimulado } from "@/lib/simulado";
 import {
@@ -15,7 +15,7 @@ import {
   type Tentativa,
 } from "@/lib/storage";
 import type { InfoTopico } from "@/lib/banco";
-import type { Origem, Questao } from "@/lib/tipos";
+import type { Origem, Questao } from "@/types";
 
 type Tela =
   | { tipo: "home" }

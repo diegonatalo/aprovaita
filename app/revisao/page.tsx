@@ -1,4 +1,4 @@
-import { RevisaoApp } from "@/components/RevisaoApp";
+import { RevisaoApp } from "@/components/revisao-app";
 import { carregarBanco } from "@/lib/banco";
 
 export default function Revisao() {

@@ -1,7 +1,7 @@
 <!-- Arquivo gerado pelo readme-kit. Não edite aqui: altere docs/readme/ e rode "readme-kit build". -->
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="Aprova Ita: Estude para a Câmara de Itanhaém direto do celular. github.com/diegonatalo/aprovaita. Stack: Next.js 16, React 19, TypeScript 6, Tailwind CSS 4" width="100%" />
+<img src="docs/assets/banner.svg" alt="Aprova Ita: Estude para a Câmara de Itanhaém direto do celular. github.com/diegonatalo/aprovaita. Stack: Next.js 16, React 19, TypeScript 5, Tailwind CSS 4" width="100%" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript_6-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript_5-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Dados no navegador](https://img.shields.io/badge/dados-s%C3%B3_no_seu_navegador-0a6b7c?style=flat-square)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-16a34a?style=flat-square)
@@ -106,7 +106,7 @@ São 40 questões: 8 de Português, 5 de Matemática, 3 de Legislação Municipa
 
 <div align="center">
 
-<img src="docs/assets/stack.svg" alt="Stack: Next.js 16, React 19, TypeScript 6, Tailwind CSS 4, react-markdown, remark-gfm, gray-matter, tsx, ESLint 9" width="100%" />
+<img src="docs/assets/stack.svg" alt="Stack: Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, react-markdown, remark-gfm, gray-matter, tsx, ESLint 9" width="100%" />
 
 </div>
 
@@ -146,9 +146,9 @@ pnpm dev        # http://localhost:3000
 ```text
 ├── app/          rotas: início, conteúdo, simulado, revisão e progresso
 ├── components/   interface: navegação, questões, prova, painéis
-└── lib/          carga do conteúdo, correção, simulados e armazenamento local
+├── lib/          carga do conteúdo, correção, simulados, armazenamento local, parâmetros da prova (prova.ts) e identidade do site (site.ts)
+└── types/        tipos do domínio
 content/          um tópico por pasta: explicação e questões
-config/           parâmetros da prova (prova.ts) e identidade do site (site.ts)
 scripts/          validação do conteúdo e testes do motor
 public/           ícone, manifest e service worker
 docs/             capturas de tela usadas neste README
@@ -191,7 +191,7 @@ exporte um arquivo JSON e importe no outro lugar.
 - **Questões autorais** são identificadas como tal na tela.
 - **Legislação municipal:** ainda não há questões reais da banca para esse grupo.
 - **Divisão dos 24 Específicos** entre Administração Geral (10), Arquivologia (6) e Administração Pública (8)
-  é uma suposição, porque o edital não informa. Ela fica em `config/prova.ts` e pode ser mudada.
+  é uma suposição, porque o edital não informa. Ela fica em `lib/prova.ts` e pode ser mudada.
 - Alguns tópicos estão marcados como "fora do programa do edital" e ficam sinalizados no site.
 
 <details>
@@ -207,14 +207,14 @@ exporte um arquivo JSON e importe no outro lugar.
 ### 🌐 Deploy
 
 O site é 100% estático (`output: "export"`), então roda em qualquer hospedagem, como a Vercel.
-Ao publicar, ajuste o endereço em `config/site.ts`: ele alimenta o `sitemap.xml`, o `robots.txt` e os metadados.
+Ao publicar, ajuste o endereço em `lib/site.ts`: ele alimenta o `sitemap.xml`, o `robots.txt` e os metadados.
 
 ### 🧭 Próximos passos
 
 - [ ] Questões reais da banca para Legislação Municipal (falta prova de Câmara que cubra o tema).
 - [ ] Conferir se houve mudança de gabarito após recursos nas provas usadas.
 - [ ] Confirmar o horário exato da prova no edital.
-- [ ] Definir o endereço público e atualizar `config/site.ts`.
+- [ ] Definir o endereço público e atualizar `lib/site.ts`.
 - [ ] Testes automatizados da interface (hoje só há validação do conteúdo e teste do motor).
 
 ### 📄 Créditos e licença

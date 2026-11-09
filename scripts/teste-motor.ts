@@ -1,9 +1,9 @@
 // npm run test:motor — testes do sorteio e da correção, com um banco sintético (nunca vai para o site).
 import assert from "node:assert/strict";
-import { PROVA } from "../config/prova";
+import { PROVA } from "../lib/prova";
 import { corrigir } from "../lib/correcao";
 import { duracaoSegundos, lacunas, montarSimulado } from "../lib/simulado";
-import type { Area, Questao, Subarea } from "../lib/tipos";
+import type { Area, Questao, Subarea } from "../types";
 
 let n = 0;
 function q(area: Area, subarea?: Subarea, gabarito: 0 | 1 | 2 | 3 | 4 = 0): Questao {

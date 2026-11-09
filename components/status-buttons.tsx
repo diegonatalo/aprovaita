@@ -1,8 +1,8 @@
 "use client";
 
 import { definirStatus, useProgresso } from "@/lib/storage";
-import { TopicStatusBadge } from "./TopicStatusBadge";
-import type { StatusTopico } from "@/lib/tipos";
+import { TopicStatusBadge } from "./topic-status-badge";
+import type { StatusTopico } from "@/types";
 
 export function StatusButtons({ chave }: { chave: string }) {
   const status: StatusTopico = useProgresso().topicos[chave] ?? "nao-visto";

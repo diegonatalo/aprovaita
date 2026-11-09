@@ -1,10 +1,10 @@
 import Link from "next/link";
-import { PROVA } from "@/config/prova";
-import { SITE } from "@/config/site";
+import { PROVA } from "@/lib/prova";
+import { SITE } from "@/lib/site";
 import { listarTopicos } from "@/lib/content";
-import { Countdown, ProgressoGeral } from "@/components/HomeWidgets";
-import { CartoesArea } from "@/components/CartoesArea";
-import { Icone } from "@/components/Icones";
+import { Countdown, ProgressoGeral } from "@/components/home-widgets";
+import { CartoesArea } from "@/components/cartoes-area";
+import { Icone } from "@/components/icones";
 
 export default function Home() {
   const topicos = listarTopicos();

@@ -1,4 +1,4 @@
-import type { StatusTopico } from "@/lib/tipos";
+import type { StatusTopico } from "@/types";
 
 const ROTULO: Record<StatusTopico, string> = {
   "nao-visto": "Não visto",

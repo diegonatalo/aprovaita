@@ -3,8 +3,8 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useSyncExternalStore } from "react";
-import { Icone, Logo, type NomeIcone } from "./Icones";
-import { SITE } from "@/config/site";
+import { Icone, Logo, type NomeIcone } from "./icones";
+import { SITE } from "@/lib/site";
 
 interface Destino {
   href: string;

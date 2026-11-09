@@ -1,7 +1,7 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
-import { ProgressRing } from "./ProgressRing";
+import { ProgressRing } from "./progress-ring";
 import { useProgresso } from "@/lib/storage";
 
 function assinarRelogio(f: () => void) {

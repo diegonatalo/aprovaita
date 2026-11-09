@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import { QuestionView } from "./QuestionView";
+import { QuestionView } from "./question-view";
 import { registrarQuiz, useProgresso } from "@/lib/storage";
-import type { Questao } from "@/lib/tipos";
+import type { Questao } from "@/types";
 
 /** Quiz de um tópico (A = autoral, B = banca). Slot B vazio mostra aviso claro. */
 export function QuizCard({

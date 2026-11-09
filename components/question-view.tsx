@@ -1,7 +1,7 @@
 "use client";
 
-import { Markdown } from "./Markdown";
-import type { Questao } from "@/lib/tipos";
+import { Markdown } from "./markdown";
+import type { Questao } from "@/types";
 
 const LETRAS = ["A", "B", "C", "D", "E"] as const;
 

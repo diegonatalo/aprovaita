@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { NOMES_AREA, NOMES_SUBAREA, PROVA } from "@/config/prova";
+import { NOMES_AREA, NOMES_SUBAREA, PROVA } from "@/lib/prova";
 import { AREAS, topicosDaArea } from "@/lib/content";
-import { StatusDoTopico } from "@/components/StatusButtons";
-import type { Area } from "@/lib/tipos";
+import { StatusDoTopico } from "@/components/status-buttons";
+import type { Area } from "@/types";
 
 export function generateStaticParams() {
   return AREAS.map((area) => ({ area }));

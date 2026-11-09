@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { NOMES_AREA, PROVA } from "@/config/prova";
+import { NOMES_AREA, PROVA } from "@/lib/prova";
 import { listarTopicos } from "@/lib/content";
-import { BarraArea } from "./HomeWidgets";
-import { Icone, type NomeIcone } from "./Icones";
-import type { Area } from "@/lib/tipos";
+import { BarraArea } from "./home-widgets";
+import { Icone, type NomeIcone } from "./icones";
+import type { Area } from "@/types";
 
 const ICONE: Record<Area, NomeIcone> = {
   especificos: "pasta",

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { NOMES_AREA } from "@/config/prova";
+import { NOMES_AREA } from "@/lib/prova";
 import { AREAS } from "@/lib/content";
 
 export const metadata: Metadata = { title: "Página não encontrada" };

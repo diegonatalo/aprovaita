@@ -1,13 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import { QuestionView } from "./QuestionView";
-import { NOMES_AREA, PROVA } from "@/config/prova";
+import { QuestionView } from "./question-view";
+import { NOMES_AREA, PROVA } from "@/lib/prova";
 import { corrigir } from "@/lib/correcao";
 import { formatarNota, formatarTempo } from "@/lib/formato";
 import type { InfoTopico } from "@/lib/banco";
 import type { Tentativa } from "@/lib/storage";
-import type { Area, Questao } from "@/lib/tipos";
+import type { Area, Questao } from "@/types";
 
 function Barra({ acertos, total }: { acertos: number; total: number }) {
   const pct = total ? (acertos / total) * 100 : 0;

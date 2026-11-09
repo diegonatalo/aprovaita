@@ -9,7 +9,7 @@
 - **Questões autorais** são identificadas como tal na tela.
 - **Legislação municipal:** ainda não há questões reais da banca para esse grupo.
 - **Divisão dos 24 Específicos** entre Administração Geral (10), Arquivologia (6) e Administração Pública (8)
-  é uma suposição, porque o edital não informa. Ela fica em `config/prova.ts` e pode ser mudada.
+  é uma suposição, porque o edital não informa. Ela fica em `lib/prova.ts` e pode ser mudada.
 - Alguns tópicos estão marcados como "fora do programa do edital" e ficam sinalizados no site.
 
 <details>

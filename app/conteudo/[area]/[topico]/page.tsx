@@ -1,11 +1,11 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { NOMES_AREA } from "@/config/prova";
+import { NOMES_AREA } from "@/lib/prova";
 import { acharTopico, listarTopicos } from "@/lib/content";
-import { Markdown } from "@/components/Markdown";
-import { QuizCard } from "@/components/QuizCard";
-import { StatusButtons } from "@/components/StatusButtons";
-import type { Area } from "@/lib/tipos";
+import { Markdown } from "@/components/markdown";
+import { QuizCard } from "@/components/quiz-card";
+import { StatusButtons } from "@/components/status-buttons";
+import type { Area } from "@/types";
 
 export function generateStaticParams() {
   return listarTopicos().map((t) => ({ area: t.area, topico: t.slug }));

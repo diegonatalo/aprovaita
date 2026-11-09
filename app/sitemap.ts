@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { SITE } from "@/config/site";
+import { SITE } from "@/lib/site";
 import { AREAS, listarTopicos } from "@/lib/content";
 
 export const dynamic = "force-static"; // necessário com output: "export"

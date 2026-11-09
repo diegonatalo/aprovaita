@@ -1,9 +1,9 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Figtree } from "next/font/google";
 import "./globals.css";
-import { Nav } from "@/components/Nav";
-import { RegistrarSW } from "@/components/RegistrarSW";
-import { SITE } from "@/config/site";
+import { Nav } from "@/components/nav";
+import { RegistrarSW } from "@/components/registrar-sw";
+import { SITE } from "@/lib/site";
 
 const corpo = Figtree({ variable: "--font-corpo", subsets: ["latin"] });
 const titulo = Bricolage_Grotesque({ variable: "--font-titulo", subsets: ["latin"] });

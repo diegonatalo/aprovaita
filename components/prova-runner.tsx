@@ -1,9 +1,9 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { AnswerSheet } from "./AnswerSheet";
-import { ExamTimer } from "./ExamTimer";
-import { QuestionView } from "./QuestionView";
+import { AnswerSheet } from "./answer-sheet";
+import { ExamTimer } from "./exam-timer";
+import { QuestionView } from "./question-view";
 import { corrigir } from "@/lib/correcao";
 import {
   limparAndamento,
@@ -13,7 +13,7 @@ import {
   type Andamento,
   type Tentativa,
 } from "@/lib/storage";
-import type { Questao } from "@/lib/tipos";
+import type { Questao } from "@/types";
 
 export function ProvaRunner({
   inicial,

@@ -1,11 +1,11 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { QuestionView } from "./QuestionView";
-import { NOMES_AREA } from "@/config/prova";
+import { QuestionView } from "./question-view";
+import { NOMES_AREA } from "@/lib/prova";
 import { registrarErros, useProgresso } from "@/lib/storage";
 import type { InfoTopico } from "@/lib/banco";
-import type { Area, Questao } from "@/lib/tipos";
+import type { Area, Questao } from "@/types";
 
 export function RevisaoApp({
   questoes,

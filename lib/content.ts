@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import type { Area, Questao, Subarea, Topico } from "./tipos";
+import type { Area, Questao, Subarea, Topico } from "../types";
 
 const RAIZ = path.join(process.cwd(), "content");
 export const AREAS: Area[] = ["portugues", "matematica", "legislacao", "especificos"];

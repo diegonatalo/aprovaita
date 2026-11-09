@@ -1,5 +1,5 @@
-import { PROVA } from "@/config/prova";
-import type { Area, Origem, Questao, Subarea } from "./tipos";
+import { PROVA } from "@/lib/prova";
+import type { Area, Origem, Questao, Subarea } from "../types";
 
 /** Cotas por (área, subárea) para um simulado. */
 export function cotas(): { area: Area; subarea?: Subarea; quantidade: number }[] {

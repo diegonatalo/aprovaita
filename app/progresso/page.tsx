@@ -1,5 +1,5 @@
-import { Backup } from "@/components/Backup";
-import { PainelProgresso } from "@/components/PainelProgresso";
+import { Backup } from "@/components/backup";
+import { PainelProgresso } from "@/components/painel-progresso";
 import { listarTopicos } from "@/lib/content";
 
 export default function Progresso() {

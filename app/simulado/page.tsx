@@ -1,4 +1,4 @@
-import { SimuladoApp } from "@/components/SimuladoApp";
+import { SimuladoApp } from "@/components/simulado-app";
 import { carregarBanco } from "@/lib/banco";
 
 export default function Simulado() {

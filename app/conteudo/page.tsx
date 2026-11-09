@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { CartoesArea } from "@/components/CartoesArea";
+import { CartoesArea } from "@/components/cartoes-area";
 
 export const metadata: Metadata = { title: "Estudar" };
 

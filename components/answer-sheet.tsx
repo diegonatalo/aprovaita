@@ -1,6 +1,6 @@
 "use client";
 
-import type { Questao } from "@/lib/tipos";
+import type { Questao } from "@/types";
 
 /** Folha de respostas: um botão por questão, com estado (respondida, marcada para revisar, atual). */
 export function AnswerSheet({

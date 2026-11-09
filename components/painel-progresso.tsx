@@ -1,10 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { NOMES_AREA, PROVA } from "@/config/prova";
+import { NOMES_AREA, PROVA } from "@/lib/prova";
 import { useProgresso } from "@/lib/storage";
 import { formatarData, formatarNota } from "@/lib/formato";
-import type { Area } from "@/lib/tipos";
+import type { Area } from "@/types";
 
 export interface TopicoResumo {
   chave: string; // "area/slug"
