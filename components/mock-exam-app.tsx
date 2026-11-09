@@ -20,7 +20,7 @@ import type { Origin, Question } from "@/types";
 type Screen =
   | { kind: "home" }
   | { kind: "exam"; initial: ExamSession }
-  | { kind: "resultado"; attempt: Attempt };
+  | { kind: "result"; attempt: Attempt };
 
 const ORIGIN: Record<"A" | "B", Origin> = { A: "authored", B: "exam" };
 const TITLE = { A: "Simulado A — questões autorais", B: "Simulado B — questões reais da banca" };
@@ -65,11 +65,11 @@ export function MockExamApp({
       <ExamRunner
         initial={screen.initial}
         bank={bank}
-        onFinished={(attempt) => setScreen({ kind: "resultado", attempt })}
+        onFinished={(attempt) => setScreen({ kind: "result", attempt })}
       />
     );
   }
-  if (screen.kind === "resultado") {
+  if (screen.kind === "result") {
     return <Result attempt={screen.attempt} bank={bank} info={info} onBack={() => setScreen({ kind: "home" })} />;
   }
 
@@ -174,7 +174,7 @@ export function MockExamApp({
                   </span>
                   <span className="flex items-center gap-3">
                     <strong className="tabular-nums">{formatScore(t.score)}</strong>
-                    <button onClick={() => setScreen({ kind: "resultado", attempt: t })} className="btn btn-ghost btn-sm">
+                    <button onClick={() => setScreen({ kind: "result", attempt: t })} className="btn btn-ghost btn-sm">
                       Ver
                     </button>
                   </span>
