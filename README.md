@@ -135,6 +135,16 @@ pnpm dev        # http://localhost:3000
 | `pnpm validate` | Confere o conteúdo: fontes, gabaritos e alternativas (`validate:strict` trata avisos como erros) |
 | `pnpm test:engine` | Testa a correção e a montagem dos simulados |
 
+### 🧪 Testes
+
+```bash
+pnpm test
+```
+
+Usa [Vitest](https://vitest.dev). Os testes cobrem o banco de questões (estrutura e consistência do conteúdo), a correção e a nota, a montagem dos simulados, o formatador de tempo e nota e o salvamento e a importação do progresso. O motor dos simulados tem também um script próprio, `pnpm test:engine`.
+
+Para reexecutar ao salvar: `pnpm test:watch`.
+
 <br />
 
 <div align="center">
@@ -215,7 +225,7 @@ Ao publicar, ajuste o endereço em `lib/site.ts`: ele alimenta o `sitemap.xml`, 
 - [ ] Conferir se houve mudança de gabarito após recursos nas provas usadas.
 - [ ] Confirmar o horário exato da prova no edital.
 - [ ] Definir o endereço público e atualizar `lib/site.ts`.
-- [ ] Testes automatizados da interface (hoje só há validação do conteúdo e teste do motor).
+- [ ] Testes dos componentes da interface (hoje os testes cobrem só `lib/`).
 
 ### 📄 Créditos e licença
 
