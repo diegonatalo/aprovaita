@@ -10,7 +10,9 @@
     "lint": "eslint",
     "test:engine": "tsx scripts/engine-test.ts",
     "validate": "tsx scripts/validate.ts",
-    "validate:strict": "tsx scripts/validate.ts --strict"
+    "validate:strict": "tsx scripts/validate.ts --strict",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
@@ -22,13 +24,19 @@
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.2.1",
     "eslint": "^9",
     "eslint-config-next": "16.4.5",
+    "jsdom": "^31.0.0",
     "tailwindcss": "^4",
     "tsx": "^4.23.15",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^5.1.0"
   }
 }
