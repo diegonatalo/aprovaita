@@ -108,7 +108,7 @@ export const ExamRunner = ({
 
   return (
     <div className="space-y-4">
-      <div className="sticky top-14 z-20 flex flex-wrap items-center justify-between gap-2 card p-3 lg:top-4">
+      <div className="sticky top-14 z-20 flex flex-wrap items-center justify-between gap-2 card p-3 md:top-4">
         <ExamTimer remaining={remaining} paused={paused} onTogglePause={() => setPaused((p) => !p)} />
         <span className="text-sm text-muted">
           Simulado {initial.mockExam} · {questions.length - blank}/{questions.length} respondidas
