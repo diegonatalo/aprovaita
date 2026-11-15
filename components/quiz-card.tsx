@@ -24,9 +24,9 @@ export const QuizCard = ({
 
   if (questions.length === 0) {
     return (
-      <section className="rounded-2xl border border-dashed border-borda p-4">
+      <section className="rounded-2xl border border-dashed border-border p-4">
         <h2 className="font-display text-xl font-bold">{title}</h2>
-        <p className="mt-2 text-sm text-aviso">
+        <p className="mt-2 text-sm text-warning">
           Sem questões reais da banca para este tópico ainda. Elas só entram a partir de provas
           VUNESP com fonte verificável; nada é inventado aqui.
         </p>

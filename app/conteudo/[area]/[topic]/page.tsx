@@ -24,13 +24,13 @@ export default async function TopicPage({
   return (
     <article className="space-y-10">
       <header className="space-y-3">
-        <Link href={`/conteudo/${t.area}`} className="inline-flex items-center gap-1 text-sm font-medium text-acento">
+        <Link href={`/conteudo/${t.area}`} className="inline-flex items-center gap-1 text-sm font-medium text-accent">
           <span aria-hidden>←</span> {AREA_NAMES[t.area as Area]}
         </Link>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl">{t.title}</h1>
         {t.summary && <p className="max-w-[68ch] text-lg text-muted">{t.summary}</p>}
         {t.sourceStatus === "PENDING_SOURCE" && (
-          <p className="rounded-xl border border-erro bg-erro/10 p-3 text-sm text-erro">
+          <p className="rounded-xl border border-error bg-error/10 p-3 text-sm text-error">
             PENDENTE_FONTE: este tópico depende do texto oficial e ainda não foi conferido.
           </p>
         )}
@@ -38,7 +38,7 @@ export default async function TopicPage({
       </header>
 
       <div className="card p-4 sm:p-8">
-        <Markdown className="prose-estudo">{t.content}</Markdown>
+        <Markdown className="prose-study">{t.content}</Markdown>
       </div>
 
       <QuizCard topicKey={topicKey} quiz="A" questions={t.authored} />

@@ -20,7 +20,7 @@ export const Markdown = ({
         components={{
           ...(inline ? { p: ({ children }) => <>{children}</> } : {}),
           table: ({ children }) => (
-            <div className="tabela">
+            <div className="table-wrap">
               <table>{children}</table>
             </div>
           ),

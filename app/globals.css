@@ -12,18 +12,18 @@
   --muted: #566772;
   --card: #fffdf9;
   --card-2: #efeae0;
-  --borda: #e1dbcd;
-  --acento: #0a6b7c;
-  --acento-forte: #07505e;
-  --acento-suave: #d7ecee;
-  --sol: #e9663f;
-  --acerto: #12803f;
-  --erro: #c0233f;
-  --aviso: #b45309;
-  --sombra: 0 1px 2px rgb(12 36 49 / 0.05), 0 8px 24px -12px rgb(12 36 49 / 0.14);
-  --sombra-alta: 0 2px 4px rgb(12 36 49 / 0.06), 0 18px 40px -16px rgb(12 36 49 / 0.28);
-  --mar-1: #0a6b7c;
-  --mar-2: #0c3d52;
+  --border: #e1dbcd;
+  --accent: #0a6b7c;
+  --accent-strong: #07505e;
+  --accent-soft: #d7ecee;
+  --sun: #e9663f;
+  --correct: #12803f;
+  --error: #c0233f;
+  --warning: #b45309;
+  --shadow: 0 1px 2px rgb(12 36 49 / 0.05), 0 8px 24px -12px rgb(12 36 49 / 0.14);
+  --shadow-strong: 0 2px 4px rgb(12 36 49 / 0.06), 0 18px 40px -16px rgb(12 36 49 / 0.28);
+  --sea-1: #0a6b7c;
+  --sea-2: #0c3d52;
 }
 
 .dark {
@@ -32,18 +32,18 @@
   --muted: #8da3ad;
   --card: #0c2230;
   --card-2: #102b3b;
-  --borda: #1a3544;
-  --acento: #4cd0c4;
-  --acento-forte: #7fe3d9;
-  --acento-suave: #0f3a45;
-  --sol: #ff8a63;
-  --acerto: #4ade80;
-  --erro: #fb7a93;
-  --aviso: #fbbf24;
-  --sombra: 0 1px 2px rgb(0 0 0 / 0.3), 0 8px 24px -12px rgb(0 0 0 / 0.5);
-  --sombra-alta: 0 2px 4px rgb(0 0 0 / 0.35), 0 18px 40px -16px rgb(0 0 0 / 0.7);
-  --mar-1: #0e6f80;
-  --mar-2: #071f2c;
+  --border: #1a3544;
+  --accent: #4cd0c4;
+  --accent-strong: #7fe3d9;
+  --accent-soft: #0f3a45;
+  --sun: #ff8a63;
+  --correct: #4ade80;
+  --error: #fb7a93;
+  --warning: #fbbf24;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 8px 24px -12px rgb(0 0 0 / 0.5);
+  --shadow-strong: 0 2px 4px rgb(0 0 0 / 0.35), 0 18px 40px -16px rgb(0 0 0 / 0.7);
+  --sea-1: #0e6f80;
+  --sea-2: #071f2c;
 }
 
 @theme inline {
@@ -52,16 +52,16 @@
   --color-muted: var(--muted);
   --color-card: var(--card);
   --color-card-2: var(--card-2);
-  --color-borda: var(--borda);
-  --color-acento: var(--acento);
-  --color-acento-forte: var(--acento-forte);
-  --color-acento-suave: var(--acento-suave);
-  --color-sol: var(--sol);
-  --color-acerto: var(--acerto);
-  --color-erro: var(--erro);
-  --color-aviso: var(--aviso);
-  --font-sans: var(--font-corpo), system-ui, sans-serif;
-  --font-display: var(--font-titulo), var(--font-corpo), system-ui, sans-serif;
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-soft: var(--accent-soft);
+  --color-sun: var(--sun);
+  --color-correct: var(--correct);
+  --color-error: var(--error);
+  --color-warning: var(--warning);
+  --font-sans: var(--font-body), system-ui, sans-serif;
+  --font-display: var(--font-heading), var(--font-body), system-ui, sans-serif;
 }
 
 html {
@@ -89,28 +89,28 @@ h3 {
 }
 
 :focus-visible {
-  outline: 2px solid var(--acento);
+  outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
 
 ::selection {
-  background: var(--acento-suave);
+  background: var(--accent-soft);
 }
 
 /* ---------- Componentes utilitários ---------- */
 @layer components {
   .card {
     background: var(--card);
-    border: 1px solid var(--borda);
+    border: 1px solid var(--border);
     border-radius: 1.1rem;
-    box-shadow: var(--sombra);
+    box-shadow: var(--shadow);
   }
   .card-link {
     transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
   }
   .card-link:hover {
-    border-color: var(--acento);
-    box-shadow: var(--sombra-alta);
+    border-color: var(--accent);
+    box-shadow: var(--shadow-strong);
     transform: translateY(-2px);
   }
   .card-link:active {
@@ -139,21 +139,21 @@ h3 {
     cursor: not-allowed;
   }
   .btn-primary {
-    background: var(--acento);
+    background: var(--accent);
     color: var(--background);
-    box-shadow: 0 6px 16px -8px var(--acento);
+    box-shadow: 0 6px 16px -8px var(--accent);
   }
   .btn-primary:hover:not(:disabled) {
-    background: var(--acento-forte);
+    background: var(--accent-strong);
   }
   .btn-ghost {
     background: var(--card);
-    border: 1px solid var(--borda);
+    border: 1px solid var(--border);
     color: var(--foreground);
   }
   .btn-ghost:hover:not(:disabled) {
-    border-color: var(--acento);
-    color: var(--acento);
+    border-color: var(--accent);
+    color: var(--accent);
   }
   .btn-sm {
     min-height: 2.25rem;
@@ -166,7 +166,7 @@ h3 {
     font-weight: 700;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: var(--acento);
+    color: var(--accent);
   }
 
   .chip {
@@ -175,7 +175,7 @@ h3 {
     gap: 0.35rem;
     padding: 0.35rem 0.8rem;
     border-radius: 999px;
-    border: 1px solid var(--borda);
+    border: 1px solid var(--border);
     background: var(--card);
     font-size: 0.82rem;
     font-weight: 500;
@@ -183,16 +183,16 @@ h3 {
     transition: all 0.15s ease;
   }
   .chip[aria-pressed="true"] {
-    background: var(--acento);
-    border-color: var(--acento);
+    background: var(--accent);
+    border-color: var(--accent);
     color: var(--background);
     font-weight: 600;
   }
 
-  .campo {
+  .field {
     min-height: 2.75rem;
     border-radius: 0.8rem;
-    border: 1px solid var(--borda);
+    border: 1px solid var(--border);
     background: var(--card);
     padding: 0.5rem 0.8rem;
     font-size: 0.9rem;
@@ -200,7 +200,7 @@ h3 {
 }
 
 /* Entrada suave das páginas */
-@keyframes subir {
+@keyframes rise {
   from {
     transform: translateY(8px);
   }
@@ -208,11 +208,11 @@ h3 {
     transform: none;
   }
 }
-.entrada {
-  animation: subir 0.35s ease both;
+.enter {
+  animation: rise 0.35s ease both;
 }
 @media (prefers-reduced-motion: reduce) {
-  .entrada {
+  .enter {
     animation: none;
   }
   .card-link,
@@ -222,108 +222,108 @@ h3 {
 }
 
 /* Barra inferior respeita a área segura (iPhone) */
-.pb-barra {
+.pb-tab-bar {
   padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
 }
-@media (min-width: 1024px) {
-  .pb-barra {
+@media (min-width: 768px) {
+  .pb-tab-bar {
     padding-bottom: 3rem;
   }
 }
 
 /* ---------- Tipografia do conteúdo de estudo ---------- */
-.prose-estudo {
+.prose-study {
   max-width: 68ch;
   font-size: 1.02rem;
   line-height: 1.75;
 }
-.prose-estudo h2 {
+.prose-study h2 {
   font-family: var(--font-display);
   font-size: 1.4rem;
   font-weight: 700;
   margin: 2.25rem 0 0.75rem;
   padding-top: 0.5rem;
-  border-top: 1px solid var(--borda);
+  border-top: 1px solid var(--border);
 }
-.prose-estudo h2:first-child {
+.prose-study h2:first-child {
   border-top: 0;
   margin-top: 0;
 }
-.prose-estudo h3 {
+.prose-study h3 {
   font-family: var(--font-display);
   font-size: 1.12rem;
   font-weight: 650;
   margin: 1.6rem 0 0.5rem;
-  color: var(--acento);
+  color: var(--accent);
 }
-.prose-estudo p {
+.prose-study p {
   margin: 0.8rem 0;
 }
-.prose-estudo ul {
+.prose-study ul {
   list-style: disc;
   padding-left: 1.4rem;
   margin: 0.8rem 0;
 }
-.prose-estudo ol {
+.prose-study ol {
   list-style: decimal;
   padding-left: 1.4rem;
   margin: 0.8rem 0;
 }
-.prose-estudo li {
+.prose-study li {
   margin: 0.3rem 0;
 }
-.prose-estudo li::marker {
-  color: var(--acento);
+.prose-study li::marker {
+  color: var(--accent);
 }
-.prose-estudo strong {
+.prose-study strong {
   font-weight: 650;
 }
-.prose-estudo a {
-  color: var(--acento);
+.prose-study a {
+  color: var(--accent);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-.prose-estudo code {
+.prose-study code {
   background: var(--card-2);
   padding: 0.1rem 0.4rem;
   border-radius: 0.4rem;
   font-size: 0.9em;
 }
-.prose-estudo blockquote {
-  border-left: 4px solid var(--sol);
+.prose-study blockquote {
+  border-left: 4px solid var(--sun);
   background: var(--card);
   padding: 0.7rem 1rem;
   margin: 1.2rem 0;
   border-radius: 0 0.9rem 0.9rem 0;
   color: var(--muted);
-  box-shadow: var(--sombra);
+  box-shadow: var(--shadow);
 }
-.prose-estudo blockquote p {
+.prose-study blockquote p {
   margin: 0.3rem 0;
 }
-.prose-estudo .tabela {
+.prose-study .table-wrap {
   overflow-x: auto;
   margin: 1.2rem 0;
-  border: 1px solid var(--borda);
+  border: 1px solid var(--border);
   border-radius: 0.9rem;
   background: var(--card);
 }
-.prose-estudo table {
+.prose-study table {
   border-collapse: collapse;
   font-size: 0.9rem;
   min-width: 100%;
 }
-.prose-estudo th,
-.prose-estudo td {
-  border-bottom: 1px solid var(--borda);
+.prose-study th,
+.prose-study td {
+  border-bottom: 1px solid var(--border);
   padding: 0.55rem 0.8rem;
   text-align: left;
   vertical-align: top;
 }
-.prose-estudo tr:last-child td {
+.prose-study tr:last-child td {
   border-bottom: 0;
 }
-.prose-estudo th {
+.prose-study th {
   background: var(--card-2);
   font-weight: 650;
   white-space: nowrap;

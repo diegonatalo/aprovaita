@@ -54,7 +54,7 @@ export const ReviewApp = ({
     const correct = practicing.filter((q, i) => answers[i] === q.answerKey).length;
     return (
       <div className="space-y-4">
-        <button onClick={() => setPracticing(null)} className="text-sm font-medium text-acento">
+        <button onClick={() => setPracticing(null)} className="text-sm font-medium text-accent">
           ← Voltar ao caderno
         </button>
         <h1 className="font-display text-3xl font-extrabold">Refazer erros</h1>
@@ -103,7 +103,7 @@ export const ReviewApp = ({
               setArea(e.target.value as Area | "todas");
               setTopic("todos");
             }}
-            className="campo"
+            className="field"
           >
             <option value="todas">Todas</option>
             {(Object.keys(AREA_NAMES) as Area[]).map((a) => (
@@ -118,7 +118,7 @@ export const ReviewApp = ({
           <select
             value={topic}
             onChange={(e) => setTopic(e.target.value)}
-            className="campo max-w-xs"
+            className="field max-w-xs"
           >
             <option value="todos">Todos</option>
             {availableTopics.map((k) => (
@@ -138,7 +138,7 @@ export const ReviewApp = ({
       </div>
 
       {filtered.length === 0 ? (
-        <p className="rounded-2xl border border-dashed border-borda p-4 text-sm text-muted">
+        <p className="rounded-2xl border border-dashed border-border p-4 text-sm text-muted">
           Nada no caderno para este filtro.
         </p>
       ) : (

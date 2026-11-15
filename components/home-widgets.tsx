@@ -61,9 +61,9 @@ export const AreaBar = ({ topicKeys }: { topicKeys: string[] }) => {
         aria-valuenow={Math.round(pct)}
         aria-valuemin={0}
         aria-valuemax={100}
-        className="h-1.5 overflow-hidden rounded-full bg-borda"
+        className="h-1.5 overflow-hidden rounded-full bg-border"
       >
-        <div className="h-full rounded-full bg-acento transition-[width] duration-500" style={{ width: `${pct}%` }} />
+        <div className="h-full rounded-full bg-accent transition-[width] duration-500" style={{ width: `${pct}%` }} />
       </div>
       <p className="mt-1.5 text-xs text-muted">
         {seenTopics}/{topicKeys.length} vistos

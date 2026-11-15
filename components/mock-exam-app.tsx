@@ -84,7 +84,7 @@ export const MockExamApp = ({
       </header>
 
       {examSession && (
-        <section className="space-y-3 rounded-2xl border-2 border-acento bg-acento-suave p-5">
+        <section className="space-y-3 rounded-2xl border-2 border-accent bg-accent-soft p-5">
           <h2 className="font-bold">Prova em andamento</h2>
           <p className="text-sm text-muted">
             Simulado {examSession.mockExam} · restam {formatTime(examSession.remainingSeconds)} · {Object.values(examSession.answers).filter((r) => r != null).length}/{examSession.order.length} respondidas
@@ -117,7 +117,7 @@ export const MockExamApp = ({
               <p className="text-sm text-muted">{available} questões no banco.</p>
               {missing.length > 0 && (
                 <details className="text-sm">
-                  <summary className="cursor-pointer text-aviso">
+                  <summary className="cursor-pointer text-warning">
                     Banco incompleto: faltam questões em {missing.length} grupo(s)
                   </summary>
                   <ul className="mt-2 list-disc pl-5 text-muted">
@@ -159,7 +159,7 @@ export const MockExamApp = ({
                 <div
                   key={t.id}
                   title={`${formatDate(t.startedAt)}: ${formatScore(t.score)}${t.partial ? " (reduzido)" : ""}`}
-                  className={`min-w-2 flex-1 rounded-t-md ${t.partial ? "bg-acento/40" : "bg-acento"}`}
+                  className={`min-w-2 flex-1 rounded-t-md ${t.partial ? "bg-accent/40" : "bg-accent"}`}
                   style={{ height: `${Math.max(t.score, 2)}%` }}
                 />
               ))}

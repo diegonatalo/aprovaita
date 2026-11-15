@@ -25,7 +25,7 @@ export const QuestionView = ({
   return (
     <fieldset className="card p-4 sm:p-5">
       <legend className="float-left mb-3 w-full text-xs font-semibold text-muted">
-        <span className="mr-2 inline-flex h-6 min-w-6 items-center justify-center rounded-full bg-acento-suave px-2 font-display text-acento">
+        <span className="mr-2 inline-flex h-6 min-w-6 items-center justify-center rounded-full bg-accent-soft px-2 font-display text-accent">
           {number}
         </span>
         {question.origin === "exam" && question.source
@@ -41,14 +41,14 @@ export const QuestionView = ({
           return (
             <label
               key={i}
-              className={`flex cursor-pointer items-start gap-3 rounded-xl border p-3 text-[0.92rem] transition has-[:focus-visible]:ring-2 has-[:focus-visible]:ring-acento active:scale-[0.99] ${
+              className={`flex cursor-pointer items-start gap-3 rounded-xl border p-3 text-[0.92rem] transition has-[:focus-visible]:ring-2 has-[:focus-visible]:ring-accent active:scale-[0.99] ${
                 correctChoice
-                  ? "border-acerto bg-acerto/10"
+                  ? "border-correct bg-correct/10"
                   : wrongChoice
-                    ? "border-erro bg-erro/10"
+                    ? "border-error bg-error/10"
                     : flagged
-                      ? "border-acento bg-acento-suave"
-                      : "border-borda hover:border-acento/60"
+                      ? "border-accent bg-accent-soft"
+                      : "border-border hover:border-accent/60"
               }`}
             >
               <input
@@ -63,12 +63,12 @@ export const QuestionView = ({
                 aria-hidden
                 className={`mt-px flex h-7 w-7 shrink-0 items-center justify-center rounded-full border text-xs font-bold ${
                   correctChoice
-                    ? "border-acerto bg-acerto text-background"
+                    ? "border-correct bg-correct text-background"
                     : wrongChoice
-                      ? "border-erro bg-erro text-background"
+                      ? "border-error bg-error text-background"
                       : flagged
-                        ? "border-acento bg-acento text-background"
-                        : "border-borda text-muted"
+                        ? "border-accent bg-accent text-background"
+                        : "border-border text-muted"
                 }`}
               >
                 {LETTERS[i]}
@@ -86,9 +86,9 @@ export const QuestionView = ({
               (choice === null ? (
                 <span className="text-muted"> · não respondida</span>
               ) : choice === question.answerKey ? (
-                <span className="text-acerto"> · você acertou</span>
+                <span className="text-correct"> · você acertou</span>
               ) : (
-                <span className="text-erro"> · você errou</span>
+                <span className="text-error"> · você errou</span>
               ))}
           </p>
           {question.origin === "exam" && question.source && (
