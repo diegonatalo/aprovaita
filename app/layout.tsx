@@ -29,11 +29,10 @@ export const metadata: Metadata = {
   },
 };
 
-// O tipo ThemeColorDescriptor do Next 16.4.5 não lista `media`, mas o Next a aplica na meta theme-color.
 export const viewport: Viewport = { themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#f5f2eb" },
     { media: "(prefers-color-scheme: dark)", color: "#06151d" },
-  ] as unknown as Viewport["themeColor"] };
+  ] };
 
 // Aplica o tema salvo antes da pintura para evitar flash.
 const THEME_SCRIPT = `try{var t=localStorage.getItem('aprovaita:theme:v1');if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.classList.add('dark')}catch(e){}`;
