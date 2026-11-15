@@ -15,8 +15,8 @@ export const ReviewApp = ({
   info: Record<string, TopicInfo>;
 }) => {
   const { mistakes } = useProgress();
-  const [area, setArea] = useState<Area | "todas">("todas");
-  const [topic, setTopic] = useState("todos");
+  const [area, setArea] = useState<Area | "all">("all");
+  const [topic, setTopic] = useState("all");
   const [practicing, setPracticing] = useState<Question[] | null>(null);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
   const [graded, setGraded] = useState(false);
@@ -27,12 +27,12 @@ export const ReviewApp = ({
   }, [mistakes, questions]);
 
   const availableTopics = [...new Set(fromNotebook.map((q) => `${q.area}/${q.topicSlug}`))].filter(
-    (k) => area === "todas" || k.startsWith(`${area}/`),
+    (k) => area === "all" || k.startsWith(`${area}/`),
   );
   const filtered = fromNotebook.filter(
     (q) =>
-      (area === "todas" || q.area === area) &&
-      (topic === "todos" || `${q.area}/${q.topicSlug}` === topic),
+      (area === "all" || q.area === area) &&
+      (topic === "all" || `${q.area}/${q.topicSlug}` === topic),
   );
 
   function begin() {
@@ -100,12 +100,12 @@ export const ReviewApp = ({
           <select
             value={area}
             onChange={(e) => {
-              setArea(e.target.value as Area | "todas");
-              setTopic("todos");
+              setArea(e.target.value as Area | "all");
+              setTopic("all");
             }}
             className="field"
           >
-            <option value="todas">Todas</option>
+            <option value="all">Todas</option>
             {(Object.keys(AREA_NAMES) as Area[]).map((a) => (
               <option key={a} value={a}>
                 {AREA_NAMES[a]}
@@ -120,7 +120,7 @@ export const ReviewApp = ({
             onChange={(e) => setTopic(e.target.value)}
             className="field max-w-xs"
           >
-            <option value="todos">Todos</option>
+            <option value="all">Todos</option>
             {availableTopics.map((k) => (
               <option key={k} value={k}>
                 {info[k]?.title ?? k}
