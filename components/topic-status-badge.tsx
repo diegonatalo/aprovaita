@@ -6,9 +6,9 @@ const LABEL: Record<TopicStatus, string> = {
   mastered: "Dominado",
 };
 const COLOR: Record<TopicStatus, string> = {
-  "unseen": "border-borda text-muted",
-  seen: "border-aviso/50 bg-aviso/10 text-aviso",
-  mastered: "border-acerto/50 bg-acerto/10 text-acerto",
+  "unseen": "border-border text-muted",
+  seen: "border-warning/50 bg-warning/10 text-warning",
+  mastered: "border-correct/50 bg-correct/10 text-correct",
 };
 
 export const TopicStatusBadge = ({ status }: { status: TopicStatus }) => {

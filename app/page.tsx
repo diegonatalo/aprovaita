@@ -13,11 +13,11 @@ export default function Home() {
   const topics = listTopics();
   return (
     <div className="space-y-10">
-      <section className="relative overflow-hidden rounded-[1.6rem] bg-gradient-to-br from-[var(--mar-1)] to-[var(--mar-2)] p-6 text-white shadow-[var(--sombra-alta)] sm:p-9">
+      <section className="relative overflow-hidden rounded-[1.6rem] bg-gradient-to-br from-[var(--sea-1)] to-[var(--sea-2)] p-6 text-white shadow-[var(--shadow-strong)] sm:p-9">
         <svg aria-hidden="true" viewBox="0 0 600 200" preserveAspectRatio="none" className="absolute inset-x-0 bottom-0 h-28 w-full opacity-20">
           <path d="M0 120c60-40 120-40 200 0s140 40 200 0 140-40 200 0v80H0z" fill="#fff" />
         </svg>
-        <span aria-hidden="true" className="absolute -right-8 -top-8 h-36 w-36 rounded-full bg-sol opacity-90 sm:h-48 sm:w-48" />
+        <span aria-hidden="true" className="absolute -right-8 -top-8 h-36 w-36 rounded-full bg-sun opacity-90 sm:h-48 sm:w-48" />
         <div className="relative space-y-6">
           <div>
             <p className="text-xs font-bold uppercase tracking-[0.14em] text-white/70">
@@ -54,7 +54,7 @@ export default function Home() {
             <strong className="text-foreground">{EXAM.totalQuestions} questões</strong> · {EXAM.exam} ·{" "}
             {EXAM.durationMinutes / 60}h. Habilitado com nota ≥ {EXAM.cutoffScore} (20 acertos).
           </p>
-          <Link href="/progresso" className="inline-flex items-center gap-1.5 text-sm font-semibold text-acento">
+          <Link href="/progresso" className="inline-flex items-center gap-1.5 text-sm font-semibold text-accent">
             Ver meu desempenho <Icon name="arrow" className="h-4 w-4" />
           </Link>
         </div>

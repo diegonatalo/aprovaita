@@ -29,11 +29,11 @@ export const AnswerSheet = ({
               aria-label={`Questão ${i + 1}${answered ? ", respondida" : ", em branco"}${isFlagged ? ", marcada para revisar" : ""}`}
               aria-current={i === current ? "true" : undefined}
               className={`relative h-10 rounded-xl border text-sm font-semibold transition ${
-                answered ? "border-acento bg-acento-suave text-acento" : "border-borda"
-              } ${i === current ? "ring-2 ring-acento" : ""}`}
+                answered ? "border-accent bg-accent-soft text-accent" : "border-border"
+              } ${i === current ? "ring-2 ring-accent" : ""}`}
             >
               {i + 1}
-              {isFlagged && <span aria-hidden className="absolute -right-1 -top-1 h-2.5 w-2.5 rounded-full bg-sol" />}
+              {isFlagged && <span aria-hidden className="absolute -right-1 -top-1 h-2.5 w-2.5 rounded-full bg-sun" />}
             </button>
           );
         })}

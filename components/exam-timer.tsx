@@ -15,7 +15,7 @@ export const ExamTimer = ({
       <span
         role="timer"
         aria-label="Tempo restante"
-        className={`font-display text-2xl font-extrabold tabular-nums ${alert ? "text-erro" : ""}`}
+        className={`font-display text-2xl font-extrabold tabular-nums ${alert ? "text-error" : ""}`}
       >
         {formatTime(remaining)}
       </span>

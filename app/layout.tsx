@@ -5,8 +5,8 @@ import { Nav } from "@/components/nav";
 import { RegisterServiceWorker } from "@/components/register-sw";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/site";
 
-const body = Figtree({ variable: "--font-corpo", subsets: ["latin"] });
-const title = Bricolage_Grotesque({ variable: "--font-titulo", subsets: ["latin"] });
+const body = Figtree({ variable: "--font-body", subsets: ["latin"] });
+const title = Bricolage_Grotesque({ variable: "--font-heading", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -49,8 +49,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </a>
         <RegisterServiceWorker />
         <Nav />
-        <div className="lg:pl-64">
-          <main id="conteudo" className="entrada pb-barra mx-auto max-w-4xl px-4 pt-6 sm:px-6 lg:max-w-5xl lg:px-10 lg:pt-10">
+        <div className="md:pl-64">
+          <main id="conteudo" className="enter pb-tab-bar mx-auto max-w-4xl px-4 pt-6 sm:px-6 lg:max-w-5xl lg:px-10 lg:pt-10">
             {children}
           </main>
         </div>

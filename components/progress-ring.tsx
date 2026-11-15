@@ -18,13 +18,13 @@ export const ProgressRing = ({
       style={{ width: size, height: size }}
     >
       <svg viewBox="0 0 40 40" className="-rotate-90" width={size} height={size}>
-        <circle cx="20" cy="20" r={r} fill="none" stroke="var(--borda)" strokeWidth="4" />
+        <circle cx="20" cy="20" r={r} fill="none" stroke="var(--border)" strokeWidth="4" />
         <circle
           cx="20"
           cy="20"
           r={r}
           fill="none"
-          stroke="var(--acento)"
+          stroke="var(--accent)"
           strokeWidth="4"
           strokeLinecap="round"
           strokeDasharray={c}

@@ -26,9 +26,9 @@ const Bar = ({ value, label }: { value: number; label: string }) => {
       aria-valuenow={value}
       aria-valuemin={0}
       aria-valuemax={100}
-      className="h-2.5 w-full overflow-hidden rounded-full bg-borda"
+      className="h-2.5 w-full overflow-hidden rounded-full bg-border"
     >
-      <div className="h-full rounded-full bg-acento" style={{ width: `${value}%` }} />
+      <div className="h-full rounded-full bg-accent" style={{ width: `${value}%` }} />
     </div>
   );
 };
@@ -76,7 +76,7 @@ export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
         <h2 className="mb-2 font-bold">Próximo passo</h2>
         {suggestion ? (
           <p className="text-sm">
-            <Link href={`/conteudo/${suggestion.t.area}/${suggestion.t.slug}`} className="font-semibold text-acento underline">
+            <Link href={`/conteudo/${suggestion.t.area}/${suggestion.t.slug}`} className="font-semibold text-accent underline">
               {suggestion.t.title}
             </Link>{" "}
             <span className="text-muted">({AREA_NAMES[suggestion.t.area]}): {suggestion.reason}</span>
@@ -87,7 +87,7 @@ export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
         {p.mistakes.length > 0 && (
           <p className="mt-2 text-sm text-muted">
             Você tem {p.mistakes.length} questão(ões) no{" "}
-            <Link href="/revisao" className="text-acento underline">caderno de erros</Link>.
+            <Link href="/revisao" className="text-accent underline">caderno de erros</Link>.
           </p>
         )}
       </section>
@@ -114,7 +114,7 @@ export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
           <ul className="space-y-1 text-sm">
             {weak.map((t) => (
               <li key={t.topicKey} className="flex flex-wrap justify-between gap-2">
-                <Link href={`/conteudo/${t.area}/${t.slug}`} className="text-acento underline">{t.title}</Link>
+                <Link href={`/conteudo/${t.area}/${t.slug}`} className="text-accent underline">{t.title}</Link>
                 <span className="text-muted">{t.correct}/{t.total} ({pct(t.correct, t.total)}%)</span>
               </li>
             ))}
@@ -150,7 +150,7 @@ export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
         )}
       </section>
 
-      <p className="rounded-2xl border border-dashed border-borda p-4 text-xs text-muted">
+      <p className="rounded-2xl border border-dashed border-border p-4 text-xs text-muted">
         <strong>Sobre os gabaritos:</strong> as questões da banca usam o gabarito preliminar divulgado pela VUNESP
         (edital de divulgação). Alterações pós-recurso não foram conferidas. A divisão dos 24 Específicos entre as
         subáreas nos simulados é uma suposição, pois o edital não a informa.

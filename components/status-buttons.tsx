@@ -10,7 +10,7 @@ export const StatusButtons = ({ topicKey }: { topicKey: string }) => {
     <button
       onClick={() => setTopicStatus(topicKey, status === target ? "unseen" : target)}
       aria-pressed={status === target}
-      className={`btn btn-sm ${status === target ? "border border-acento bg-acento-suave text-acento" : "btn-ghost"}`}
+      className={`btn btn-sm ${status === target ? "border border-accent bg-accent-soft text-accent" : "btn-ghost"}`}
     >
       {label}
     </button>

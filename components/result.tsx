@@ -13,8 +13,8 @@ const Bar = ({ correct, total }: { correct: number; total: number }) => {
   const pct = total ? (correct / total) * 100 : 0;
   return (
     <div className="flex items-center gap-2">
-      <div className="h-2.5 flex-1 overflow-hidden rounded-full bg-borda" aria-hidden>
-        <div className="h-full rounded-full bg-acento" style={{ width: `${pct}%` }} />
+      <div className="h-2.5 flex-1 overflow-hidden rounded-full bg-border" aria-hidden>
+        <div className="h-full rounded-full bg-accent" style={{ width: `${pct}%` }} />
       </div>
       <span className="w-14 text-right text-sm tabular-nums">
         {correct}/{total}
@@ -52,19 +52,19 @@ export const Result = ({
 
   return (
     <div className="space-y-6">
-      <button onClick={onBack} className="text-sm font-medium text-acento">
+      <button onClick={onBack} className="text-sm font-medium text-accent">
         ← Voltar aos simulados
       </button>
       <header className="space-y-2 card p-4">
         <h1 className="font-display text-xl font-bold text-muted">Resultado — Simulado {attempt.mockExam}</h1>
-        <p className="font-display text-6xl font-extrabold tabular-nums text-acento">{formatScore(c.score)}</p>
+        <p className="font-display text-6xl font-extrabold tabular-nums text-accent">{formatScore(c.score)}</p>
         {c.qualified === null ? (
-          <p className="rounded-xl border border-aviso bg-aviso/10 p-3 text-sm text-aviso">
+          <p className="rounded-xl border border-warning bg-warning/10 p-3 text-sm text-warning">
             Simulado reduzido ({c.total} questões, banco ainda incompleto). A nota é acertos × 100 ÷ {c.total}
             e <strong>não é comparável</strong> com o corte da prova ({EXAM.cutoffScore} pontos = 20 de 40).
           </p>
         ) : (
-          <p className={`font-semibold ${c.qualified ? "text-acerto" : "text-erro"}`}>
+          <p className={`font-semibold ${c.qualified ? "text-correct" : "text-error"}`}>
             {c.qualified ? "Habilitado" : "Não habilitado"} (corte: {EXAM.cutoffScore})
           </p>
         )}

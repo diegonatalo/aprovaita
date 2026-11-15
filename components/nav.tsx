@@ -64,7 +64,7 @@ const ThemeButton = ({ className = "" }: { className?: string }) => {
     <button
       onClick={toggle}
       aria-label={dark ? "Mudar para tema claro" : "Mudar para tema escuro"}
-      className={`inline-flex h-10 w-10 items-center justify-center rounded-full border border-borda bg-card text-muted transition hover:text-acento ${className}`}
+      className={`inline-flex h-10 w-10 items-center justify-center rounded-full border border-border bg-card text-muted transition hover:text-accent ${className}`}
     >
       <Icon name={dark ? "sun" : "moon"} className="h-[1.15rem] w-[1.15rem]" />
     </button>
@@ -77,7 +77,7 @@ export const Nav = () => {
   return (
     <>
       {/* Topo (mobile) */}
-      <header className="sticky top-0 z-30 flex h-14 items-center justify-between border-b border-borda bg-background/85 px-4 backdrop-blur-xl lg:hidden">
+      <header className="sticky top-0 z-30 flex h-14 items-center justify-between border-b border-border bg-background/85 px-4 backdrop-blur-xl md:hidden">
         <Link href="/" className="flex items-center gap-2.5">
           <Logo size={30} />
           <span className="font-display text-lg font-bold tracking-tight">{SITE_NAME}</span>
@@ -86,7 +86,7 @@ export const Nav = () => {
       </header>
 
       {/* Lateral (desktop) */}
-      <aside className="fixed inset-y-0 left-0 z-30 hidden w-64 flex-col border-r border-borda bg-card/60 p-5 backdrop-blur-xl lg:flex">
+      <aside className="fixed inset-y-0 left-0 z-30 hidden w-64 flex-col border-r border-border bg-card/60 p-5 backdrop-blur-xl md:flex">
         <Link href="/" className="mb-8 flex items-center gap-3">
           <Logo size={42} />
           <span>
@@ -100,13 +100,13 @@ export const Nav = () => {
             <div key={d.href}>
               <SidebarItem d={d} active={active(path, d)} />
               {d.href === "/conteudo" && (
-                <div className="mb-1 ml-5 mt-1 space-y-0.5 border-l border-borda pl-3">
+                <div className="mb-1 ml-5 mt-1 space-y-0.5 border-l border-border pl-3">
                   {SIDEBAR_AREAS.map((a) => (
                     <Link
                       key={a.href}
                       href={a.href}
                       aria-current={active(path, a) ? "page" : undefined}
-                      className="flex items-center gap-2.5 rounded-lg px-3 py-2 text-sm text-muted transition hover:bg-acento-suave hover:text-foreground aria-[current=page]:font-semibold aria-[current=page]:text-acento"
+                      className="flex items-center gap-2.5 rounded-lg px-3 py-2 text-sm text-muted transition hover:bg-accent-soft hover:text-foreground aria-[current=page]:font-semibold aria-[current=page]:text-accent"
                     >
                       <Icon name={a.icon} className="h-4 w-4" />
                       {a.label}
@@ -118,7 +118,7 @@ export const Nav = () => {
           ))}
         </nav>
 
-        <div className="mt-4 flex items-center justify-between border-t border-borda pt-4">
+        <div className="mt-4 flex items-center justify-between border-t border-border pt-4">
           <span className="text-xs text-muted">Prova em 06/12/2026</span>
           <ThemeButton />
         </div>
@@ -127,7 +127,7 @@ export const Nav = () => {
       {/* Barra inferior (mobile) */}
       <nav
         aria-label="Principal"
-        className="fixed inset-x-0 bottom-0 z-40 border-t border-borda bg-card/90 pb-[env(safe-area-inset-bottom)] backdrop-blur-xl lg:hidden"
+        className="fixed inset-x-0 bottom-0 z-40 border-t border-border bg-card/90 pb-[env(safe-area-inset-bottom)] backdrop-blur-xl md:hidden"
       >
         <ul className="mx-auto grid max-w-lg grid-cols-5">
           {ABAS.map((d) => {
@@ -137,9 +137,9 @@ export const Nav = () => {
                 <Link
                   href={d.href}
                   aria-current={a ? "page" : undefined}
-                  className="group flex min-h-16 flex-col items-center justify-center gap-0.5 px-1 text-[0.68rem] font-medium text-muted transition aria-[current=page]:text-acento"
+                  className="group flex min-h-16 flex-col items-center justify-center gap-0.5 px-1 text-[0.68rem] font-medium text-muted transition aria-[current=page]:text-accent"
                 >
-                  <span className="flex h-8 w-14 items-center justify-center rounded-full transition group-aria-[current=page]:bg-acento-suave">
+                  <span className="flex h-8 w-14 items-center justify-center rounded-full transition group-aria-[current=page]:bg-accent-soft">
                     <Icon name={d.icon} className="h-[1.35rem] w-[1.35rem]" />
                   </span>
                   <span className="group-aria-[current=page]:font-bold">{d.label}</span>
@@ -158,7 +158,7 @@ const SidebarItem = ({ d, active: a }: { d: Destination; active: boolean }) => {
     <Link
       href={d.href}
       aria-current={a ? "page" : undefined}
-      className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-muted transition hover:bg-acento-suave hover:text-foreground aria-[current=page]:bg-acento-suave aria-[current=page]:font-semibold aria-[current=page]:text-acento"
+      className="flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium text-muted transition hover:bg-accent-soft hover:text-foreground aria-[current=page]:bg-accent-soft aria-[current=page]:font-semibold aria-[current=page]:text-accent"
     >
       <Icon name={d.icon} />
       {d.label === "Erros" ? "Caderno de erros" : d.label}

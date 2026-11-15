@@ -40,7 +40,7 @@ export function listTopics(): Topic[] {
     }
   };
   for (const a of AREAS) visit(path.join(ROOT, a), a);
-  // Específicos: subáreas na ordem do edital; dentro de cada uma, pelo campo "ordem".
+  // Específicos: subáreas na ordem do edital; dentro de cada uma, pelo campo `order`.
   const SUBAREA_ORDER = ["administracao-geral", "arquivologia", "administracao-publica"];
   const pos = (t: Topic) => (t.subarea ? SUBAREA_ORDER.indexOf(t.subarea) : 0);
   return out.sort((x, y) => pos(x) - pos(y) || x.order - y.order || x.title.localeCompare(y.title));

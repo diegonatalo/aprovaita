@@ -119,7 +119,7 @@ export const ExamRunner = ({
       </div>
 
       {confirming && (
-        <div role="alertdialog" aria-label="Confirmar finalização" className="space-y-3 rounded-2xl border border-aviso bg-card p-4">
+        <div role="alertdialog" aria-label="Confirmar finalização" className="space-y-3 rounded-2xl border border-warning bg-card p-4">
           <p className="font-semibold">
             Finalizar o simulado?{" "}
             {blank > 0 ? `${blank} questão(ões) em branco.` : "Todas respondidas."}
@@ -136,7 +136,7 @@ export const ExamRunner = ({
       )}
 
       {paused ? (
-        <div className="rounded-2xl border border-dashed border-borda p-8 text-center">
+        <div className="rounded-2xl border border-dashed border-border p-8 text-center">
           <p className="mb-3 font-semibold">Prova pausada</p>
           <button onClick={() => setPaused(false)} className="btn btn-primary">
             Continuar
@@ -170,7 +170,7 @@ export const ExamRunner = ({
               <button
                 onClick={() => setFlagged((m) => (isFlagged ? m.filter((x) => x !== q.id) : [...m, q.id]))}
                 aria-pressed={isFlagged}
-                className={`btn ${isFlagged ? "border border-aviso bg-aviso/10 text-aviso" : "btn-ghost"}`}
+                className={`btn ${isFlagged ? "border border-warning bg-warning/10 text-warning" : "btn-ghost"}`}
               >
                 {isFlagged ? "Marcada para revisar" : "Revisar depois"}
               </button>
