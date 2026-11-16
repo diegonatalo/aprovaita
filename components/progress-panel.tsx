@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { AREA_NAMES, EXAM } from "@/lib/exam";
-import { useProgress } from "@/lib/storage";
+import { useProgress } from "@/hooks/use-progress";
 import { formatDate, formatScore } from "@/lib/format";
 import type { Area } from "@/types";
 

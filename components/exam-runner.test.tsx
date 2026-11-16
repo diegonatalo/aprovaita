@@ -1,7 +1,7 @@
 import { act, render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
-import type { ExamSession } from "@/lib/storage";
+import type { ExamSession } from "@/lib/progress";
 import type { Question } from "@/types";
 import { ExamRunner } from "./exam-runner";
 

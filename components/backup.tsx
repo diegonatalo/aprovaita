@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { exportProgress, importProgress } from "@/lib/storage";
+import { exportProgress, importProgress } from "@/hooks/use-progress";
 
 export const Backup = () => {
   const [message, setMessage] = useState("");

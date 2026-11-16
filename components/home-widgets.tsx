@@ -2,7 +2,7 @@
 
 import { useSyncExternalStore } from "react";
 import { ProgressRing } from "./progress-ring";
-import { useProgress } from "@/lib/storage";
+import { useProgress } from "@/hooks/use-progress";
 
 function subscribeClock(f: () => void) {
   const id = setInterval(f, 60_000);

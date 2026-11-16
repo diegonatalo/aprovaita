@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { QuestionView } from "./question-view";
 import { AREA_NAMES } from "@/lib/exam";
-import { recordMistakes, useProgress } from "@/lib/storage";
+import { recordMistakes, useProgress } from "@/hooks/use-progress";
 import type { TopicInfo } from "@/lib/bank";
 import type { Area, Question } from "@/types";
 
