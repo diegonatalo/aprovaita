@@ -6,7 +6,7 @@ import { AREA_NAMES, EXAM } from "@/lib/exam";
 import { grade } from "@/lib/grading";
 import { formatScore, formatTime } from "@/lib/format";
 import type { TopicInfo } from "@/lib/bank";
-import type { Attempt } from "@/lib/storage";
+import type { Attempt } from "@/lib/progress";
 import type { Area, Question } from "@/types";
 
 const Bar = ({ correct, total }: { correct: number; total: number }) => {

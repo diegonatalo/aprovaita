@@ -5,14 +5,9 @@ import { AnswerSheet } from "./answer-sheet";
 import { ExamTimer } from "./exam-timer";
 import { QuestionView } from "./question-view";
 import { grade } from "@/lib/grading";
-import {
-  clearExamSession,
-  recordMistakes,
-  saveExamSession,
-  saveAttempt,
-  type ExamSession,
-  type Attempt,
-} from "@/lib/storage";
+import { recordMistakes, saveAttempt } from "@/hooks/use-progress";
+import { clearExamSession, saveExamSession } from "@/hooks/use-exam-session";
+import { type ExamSession, type Attempt } from "@/lib/progress";
 import type { Question } from "@/types";
 
 export const ExamRunner = ({

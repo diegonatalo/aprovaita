@@ -6,14 +6,9 @@ import { Result } from "./result";
 import { AREA_NAMES, SUBAREA_NAMES, EXAM } from "@/lib/exam";
 import { formatDate, formatScore, formatTime } from "@/lib/format";
 import { durationSeconds, gaps, buildMockExam } from "@/lib/mock-exam";
-import {
-  clearExamSession,
-  saveExamSession,
-  useExamSession,
-  useProgress,
-  type ExamSession,
-  type Attempt,
-} from "@/lib/storage";
+import { useProgress } from "@/hooks/use-progress";
+import { clearExamSession, saveExamSession, useExamSession } from "@/hooks/use-exam-session";
+import { type ExamSession, type Attempt } from "@/lib/progress";
 import type { TopicInfo } from "@/lib/bank";
 import type { Origin, Question } from "@/types";
 

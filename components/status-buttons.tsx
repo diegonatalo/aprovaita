@@ -1,6 +1,6 @@
 "use client";
 
-import { setTopicStatus, useProgress } from "@/lib/storage";
+import { setTopicStatus, useProgress } from "@/hooks/use-progress";
 import { TopicStatusBadge } from "./topic-status-badge";
 import type { TopicStatus } from "@/types";
 

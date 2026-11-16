@@ -1,17 +1,6 @@
 import { beforeEach, describe, expect, it } from "vitest";
-import {
-  clearProgress,
-  exportProgress,
-  importProgress,
-  recordMistakes,
-  recordQuiz,
-  saveAttempt,
-  setTopicStatus,
-  topicKey,
-  SCHEMA_VERSION,
-  type Attempt,
-  type Progress,
-} from "@/lib/storage";
+import { clearProgress, exportProgress, importProgress, recordMistakes, recordQuiz, saveAttempt, setTopicStatus } from "@/hooks/use-progress";
+import { topicKey, SCHEMA_VERSION, type Attempt, type Progress } from "@/lib/progress";
 
 const KEY = "aprovaita:progress:v1";
 const read = () => JSON.parse(exportProgress()) as Progress;

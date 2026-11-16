@@ -2,7 +2,7 @@ import { render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { beforeEach, describe, expect, it } from "vitest";
 import type { TopicInfo } from "@/lib/bank";
-import { recordMistakes } from "@/lib/storage";
+import { recordMistakes } from "@/hooks/use-progress";
 import type { Question } from "@/types";
 import { ReviewApp } from "./review-app";
 

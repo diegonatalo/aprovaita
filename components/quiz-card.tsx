@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { QuestionView } from "./question-view";
-import { recordQuiz, useProgress } from "@/lib/storage";
+import { recordQuiz, useProgress } from "@/hooks/use-progress";
 import type { Question } from "@/types";
 
 /** Quiz de um tópico (A = autoral, B = banca). Slot B vazio mostra aviso claro. */
