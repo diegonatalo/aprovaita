@@ -2,4 +2,5 @@
 export const STORAGE_KEYS = {
   progress: "aprovaita:progress:v1",
   examSession: "aprovaita:exam-session:v1",
+  theme: "aprovaita:theme:v1",
 } as const;

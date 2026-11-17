@@ -4,6 +4,8 @@ import "./globals.css";
 import { Nav } from "@/components/nav";
 import { RegisterServiceWorker } from "@/components/register-sw";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/site";
+import { STORAGE_KEYS } from "@/lib/storage-keys";
+import { themeScript } from "@/lib/theme";
 
 const body = Figtree({ variable: "--font-body", subsets: ["latin"] });
 const title = Bricolage_Grotesque({ variable: "--font-heading", subsets: ["latin"] });
@@ -34,14 +36,11 @@ export const viewport: Viewport = { themeColor: [
     { media: "(prefers-color-scheme: dark)", color: "#06151d" },
   ] };
 
-// Aplica o tema salvo antes da pintura para evitar flash.
-const THEME_SCRIPT = `try{var t=localStorage.getItem('aprovaita:theme:v1');if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.classList.add('dark')}catch(e){}`;
-
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR" className={`${body.variable} ${title.variable}`} suppressHydrationWarning>
       <head>
-        <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
+        <script dangerouslySetInnerHTML={{ __html: themeScript(STORAGE_KEYS.theme) }} />
       </head>
       <body className="min-h-screen">
         <a href="#conteudo" className="sr-only focus:not-sr-only focus:absolute focus:z-20 focus:bg-card focus:p-3">
