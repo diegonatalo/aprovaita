@@ -2,9 +2,10 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useSyncExternalStore } from "react";
 import { Icon, Logo, type IconName } from "./icons";
 import { SITE_NAME } from "@/lib/site";
+import { useTheme } from "@/hooks/use-theme";
+import { STORAGE_KEYS } from "@/lib/storage-keys";
 
 type Destination = {
   href: string;
@@ -31,35 +32,14 @@ const SIDEBAR_AREAS: Destination[] = [
   { href: "/conteudo/legislacao", label: "Legislação", icon: "scale", prefix: "/conteudo/legislacao" },
 ];
 
-function subscribeTheme(f: () => void) {
-  const o = new MutationObserver(f);
-  o.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
-  return () => o.disconnect();
-}
-
-function useTheme() {
-  const dark = useSyncExternalStore(
-    subscribeTheme,
-    () => document.documentElement.classList.contains("dark"),
-    () => false,
-  );
-  function toggle() {
-    const nextDark = !document.documentElement.classList.contains("dark");
-    document.documentElement.classList.toggle("dark", nextDark);
-    try {
-      localStorage.setItem("aprovaita:theme:v1", nextDark ? "dark" : "light");
-    } catch {}
-  }
-  return { dark, toggle };
-}
-
 function active(path: string, d: Destination) {
   if (d.href === "/") return path === "/";
   return path.startsWith(d.prefix ?? d.href);
 }
 
 const ThemeButton = ({ className = "" }: { className?: string }) => {
-  const { dark, toggle } = useTheme();
+  const { theme, toggle } = useTheme(STORAGE_KEYS.theme);
+  const dark = theme === "dark";
   return (
     <button
       onClick={toggle}
