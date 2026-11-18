@@ -14,3 +14,4 @@ pnpm dev        # http://localhost:3000
 | `pnpm lint` | Roda o ESLint |
 | `pnpm validate` | Confere o conteúdo: fontes, gabaritos e alternativas (`validate:strict` trata avisos como erros) |
 | `pnpm test:engine` | Testa a correção e a montagem dos simulados |
+| `pnpm test:e2e` | Roda os testes de ponta a ponta (Playwright) |

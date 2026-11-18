@@ -5,6 +5,7 @@
 └── types/        tipos do domínio
 content/          um tópico por pasta: explicação e questões
 scripts/          validação do conteúdo e testes do motor
+e2e/              testes de ponta a ponta (Playwright)
 public/           ícone, manifest e service worker
 docs/             capturas de tela usadas neste README
 ```
