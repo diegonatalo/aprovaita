@@ -18,7 +18,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
   return (
     <div className="space-y-6">
       <header>
-        <Link href="/conteudo" className="mb-3 inline-flex items-center gap-1 text-sm font-medium text-accent">
+        <Link href="/app/conteudo" className="mb-3 inline-flex items-center gap-1 text-sm font-medium text-accent">
           <span aria-hidden>←</span> Estudar
         </Link>
         <h1 className="font-display text-3xl font-extrabold">{AREA_NAMES[a]}</h1>
@@ -33,7 +33,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
           {topics.map((t) => (
             <li key={t.slug}>
               <Link
-                href={`/conteudo/${t.area}/${t.slug}`}
+                href={`/app/conteudo/${t.area}/${t.slug}`}
                 className="card card-link flex items-start justify-between gap-3 p-4"
               >
                 <span>

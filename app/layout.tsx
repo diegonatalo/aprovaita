@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Bricolage_Grotesque, Figtree } from "next/font/google";
 import "./globals.css";
-import { Nav } from "@/components/nav";
 import { RegisterServiceWorker } from "@/components/register-sw";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/site";
 import { STORAGE_KEYS } from "@/lib/storage-keys";
@@ -47,12 +46,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Pular para o conteúdo
         </a>
         <RegisterServiceWorker />
-        <Nav />
-        <div className="md:pl-64">
-          <main id="conteudo" className="enter pb-tab-bar mx-auto max-w-4xl px-4 pt-6 sm:px-6 lg:max-w-5xl lg:px-10 lg:pt-10">
-            {children}
-          </main>
-        </div>
+        {children}
       </body>
     </html>
   );

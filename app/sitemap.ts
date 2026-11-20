@@ -6,12 +6,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date();
   const routes = [
     "/",
-    "/conteudo",
-    ...AREAS.map((a) => `/conteudo/${a}`),
-    ...listTopics().map((t) => `/conteudo/${t.area}/${t.slug}`),
-    "/simulado",
-    "/revisao",
-    "/progresso",
+    "/app",
+    "/app/conteudo",
+    ...AREAS.map((a) => `/app/conteudo/${a}`),
+    ...listTopics().map((t) => `/app/conteudo/${t.area}/${t.slug}`),
+    "/app/simulado",
+    "/app/revisao",
+    "/app/progresso",
+    "/privacidade",
+    "/termos",
   ];
   return routes.map((route) => ({ url: `${SITE_URL}${route}`, lastModified }));
 }

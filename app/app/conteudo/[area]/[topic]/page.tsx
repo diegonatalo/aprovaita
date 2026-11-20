@@ -24,7 +24,7 @@ export default async function TopicPage({
   return (
     <article className="space-y-10">
       <header className="space-y-3">
-        <Link href={`/conteudo/${t.area}`} className="inline-flex items-center gap-1 text-sm font-medium text-accent">
+        <Link href={`/app/conteudo/${t.area}`} className="inline-flex items-center gap-1 text-sm font-medium text-accent">
           <span aria-hidden>←</span> {AREA_NAMES[t.area as Area]}
         </Link>
         <h1 className="font-display text-3xl font-extrabold leading-tight sm:text-4xl">{t.title}</h1>

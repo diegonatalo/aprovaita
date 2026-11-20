@@ -162,7 +162,7 @@ pnpm test:e2e                           # gera o build e testa contra ele
 </div>
 
 ```text
-├── app/          rotas: início, conteúdo, simulado, revisão e progresso
+├── app/          rotas: landing (/), o app em /app (início, conteúdo, simulado, revisão e progresso), /privacidade e /termos
 ├── components/   interface: navegação, questões, prova, painéis
 ├── lib/          carga do conteúdo, correção, simulados, armazenamento local, parâmetros da prova (exam.ts) e identidade do site (site.ts)
 └── types/        tipos do domínio
@@ -226,6 +226,7 @@ exporte um arquivo JSON e importe no outro lugar.
 ### 🌐 Deploy
 
 O site é publicado na Vercel. Todas as páginas são geradas no build (sem servidor próprio), e as de conteúdo vêm de `generateStaticParams`.
+A landing fica em `/` e o app em `/app`; os endereços antigos sem `/app` (`/conteudo/...`, `/simulado`...) redirecionam com 308 (`lib/redirects.ts`), então links e buscas antigas continuam valendo.
 Ao publicar, ajuste o endereço em `lib/site.ts`: ele alimenta o `sitemap.xml`, o `robots.txt` e os metadados.
 
 ### 🧭 Próximos passos
