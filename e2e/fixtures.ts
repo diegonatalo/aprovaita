@@ -4,7 +4,7 @@ import { expect, type Page } from "@playwright/test";
 
 /** Tópico usado nos testes: tem 5 questões autorais no quiz A. */
 export const TOPIC = { area: "matematica", slug: "equacoes-sistemas" };
-export const TOPIC_PATH = `/conteudo/${TOPIC.area}/${TOPIC.slug}`;
+export const TOPIC_PATH = `/app/conteudo/${TOPIC.area}/${TOPIC.slug}`;
 
 /** Gabarito do quiz A, lido do próprio conteúdo para o teste não ficar desatualizado. */
 export const quizAnswers = (): number[] => {

@@ -17,27 +17,27 @@ type Destination = {
 
 // Barra inferior (mobile): 5 destinos principais.
 const ABAS: Destination[] = [
-  { href: "/", label: "Início", icon: "home" },
-  { href: "/conteudo", label: "Estudar", icon: "book", prefix: "/conteudo" },
-  { href: "/simulado", label: "Simulado", icon: "exam", prefix: "/simulado" },
-  { href: "/revisao", label: "Erros", icon: "review", prefix: "/revisao" },
-  { href: "/progresso", label: "Progresso", icon: "chart", prefix: "/progresso" },
+  { href: "/app", label: "Início", icon: "home" },
+  { href: "/app/conteudo", label: "Estudar", icon: "book", prefix: "/app/conteudo" },
+  { href: "/app/simulado", label: "Simulado", icon: "exam", prefix: "/app/simulado" },
+  { href: "/app/revisao", label: "Erros", icon: "review", prefix: "/app/revisao" },
+  { href: "/app/progresso", label: "Progresso", icon: "chart", prefix: "/app/progresso" },
 ];
 
 // Barra lateral (desktop): áreas aparecem como subitens de "Estudar".
 const SIDEBAR_AREAS: Destination[] = [
-  { href: "/conteudo/especificos", label: "Específicos", icon: "folder", prefix: "/conteudo/especificos" },
-  { href: "/conteudo/portugues", label: "Português", icon: "letters", prefix: "/conteudo/portugues" },
-  { href: "/conteudo/matematica", label: "Matemática", icon: "calc", prefix: "/conteudo/matematica" },
-  { href: "/conteudo/legislacao", label: "Legislação", icon: "scale", prefix: "/conteudo/legislacao" },
+  { href: "/app/conteudo/especificos", label: "Específicos", icon: "folder", prefix: "/app/conteudo/especificos" },
+  { href: "/app/conteudo/portugues", label: "Português", icon: "letters", prefix: "/app/conteudo/portugues" },
+  { href: "/app/conteudo/matematica", label: "Matemática", icon: "calc", prefix: "/app/conteudo/matematica" },
+  { href: "/app/conteudo/legislacao", label: "Legislação", icon: "scale", prefix: "/app/conteudo/legislacao" },
 ];
 
 function active(path: string, d: Destination) {
-  if (d.href === "/") return path === "/";
+  if (d.href === "/app") return path === "/app";
   return path.startsWith(d.prefix ?? d.href);
 }
 
-const ThemeButton = ({ className = "" }: { className?: string }) => {
+export const ThemeButton = ({ className = "" }: { className?: string }) => {
   const { theme, toggle } = useTheme(STORAGE_KEYS.theme);
   const dark = theme === "dark";
   return (
@@ -79,7 +79,7 @@ export const Nav = () => {
           {ABAS.map((d) => (
             <div key={d.href}>
               <SidebarItem d={d} active={active(path, d)} />
-              {d.href === "/conteudo" && (
+              {d.href === "/app/conteudo" && (
                 <div className="mb-1 ml-5 mt-1 space-y-0.5 border-l border-border pl-3">
                   {SIDEBAR_AREAS.map((a) => (
                     <Link

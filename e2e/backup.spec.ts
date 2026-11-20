@@ -4,7 +4,7 @@ import { markSeen, TOPIC_PATH } from "./fixtures";
 test("exporta o progresso e importa em outro navegador", async ({ page, browser }, testInfo) => {
   await markSeen(page);
 
-  await page.goto("/progresso");
+  await page.goto("/app/progresso");
   const [download] = await Promise.all([
     page.waitForEvent("download"),
     page.getByRole("button", { name: "Exportar JSON" }).click(),
@@ -19,7 +19,7 @@ test("exporta o progresso e importa em outro navegador", async ({ page, browser 
   await fresh.goto(TOPIC_PATH);
   await expect(fresh.getByRole("button", { name: "Marcar como visto" })).toHaveAttribute("aria-pressed", "false");
 
-  await fresh.goto("/progresso");
+  await fresh.goto("/app/progresso");
   await fresh.getByLabel("Importar JSON (substitui o atual)").setInputFiles(file);
   await expect(fresh.getByRole("status")).toHaveText("Progresso importado.");
 
@@ -29,7 +29,7 @@ test("exporta o progresso e importa em outro navegador", async ({ page, browser 
 });
 
 test("recusa um arquivo que não é progresso", async ({ page }) => {
-  await page.goto("/progresso");
+  await page.goto("/app/progresso");
   await page.getByLabel("Importar JSON (substitui o atual)").setInputFiles({
     name: "qualquer.json",
     mimeType: "application/json",

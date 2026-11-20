@@ -8,7 +8,7 @@ test("marca o tópico como visto e mostra isso na lista da área", async ({ page
   await page.reload();
   await expect(page.getByRole("button", { name: "Marcar como visto" })).toHaveAttribute("aria-pressed", "true");
 
-  await page.goto(`/conteudo/${TOPIC.area}`);
+  await page.goto(`/app/conteudo/${TOPIC.area}`);
   await expect(page.getByRole("link", { name: new RegExp(title) })).toContainText("Visto");
 });
 
@@ -32,12 +32,12 @@ test("corrige o quiz e manda a questão errada para o caderno de erros", async (
   await page.reload();
   await expect(page.getByText(`Último resultado: ${answers.length - 1}/${answers.length}`)).toBeVisible();
 
-  await page.goto("/revisao");
+  await page.goto("/app/revisao");
   await expect(page.getByText("1 questão(ões) errada(s).")).toBeVisible();
 });
 
 test("um simulado em andamento sobrevive a recarregar a página", async ({ page }) => {
-  await page.goto("/simulado");
+  await page.goto("/app/simulado");
   await page
     .locator("section")
     .filter({ has: page.getByRole("heading", { name: "Simulado A — questões autorais" }) })

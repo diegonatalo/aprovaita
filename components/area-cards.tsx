@@ -21,7 +21,7 @@ export const AreaCards = () => {
       {ORDER.map((a) => {
         const ts = topics.filter((t) => t.area === a);
         return (
-          <Link key={a} href={`/conteudo/${a}`} className="card card-link flex flex-col gap-4 p-4 sm:p-5">
+          <Link key={a} href={`/app/conteudo/${a}`} className="card card-link flex flex-col gap-4 p-4 sm:p-5">
             <div className="flex items-start gap-3.5">
               <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-accent-soft text-accent">
                 <Icon name={ICON[a]} className="h-6 w-6" />

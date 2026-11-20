@@ -7,7 +7,7 @@ export const metadata: Metadata = { title: "Página não encontrada" };
 
 export default function NotFoundPage() {
   return (
-    <div className="mx-auto max-w-xl space-y-6 py-10 text-center">
+    <main id="conteudo" className="mx-auto max-w-xl space-y-6 px-4 py-16 text-center">
       <p className="font-display text-8xl font-extrabold text-accent" aria-hidden="true">404</p>
       <h1 className="font-display text-2xl font-bold">Essa página não existe</h1>
       <p className="text-muted">
@@ -18,13 +18,13 @@ export default function NotFoundPage() {
       </Link>
       <nav aria-label="Áreas de estudo" className="flex flex-wrap justify-center gap-2 text-sm">
         {AREAS.map((a) => (
-          <Link key={a} href={`/conteudo/${a}`} className="chip">
+          <Link key={a} href={`/app/conteudo/${a}`} className="chip">
             {AREA_NAMES[a]}
           </Link>
         ))}
-        <Link href="/simulado" className="chip">Simulado</Link>
-        <Link href="/progresso" className="chip">Progresso</Link>
+        <Link href="/app/simulado" className="chip">Simulado</Link>
+        <Link href="/app/progresso" className="chip">Progresso</Link>
       </nav>
-    </div>
+    </main>
   );
 }

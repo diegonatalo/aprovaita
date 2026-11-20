@@ -26,7 +26,7 @@ export const Backup = () => {
       <h2 className="font-bold">Backup do progresso</h2>
       <p className="text-sm text-muted">
         O progresso fica só neste navegador. Exporte de vez em quando para não perder nada e para
-        levar ao celular.
+        levar ao celular. O arquivo leva os tópicos estudados, os questionários, o caderno de erros e os simulados.
       </p>
       <div className="flex flex-wrap items-center gap-3">
         <button onClick={exportData} className="btn btn-primary">

@@ -1,6 +1,6 @@
 // Service worker simples: guarda no cache tudo que o site já serviu (offline depois da 1ª visita).
 // Estratégia: rede primeiro, cache como reserva; mude VERSAO para descartar caches antigos.
-const VERSAO = "v2";
+const VERSAO = "v3";
 const CACHE = `aprova-ita-${VERSAO}`;
 
 self.addEventListener("install", () => self.skipWaiting());
@@ -26,6 +26,6 @@ self.addEventListener("fetch", (e) => {
         }
         return res;
       })
-      .catch(() => caches.match(req).then((r) => r ?? caches.match("/"))),
+      .catch(() => caches.match(req).then((r) => r ?? caches.match("/app"))),
   );
 });

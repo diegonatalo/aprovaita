@@ -3,7 +3,7 @@
   "short_name": "Aprova Ita",
   "description": "Estudos para o Concurso nº 01/2026 da Câmara de Itanhaém.",
   "lang": "pt-BR",
-  "start_url": "/",
+  "start_url": "/app",
   "scope": "/",
   "display": "standalone",
   "background_color": "#f5f2eb",

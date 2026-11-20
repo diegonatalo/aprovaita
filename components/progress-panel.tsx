@@ -76,7 +76,7 @@ export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
         <h2 className="mb-2 font-bold">Próximo passo</h2>
         {suggestion ? (
           <p className="text-sm">
-            <Link href={`/conteudo/${suggestion.t.area}/${suggestion.t.slug}`} className="font-semibold text-accent underline">
+            <Link href={`/app/conteudo/${suggestion.t.area}/${suggestion.t.slug}`} className="font-semibold text-accent underline">
               {suggestion.t.title}
             </Link>{" "}
             <span className="text-muted">({AREA_NAMES[suggestion.t.area]}): {suggestion.reason}</span>
@@ -87,7 +87,7 @@ export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
         {p.mistakes.length > 0 && (
           <p className="mt-2 text-sm text-muted">
             Você tem {p.mistakes.length} questão(ões) no{" "}
-            <Link href="/revisao" className="text-accent underline">caderno de erros</Link>.
+            <Link href="/app/revisao" className="text-accent underline">caderno de erros</Link>.
           </p>
         )}
       </section>
@@ -114,7 +114,7 @@ export const ProgressPanel = ({ topics }: { topics: TopicSummary[] }) => {
           <ul className="space-y-1 text-sm">
             {weak.map((t) => (
               <li key={t.topicKey} className="flex flex-wrap justify-between gap-2">
-                <Link href={`/conteudo/${t.area}/${t.slug}`} className="text-accent underline">{t.title}</Link>
+                <Link href={`/app/conteudo/${t.area}/${t.slug}`} className="text-accent underline">{t.title}</Link>
                 <span className="text-muted">{t.correct}/{t.total} ({pct(t.correct, t.total)}%)</span>
               </li>
             ))}
