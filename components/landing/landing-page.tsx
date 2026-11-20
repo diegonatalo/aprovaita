@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Icon, type IconName } from "@/components/icons";
+import { Icon, Logo, type IconName } from "@/components/icons";
 import { ThemeButton } from "@/components/nav";
 import { SiteFooter } from "@/components/site-footer";
 import { FAQ, FEATURES, HERO, SCREENSHOT, STEPS, type FeatureIcon } from "@/lib/landing";
@@ -21,9 +21,7 @@ const H2 = "font-display text-2xl font-extrabold tracking-tight text-balance sm:
 /** Marca com link para a página inicial. */
 export const BrandLink = () => (
   <Link href="/" aria-label={`${SITE_NAME}, página inicial`} className="flex items-center gap-2.5">
-    <span className="grid h-9 w-9 place-items-center rounded-xl bg-accent text-white">
-      <Icon name="book" className="h-5 w-5" />
-    </span>
+    <Logo size={34} />
     <span className="font-display text-lg font-extrabold">{SITE_NAME}</span>
   </Link>
 );
