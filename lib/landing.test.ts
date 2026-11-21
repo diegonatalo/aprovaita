@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
-import { FAQ, FEATURES, SCREENSHOT, STEPS } from "@/lib/landing";
+import { FAQ, FEATURES, PHOTO, SCREENSHOT, STEPS } from "@/lib/landing";
 
 describe("landing", () => {
   it("os prints existem em public/ e estão em WebP", () => {
-    for (const src of [SCREENSHOT.light, SCREENSHOT.dark]) {
+    for (const src of [SCREENSHOT.light, SCREENSHOT.dark, PHOTO.src]) {
       expect(src).toMatch(/^\/landing\/.+\.webp$/);
       expect(existsSync(path.join(process.cwd(), "public", src)), src).toBe(true);
     }
