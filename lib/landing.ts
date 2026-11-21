@@ -90,3 +90,16 @@ export const FAQ: Faq[] = [
       "Não. É um material de estudo independente, sem ligação com a Câmara nem com a VUNESP. Confira sempre o edital oficial.",
   },
 ];
+
+export type Photo = { src: string; alt: string };
+
+/** Foto do Unsplash (licença livre), guardada em `public/landing/`. */
+export const PHOTO: Photo = { src: "/landing/estudo.webp", alt: "Mão escrevendo num caderno aberto com uma caneta laranja." };
+
+/** Fatos da prova, lidos de `lib/exam.ts` (fonte única dos parâmetros). */
+export const EXAM_FACTS = [
+  `${EXAM.totalQuestions} questões`,
+  `${EXAM.durationMinutes / 60} horas de prova`,
+  EXAM.exam,
+  `Nota mínima ${EXAM.cutoffScore}`,
+];
