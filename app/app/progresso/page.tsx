@@ -1,6 +1,9 @@
+import type { Metadata } from "next";
 import { Backup } from "@/components/backup";
 import { ProgressPanel } from "@/components/progress-panel";
 import { listTopics } from "@/lib/content";
+
+export const metadata: Metadata = { alternates: { canonical: "/app/progresso" } };
 
 export default function Progress() {
   const topics = listTopics().map((t) => ({

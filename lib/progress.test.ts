@@ -2,6 +2,8 @@ import { describe, expect, it } from "vitest";
 import {
   EMPTY_PROGRESS,
   SCHEMA_VERSION,
+  backupJson,
+  type Progress,
   parseBackup,
   parseExamSession,
   parseProgress,
@@ -50,13 +52,63 @@ describe("atualizações puras", () => {
 });
 
 describe("parseBackup", () => {
-  it("recusa JSON inválido e arquivos que não são backup", () => {
-    expect(parseBackup("{")).toEqual({ ok: false, error: "JSON inválido." });
-    expect(parseBackup('{"a":1}')).toEqual({ ok: false, error: "Arquivo não parece ser um backup de progresso." });
+  const attempt = {
+    id: "t1",
+    mockExam: "A",
+    startedAt: "2026-11-20T10:00:00.000Z",
+    seconds: 600,
+    order: ["q1", "q2"],
+    answers: { q1: 0, q2: null },
+    correct: 1,
+    total: 2,
+    score: 50,
+    partial: true,
+    qualified: null,
+    byArea: { portugues: { correct: 1, total: 2 } },
+  };
+  const progress = {
+    ...EMPTY_PROGRESS,
+    topics: { "portugues/crase": "seen" },
+    quizzes: { "portugues/crase": { A: { correct: 3, total: 5, data: "2026-11-20" } } },
+    mistakes: ["q2"],
+    attempts: [attempt],
+  };
+
+  it("lê o que o exportar gera", () => {
+    const result = parseBackup(backupJson(progress as Progress));
+    expect(result).toEqual({ ok: true, progress });
   });
 
-  it("lê um backup válido", () => {
-    const result = parseBackup(JSON.stringify({ version: SCHEMA_VERSION, mistakes: ["x"] }));
-    expect(result.ok && result.progress.mistakes).toEqual(["x"]);
+  it("aceita backup de antes do campo app, se o formato inteiro bate", () => {
+    expect(parseBackup(JSON.stringify(progress)).ok).toBe(true);
+  });
+
+  it("recusa JSON inválido", () => {
+    expect(parseBackup("{")).toEqual({ ok: false, error: "JSON inválido." });
+  });
+
+  it("recusa arquivo de outro app, mesmo com a mesma versão", () => {
+    // um backup do fiinance também tem "version": 2
+    const fiinance = { version: 2, assets: [], transactions: [], payouts: [], quotes: {}, paperTarget: null };
+    expect(parseBackup(JSON.stringify(fiinance)).ok).toBe(false);
+    expect(parseBackup(JSON.stringify({ ...progress, app: "fiinance" })).ok).toBe(false);
+    expect(parseBackup('{"a":1}').ok).toBe(false);
+  });
+
+  it("recusa outra versão em vez de importar um progresso vazio", () => {
+    for (const version of [1, 999, "2"]) {
+      const result = parseBackup(JSON.stringify({ ...progress, version }));
+      expect(result).toEqual({ ok: false, error: expect.stringMatching(/outra versão/) });
+    }
+  });
+
+  it("recusa o arquivo inteiro se um registro estiver quebrado", () => {
+    expect(parseBackup(JSON.stringify({ ...progress, attempts: [null] })).ok).toBe(false);
+    expect(parseBackup(JSON.stringify({ ...progress, attempts: [{ ...attempt, score: "50" }] })).ok).toBe(false);
+    expect(parseBackup(JSON.stringify({ ...progress, topics: { x: "talvez" } })).ok).toBe(false);
+    expect(parseBackup(JSON.stringify({ ...progress, mistakes: [1] })).ok).toBe(false);
+    const withoutAttempts: Partial<typeof progress> = { ...progress };
+    delete withoutAttempts.attempts;
+    expect(parseBackup(JSON.stringify(withoutAttempts)).ok).toBe(false);
   });
 });

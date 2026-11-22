@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { AreaCards } from "@/components/area-cards";
 
-export const metadata: Metadata = { title: "Estudar" };
+export const metadata: Metadata = { title: "Estudar", alternates: { canonical: "/app/conteudo" } };
 
 export default function StudyPage() {
   return (

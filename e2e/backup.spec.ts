@@ -28,6 +28,21 @@ test("exporta o progresso e importa em outro navegador", async ({ page, browser 
   await other.close();
 });
 
+test("recusa o backup de outro app sem apagar o progresso", async ({ page }) => {
+  await markSeen(page);
+  await page.goto("/app/progresso");
+  // um backup do fiinance também tem "version": 2
+  await page.getByLabel("Importar JSON (substitui o atual)").setInputFiles({
+    name: "fiinance.json",
+    mimeType: "application/json",
+    buffer: Buffer.from(JSON.stringify({ version: 2, assets: [], transactions: [], payouts: [], quotes: {}, paperTarget: null })),
+  });
+  await expect(page.getByRole("status")).toHaveText(/não parece ser um backup de progresso do Aprovaita/);
+
+  await page.goto(TOPIC_PATH);
+  await expect(page.getByRole("button", { name: "Marcar como visto" })).toHaveAttribute("aria-pressed", "true");
+});
+
 test("recusa um arquivo que não é progresso", async ({ page }) => {
   await page.goto("/app/progresso");
   await page.getByLabel("Importar JSON (substitui o atual)").setInputFiles({

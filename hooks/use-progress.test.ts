@@ -28,6 +28,7 @@ beforeEach(() => {
 describe("progresso", () => {
   it("começa vazio", () => {
     expect(read()).toEqual({
+      app: "aprovaita",
       version: SCHEMA_VERSION,
       topics: {},
       quizzes: {},
@@ -96,16 +97,17 @@ describe("importProgress", () => {
     expect(result.error).toMatch(/backup/);
   });
 
-  it("descarta dado salvo em outra versão do formato", () => {
+  it("recusa backup de outra versão e mantém o progresso", () => {
     setTopicStatus("a/b", "seen");
-    importProgress(JSON.stringify({ version: 1, topics: { "x/y": "seen" } }));
-    expect(read().topics).toEqual({});
+    const result = importProgress(JSON.stringify({ version: 1, topics: { "x/y": "seen" } }));
+    expect(result.ok).toBe(false);
+    expect(read().topics).toEqual({ "a/b": "seen" });
   });
 
-  it("ignora campos com tipo errado", () => {
-    importProgress(JSON.stringify({ version: SCHEMA_VERSION, topics: [], mistakes: "x" }));
-    const progress = read();
-    expect(progress.topics).toEqual({});
-    expect(progress.mistakes).toEqual([]);
+  it("recusa campos com tipo errado e mantém o progresso", () => {
+    setTopicStatus("a/b", "seen");
+    const result = importProgress(JSON.stringify({ version: SCHEMA_VERSION, topics: [], quizzes: {}, mistakes: "x", attempts: [] }));
+    expect(result.ok).toBe(false);
+    expect(read().topics).toEqual({ "a/b": "seen" });
   });
 });
