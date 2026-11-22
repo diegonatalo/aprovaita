@@ -110,15 +110,78 @@ export const withQuiz = (
 
 export const withAttempt = (p: Progress, t: Attempt): Progress => ({ ...p, attempts: [...p.attempts, t] });
 
-/** Lê um backup exportado; devolve o progresso ou o motivo da recusa. */
+/** Identifica o arquivo de backup: um JSON de outro app nunca é lido como progresso. */
+export const BACKUP_APP = "aprovaita";
+
+const isNumber = (v: unknown): v is number => typeof v === "number" && Number.isFinite(v);
+const isStringList = (v: unknown): v is string[] => Array.isArray(v) && v.every((x) => typeof x === "string");
+const TOPIC_STATUSES: readonly unknown[] = ["unseen", "seen", "mastered"] satisfies TopicStatus[];
+
+const isQuizResult = (v: unknown): v is QuizResult =>
+  isObject(v) && isNumber(v.correct) && isNumber(v.total) && typeof v.data === "string";
+
+const isQuizEntry = (v: unknown) =>
+  isObject(v) && (v.A === undefined || isQuizResult(v.A)) && (v.B === undefined || isQuizResult(v.B));
+
+const isScore = (v: unknown) => isObject(v) && isNumber(v.correct) && isNumber(v.total);
+
+const isAttempt = (v: unknown): v is Attempt =>
+  isObject(v) &&
+  typeof v.id === "string" &&
+  (v.mockExam === "A" || v.mockExam === "B") &&
+  typeof v.startedAt === "string" &&
+  isNumber(v.seconds) &&
+  isStringList(v.order) &&
+  isObject(v.answers) &&
+  Object.values(v.answers).every((answer) => answer === null || isNumber(answer)) &&
+  isNumber(v.correct) &&
+  isNumber(v.total) &&
+  isNumber(v.score) &&
+  typeof v.partial === "boolean" &&
+  (v.qualified === null || typeof v.qualified === "boolean") &&
+  isObject(v.byArea) &&
+  Object.values(v.byArea).every(isScore);
+
+/** O arquivo que o "Exportar JSON" baixa. */
+export const backupJson = (p: Progress) => JSON.stringify({ app: BACKUP_APP, ...p }, null, 2);
+
+const NOT_BACKUP = "Arquivo não parece ser um backup de progresso do Aprovaita.";
+
+/**
+ * Lê um backup exportado; devolve o progresso ou o motivo da recusa. Confere o app, a versão e
+ * cada registro: um arquivo de outro app, de outra versão ou com dado quebrado é recusado
+ * inteiro, e o progresso salvo fica como está. Backups de antes do campo `app` são aceitos
+ * quando o formato inteiro bate.
+ */
 export function parseBackup(text: string): { ok: true; progress: Progress } | { ok: false; error: string } {
+  let raw: unknown;
   try {
-    const obj = JSON.parse(text);
-    if (typeof obj !== "object" || obj === null || typeof obj.version !== "number") {
-      return { ok: false, error: "Arquivo não parece ser um backup de progresso." };
-    }
-    return { ok: true, progress: parseProgress(obj) };
+    raw = JSON.parse(text);
   } catch {
     return { ok: false, error: "JSON inválido." };
   }
+  if (!isObject(raw) || (raw.app !== undefined && raw.app !== BACKUP_APP)) return { ok: false, error: NOT_BACKUP };
+  if (raw.version !== SCHEMA_VERSION) {
+    return { ok: false, error: "Este backup é de outra versão do app e não pode ser importado." };
+  }
+  const { topics, quizzes, mistakes, attempts } = raw;
+  const valid =
+    isObject(topics) &&
+    Object.values(topics).every((status) => TOPIC_STATUSES.includes(status)) &&
+    isObject(quizzes) &&
+    Object.values(quizzes).every(isQuizEntry) &&
+    isStringList(mistakes) &&
+    Array.isArray(attempts) &&
+    attempts.every(isAttempt);
+  if (!valid) return { ok: false, error: NOT_BACKUP };
+  return {
+    ok: true,
+    progress: {
+      version: SCHEMA_VERSION,
+      topics: topics as Progress["topics"],
+      quizzes: quizzes as Progress["quizzes"],
+      mistakes,
+      attempts,
+    },
+  };
 }

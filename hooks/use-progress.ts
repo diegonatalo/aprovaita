@@ -3,6 +3,7 @@
 import { useSyncExternalStore } from "react";
 import {
   EMPTY_PROGRESS,
+  backupJson,
   parseBackup,
   parseProgress,
   withAttempt,
@@ -81,7 +82,7 @@ export function saveAttempt(t: Attempt) {
 }
 
 export function exportProgress(): string {
-  return JSON.stringify(snapshot(), null, 2);
+  return backupJson(snapshot());
 }
 
 export function importProgress(text: string): { ok: boolean; error?: string } {

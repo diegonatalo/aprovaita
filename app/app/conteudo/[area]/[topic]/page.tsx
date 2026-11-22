@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AREA_NAMES } from "@/lib/exam";
@@ -9,6 +10,17 @@ import type { Area } from "@/types";
 
 export function generateStaticParams() {
   return listTopics().map((t) => ({ area: t.area, topic: t.slug }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ area: string; topic: string }> }): Promise<Metadata> {
+  const { area, topic } = await params;
+  const t = findTopic(area, topic);
+  if (!t) return {};
+  return {
+    title: t.title,
+    description: t.summary || undefined,
+    alternates: { canonical: `/app/conteudo/${t.area}/${t.slug}` },
+  };
 }
 
 export default async function TopicPage({
